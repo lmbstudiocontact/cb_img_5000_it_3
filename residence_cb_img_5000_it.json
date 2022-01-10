@@ -1,0 +1,75 @@
+{
+  "english": "residence",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà; dinh thự",
+          "definition": "a person’s home, especially the grand house of someone important.",
+          "world_new": [
+            "home",
+            "grand",
+            "house",
+            "important"
+          ]
+        },
+        {
+          "mean_english": "quá trình cư trú",
+          "definition": "the act of living in a place, or the time of this",
+          "world_new": [
+            "act",
+            "living",
+            "place",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "during his residence in Spain."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Further, allowing space within purpose-built residences for residents to entertain family members and friends, or have overnight guests, may also facilitate the maintenance of important relationships.",
+    "The accrued numbers of clients were the main cause of larger expenditures for sheltered residences, day treatment and home treatment.",
+    "Three attributes are par ticularly impor tant for differentiating the building from domestic residences.",
+    "Only extremely tenuous evidence of residences near wetland locales has been mustered in support of this model.",
+    "Most schools in small towns have come to be housed in residences donated to the school committees by philanthropists.",
+    "Within this mass of topographical material exist a number of pictorial sub-genres such as views of civic institutions, parks and gardens and private residences, all of which invite further study.",
+    "Large quantities of jade are found in dedicatory caches and burials in monumental architecture as well as in elite and non-elite residences.",
+    "The dominant structures also have more floor space than later residences built of mostly perishable materials."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reserve",
+    "reserved",
+    "reservoir",
+    "reside",
+    "residence",
+    "residence hall",
+    "residency",
+    "resident",
+    "residential"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676959_8087b3cd49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676959_890c749fd2_o.png",
+      "id_image": "residence_6407962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676949_00a24bc0df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676949_9fcfec3a6e_o.png",
+      "id_image": "residential_2947576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352146_de876f4734_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352146_8ac6730b68_o.png",
+      "id_image": "residential_4413249"
+    }
+  ]
+}

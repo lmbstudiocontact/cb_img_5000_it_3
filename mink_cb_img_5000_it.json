@@ -1,0 +1,88 @@
+{
+  "english": "mink",
+  "phat_am": "miŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chồn vizon",
+          "definition": "a small weasel-like kind of animal.",
+          "world_new": [
+            "small",
+            "kind",
+            "animal"
+          ]
+        },
+        {
+          "mean_english": "lông chồn",
+          "definition": "its fur",
+          "world_new": [
+            "its",
+            "fur"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hat made of mink",
+              "world_new": [
+                "hat"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a mink coat.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áo lông chồn",
+          "definition": "a mink coat",
+          "world_new": [
+            "coat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wore her new mink."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is probable that similar reversible processes would be found in hunted foxes, hares and mink.",
+    "Most of the escaped mink have been recaptured or accounted for, but eight are still missing.",
+    "Embryonic stem cells derived from morula, inner cell mass, and blastocysts of mink: comparisons of their pluripotencies.",
+    "He said that he had found mink that were \"relaxed, inquisitive, lively, even cheerful\".",
+    "This tale is sometimes related with the tale of the raven, the whale and the mink.",
+    "Embryonic stem cells derived from morulae, inner cell mass, and blastocysts of mink: comparisons of their pluripotencies.",
+    "The council found that the mink were getting out of control and called in the hounds.",
+    "The scientists might be criticised initially for having too simplistic a view of mink behaviour, taking no account of situations where local conditions might be especially favourable for feral breeding."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "miniskirt",
+    "minister",
+    "ministerial",
+    "ministry",
+    "mink",
+    "minke",
+    "minor",
+    "minority",
+    "minstrel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697064_257cbb7490_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697064_fd9f611d91_o.png",
+      "id_image": "mink_185706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079255_c30b2f6ed4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079255_695f108ae0_o.png",
+      "id_image": "mink_2281108"
+    }
+  ]
+}

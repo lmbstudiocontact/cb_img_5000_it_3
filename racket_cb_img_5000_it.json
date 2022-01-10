@@ -1,0 +1,109 @@
+{
+  "english": "racket",
+  "phat_am": "ˈrӕkit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái vợt trong quần vợt và cầu lông",
+          "definition": "a wooden or metal frame strung with catgut or nylon, used in tennis and certain other games",
+          "world_new": [
+            "wooden",
+            "metal",
+            "frame",
+            "catgut",
+            "nylon",
+            "tennis",
+            "certain",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tennis racket",
+              "world_new": [
+                "tennis"
+              ]
+            },
+            {
+              "ex_of_definition": "a squash racket",
+              "world_new": [
+                "squash"
+              ]
+            },
+            {
+              "ex_of_definition": "a badminton racket.",
+              "world_new": [
+                "badminton"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự huyên náo",
+          "definition": "a great deal of noise",
+          "world_new": [
+            "great",
+            "deal",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What a racket the children are making!"
+            }
+          ]
+        },
+        {
+          "mean_english": "thủ đoạn",
+          "definition": "a dishonest way of making money",
+          "world_new": [
+            "dishonest",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the drug racket.",
+              "world_new": [
+                "drug"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "racing car",
+    "racism",
+    "racist",
+    "rack",
+    "racket",
+    "racy",
+    "radar",
+    "radiance",
+    "radiant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456648_70e179c56e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456648_79c88e0a32_o.png",
+      "id_image": "racket_184063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456598_71f7b86184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456598_1794b0bea3_o.png",
+      "id_image": "racket_2845178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341686_e576328b0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341686_ace4dbc769_o.png",
+      "id_image": "racket_4611021"
+    }
+  ]
+}

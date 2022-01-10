@@ -1,0 +1,169 @@
+{
+  "english": "produce",
+  "phat_am": "prəˈdjuːs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đưa ra",
+          "definition": "to bring out",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She produced a letter from her pocket.",
+              "world_new": [
+                "letter",
+                "pocket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sinh đẻ",
+          "definition": "to give birth to",
+          "world_new": [
+            "birth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A cow produces one or two calves a year.",
+              "world_new": [
+                "cow",
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây ra",
+          "definition": "to cause",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His joke produced a shriek of laughter from the children.",
+              "world_new": [
+                "joke",
+                "shriek",
+                "laughter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sản xuất",
+          "definition": "to make or manufacture",
+          "world_new": [
+            "manufacture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The factory produces furniture.",
+              "world_new": [
+                "factory",
+                "furniture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cung cấp",
+          "definition": "to give or yield",
+          "world_new": [
+            "yield"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The country produces enough food for the population.",
+              "world_new": [
+                "country",
+                "food",
+                "population"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dàn dựng",
+          "definition": "to arrange and prepare (a theatre/theater performance, film, television programme/program etc)",
+          "world_new": [
+            "arrange",
+            "prepare",
+            "performance",
+            "film",
+            "television"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The play was produced by Henry Dobson.",
+              "world_new": [
+                "play"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sản phẩm",
+          "definition": "something that is produced, especially crops, eggs, milk etc from farms",
+          "world_new": [
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "agricultural/farm produce."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The utilized social support subscales produced a single factor with an eigenvalue of 4.48 accounting for 49.8 % of the variance.",
+    "Other expedition members fulfilled their journalistic duties more diligently, but no issue was produced in 1912.",
+    "Wouldn't a less constrained deletion process be more effective in producing the desired result ?",
+    "Autoradiography of the gel for 8 h produced the pattern shown.",
+    "Application of laser produced plasma for controlled thermonuclear fusion.",
+    "The first analysis produced eight factors with an eigenvalue greater than 1, accounting for 61 % of the variance.",
+    "A minimum in the curve of electrical conductivity is found and some physical evidence for its appearance is produced.",
+    "The next section will show that the opposite ranking produces a different repair - stress-driven tone."
+  ],
+  "list_see_also": [
+    "producer",
+    "product",
+    "production",
+    "productive",
+    "productivity"
+  ],
+  "list_browse": [
+    "prodigal",
+    "prodigality",
+    "prodigally",
+    "prodigy",
+    "produce",
+    "producer",
+    "product",
+    "production",
+    "productive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437708_fc42dcdd36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437708_afa162d0bd_o.png",
+      "id_image": "produce_1659483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322411_358452cc46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322411_70c15b0ed4_o.png",
+      "id_image": "produce_3967358"
+    }
+  ]
+}

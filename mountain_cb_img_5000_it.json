@@ -1,0 +1,83 @@
+{
+  "english": "mountain",
+  "phat_am": "mauntən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "núi",
+          "definition": "a high hill",
+          "world_new": [
+            "hill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mount Everest is the highest mountain in the world",
+              "world_new": [
+                "Mount",
+                "world"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a mountain stream.",
+              "world_new": [
+                "stream"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The deep draught estuary was easy to defend since it had a narrow mouth surrounded by mountains.",
+    "He was exceedingly good company to do things with, like hiking in the mountains.",
+    "During the year eastern winds prevail in the central and eastern parts of the foothills and the mountains.",
+    "The mountains and valleys, whether surrounding the northern slate quarries, the rural hill farms, or the industrialized south, generated a peculiarly intense environment.",
+    "The case of the lunar valleys and mountains, however, was different.",
+    "All rivers located in the mountains are shallow (<1.5 m) with intensively meandering river-beds.",
+    "There's a competition for the fastest time climbing two mountains over a certain height in a given area, starting and ending on a public road.",
+    "Treatises on landscape painting desiderated scenic encyclopaedias of pastoral, urban, mountains and far sea."
+  ],
+  "list_see_also": [
+    "mountain bike",
+    "mountain birch",
+    "mountain range",
+    "mountain ridge",
+    "mountaineer",
+    "mountaineering",
+    "mountainous",
+    "mountainside",
+    "mountain-top",
+    "make a mountain out of a molehill"
+  ],
+  "list_browse": [
+    "mouldy",
+    "moult",
+    "mound",
+    "mount",
+    "mountain",
+    "mountain bike",
+    "mountain birch",
+    "mountain range",
+    "mountain ridge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689424_ed8b52424c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689424_334df6faa4_o.png",
+      "id_image": "mountain_183977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071315_30e487f666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071315_c8e0a653cb_o.png",
+      "id_image": "mountain_661299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334261_f37a4b897e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334261_9ef4c01013_o.png",
+      "id_image": "mountain_661933"
+    }
+  ]
+}

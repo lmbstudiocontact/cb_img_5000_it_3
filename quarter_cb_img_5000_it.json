@@ -1,0 +1,286 @@
+{
+  "english": "quarter",
+  "phat_am": "ˈkwoːtə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một phần tư",
+          "definition": "one of four equal parts of something which together form the whole (amount) of the thing",
+          "world_new": [
+            "equal",
+            "form",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are four of us, so we’ll cut the cake into quarters",
+              "world_new": [
+                "cut",
+                "cake",
+                "quarters"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s (a) quarter past / American after four"
+            },
+            {
+              "ex_of_definition": "In the first quarter of the year his firm made a profit",
+              "world_new": [
+                "year",
+                "firm",
+                "profit"
+              ]
+            },
+            {
+              "ex_of_definition": "The shop is about a quarter of a mile away",
+              "world_new": [
+                "shop",
+                "mile"
+              ]
+            },
+            {
+              "ex_of_definition": "an hour and a quarter",
+              "world_new": [
+                "hour"
+              ]
+            },
+            {
+              "ex_of_definition": "two and a quarter hours."
+            }
+          ]
+        },
+        {
+          "mean_english": "đồng 25 xu",
+          "definition": "in the United States and Canada, (a coin worth) twenty-five cents, the fourth part of a dollar.",
+          "world_new": [
+            "coin",
+            "part",
+            "dollar"
+          ]
+        },
+        {
+          "mean_english": "khu phố; quận",
+          "definition": "a district or part of a town especially where a particular group of people live",
+          "world_new": [
+            "district",
+            "part",
+            "town",
+            "particular",
+            "group",
+            "people",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives in the Polish quarter of the town.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phương hướng",
+          "definition": "a direction",
+          "world_new": [
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People were coming at me from all quarters.",
+              "world_new": [
+                "quarters"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tha chết cho hàng binh",
+          "definition": "mercy shown to an enemy",
+          "world_new": [
+            "mercy",
+            "enemy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They showed us no quarter."
+            }
+          ]
+        },
+        {
+          "mean_english": "góc tư của con vật",
+          "definition": "the leg of a usually large animal, or a joint of meat which includes a leg",
+          "world_new": [
+            "leg",
+            "large",
+            "animal",
+            "joint",
+            "meat",
+            "leg"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a quarter of beef",
+              "world_new": [
+                "beef"
+              ]
+            },
+            {
+              "ex_of_definition": "a bull’s hindquarters.",
+              "world_new": [
+                "hindquarters"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuần trăng",
+          "definition": "the shape of the moon at the end of the first and third weeks of its cycle; the first or fourth week of the cycle itself.",
+          "world_new": [
+            "shape",
+            "moon",
+            "its",
+            "week",
+            "cycle"
+          ]
+        },
+        {
+          "mean_english": "một phần tư ván đấu",
+          "definition": "one of four equal periods of play in some games",
+          "world_new": [
+            "equal",
+            "play",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the second quarter of the game, the Bears quarterback was intercepted.",
+              "world_new": [
+                "game",
+                "quarterback"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "học phần",
+          "definition": "a period of study at a college etc, usually 10 to 12 weeks in length.",
+          "world_new": [
+            "period",
+            "study",
+            "college",
+            "length"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chia thành bốn phần bằng nhau",
+          "definition": "to cut into four equal parts",
+          "world_new": [
+            "cut",
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll quarter the cake and then we’ll all have an equal share.",
+              "world_new": [
+                "cake",
+                "equal",
+                "share"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chia bốn",
+          "definition": "to divide by four",
+          "world_new": [
+            "divide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If we each do the work at the same time, we could quarter the time it would take to finish the job.",
+              "world_new": [
+                "work",
+                "time",
+                "time",
+                "finish",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cung cấp chỗ ở cho ai",
+          "definition": "to give (especially a soldier) somewhere to stay",
+          "world_new": [
+            "somewhere",
+            "stay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers were quartered all over the town.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sixteen of the seventeen properties on which repairs were made had living quarters improved as well as out buildings.",
+    "They also helped set and clear their tables, clean their quarters, and put away their playthings.",
+    "With the proposed weights,9 that number increases to three quarters.",
+    "Turning point predictions are calculated using a two quarters rule, as detailed in the next section.",
+    "The real interest rate increases and remains positive for four quarters.",
+    "Also, quarterly climate data were always highly correlated with the same data from other quarters.",
+    "Certainly they are shorter and more syllabic, but when note values are quartered they look just as elaborate rhythmically.",
+    "Farmers may be aware that recovered quarters are at higher risk of infection."
+  ],
+  "list_see_also": [
+    "quarterly",
+    "quarters",
+    "quarterback",
+    "quarter-deck",
+    "quarter-final",
+    "quarter-finalist",
+    "quartermaster",
+    "at close quarters"
+  ],
+  "list_browse": [
+    "quarrelsome",
+    "quarrelsomeness",
+    "quarry",
+    "quart",
+    "quarter",
+    "quarter-deck",
+    "quarter-final",
+    "quarter-finalist",
+    "quarterback"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699804_f7253b7afd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699804_cf49445c4b_o.png",
+      "id_image": "quarter_1827304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459453_a2cedcaf21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459453_541b0c5aa0_o.png",
+      "id_image": "quarter_1827305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496653_f359799f09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496653_f139290fe0_o.png",
+      "id_image": "quarter_3103224"
+    }
+  ]
+}

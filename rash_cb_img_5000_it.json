@@ -1,0 +1,100 @@
+{
+  "english": "rash",
+  "phat_am": "rӕʃ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hấp tấp",
+          "definition": "acting, or done, with little caution or thought",
+          "world_new": [
+            "acting",
+            "caution",
+            "thought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rash person/action/statement"
+            },
+            {
+              "ex_of_definition": "It was rash of you to leave your present job without first finding another.",
+              "world_new": [
+                "leave",
+                "your",
+                "present",
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chứng phát ban",
+          "definition": "a large number of red spots on the skin",
+          "world_new": [
+            "large",
+            "number",
+            "red",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That child has a rash – is it measles?",
+              "world_new": [
+                "child",
+                "measles"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Overall, for the 124 sera the samples had been taken at a median of 11 days after onset of rash (range 1- 46 days).",
+    "We also have three cases of severe skin rashes, and many villagers suffer with sleep problems, headaches, dizziness and problems with low immune systems.",
+    "Symptoms of the virus included rashes, difficulty breathing, and dizziness.",
+    "At the same time frivolous and extravagant habits have set in, and even rash and extreme tendencies are not unknown.",
+    "The rash disappears within one day at the earliest, and may continue for one week at the latest.",
+    "He suffers from auditory hallucinations, increased clumsiness, chronic bowel disease, temperature control problems, severe headaches, loss of memory, breathing problems and rashes.",
+    "Despite that analysis, there has been an increase in diarrhoea and skin rashes.",
+    "Infected fluid from the meninges then passes into the spinal cord, causing symptoms including stiff neck, fever and rashes."
+  ],
+  "list_see_also": [
+    "rashly",
+    "rashness"
+  ],
+  "list_browse": [
+    "raring",
+    "rarity",
+    "rascal",
+    "rascally",
+    "rash",
+    "rasher",
+    "rashly",
+    "rashness",
+    "raspberry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075535_671e596665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075535_5d06c36a36_o.png",
+      "id_image": "rash_1497121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338456_19d655b58b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338456_6a2f2f3563_o.png",
+      "id_image": "rash_5746709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075470_2c82d4f25a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075470_4f875456f5_o.png",
+      "id_image": "rash_5759606"
+    }
+  ]
+}

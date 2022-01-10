@@ -1,0 +1,61 @@
+{
+  "english": "prey",
+  "phat_am": "prei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con mồi",
+          "definition": "a bird or animal, birds or animals, that is/are hunted by other birds or animals for food",
+          "world_new": [
+            "bird",
+            "animal",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lion tore at its prey.",
+              "world_new": [
+                "lion",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Permanent lakes contain fish, which preferentially prey upon large individuals.",
+    "At the end of the experiment, the fish and the vegetation were removed and left over prey items of the 2 classes were scored.",
+    "A cat captures and manipulates its prey using its mouth.",
+    "It also produces a matrix with consumers (lizard species) as rows and proportional utilizations (pi) of prey by volume for each prey type as columns.",
+    "Within an unknown time period, deer mice develop metacestode infections and eventually are preyed upon by foxes, the definitive host.",
+    "Both species are highly suitable hosts for the parasite, and form the preferred prey for red foxes.",
+    "Occasionally, we observed jumping spiders preying on marked flies shortly after release.",
+    "The taxonomic breadth of both predators and prey for which half-lives have been determined is rather narrow (table 4)."
+  ],
+  "list_see_also": [
+    "beast/bird of prey",
+    "prey on"
+  ],
+  "list_browse": [
+    "preview",
+    "previous",
+    "previous to",
+    "previously",
+    "prey",
+    "prey on",
+    "price",
+    "priceless",
+    "pricey"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326531_09f6b438f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326531_a8833fbc0a_o.png",
+      "id_image": "prey_2911130"
+    }
+  ]
+}

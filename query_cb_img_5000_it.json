@@ -1,0 +1,126 @@
+{
+  "english": "query",
+  "phat_am": "ˈkwiəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "câu hỏi",
+          "definition": "a question",
+          "world_new": [
+            "question"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In answer to your query about hotel reservations, I am sorry to tell you that we have no vacancies.",
+              "world_new": [
+                "answer",
+                "your",
+                "hotel",
+                "I",
+                "sorry",
+                "tell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu chấm hỏi",
+          "definition": "a question mark",
+          "world_new": [
+            "question",
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have omitted the query."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chất vấn",
+          "definition": "to question (a statement etc)",
+          "world_new": [
+            "question",
+            "statement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think the waiter has added up the bill wrongly – you should query it.",
+              "world_new": [
+                "I",
+                "think",
+                "waiter",
+                "added",
+                "bill",
+                "wrongly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hỏi",
+          "definition": "to ask",
+          "world_new": [
+            "ask"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘What time does the train leave?’ she queried.",
+              "world_new": [
+                "time",
+                "train",
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We started with a test set consisting of around 5000 captions and queries.",
+    "The knowledge-enhanced searching of captioned information module permits making queries about images using their captions in natural language.",
+    "The model has shown sufficient support for most types of spatio-temporal queries.",
+    "In spite of the difficulties associated with natural language processing and writing automated queries, the system performed very well.",
+    "Surprisingly, however, few writers have ever queried the normative status of manipulation itself.",
+    "Table 1 shows the statistics on the number of processed queries by the keywordbased system.",
+    "Numerous archaeologists and anthropologists have queried and explored the differences and overlaps between 'foraging' and 'farming' societies - including many important contributions by the present commentators.",
+    "Strong boundedness is a property on queries which can be easily ensured for hierarchies of programs behaving well, such as well-moded or well-typed programs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "queerness",
+    "quell",
+    "quench",
+    "quenching",
+    "query",
+    "quest",
+    "question",
+    "question mark",
+    "question tag"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459033_16282a5b31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459033_639665c5a9_o.png",
+      "id_image": "query_2286643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699374_99087f2d39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699374_ec3596937b_o.png",
+      "id_image": "query_2620611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389187_bcae038a67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389187_0f15e7ba95_o.png",
+      "id_image": "query_6109187"
+    }
+  ]
+}

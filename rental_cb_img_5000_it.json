@@ -1,0 +1,81 @@
+{
+  "english": "rental",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền thuê nhà",
+          "definition": "money paid as rent",
+          "world_new": [
+            "money",
+            "rent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "car rental.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thuê nhà",
+          "definition": "the act of renting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rental in this area is high.",
+              "world_new": [
+                "area"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We can be independent of these, for the database can generate rentals for any moment in time between 1520 and 1780.",
+    "Unfortunately this particular property cannot be traced in any of the seventeenth-century rentals.",
+    "Clause 1 (1, b) provides for fixing, or providing for fixing, charges in respect of the rentals.",
+    "Many would have to pay rentals for a substantial period of years, perhaps on a five or seven year contract.",
+    "There are other sources of income that derive from concessions in the airport buildings and from rentals.",
+    "Figures are being quoted of doubled rentals, alarming the council house tenants.",
+    "Rentals are not given since it is not the practice to disclose these details.",
+    "The rentals for the mid-century period go one stage further and merge the two townships into a single list."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rent",
+    "rent out",
+    "rent-a-car",
+    "rent-free",
+    "rental",
+    "renunciation",
+    "reorganization",
+    "reorganize",
+    "repair"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679739_e459e91eed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679739_3a67e3b886_o.png",
+      "id_image": "rental_2329899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679719_94ae47315d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679719_3354525fba_o.png",
+      "id_image": "rental_2421787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679669_9d05e6c812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679669_e33759d173_o.png",
+      "id_image": "rental_4677778"
+    }
+  ]
+}

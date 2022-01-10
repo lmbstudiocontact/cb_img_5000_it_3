@@ -1,0 +1,65 @@
+{
+  "english": "muse",
+  "phat_am": "mjuːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "suy tưởng",
+          "definition": "to think about a matter usually without serious concentration",
+          "world_new": [
+            "think",
+            "matter",
+            "serious",
+            "concentration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I mused on whether or not to take a walk through the park.",
+              "world_new": [
+                "I",
+                "walk",
+                "park"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As one listens to the debate, one tends to muse.",
+    "Perhaps this actually helped us to avoid offering any hasty conclusions, and so we were left musing on a number of parallel themes.",
+    "They muse also provide encouragement for vibrant economic enterprise where investment, good management and good work are rewarded.",
+    "Single parents with more than one child could have their benefits capped, he mused, and their rights as homeless people severely restricted.",
+    "If property developers were interested in anything other than short-term profits, they might realise that heritage can serve mammon and the muse.",
+    "A great change muse brought about in the overall attitude to women.",
+    "Those decisions muse be made, and made public, as soon as possible.",
+    "The song 'just happened' - they are like an authentic genius composer visited by the muse and effortlessly delivered of a perfectly formed piece of music."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "muscle",
+    "muscle in",
+    "muscular",
+    "musculature",
+    "muse",
+    "museum",
+    "mush",
+    "mushroom",
+    "mushy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446118_2ce159c16f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446118_bc92f5edf5_o.png",
+      "id_image": "muse_3571361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331231_6860a1ebf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331231_b364756d8a_o.png",
+      "id_image": "muse_647668"
+    }
+  ]
+}

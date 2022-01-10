@@ -1,0 +1,106 @@
+{
+  "english": "pantomime",
+  "phat_am": "ˈpӕntəmaim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kịch thần thoại",
+          "definition": "a play performed at Christmas time, usually based on a popular fairy tale, with music, dancing, comedy etc",
+          "world_new": [
+            "play",
+            "Christmas",
+            "time",
+            "popular",
+            "fairy",
+            "tale",
+            "music",
+            "dancing",
+            "comedy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The TV star is currently appearing in a pantomime in Ipswich.",
+              "world_new": [
+                "TV",
+                "star",
+                "currently"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kịch câm",
+          "definition": "(also mime) a performance by an actor done without using words",
+          "world_new": [
+            "performance",
+            "actor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He studied pantomime in acting school.",
+              "world_new": [
+                "acting",
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra hiệu",
+          "definition": "to act out a scene without using words",
+          "world_new": [
+            "act",
+            "scene"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Since she couldn’t speak French, she had to pantomime her request for water.",
+              "world_new": [
+                "speak",
+                "French",
+                "request",
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She also played the principal boy in many pantomimes.",
+    "Many pantomimes in recent years have relied heavily on celebrity guest stars and risque humour.",
+    "House pantomimes and choirs have an important place in the school's calendar each year.",
+    "She wrote more than fifty stage pieces in an array of genres: melodramas, pantomimes, farces, comic operettas, historical dramas, and adaptations, as well as translations.",
+    "Such was her comic timing that she also appeared in pantomimes in the winter and concert parties in the summer.",
+    "However, their literature of public self-enunciation works to distinguish between their pantomimes by branding them variously as populist entertainment or as legitimate theatre.",
+    "In studying gestures from a psychological, psycholinguistic, and/or neuropsychological context, pantomimes can be distinguished by how they are carried out.",
+    "He is adept at communicating, using a mixture of single-word utterances and pantomime."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "panoramic",
+    "pansy",
+    "pant",
+    "panther",
+    "pantomime",
+    "pantry",
+    "pants",
+    "pantyhose",
+    "papa"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071570_9399c3554b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071570_cf287afc77_o.png",
+      "id_image": "pantomime_837205"
+    }
+  ]
+}

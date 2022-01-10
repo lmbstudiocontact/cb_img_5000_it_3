@@ -1,0 +1,171 @@
+{
+  "english": "picture",
+  "phat_am": "ˈpiktʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ảnh",
+          "definition": "a painting or drawing",
+          "world_new": [
+            "painting",
+            "drawing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is a picture of my mother.",
+              "world_new": [
+                "my",
+                "mother"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bức ảnh",
+          "definition": "a photograph",
+          "world_new": [
+            "photograph"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I took a lot of pictures when I was on holiday.",
+              "world_new": [
+                "I",
+                "I",
+                "holiday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phim",
+          "definition": "a cinema film",
+          "world_new": [
+            "cinema",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a good picture on at the cinema tonight.",
+              "world_new": [
+                "cinema",
+                "tonight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu tượng",
+          "definition": "(with the) a symbol or perfect example (of something)",
+          "world_new": [
+            "symbol",
+            "perfect",
+            "example"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She looked the picture of health/happiness."
+            }
+          ]
+        },
+        {
+          "mean_english": "hình ảnh",
+          "definition": "(with a) a beautiful sight",
+          "world_new": [
+            "beautiful",
+            "sight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She looked a picture in her new dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mô tả",
+          "definition": "a clear description",
+          "world_new": [
+            "clear",
+            "description"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me a good picture of what was happening.",
+              "world_new": [
+                "happening"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tưởng tượng",
+          "definition": "to imagine",
+          "world_new": [
+            "imagine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can picture the scene.",
+              "world_new": [
+                "I",
+                "scene"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Patients' strong performance in word/picture matching tasks even in \"impaired\" categories may provide evidence for the causal link hypothesis.",
+    "The network contains one kind of picture which describes sample paths characteristics.",
+    "The picture for each target word appeared on the screen in a random order different from the order used during the learning phase.",
+    "It was also necessary to ensure that for each picture there were sufficient words selected to describe the events.",
+    "The problem is that this isn't obviously either explicit or implicit, as those terms are understood in picture (1).",
+    "Thus, m-reflexives include a subset of picture noun reflexives.",
+    "The children were told they would be shown two pictures, and that the experimenter would say a description of one of the pictures.",
+    "Placing and orientation of the camera for taking the pictures followed the same method as described for 38-mm photographs."
+  ],
+  "list_see_also": [
+    "put (someone) / be in the picture",
+    "the pictures"
+  ],
+  "list_browse": [
+    "pickpocket",
+    "picnic",
+    "pictorial",
+    "pictorially",
+    "picture",
+    "picturesque",
+    "picturesquely",
+    "picturesqueness",
+    "pidgin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702769_5d6e67b59b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702769_79480f8eb4_o.png",
+      "id_image": "picture_147430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392912_c1030e4216_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392912_47c2f26731_o.png",
+      "id_image": "picture_305736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348001_11a827269e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348001_181ff3ba23_o.png",
+      "id_image": "picture_868201"
+    }
+  ]
+}

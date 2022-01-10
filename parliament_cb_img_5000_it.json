@@ -1,0 +1,75 @@
+{
+  "english": "parliament",
+  "phat_am": "ˈpaːləmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quốc hội",
+          "definition": "the highest law-making council of a nation – in Britain, the House of Commons and the House of Lords, considered together",
+          "world_new": [
+            "council",
+            "nation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an Act of Parliament."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first section of the article outlined the emergence of parliaments as bourgeois institutions.",
+    "How strong or how weak the power of these parliaments is, depends on the constitution of each country.",
+    "Above all, it expects parliaments to adopt legislation and finalise budgets.",
+    "Why then did the ' prince bred up in parliaments ' so mismanage his first as king ?",
+    "Table 6 shows nation-by-nation distortion, bias and responsiveness in the step from voters to parliaments.",
+    "We have seen from the above that export expansions are robustly associated with a rising hazard of early elections as parliaments mature.",
+    "Kings, not parliaments, had issued the charters on which their jurisdiction was based.",
+    "Another possible obstacle would have been the involvement of national parliaments, which might also have challenged the position of indigenous peoples."
+  ],
+  "list_see_also": [
+    "parliamentary"
+  ],
+  "list_browse": [
+    "park",
+    "parking",
+    "parking lot",
+    "parking meter",
+    "parliament",
+    "parliamentary",
+    "parlour",
+    "parlour maid",
+    "parody"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686974_e8f2972959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686974_8c56be39ff_o.png",
+      "id_image": "parliament_1410741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686949_0ff3e23236_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686949_f29fc21e96_o.png",
+      "id_image": "parliament_1927670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686914_2c5b308488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686914_d29103f2d6_o.png",
+      "id_image": "parliament_2424197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686894_8877ea244b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686894_1efd276263_o.png",
+      "id_image": "parliament_4457249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068495_518dbbc23e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068495_6a511f2a04_o.png",
+      "id_image": "parliament_4498495"
+    }
+  ]
+}

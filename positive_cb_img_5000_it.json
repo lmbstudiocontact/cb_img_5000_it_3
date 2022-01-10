@@ -1,0 +1,209 @@
+{
+  "english": "positive",
+  "phat_am": "ˈpozətiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khẳng định; dương tính",
+          "definition": "meaning or saying ’yes’",
+          "world_new": [
+            "meaning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a positive answer",
+              "world_new": [
+                "answer"
+              ]
+            },
+            {
+              "ex_of_definition": "They tested the water for the bacteria and the result was positive (= the bacteria were present).",
+              "world_new": [
+                "water",
+                "bacteria",
+                "result",
+                "bacteria"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rõ ràng",
+          "definition": "definite; leaving no doubt",
+          "world_new": [
+            "doubt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "positive proof of her guilt.",
+              "world_new": [
+                "proof",
+                "guilt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chắc chắn",
+          "definition": "certain or sure",
+          "world_new": [
+            "certain",
+            "sure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m positive he’s right.",
+              "world_new": [
+                "right"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "complete or absolute",
+          "world_new": [
+            "complete",
+            "absolute"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His work is a positive disgrace.",
+              "world_new": [
+                "work",
+                "disgrace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạc quan",
+          "definition": "optimistic and prepared to make plans for the future",
+          "world_new": [
+            "optimistic",
+            "prepared",
+            "future"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Try to take a more positive attitude to life.",
+              "world_new": [
+                "attitude",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ở dạng nguyên",
+          "definition": "not showing any comparison; not comparative or superlative.",
+          "world_new": [
+            "comparative",
+            "superlative"
+          ]
+        },
+        {
+          "mean_english": "số dương",
+          "definition": "(of a number etc) greater than zero.",
+          "world_new": [
+            "number"
+          ]
+        },
+        {
+          "mean_english": "có điện tích",
+          "definition": "having fewer electrons than normal",
+          "world_new": [
+            "normal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In an electrical circuit, electrons flow to the positive terminal.",
+              "world_new": [
+                "electrical",
+                "circuit",
+                "flow",
+                "terminal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dương bản",
+          "definition": "a photographic print, made from a negative, in which light and dark are as normal.",
+          "world_new": [
+            "photographic",
+            "print",
+            "negative",
+            "light",
+            "dark",
+            "normal"
+          ]
+        },
+        {
+          "mean_english": "ở dạng nguyên thể",
+          "definition": "(an adjective or adverb of) the positive (not comparative or superlative) degree.",
+          "world_new": [
+            "adjective",
+            "adverb",
+            "comparative",
+            "degree"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But here, we have quitted the positive history, to enter into the realm of representations, which requires a different approach.",
+    "For many, trust was borne out of positive experience from past referrals.",
+    "As a positive matter, we argue that this is what we would expect to happen.",
+    "The positive part aims to show that adoption and practice are sufficient to create the fundamental plans of a legal system.",
+    "A point should however be stressed: to get only positive shares, d must be smaller than 1, which is not always the case.",
+    "Figure 1(a) shows that, as increases, the pulse amplitude increases and remains positive.",
+    "The correlation coefficients between negative coping strategies and symptoms were higher than those between positive coping strategies and symptoms.",
+    "As the time horizon is extended, 0 increases and becomes positive after 54 weeks, and the uncertainty surrounding 0 increases."
+  ],
+  "list_see_also": [
+    "positiveness",
+    "positively"
+  ],
+  "list_browse": [
+    "portrayal",
+    "pose",
+    "posh",
+    "position",
+    "positive",
+    "positively",
+    "positiveness",
+    "posse",
+    "possess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378782_858f446b33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378782_0a5a5e6780_o.png",
+      "id_image": "positive_1397175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688944_53824703d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688944_da51fb4db1_o.png",
+      "id_image": "positive_1484946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688889_6556ecf6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688889_c5b73d74e5_o.png",
+      "id_image": "positive_1900269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378807_47c63eef27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378807_84e2cfe047_o.png",
+      "id_image": "positive_552431"
+    }
+  ]
+}

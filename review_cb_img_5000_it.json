@@ -1,0 +1,158 @@
+{
+  "english": "review",
+  "phat_am": "rəˈvjuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài phê bình",
+          "definition": "a written report on a book, play etc giving the writer’s opinion of it",
+          "world_new": [
+            "report",
+            "book",
+            "play",
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a film/book review."
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc duyệt binh",
+          "definition": "an inspection of troops etc.",
+          "world_new": [
+            "inspection",
+            "troops"
+          ]
+        },
+        {
+          "mean_english": "sự xem xét lại",
+          "definition": "revision; studying or going over one’s notes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have just enough time for a quick review of my speech",
+              "world_new": [
+                "I",
+                "time",
+                "quick",
+                "my",
+                "speech"
+              ]
+            },
+            {
+              "ex_of_definition": "I made a quick review of my notes before the test.",
+              "world_new": [
+                "I",
+                "quick",
+                "my",
+                "test"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xem xét; duyệt binh",
+          "definition": "to make or have a review of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book was reviewed in yesterday’s paper",
+              "world_new": [
+                "book",
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "The Queen reviewed the troops.",
+              "world_new": [
+                "troops"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xem xét lại",
+          "definition": "to reconsider",
+          "world_new": [
+            "reconsider"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll review the situation at the end of the month.",
+              "world_new": [
+                "situation",
+                "month"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xem lại",
+          "definition": "to revise; to go over one’s notes, lessons etc in preparation for an examination",
+          "world_new": [
+            "preparation",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have to review (my notes) for the test tomorrow.",
+              "world_new": [
+                "I",
+                "test",
+                "tomorrow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Truncated literature search strategies may often lead to uncertainty surrounding the conclusions of a review.",
+    "This is a straightforward book to review, but a rather more difficult one to recommend to readers.",
+    "Most of the research reviewed in the preceding nine categories tends to favor the 2-gen over the 1-gen model.",
+    "The second uses qualitative methods to examine themes and issues developed from this literature review.",
+    "This review examines the roles of the major fibrinolytic factors involved in clot lysis.",
+    "This review of assessment research might be organized around assessment or curriculum themes.",
+    "The authors review evidence indicating that dynamic structural interactions between astrocytes and synapses affect hippocampal synaptic physiology, behavior, and disease.",
+    "Based on this definition, life review is a particularly structured form of reminiscence."
+  ],
+  "list_see_also": [
+    "reviewer"
+  ],
+  "list_browse": [
+    "reversed",
+    "reversible",
+    "reversion",
+    "revert",
+    "review",
+    "reviewer",
+    "revise",
+    "revision",
+    "revisit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085720_299fe0a873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085720_faabd8e016_o.png",
+      "id_image": "review_3168643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348426_5c18605632_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348426_96f3e258a9_o.png",
+      "id_image": "review_3827297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393357_675ce448dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393357_7417bcd198_o.png",
+      "id_image": "review_448720"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "english": "movement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chuyển động",
+          "definition": "(an act of) changing position or going from one point to another",
+          "world_new": [
+            "act",
+            "position",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The animal turned sideways with a swift movement.",
+              "world_new": [
+                "animal",
+                "sideways",
+                "swift"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoạt động",
+          "definition": "activity",
+          "world_new": [
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In this play there is a lot of discussion, but not much movement.",
+              "world_new": [
+                "play",
+                "discussion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cử động",
+          "definition": "the art of moving gracefully or expressively",
+          "world_new": [
+            "art",
+            "moving",
+            "gracefully",
+            "expressively"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She teaches movement and drama.",
+              "world_new": [
+                "drama"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phong trào, cuộc vận động",
+          "definition": "an organization or association",
+          "world_new": [
+            "organization",
+            "association"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Scout movement."
+            }
+          ]
+        },
+        {
+          "mean_english": "kim đồng hồ…)",
+          "definition": "the moving parts of a watch, clock etc",
+          "world_new": [
+            "moving",
+            "watch",
+            "clock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The movement of the watch requires some adjustment.",
+              "world_new": [
+                "watch",
+                "adjustment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "(âm nhạc) phần",
+          "definition": "a section of a large-scale piece of music",
+          "world_new": [
+            "section",
+            "piece",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the third movement of Beethoven’s Fifth Symphony."
+            }
+          ]
+        },
+        {
+          "mean_english": "xu hướng chung",
+          "definition": "a general tendency towards a habit, point of view etc",
+          "world_new": [
+            "general",
+            "tendency",
+            "habit",
+            "point",
+            "view"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a movement towards simple designs in clothing these days.",
+              "world_new": [
+                "simple",
+                "clothing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have applied the same idea to teaching music by arguing for body movement as a physical metaphor between musical activities and conceptual thinking.",
+    "Then the vertical fluid movement is most accelerated along the rear axis, generating a vertical jet.",
+    "Information pick-up from the global array is not sufficient without adequate exploratory movements and learning to support perceptually guided activity.",
+    "Its position at the present surface represents a vertical component of net movement of about 50 km, since its high-pressure metamorphism.",
+    "Finally, planning will time the movement such that a sufficient period of time is available for the control system to operate.",
+    "Every change in the number of droplets affects the movement of the remaining droplets immediately; the trajectories are non-smooth.",
+    "Investigating a model of commonsense thinking about causes of movement with 7- to 16-year-old pupils.",
+    "The mind is taught not to direct the body, but to be in a state of harmonious awareness parallel with the body's natural movements."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "move in",
+    "move off",
+    "move out",
+    "move up",
+    "movement",
+    "movie",
+    "moving",
+    "movingly",
+    "mow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070670_490151db7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070670_1693768071_o.png",
+      "id_image": "movement_2621644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378592_de3c0806d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378592_fde543c625_o.png",
+      "id_image": "movement_3813963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448743_45272d4fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448743_4039490724_o.png",
+      "id_image": "movement_5775804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333651_d1d30c4cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333651_12895460d3_o.png",
+      "id_image": "movement_5775946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378477_039d5c4f28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378477_4ac80f19e9_o.png",
+      "id_image": "movement_5978857"
+    }
+  ]
+}

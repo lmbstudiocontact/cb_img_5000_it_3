@@ -1,0 +1,99 @@
+{
+  "english": "pedigree",
+  "phat_am": "ˈpediɡriː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phả hệ",
+          "definition": "a list of the ancestors from whom a person or animal is descended",
+          "world_new": [
+            "list",
+            "person",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dog’s pedigree."
+            }
+          ]
+        },
+        {
+          "mean_english": "dòng giống",
+          "definition": "distinguished descent or ancestry",
+          "world_new": [
+            "distinguished",
+            "descent",
+            "ancestry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a man of noble pedigree.",
+              "world_new": [
+                "noble"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có nòi",
+          "definition": "(of an animal) pure-bred; from a long line of ancestors of the same breed",
+          "world_new": [
+            "long",
+            "line",
+            "breed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a herd of pedigree cattle.",
+              "world_new": [
+                "herd",
+                "cattle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another indicator was the presence of landraces in the pedigrees of modern spring wheat cultivars released by developing countries between 1965 and 1997.",
+    "However, exact peeling is computationally infeasible for large complex pedigrees.",
+    "In general, the identification of genes is achieved by collecting pedigrees which segregate the gene ofinterest.",
+    "Issues surrounding the early symphony are complex, and sorting out pedigrees within a mesh of conflicting and indecisive terminology adds to the burden of proof.",
+    "Robust variance-components approach for assessing genetic linkage in pedigrees.",
+    "Other methods have also been proposed for tracing haplotypes in outbred pedigrees, albeit specific to small sibships.",
+    "The affected members of these pedigrees are born with bilateral ptosis and restrictive ophthalmoplegia.",
+    "255 of segregation indicators for large and deep pedigrees, because these might exist in practical livestock breeding programs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pedestal",
+    "pedestrian",
+    "pedestrian crossing",
+    "pedestrian precinct",
+    "pedigree",
+    "pedlar",
+    "pee",
+    "peek",
+    "peel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679004_4753977a04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679004_98ba127b1a_o.png",
+      "id_image": "pedigree_2334566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368637_ff3a486a6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368637_c51f263ec8_o.png",
+      "id_image": "pedigree_3436143"
+    }
+  ]
+}

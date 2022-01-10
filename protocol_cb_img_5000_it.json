@@ -1,0 +1,117 @@
+{
+  "english": "protocol",
+  "phat_am": "(British) ˈproutəˌkol; (American) ˈproutəˌkoːl, ˈproutəˌkol",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nghi thức ngoại giao",
+          "definition": "a set of rules about the correct way to behave on a formal or official occasion",
+          "world_new": [
+            "correct",
+            "behave",
+            "formal",
+            "official",
+            "occasion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Diplomatic protocol must be observed at all times.",
+              "world_new": [
+                "times"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghị định thư",
+          "definition": "a written agreement between two or more countries",
+          "world_new": [
+            "agreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Kyoto protocol on climate change.",
+              "world_new": [
+                "climate",
+                "change"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giao thức",
+          "definition": "a set of rules that controls the way in which computers exchange data",
+          "world_new": [
+            "exchange",
+            "data"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Internet Protocol (IP) is the method or protocol by which data is sent from one computer to another on the Internet.",
+              "world_new": [
+                "Internet",
+                "method",
+                "data",
+                "computer",
+                "Internet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quy chuẩn",
+          "definition": "a set of rules that specifies the correct way to carry out a scientific experiment or to provide medical treatment",
+          "world_new": [
+            "correct",
+            "carry",
+            "scientific",
+            "experiment",
+            "provide",
+            "medical",
+            "treatment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Researchers must follow the agreed protocol.",
+              "world_new": [
+                "follow",
+                "agreed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Due to the uniqueness of this post the post holder felt that too many protocols would be too restrictive.",
+    "The design and analysis of protocols is an area where traditionally computer science has helped to supply standards.",
+    "Throughout experimental protocols, therefore, extra care was taken to ensure that the hcp-aequorin was not accidentally discharged due to contact with calcium ions.",
+    "He adopted the customary protocols of long-term observational astronomy, but did not treat other astronomers as colleagues.",
+    "Since the vast majority of protocols involve rats and mice, the vet should have expertise with these species and other common laboratory animal species.",
+    "During 1995 and 1996 the medical prescription protocols were adapted to the increasing need of the radiation technologists for more information.",
+    "One of the reasons for this increase was the strict adherence to the inventory of treatment protocols.",
+    "When conventional treatments no longer work, experimental protocols become attractive alternatives."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "protest",
+    "Protestant",
+    "Protestantism",
+    "protester",
+    "protocol",
+    "proton",
+    "protoplasm",
+    "prototype",
+    "protractor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394407_1d767faedb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394407_906db5838d_o.png",
+      "id_image": "protocol_3104016"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "primary",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chủ yếu; hàng đầu",
+          "definition": "first or most important",
+          "world_new": [
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His primary concern is his family.",
+              "world_new": [
+                "concern",
+                "family"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiểu học",
+          "definition": "of the first level or stage",
+          "world_new": [
+            "level",
+            "stage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a primary school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The theory offered here suggests that only a combination of factors - primaries, limited candidate mobility and lack of competition - contribute to candidate divergence.",
+    "Fourth, the involvement of money politics in primaries damages the reputation of elections.",
+    "Closed primaries, consisting of only registered party members, could not be held because there is no reliable membership list acceptable to the pre-candidates.",
+    "Candidates tend to emerge from primaries as relative extremists and seldom moderate much during the general election campaign.",
+    "In other words, they have to be prepared to jump not just one electoral hurdle but two (or even three in the states that allow for run-offs in primaries).",
+    "After direct elections are adopted, however, the number of primaries rises considerably-in this same sample of states, there were 26 primaries held between 1914 and 1928.",
+    "On the derivation of the foveal receptor primaries.",
+    "There are numerous reasons given for opposing party primaries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prim",
+    "prima",
+    "prima donna",
+    "primarily",
+    "primary",
+    "primary colours",
+    "primary language",
+    "primary school",
+    "primate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370632_e6b09fbabe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370632_44793e0e68_o.png",
+      "id_image": "primary_2473147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325796_2c8e04c1b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325796_1b08efd309_o.png",
+      "id_image": "primary_2758741"
+    }
+  ]
+}

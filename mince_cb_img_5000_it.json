@@ -1,0 +1,99 @@
+{
+  "english": "mince",
+  "phat_am": "mins",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắt nhỏ",
+          "definition": "to cut into small pieces or chop finely",
+          "world_new": [
+            "cut",
+            "small",
+            "chop",
+            "finely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you like me to mince the meat for you?",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi đứng õng ẹo",
+          "definition": "to walk with short steps, in an unpleasantly dainty or delicate way",
+          "world_new": [
+            "walk",
+            "short",
+            "steps",
+            "unpleasantly",
+            "dainty",
+            "delicate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He minced over to her."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thịt băm",
+          "definition": "meat (usually beef) chopped up into small pieces",
+          "world_new": [
+            "meat",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mince and potatoes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But many countries have strict controls on import of uncooked mince on animal and public health grounds.",
+    "They contend that the vices of monopoly in religious markets mirror the adverse results of monopoly in traditional commercial markets for vehicles, umbrellas and mince pies.",
+    "For this purpose approximately 20,000 protoscolices with different viabilities were fed to each dog, within the offal mince, resembling the natural infection.",
+    "It was designed to address the problem of inadvertent and genuinely erroneous transfer, not transfer that is, not to mince words, fraudulent.",
+    "I do not think that we should mince words or deceive ourselves in this.",
+    "It is no use mincing matters and pretending that you are helping the enemy by letting them know.",
+    "I do not know why one should mince words here.",
+    "We need not mince words whether we call these charges \"taxes\" or not."
+  ],
+  "list_see_also": [
+    "mincer",
+    "mincing",
+    "mincingly",
+    "mincemeat",
+    "mince pie"
+  ],
+  "list_browse": [
+    "mimicry",
+    "mimosa",
+    "min",
+    "minaret",
+    "mince",
+    "mince pie",
+    "mincemeat",
+    "mincer",
+    "mincing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387867_ecf6a60266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387867_336359576c_o.png",
+      "id_image": "mince_3690250"
+    }
+  ]
+}

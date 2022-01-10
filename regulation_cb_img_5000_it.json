@@ -1,0 +1,89 @@
+{
+  "english": "regulation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "qui định",
+          "definition": "a rule or instruction",
+          "world_new": [
+            "rule",
+            "instruction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are certain regulations laid down as to how this job should be done, and these must be obeyed",
+              "world_new": [
+                "certain",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) Please use envelopes of the regulation size.",
+              "world_new": [
+                "size"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự điều chỉnh",
+          "definition": "the act of regulating",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the regulation of a piece of machinery.",
+              "world_new": [
+                "piece",
+                "machinery"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nevertheless, the recent tightening of immigration and asylum regulations has had a very significant effect upon the future of many older ' economic ' migrants.",
+    "They depict housing processes in relatively unfettered markets with comparatively few government regulations and direct intervention.",
+    "The regulations for coverage of nonexcluded medical aids are complex and therefore are only briefly described.",
+    "Of course, many of the objectives could have also been accomplished by regulations.",
+    "Recent new institutional work views firms and markets as social entities constructed from economic conventions, profit-maximizing routines, and state regulations.",
+    "Differences in state regulations were widely recognized as potential barriers to inter-state commerce.",
+    "Clan regulations did not necessarily demand that all minor clan disputes be handled privately.",
+    "Bureaucracy and regulations were, and are, fundamentally a response to rising costs, growing complexity of activity, and a growing number of obligations to fulfil."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "regular",
+    "regularity",
+    "regularly",
+    "regulate",
+    "regulation",
+    "regulator",
+    "regurgitate",
+    "regurgitation",
+    "rehab"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329601_5748021f82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329601_423ccaa10d_o.png",
+      "id_image": "regulation_2911722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684559_319f75ed34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684559_072e967ee5_o.png",
+      "id_image": "regulation_5307624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066310_ef92f43928_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066310_91025ee959_o.png",
+      "id_image": "regulation_5983370"
+    }
+  ]
+}

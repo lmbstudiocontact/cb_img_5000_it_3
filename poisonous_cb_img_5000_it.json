@@ -1,0 +1,71 @@
+{
+  "english": "poisonous",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có độc",
+          "definition": "containing or using poison",
+          "world_new": [
+            "poison"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That fruit is poisonous",
+              "world_new": [
+                "fruit"
+              ]
+            },
+            {
+              "ex_of_definition": "a poisonous snake.",
+              "world_new": [
+                "snake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Living things have external references to each other : the flower to the insect, the colour red to being poisonous to eat, antlers to the mating season.",
+    "In the first stage, organisms learn to label only four foods (two edible and two poisonous mushrooms).",
+    "An operator in agriculture must also have specialised knowledge of handling all the many poisonous chemicals that are used, such as herbicides and pesticides.",
+    "I hope very much we are not going to get any more of that particular nonsense, because it is poisonous nonsense.",
+    "Secondly, was it really necessary to use three dogs as a means of testing whether this chemical was poisonous or not?",
+    "Therefore, it can truly be described as injurious, whereas it cannot be described as either poisonous or noxious.",
+    "I remember the poisonous green foam that got into the brooks as they flowed past the brickwork outfalls.",
+    "They simply dealt with the question of its poisonous character—its toxicity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "poison",
+    "poison-pen letter",
+    "poisoner",
+    "poisoning",
+    "poisonous",
+    "poisonously",
+    "poke",
+    "poke about",
+    "poke fun at"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075200_a973de212e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075200_0c53176acc_o.png",
+      "id_image": "poisonous_1120682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338111_a3b84861df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338111_3d83458a75_o.png",
+      "id_image": "poisonous_3408770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693339_1f0c2a7e71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693339_f40f08f912_o.png",
+      "id_image": "poisonous_5671517"
+    }
+  ]
+}

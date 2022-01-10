@@ -1,0 +1,250 @@
+{
+  "english": "press",
+  "phat_am": "pres",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhấn",
+          "definition": "to use a pushing motion (against)",
+          "world_new": [
+            "motion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Press the bell twice!",
+              "world_new": [
+                "bell",
+                "twice"
+              ]
+            },
+            {
+              "ex_of_definition": "The children pressed close to their mother.",
+              "world_new": [
+                "close",
+                "their",
+                "mother"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ép",
+          "definition": "to squeeze; to flatten",
+          "world_new": [
+            "flatten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The grapes are pressed to extract the juice.",
+              "world_new": [
+                "extract",
+                "juice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thúc giục",
+          "definition": "to urge or hurry",
+          "world_new": [
+            "urge",
+            "hurry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pressed her to enter the competition.",
+              "world_new": [
+                "enter",
+                "competition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nén chặt",
+          "definition": "to insist on",
+          "world_new": [
+            "insist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The printers are pressing their claim for higher pay.",
+              "world_new": [
+                "pressing",
+                "their",
+                "claim",
+                "pay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "là phẳng",
+          "definition": "to iron",
+          "world_new": [
+            "iron"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your trousers need to be pressed.",
+              "world_new": [
+                "trousers"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự là",
+          "definition": "an act of pressing",
+          "world_new": [
+            "act",
+            "pressing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave her hand a press",
+              "world_new": [
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "You had better give your shirt a press.",
+              "world_new": [
+                "better",
+                "your",
+                "shirt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy in",
+          "definition": "(also printing-press) a printing machine.",
+          "world_new": [
+            "printing",
+            "machine"
+          ]
+        },
+        {
+          "mean_english": "báo chí",
+          "definition": "newspapers in general",
+          "world_new": [
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was reported in the press"
+            },
+            {
+              "ex_of_definition": "(also adjective) a press photographer.",
+              "world_new": [
+                "photographer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giới báo chí",
+          "definition": "the people who work on newspapers and magazines; journalists",
+          "world_new": [
+            "people",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The press is/are always interested in the private lives of famous people.",
+              "world_new": [
+                "interested",
+                "private",
+                "famous",
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy ép",
+          "definition": "a device or machine for pressing",
+          "world_new": [
+            "device",
+            "machine",
+            "pressing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wine press",
+              "world_new": [
+                "wine"
+              ]
+            },
+            {
+              "ex_of_definition": "a flower press.",
+              "world_new": [
+                "flower"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Concerns about overinclusiveness seem less pressing for the unanimity version.",
+    "Specifically, they pressed for high tariffs on select groups of goods and low or zero tariffs on raw materials, intermediate, and capital goods.",
+    "Care should be taken to support the elbow and humerus by simultaneously pressing them against the fetal chest.",
+    "Pitch is controlled by varying the point at which wire presses a metal bar.",
+    "The participants were asked to indicate if they detected the target by pressing separate buttons on the keyboard (' 1 '=yes, ' 9 '=no).",
+    "The time between button presses was recorded and its correlation to the distances between illuminated places on the map was computed.",
+    "The third is the degree of vocal fold adduction, which reflects the degree to which the vocal folds are pressed against each other.",
+    "The result is a telling demonstration of how linguistic analysis can shed light on pressing social problems."
+  ],
+  "list_see_also": [
+    "pressing",
+    "press conference",
+    "press cutting",
+    "be hard pressed",
+    "be pressed for",
+    "press for",
+    "press forward"
+  ],
+  "list_browse": [
+    "preside",
+    "presidency",
+    "president",
+    "presidential",
+    "press",
+    "press conference",
+    "press cutting",
+    "press for",
+    "press forward"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327551_17ff1661f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327551_d9243c91e6_o.png",
+      "id_image": "press_1484385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682624_cfe82c4b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682624_369ab22483_o.png",
+      "id_image": "press_3966817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372157_73ab73f9fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372157_16cb022908_o.png",
+      "id_image": "press_4151844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372122_34638f603e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372122_2e1a251a8a_o.png",
+      "id_image": "press_4542471"
+    }
+  ]
+}

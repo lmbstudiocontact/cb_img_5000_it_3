@@ -1,0 +1,170 @@
+{
+  "english": "relief",
+  "phat_am": "rəˈliːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giảm nhẹ; sự khuây khỏa",
+          "definition": "a lessening or stopping of pain, worry, boredom etc",
+          "world_new": [
+            "stopping",
+            "pain",
+            "worry",
+            "boredom"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When you have a headache, an aspirin can bring relief",
+              "world_new": [
+                "headache",
+                "aspirin",
+                "bring"
+              ]
+            },
+            {
+              "ex_of_definition": "He gave a sigh of relief",
+              "world_new": [
+                "sigh"
+              ]
+            },
+            {
+              "ex_of_definition": "It was a great relief to find nothing had been stolen.",
+              "world_new": [
+                "great",
+                "find"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cứu trợ",
+          "definition": "help (eg food) given to people in need of it",
+          "world_new": [
+            "help",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "famine relief",
+              "world_new": [
+                "famine"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) A relief fund has been set up to send supplies to the refugees.",
+              "world_new": [
+                "fund",
+                "send"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thay phiên",
+          "definition": "a person who takes over some job or task from another person, usually after a given period of time",
+          "world_new": [
+            "person",
+            "job",
+            "task",
+            "person",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bus-driver was waiting for his relief"
+            },
+            {
+              "ex_of_definition": "(also adjective) a relief driver.",
+              "world_new": [
+                "driver"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giải vây",
+          "definition": "the act of freeing a town etc from siege",
+          "world_new": [
+            "act",
+            "town",
+            "siege"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the relief of Mafeking."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chạm khắc",
+          "definition": "a way of carving etc in which the design is raised above the level of its background",
+          "world_new": [
+            "carving",
+            "design",
+            "level",
+            "its",
+            "background"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a carving in relief.",
+              "world_new": [
+                "carving"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Effects such as those related to relief may be more evident on longer-term follow-up.",
+    "Only quick action would transfer people from relief to work as the president wanted.",
+    "In the other parts of the country the free poor relief funds dominated.",
+    "Initial criticisms were based on eyewitness records of the consequences of limited relief.",
+    "The balance between which measurements could be defined as prerequisites for the relief mission and which were additional science was difficult to achieve.",
+    "Significantly, the proportion of relief in kind did not diminish over the course of the eighteenth century.",
+    "We saw above that the number of elderly individuals who depended on poor relief increased over the course of the eighteenth century.",
+    "Most patients said that the engagement in the visual expression of a negative state of mind led naturally to a feeling of relief."
+  ],
+  "list_see_also": [
+    "relieve",
+    "relieved"
+  ],
+  "list_browse": [
+    "reliably",
+    "reliance",
+    "reliant",
+    "relic",
+    "relief",
+    "relieve",
+    "relieved",
+    "religion",
+    "religious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371547_813e9731d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371547_928f22e74a_o.png",
+      "id_image": "relief_2689918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326831_2230931230_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326831_aa8713845e_o.png",
+      "id_image": "relief_5705219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063715_5b2424c11b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063715_635ba4e377_o.png",
+      "id_image": "relief_5705437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681829_8a5f73617e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681829_e4e04476b7_o.png",
+      "id_image": "relief_6133422"
+    }
+  ]
+}

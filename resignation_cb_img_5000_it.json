@@ -1,0 +1,85 @@
+{
+  "english": "resignation",
+  "phat_am": "reziɡˈneiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự từ chức",
+          "definition": "the act of resigning.",
+          "world_new": [
+            "act"
+          ]
+        },
+        {
+          "mean_english": "đơn xin thôi việc",
+          "definition": "a letter etc stating that one is resigning",
+          "world_new": [
+            "letter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You will receive my resignation tomorrow.",
+              "world_new": [
+                "receive",
+                "my",
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cam chịu",
+          "definition": "(the state of having or showing) patient, calm acceptance (of a situation, fact etc)",
+          "world_new": [
+            "state",
+            "patient",
+            "calm",
+            "acceptance",
+            "situation",
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He accepted his fate with resignation.",
+              "world_new": [
+                "accepted",
+                "fate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I hope that we are not going to stray too far into resignations.",
+    "I have studied very carefully the records of resignations in matters of varying kinds over the last 50 years.",
+    "Now the reports have begun to come in—and the resignations as well.",
+    "We may have been witnessing within the last few weeks, in the resignations to which they were subject, signs of such strain.",
+    "They consist, or did consist, because there have been one or two recent resignations, of fifteen members.",
+    "I am not aware of any threat to strike nor are resignations expected.",
+    "The reasons for the resignations were in each case personal and in no way concerned with the officer's official duties.",
+    "Voluntary resignations do not include early retirement with an ill-health pension, which is for management to determine."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "residential",
+    "residual",
+    "residue",
+    "resign",
+    "resignation",
+    "resigned",
+    "resin",
+    "resinous",
+    "resist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352026_41e51d244f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352026_621b50a02a_o.png",
+      "id_image": "resignation_5115924"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "packet",
+  "phat_am": "ˈpӕkit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bao bì",
+          "definition": "a small often flat, usually paper or cardboard container, especially one in which food is sold or in which small objects are sent through the post",
+          "world_new": [
+            "small",
+            "flat",
+            "paper",
+            "cardboard",
+            "container",
+            "especially",
+            "food",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a packet of biscuits."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "package holiday",
+    "packaging",
+    "packed (out)",
+    "packed lunch",
+    "packet",
+    "packing",
+    "packing case",
+    "pact",
+    "pad"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452993_9ca3212792_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452993_650c30b66a_o.png",
+      "id_image": "packet_1849662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338041_4deb60284b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338041_86a3928d49_o.png",
+      "id_image": "packet_2421563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075040_40dd217665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075040_d973a53555_o.png",
+      "id_image": "packet_4142990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452883_29fce16321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452883_2662b941c9_o.png",
+      "id_image": "packet_6302065"
+    }
+  ]
+}

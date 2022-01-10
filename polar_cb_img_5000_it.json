@@ -1,0 +1,63 @@
+{
+  "english": "polar",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc địa cực",
+          "definition": "of the earth’s North or South Pole or the region around it",
+          "world_new": [
+            "region"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the polar ice-cap"
+            },
+            {
+              "ex_of_definition": "the polar region.",
+              "world_new": [
+                "region"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Note that the polar regions are not included.",
+    "Lateral flagella were not clearly visible, but 2-5 polar flagella (2-3 times the length of the cell) were observed.",
+    "If they all turn up to the right of the verb in their canonical positions, you must be looking at a polar query.",
+    "The formation of the polar capsule seems to take place as usual in myxosporeans.",
+    "There was even some evidence of a 'wave of darkening' spreading from the waning polar cap towards the equator.",
+    "Interpretation of radio echo sounding in polar ice sheets.",
+    "The kinetics of polar body formation were also fastest in pyruvate-containing medium.",
+    "Three polar assumptions about economic openness are successively handled."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "poke fun at",
+    "poke one’s nose into",
+    "poker",
+    "poky",
+    "polar",
+    "polar bear",
+    "pole",
+    "pole-vault",
+    "polecat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452738_cfd4d74efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452738_1b43e14ebd_o.png",
+      "id_image": "polar_172758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452718_3f6c489ec9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452718_ba2984dcfd_o.png",
+      "id_image": "polar_2844402"
+    }
+  ]
+}

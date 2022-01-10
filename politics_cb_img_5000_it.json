@@ -1,0 +1,66 @@
+{
+  "english": "politics",
+  "phat_am": "ˈpolitiks",
+  "list_english": [
+    {
+      "type_word": "noun singular or plural",
+      "list_definition": [
+        {
+          "mean_english": "chính trị",
+          "definition": "the science or business of, or ideas about, or affairs concerning, government",
+          "world_new": [
+            "science",
+            "business",
+            "concerning",
+            "government"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "local politics.",
+              "world_new": [
+                "local"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "political",
+    "politically",
+    "politically correct",
+    "politician",
+    "political asylum",
+    "political prisoner",
+    "political science"
+  ],
+  "list_browse": [
+    "political science",
+    "politically",
+    "politically correct",
+    "politician",
+    "politics",
+    "polka",
+    "poll",
+    "pollen",
+    "pollinate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074160_68bd843852_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074160_dcf7dfc7fc_o.png",
+      "id_image": "politics_1651652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074120_136f892c3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074120_e018c8fcfc_o.png",
+      "id_image": "politics_2201605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451898_be42c3b364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451898_cd94c4747f_o.png",
+      "id_image": "politics_2234801"
+    }
+  ]
+}

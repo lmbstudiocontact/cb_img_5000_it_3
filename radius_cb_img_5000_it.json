@@ -1,0 +1,83 @@
+{
+  "english": "radius",
+  "phat_am": "ˈreidiəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phạm vi",
+          "definition": "(plural radiuses) the area within a given distance from a central point",
+          "world_new": [
+            "area",
+            "distance",
+            "central",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They searched within a radius of one mile from the school.",
+              "world_new": [
+                "mile",
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bán kính",
+          "definition": "(plural radii-diai) mathematics a straight line from the centre/center of a circle to its circumference",
+          "world_new": [
+            "straight",
+            "line",
+            "circle",
+            "its",
+            "circumference"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Measure the radius of the circle.",
+              "world_new": [
+                "circle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The use of very large focal spot radii (600 mm) results in creation of a more complex plasma configuration.",
+    "A summary of the area summation receptive field radii for all the different simulated conditions.",
+    "As we move further outward, we can see that horizontal circles with larger radii are closed timelike curves.",
+    "Our surround radii, obtained using cone-specific stimuli, were usually less than 5 min of arc, whereas those obtained from spatial-frequency tuning curves with achromatic stimuli were ca. three times larger.",
+    "The contact fronts in the exploding spheres show a marked difference from their theoretical behaviour by expanding to larger radii and exhibiting only very slight oscillation.",
+    "However, in the context of ion-channel simulations at least some of the interactions are in aqueous solution and thus it is not obvious that crystal radii are applicable.",
+    "Fiftyfive nodes are used in the 5-direction because the domain extends 25 radii from the particle centre.",
+    "Slots are cut out of the disk on the same radii as the drawings, but at a different distance from the center."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "radiology",
+    "radiotherapy",
+    "radish",
+    "radium",
+    "radius",
+    "RAF",
+    "raffia",
+    "raffle",
+    "raft"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696209_b8b89935e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696209_de94570a77_o.png",
+      "id_image": "radius_2844307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696174_a270f6e309_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696174_d6079664e4_o.png",
+      "id_image": "radius_2844419"
+    }
+  ]
+}

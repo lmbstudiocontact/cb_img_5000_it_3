@@ -1,0 +1,61 @@
+{
+  "english": "painkiller",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuốc giảm đau",
+          "definition": "a drug etc which lessens or removes pain",
+          "world_new": [
+            "drug",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor prescribed her some painkillers.",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pain",
+    "pained",
+    "painful",
+    "painfully",
+    "painkiller",
+    "painless",
+    "painlessly",
+    "painstaking",
+    "paint"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381847_7ac1d93991_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381847_6d6d96ece3_o.png",
+      "id_image": "painkiller_1485076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692064_d097eaea47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692064_48344e40e9_o.png",
+      "id_image": "painkiller_1487557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692019_e56984960d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692019_de27a7365c_o.png",
+      "id_image": "painkiller_1685899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336826_db61089e22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336826_1c7d170b44_o.png",
+      "id_image": "painkiller_805694"
+    }
+  ]
+}

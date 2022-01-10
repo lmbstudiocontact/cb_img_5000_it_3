@@ -1,0 +1,100 @@
+{
+  "english": "official",
+  "phat_am": "əˈfiʃəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc chính quyền",
+          "definition": "of or concerning a position of authority",
+          "world_new": [
+            "concerning",
+            "position",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "official powers"
+            },
+            {
+              "ex_of_definition": "an official uniform.",
+              "world_new": [
+                "uniform"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính thức",
+          "definition": "done or confirmed by people in authority etc",
+          "world_new": [
+            "confirmed",
+            "people",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the official result of the race.",
+              "world_new": [
+                "result",
+                "race"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công chức",
+          "definition": "a person who holds a position of authority",
+          "world_new": [
+            "person",
+            "position",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a government official.",
+              "world_new": [
+                "government"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The question is whether anyone should care how diligent these officials really are.",
+    "Agency officials viewed numbers and studies as a resource in achieving a larger political agenda.",
+    "River officials also sought to enhance their status as technical experts through the construction and maintenance of memorial halls and temples honoring their predecessors.",
+    "In our field work and during the survey we spent considerable time discussing with officials about the way they pushed water management reforms.",
+    "My school's officials tend to think that way.",
+    "Finally, public officials have routinely drawn distinctions between the substance consumed and a consumption habit.",
+    "Although thousands of people obeyed the law and the forestry officials' procedures, most probably did not.",
+    "In my experience, architects too often take a high-handed view of the ignorance of the officials who deal with applications for altering listed buildings."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "offhandedness",
+    "office",
+    "office-bearer",
+    "officer",
+    "official",
+    "officially",
+    "officiate",
+    "officious",
+    "officiously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348116_5b3dc8fa1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348116_c4ea51544a_o.png",
+      "id_image": "official_1848932"
+    }
+  ]
+}

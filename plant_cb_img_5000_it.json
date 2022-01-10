@@ -1,0 +1,175 @@
+{
+  "english": "plant",
+  "phat_am": "plaːnt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thực vật",
+          "definition": "anything growing from the ground, having a stem, a root and leaves",
+          "world_new": [
+            "ground",
+            "stem",
+            "root"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "flowering/tropical plants."
+            }
+          ]
+        },
+        {
+          "mean_english": "thiết bị",
+          "definition": "industrial machinery",
+          "world_new": [
+            "industrial",
+            "machinery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an engineering plant.",
+              "world_new": [
+                "engineering"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà máy",
+          "definition": "a factory.",
+          "world_new": [
+            "factory"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trồng; gieo",
+          "definition": "to put (something) into the ground so that it will grow",
+          "world_new": [
+            "ground",
+            "grow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have planted vegetables in the garden.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trồng",
+          "definition": "to make (a garden etc); to cause (a garden etc) to have (plants etc) growing in it",
+          "world_new": [
+            "garden",
+            "cause",
+            "garden"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The garden was planted with shrubs",
+              "world_new": [
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "We’re going to plant an orchard.",
+              "world_new": [
+                "orchard"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đứng vững",
+          "definition": "to place heavily or firmly",
+          "world_new": [
+            "place",
+            "heavily",
+            "firmly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He planted himself between her and the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngụy tạo",
+          "definition": "to put in someone’s possession, especially as false evidence",
+          "world_new": [
+            "possession",
+            "false",
+            "evidence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He claimed that the police had planted the weapon on his brother.",
+              "world_new": [
+                "police",
+                "weapon",
+                "brother"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each table entry is the trigger price at which the decision-maker would find it advantageous to plant the corresponding share of land to mango trees.",
+    "The typhoon in 1994 was suciently late for that planting to curtail but not to annul net returns to the rain shelters.",
+    "Then it is straightforward to show that land tenure institutions affect tree planting through their effects on land rights.",
+    "Thus, the door of a burning furnace stood in for the steel plant, and a couple of drainpipes represented a construction site.",
+    "In the present study, tunnel length in maize tended to increase with age of the plant, while larval weight per cm tunnel produced decreased.",
+    "The chapter on plant responses to herbicides reminds the reader that stresses can be anthropogenic.",
+    "The mineral nutrition of wild plants revisited: a re-evaluation of processes and patterns.",
+    "However, given its convenience and the accessibility to surrounding plants, it may be an effective method for pre-planting applications."
+  ],
+  "list_see_also": [
+    "plantation",
+    "planter"
+  ],
+  "list_browse": [
+    "plank",
+    "plankton",
+    "planner",
+    "planning",
+    "plant",
+    "plantation",
+    "planter",
+    "plaque",
+    "plasma"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342736_a2c65fb92d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342736_a47844f2e6_o.png",
+      "id_image": "plant_256885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387732_59817455a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387732_be246c9529_o.png",
+      "id_image": "plant_256886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697969_2d6f5a6209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697969_b952272752_o.png",
+      "id_image": "plant_413866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697909_2bbc6dd776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697909_bc0df4d3f0_o.png",
+      "id_image": "plant_757018"
+    }
+  ]
+}

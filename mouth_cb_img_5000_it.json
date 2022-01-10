@@ -1,0 +1,105 @@
+{
+  "english": "mouth",
+  "phat_am": "mauθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miệng",
+          "definition": "the opening in the head by which a human or animal eats and speaks or makes noises",
+          "world_new": [
+            "opening",
+            "head",
+            "human",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What has the baby got in its mouth?",
+              "world_new": [
+                "baby",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cửa (hang, sông…)",
+          "definition": "the opening or entrance eg of a bottle, river etc",
+          "world_new": [
+            "opening",
+            "entrance",
+            "bottle",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the mouth of the harbour.",
+              "world_new": [
+                "harbour"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nói to",
+          "definition": "to move the lips as if forming (words), but without making any sound",
+          "world_new": [
+            "move",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He mouthed the words to me so that no-one could overhear.",
+              "world_new": [
+                "no-one",
+                "overhear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The problem was resolved by measuring the distance of the vegetation front relative to the bay mouth instead of the land/water boundary.",
+    "It is the mouth part which enters the mucosa and the worm obtains nutrition from the host tissue.",
+    "The food object is manipulated toward the mouth, at which time a series of bite/swallow responses occur.",
+    "They suggested that the dryness of the lips (as compared to surfaces inside the mouth) hinders the formation of a good seal.",
+    "The deep draught estuary was easy to defend since it had a narrow mouth surrounded by mountains.",
+    "Specifically, mouth opening and closing, hand closing and opening, and stepping forward and backward movements were studied.",
+    "Anterior to the mouth there are two small raised sections of the cuticle, each bearing four or five tubercles.",
+    "The sharply delineated but superficial attachment to the equine caecum by the mouth leaves behind an oval area devoid of epithelial cells."
+  ],
+  "list_see_also": [
+    "mouthful",
+    "mouth organ",
+    "mouthpiece",
+    "mouthwash",
+    "mouth-watering"
+  ],
+  "list_browse": [
+    "mousetrap",
+    "mousse",
+    "moustache",
+    "mousy",
+    "mouth",
+    "mouth organ",
+    "mouth-watering",
+    "mouthful",
+    "mouthpiece"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070870_070d39c797_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070870_fa2920cdb4_o.png",
+      "id_image": "mouth_2731397"
+    }
+  ]
+}

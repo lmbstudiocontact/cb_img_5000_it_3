@@ -1,0 +1,68 @@
+{
+  "english": "poultry",
+  "phat_am": "ˈpəultri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gia cầm",
+          "definition": "farmyard birds, eg hens, ducks, geese, turkeys",
+          "world_new": [
+            "farmyard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a poultry farm",
+              "world_new": [
+                "farm"
+              ]
+            },
+            {
+              "ex_of_definition": "They keep poultry.",
+              "world_new": [
+                "keep"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Poultry products constitute a major source of infection for humans [2], and over the years various serotypes have emerged in poultry populations.",
+    "Along small rivers it is commonplace that poultry die from polluted water and fodder.",
+    "The result further suggests that the positive benefit of no-till can be realized only when it is used with poultry litter.",
+    "Thus, it is reasonable to assume that most of the serotype 2 strains found in the poultry and cattle reservoirs are pathogenic to humans.",
+    "An infestation might well damage poultry farms and fisheries, but it was for the industries to protect their stock as best they could.",
+    "The food isolates consisted of 43 samples of cooked meats, 20 egg isolates and 34 poultry isolates.",
+    "Poultry may have been ubiquitous, but they still had a cultural origin in a (historical) process of plantation.",
+    "Among the four systems compared, a system with cover crop, poultry manure, and no-till faired the best."
+  ],
+  "list_see_also": [
+    "poulterer"
+  ],
+  "list_browse": [
+    "potty",
+    "pouch",
+    "pouffe",
+    "poulterer",
+    "poultry",
+    "pounce",
+    "pounce on",
+    "pound",
+    "pour"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376657_0a59a195a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376657_2c03ecbb90_o.png",
+      "id_image": "poultry_3239319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446903_1fc103bbb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446903_b1f0c99db2_o.png",
+      "id_image": "poultry_4138679"
+    }
+  ]
+}

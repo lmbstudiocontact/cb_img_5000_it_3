@@ -1,0 +1,85 @@
+{
+  "english": "quiz",
+  "phat_am": "kwiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc thi đố",
+          "definition": "a game or competition in which knowledge is tested by asking questions",
+          "world_new": [
+            "game",
+            "competition",
+            "knowledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a television quiz",
+              "world_new": [
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "a general-knowledge quiz."
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc thi vấn đáp",
+          "definition": "a short test given to students.",
+          "world_new": [
+            "short",
+            "test"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, the series has a website featuring games, promotional videos, quizzes, a message board, and news.",
+    "They want to share in the good and bad of television, the serious and the trivial, the sport, the quizzes, the news and the soaps.",
+    "Users spin the bottle to find other users (although they can also search); the site also has quizzes.",
+    "Pub quizzes may attract customers to a pub who are not found there on other days.",
+    "Additional activities include (outdoor) sports events, quizzes and other non-gaming competitions.",
+    "Similarly, in relation to crime-prevention quizzes between local schools, local firms donated small cups or prizes.",
+    "Quizzes can be shared socially, via email, on a website or via a personal blog.",
+    "Because of the convenience of online deliver y, these quizzes were well suited to the needs of today's liberal arts students who often participate in many extracur r icular activities."
+  ],
+  "list_see_also": [
+    "quiz-master"
+  ],
+  "list_browse": [
+    "quirk",
+    "quit",
+    "quite",
+    "quiver",
+    "quiz",
+    "quiz-master",
+    "quoits",
+    "quorum",
+    "quota"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080240_11b6ce0c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080240_2125124a29_o.png",
+      "id_image": "quiz_2727183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457513_b0a246c41b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457513_9311b4e3ed_o.png",
+      "id_image": "quiz_5678443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457483_3a6e15d5b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457483_ef5d8fbab5_o.png",
+      "id_image": "quiz_5678509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387682_3a2afd7dc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387682_da48f0f6cd_o.png",
+      "id_image": "quiz_5732146"
+    }
+  ]
+}

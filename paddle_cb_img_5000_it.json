@@ -1,0 +1,97 @@
+{
+  "english": "paddle",
+  "phat_am": "ˈpӕdl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lội nước",
+          "definition": "to walk about in shallow water",
+          "world_new": [
+            "walk",
+            "shallow",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children went paddling in the sea.",
+              "world_new": [
+                "sea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mái chèo",
+          "definition": "a short, light oar, often with a blade at each end of the shaft, used in canoes etc.",
+          "world_new": [
+            "short",
+            "light",
+            "oar",
+            "blade",
+            "shaft"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chèo xuồng",
+          "definition": "to move with a paddle",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He paddled the canoe along the river.",
+              "world_new": [
+                "canoe",
+                "river"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "paddle steamer",
+    "paddle wheel"
+  ],
+  "list_browse": [
+    "pact",
+    "pad",
+    "pad out",
+    "padding",
+    "paddle",
+    "paddle steamer",
+    "paddle wheel",
+    "paddock",
+    "paddy-field"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452558_4ded2f3b2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452558_9323898d2c_o.png",
+      "id_image": "paddle_178097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382602_feb76ce18b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382602_c4c2203aaa_o.png",
+      "id_image": "paddle_3254554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692964_ea6c77acbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692964_8509d317ed_o.png",
+      "id_image": "paddle_486390"
+    }
+  ]
+}

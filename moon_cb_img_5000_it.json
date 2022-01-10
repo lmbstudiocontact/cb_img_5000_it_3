@@ -1,0 +1,85 @@
+{
+  "english": "moon",
+  "phat_am": "muːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mặt trăng",
+          "definition": "the heavenly body that moves once round the earth in a month and reflects light from the sun",
+          "world_new": [
+            "heavenly",
+            "body",
+            "once",
+            "earth",
+            "month",
+            "light",
+            "sun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The moon was shining brightly",
+              "world_new": [
+                "shining",
+                "brightly"
+              ]
+            },
+            {
+              "ex_of_definition": "Spacemen landed on the moon."
+            }
+          ]
+        },
+        {
+          "mean_english": "vệ tinh",
+          "definition": "any of the similar bodies moving round the other planets",
+          "world_new": [
+            "similar",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the moons of Jupiter."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "moonless",
+    "moonbeam",
+    "moonlight",
+    "moonlighting",
+    "moonlit",
+    "moon about/around"
+  ],
+  "list_browse": [
+    "mood",
+    "moodily",
+    "moodiness",
+    "moody",
+    "moon",
+    "moon about/around",
+    "moonbeam",
+    "moonless",
+    "moonlight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073810_7daf68106f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073810_a6e17ac590_o.png",
+      "id_image": "moon_167317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073770_20b4c80fee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073770_9958765725_o.png",
+      "id_image": "moon_178534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692014_fb4eedb2c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692014_d31425abdf_o.png",
+      "id_image": "moon_433842"
+    }
+  ]
+}

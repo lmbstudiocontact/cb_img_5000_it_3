@@ -1,0 +1,86 @@
+{
+  "english": "observation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự theo dõi",
+          "definition": "the act of noticing or watching",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is in hospital for observation.",
+              "world_new": [
+                "hospital"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời nhận xét",
+          "definition": "a remark",
+          "world_new": [
+            "remark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She made some interesting observations about the sculpture.",
+              "world_new": [
+                "interesting",
+                "sculpture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The observations of ivory gulls at sea presented here are consistent with this.",
+    "Our aim is to use these observations to design an interaction experience that suppor ts the designer in making this decision.",
+    "We tested whether males and females demonstrated territorial behaviour by conducting repeated 15-min focal observations.",
+    "Furthermore, the eye closure response to nerve injury was temporarily blocked by an analgesic dose of systemic morphine (unpublished observations).",
+    "Obviously, my interpretation of developments is influenced by subjective observations, as well.",
+    "Empirical observations often made over thousands of years have suggested specific activities of compounds to be tested.",
+    "He was grateful for the honour, but would like 'to make the following observations for the record'.",
+    "Characteristically, her accounts rely upon grammaticalization chains, with the links of the chain provided by panchronic observations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "obsequiously",
+    "obsequiousness",
+    "observance",
+    "observant",
+    "observation",
+    "observatory",
+    "observe",
+    "observer",
+    "obsess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086740_74bcb0c447_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086740_28b9fce660_o.png",
+      "id_image": "observation_2196220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496873_547d191e81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496873_ddb25d7817_o.png",
+      "id_image": "observation_401530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394317_00f96df406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394317_b9de95807f_o.png",
+      "id_image": "observation_5016565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704194_61b64bbb4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704194_2bcec64451_o.png",
+      "id_image": "observation_5756903"
+    }
+  ]
+}

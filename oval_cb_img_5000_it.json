@@ -1,0 +1,83 @@
+{
+  "english": "oval",
+  "phat_am": "ˈəuvəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có hình bầu dục",
+          "definition": "shaped like an egg",
+          "world_new": [
+            "shaped",
+            "egg"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an oval table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình bầu dục",
+          "definition": "an oval shape",
+          "world_new": [
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drew an oval."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Detailed anatomical examination of the oval fossa and its environs relative to placement of the device is obviously of great practical importance.",
+    "The bodies of two individuals were placed in a large oval chamber, accessed from a cylindrical side-step, that goes down 80 cm from the surface.",
+    "In addition, the individual nematodes had conspicuous oval bodies.",
+    "Participants watch a computer screen while either ovals depicting the superior view of heads or plain ovals appear every few seconds.",
+    "In most cases there is an oval foramen, although occasionally a significant atrial septal defect is evident.",
+    "Subjects with interatrial communication: 55 patients with an interatrial communication were studied (48 within the oval fossa; 7 of sinusvenosus type).",
+    "All the objects except one were oval and loaf-shaped; they had a flat base and a rounded, convex body (figures 3 and 4).",
+    "The various schools in the area also have their own ovals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "outwardly",
+    "outwards",
+    "outweigh",
+    "outwit",
+    "oval",
+    "ovary",
+    "ovation",
+    "oven",
+    "over"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341081_f987cba255_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341081_7daa793963_o.png",
+      "id_image": "oval_232989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386047_46132981e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386047_9b9c6992c2_o.png",
+      "id_image": "oval_5854051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078375_519a6fe341_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078375_91e546a422_o.png",
+      "id_image": "oval_6080969"
+    }
+  ]
+}

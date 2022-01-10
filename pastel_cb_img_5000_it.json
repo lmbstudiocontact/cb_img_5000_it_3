@@ -1,0 +1,101 @@
+{
+  "english": "pastel",
+  "phat_am": "ˈpӕstəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "màu nhạt",
+          "definition": "(of colours/colors) pale, containing a lot of white",
+          "world_new": [
+            "pale",
+            "white"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a soft pastel green.",
+              "world_new": [
+                "soft",
+                "green"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phấn màu",
+          "definition": "a kind of coloured/colored pencil, made with chalk, which makes a pale colour/color",
+          "world_new": [
+            "kind",
+            "pencil",
+            "chalk",
+            "pale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She works mainly in pastels.",
+              "world_new": [
+                "works",
+                "mainly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tranh vẽ bằng phấn màu",
+          "definition": "a picture drawn with this kind of pencil",
+          "world_new": [
+            "picture",
+            "drawn",
+            "kind",
+            "pencil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He began making pastels in 1902."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She mostly painted oil paintings and pastels, whereas her drawings are few.",
+    "The different varieties of pastels offer their own challenges, colors, and textures.",
+    "In all sessions, the same material was offered: sheets of paper, roll paper, oil pastels, water colors, lead pencils, charcoal, tape, scissors, and paintbrushes.",
+    "She worked in oil, watercolour and pastels and made etchings of children, landscapes and fishing scenes.",
+    "Starting in 1933, he began to exhibit flower paintings and pastels, a departure from the landscapes with which he had become associated.",
+    "He used to doodle with pencil or pastels on paper.",
+    "Students learn in a variety of media, including watercolor, oil pastels, charcoal, and clay.",
+    "Women's suits come in a larger variety of colors such as darks, pastels, and gem colors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "past perfect",
+    "past/beyond redemption",
+    "pasta",
+    "paste",
+    "pastel",
+    "pasteurization",
+    "pasteurize",
+    "pastille",
+    "pastime"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066010_d5dee582b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066010_83b9014936_o.png",
+      "id_image": "pastel_4424490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329181_0d8fde97bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329181_b18b08147e_o.png",
+      "id_image": "pastel_5854311"
+    }
+  ]
+}

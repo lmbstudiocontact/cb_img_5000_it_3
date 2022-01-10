@@ -1,0 +1,63 @@
+{
+  "english": "pancreas",
+  "phat_am": "ˈpӕŋkriəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tuyến tuỵ",
+          "definition": "a part of the body which helps in the digestion of food",
+          "world_new": [
+            "part",
+            "body",
+            "digestion",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cancer of the pancreas.",
+              "world_new": [
+                "cancer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One attractive aspect of metformin during pregnancy is that it does not stimulate the fetal pancreas to over secrete insulin.",
+    "Histological examination of the brain and glands, such as the thyroid, pancreas and adrenals was unremarkable.",
+    "There is a chronic shortage of human pancreas tissue suitable for either whole pancreas or islet transplantation.",
+    "It also plays a role in b-cell differentiation, pancreas development and glucose homeostasis.",
+    "Figure 2 shows the technique that is currently used for the production of islets from human cadaveric pancreas.",
+    "Numerous digenean cysts were adjacent to, but not infiltrating, the liver and pancreas and within the mesentery surrounding the gastrointestinal tract (fig. 2).",
+    "It is recognized43\"45 that there is autoregulation of flow of blood to the splanchnic organs (liver, pancreas, small bowel, large bowel, and stomach).",
+    "The potential use of fetal porcine pancreas is attractive because of the ease of maintaining sterility and the growth potential of these islets in culture."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pamphlet",
+    "pan-",
+    "panama",
+    "pancake",
+    "pancreas",
+    "panda",
+    "pandemonium",
+    "pander",
+    "pane"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450518_aa6f8acf68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450518_d6cb104058_o.png",
+      "id_image": "pancreas_2375499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450503_fcc553acea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450503_c6d6fd9d15_o.png",
+      "id_image": "pancreas_2417999"
+    }
+  ]
+}

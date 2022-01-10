@@ -1,0 +1,92 @@
+{
+  "english": "people",
+  "phat_am": "ˈpiːpl",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "người",
+          "definition": "persons",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were three people in the room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người dân",
+          "definition": "men and women in general",
+          "world_new": [
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People often say such things."
+            }
+          ]
+        },
+        {
+          "mean_english": "dân tộc",
+          "definition": "(noun singular) a nation or race",
+          "world_new": [
+            "nation",
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "all the peoples of this world.",
+              "world_new": [
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He is also one of the world's most recognised, and recognisable, physically challenged people.",
+    "I chose it because it is recent, brief and relevant to ordinary people.",
+    "Many people with symptoms of psychological distress do not seek professional help.",
+    "This is surprising, given that questions of revenue generation affect ordinary people in basic and sometimes very serious ways.",
+    "Others are reputed physically to capture people and to lock them up in secret places until they can hand them over to their white masters.",
+    "Activities that have large starting capital requirements are pursued by relatively few people but yield lucrative returns.",
+    "The reasonable person standard enjoys a certain sort of objectivity, insofar as it protects people from each other.",
+    "Sounds, visual images, and faces remind the players of people or events of the past."
+  ],
+  "list_see_also": [
+    "the people"
+  ],
+  "list_browse": [
+    "pentathlon",
+    "Pentecost",
+    "penthouse",
+    "penumbra",
+    "people",
+    "pep",
+    "pep talk",
+    "pepper",
+    "pepper mill"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436853_41926b4292_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436853_0985bc3d38_o.png",
+      "id_image": "people_1674958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366647_ec5c11a1f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366647_75dc85a0ce_o.png",
+      "id_image": "people_179672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436863_ae522d08d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436863_84cfc6e681_o.png",
+      "id_image": "people_875318"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "parasite",
+  "phat_am": "ˈpӕrəsait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "động/ thực vật ký sinh",
+          "definition": "an animal or plant that lives on another animal or plant without giving anything in return",
+          "world_new": [
+            "animal",
+            "plant",
+            "animal",
+            "plant",
+            "return"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fleas are parasites"
+            },
+            {
+              "ex_of_definition": "He is a parasite on society.",
+              "world_new": [
+                "society"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "parasitic"
+  ],
+  "list_browse": [
+    "paranoiac",
+    "parapet",
+    "paraphernalia",
+    "paraphrase",
+    "parasite",
+    "parasitic",
+    "parasol",
+    "paratrooper",
+    "paratroops"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069810_86e8373c5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069810_5ee500297e_o.png",
+      "id_image": "parasite_4092758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377737_bb962c397b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377737_9b85ae914d_o.png",
+      "id_image": "parasite_5266675"
+    }
+  ]
+}

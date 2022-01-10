@@ -1,0 +1,67 @@
+{
+  "english": "pneumatic",
+  "phat_am": "njuˈmӕtik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đầy không khí",
+          "definition": "filled with air",
+          "world_new": [
+            "filled",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "pneumatic tyres/tires."
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy bằng khí nén",
+          "definition": "worked by air",
+          "world_new": [
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pneumatic pump/drill."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although the use of pneumatic power has been investigated,5 none have proven to be sufficiently successful to warrant further study.",
+    "The control software could harmonize both actions of pneumatic system and moving position of the robot, in different processes.",
+    "Figure 7 depicts the deburring performance of the coordination controller designed for the robot with a single pneumatic tool.",
+    "Double solenoid proportional direction control valves were used to drive two double-acting pneumatic rodless cylinders.",
+    "Tracking errors are bounded within a maximum of a few degrees, which is a good achievement for a pneumatic system in a dynamic tracking application.",
+    "Four th, pneumatic engineers usually use a company order catalog during design activity.",
+    "Developments in pneumatics allow pneumatic actuators to be used in precision systems.",
+    "Under the control of the pneumatic system, suction cups grip the solar cells."
+  ],
+  "list_see_also": [
+    "pneumatically"
+  ],
+  "list_browse": [
+    "ply",
+    "plywood",
+    "pm",
+    "PMS",
+    "pneumatic",
+    "pneumatically",
+    "pneumonia",
+    "PO Box",
+    "poach"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454343_e6e32850b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454343_6e0c8480db_o.png",
+      "id_image": "pneumatic_951028"
+    }
+  ]
+}

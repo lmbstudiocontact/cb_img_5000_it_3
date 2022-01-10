@@ -1,0 +1,96 @@
+{
+  "english": "noise",
+  "phat_am": "noiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng ồn ào",
+          "definition": "a sound",
+          "world_new": [
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I heard a strange noise outside",
+              "world_new": [
+                "I",
+                "strange",
+                "outside"
+              ]
+            },
+            {
+              "ex_of_definition": "the noise of gunfire.",
+              "world_new": [
+                "gunfire"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng om sòm",
+          "definition": "an unpleasantly loud sound",
+          "world_new": [
+            "unpleasantly",
+            "loud",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hate noise.",
+              "world_new": [
+                "I",
+                "hate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When asked, many patients report noticing noises more, for instance, and feeling an almost physical impact from sound.",
+    "When the level of the noises increases, the difference between the accuracies of one and four proton sources also increases.",
+    "The actors were floundering: they committed themselves to making strange noises, artificial and energetic gestures, but it was all curiously empty and unengaging.",
+    "The computer system does this by sound analysis of the insect noises and generates a warning if the software program believes that they do pose a threat.",
+    "If the holistic vision leads one to consider the noises of the world, the vision of musicians will converge very shortly with the question of how noises are orchestrated.",
+    "My laptop made lots of tedious whirring noises during a painstaking scroll across profiles.",
+    "In this case, various signal noises must be kept low to obtain reasonable ion beam signals.",
+    "A large a means that process noises are added."
+  ],
+  "list_see_also": [
+    "noiseless",
+    "noiselessly",
+    "noisy",
+    "noisily"
+  ],
+  "list_browse": [
+    "nod off",
+    "node",
+    "nodule",
+    "Noel",
+    "noise",
+    "noiseless",
+    "noiselessly",
+    "noisily",
+    "noisy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059060_2f439f7ec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059060_e5cb3e071d_o.png",
+      "id_image": "noise_1446142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367117_9920fdec2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367117_62f5b7ebef_o.png",
+      "id_image": "noise_3071632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677299_4262a9c79c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677299_5e20d7e784_o.png",
+      "id_image": "noise_4243465"
+    }
+  ]
+}

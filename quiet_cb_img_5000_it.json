@@ -1,0 +1,183 @@
+{
+  "english": "quiet",
+  "phat_am": "ˈkwaiət",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "yên lặng",
+          "definition": "not making very much, or any, noise; without very much, or any, noise",
+          "world_new": [
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tell the children to be quiet"
+            },
+            {
+              "ex_of_definition": "It’s very quiet out in the country",
+              "world_new": [
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "a quiet person.",
+              "world_new": [
+                "person"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh thản",
+          "definition": "free from worry, excitement etc",
+          "world_new": [
+            "free",
+            "worry",
+            "excitement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I live a very quiet life.",
+              "world_new": [
+                "I",
+                "live",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "yên ả",
+          "definition": "without much movement or activity; not busy",
+          "world_new": [
+            "movement",
+            "busy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll have a quiet afternoon watching television.",
+              "world_new": [
+                "afternoon",
+                "television"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trang nhã",
+          "definition": "(of colours/colors) not bright.",
+          "world_new": [
+            "bright"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tĩnh lặng",
+          "definition": "a state, atmosphere, period of time etc which is quiet",
+          "world_new": [
+            "state",
+            "atmosphere",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Nothing stirred In the quiet of the night",
+              "world_new": [
+                "night"
+              ]
+            },
+            {
+              "ex_of_definition": "All I want is peace and quiet.",
+              "world_new": [
+                "I",
+                "want",
+                "peace"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm yên tĩnh",
+          "definition": "(especially American",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "often with down) to quieten",
+              "world_new": [
+                "quieten"
+              ]
+            },
+            {
+              "ex_of_definition": "He raised his hand to quiet the crowd.",
+              "world_new": [
+                "hand",
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Respectable people did not do anything, they kept quiet.",
+    "All testing was carried out in a quiet room in the children's school, except for the spelling test, which was conducted in their classrooms.",
+    "But this is not to say that 12k's focus - or that of microsound in general - is all academic, nor all preciously quiet and minimalist.",
+    "The neuropsychological test battery was administered in a single session in a quiet interview room on an individual basis.",
+    "There were occasional quiet areas where water birds could be clearly heard but an undertow of mechanical noise was always present.",
+    "The two boys were ultimately adopted and led quiet lives.",
+    "All subjects were seen individually in a quiet place at school.",
+    "The stimuli were played to the listeners through headphones as they sat alone in a quiet room."
+  ],
+  "list_see_also": [
+    "quieten",
+    "quietly",
+    "quietness",
+    "keep quiet about",
+    "on the quiet"
+  ],
+  "list_browse": [
+    "quickness",
+    "quicksands",
+    "quicksilver",
+    "quid",
+    "quiet",
+    "quieten",
+    "quietly",
+    "quietness",
+    "quill"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388177_a7f1d38c38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388177_f88c605afe_o.png",
+      "id_image": "quiet_2867427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343191_bf05aea2ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343191_4ce9b4cc2a_o.png",
+      "id_image": "quiet_3295323"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698404_ba27ee50bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698404_30f1fd6c04_o.png",
+      "id_image": "quiet_4138874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080585_74133ca0f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080585_3310f1bdd2_o.png",
+      "id_image": "quiet_6401142"
+    }
+  ]
+}

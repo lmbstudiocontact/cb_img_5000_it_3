@@ -1,0 +1,63 @@
+{
+  "english": "newspaper",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "báo",
+          "definition": "a paper, printed daily or weekly, containing news etc",
+          "world_new": [
+            "paper",
+            "daily",
+            "weekly",
+            "news"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a daily newspaper.",
+              "world_new": [
+                "daily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In newspapers and magazines, fresh targets of humor emerged: mystics, ethereal poets, hermits, fortune-tellers, and gallants looked spurious in a steam, steel, and stockmarket age.",
+    "Together they contributed an additional dynamic to the newspaper's discourse, rendering violent felonies even more appalling in contrast.",
+    "Coverage of divorce cases, however, became a regular feature of popular newspapers.",
+    "Such cases were immediately reported in white newspapers.",
+    "As one would expect, it is a depiction that has also been observed in metropolitan newspapers.",
+    "Many nineteenth-century language revival and standardization movements focused their effor ts around newspapers.",
+    "Lists of newspapers, in contrast, seem to be exhaustive.",
+    "The main difference between the newspapers is in the vocabulary."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "newscast",
+    "newscaster",
+    "newsgroup",
+    "newsletter",
+    "newspaper",
+    "newsreader",
+    "newsstand",
+    "newsy",
+    "newt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368067_84a223eabe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368067_c9543b9f28_o.png",
+      "id_image": "newspaper_168668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438263_e717f6bde6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438263_820783a614_o.png",
+      "id_image": "newspaper_420448"
+    }
+  ]
+}

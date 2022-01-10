@@ -1,0 +1,115 @@
+{
+  "english": "recruit",
+  "phat_am": "rəˈkruːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lính mới",
+          "definition": "a person who has (just) joined the army, air force etc",
+          "world_new": [
+            "person",
+            "army",
+            "air",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a new recruit."
+            }
+          ]
+        },
+        {
+          "mean_english": "thành viên mới",
+          "definition": "a person who has (just) joined a society, group etc",
+          "world_new": [
+            "person",
+            "society",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our party needs new recruits before the next election.",
+              "world_new": [
+                "party",
+                "election"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tuyển mộ",
+          "definition": "to cause to join the army, a society etc",
+          "world_new": [
+            "cause",
+            "join",
+            "army",
+            "society"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must recruit more troops",
+              "world_new": [
+                "troops"
+              ]
+            },
+            {
+              "ex_of_definition": "Can’t you recruit more members to the music society?",
+              "world_new": [
+                "music",
+                "society"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Archives hold numerous complaints from provincial governors about the insufficiency of security forces under their authority and requests for additional mounted recruits.",
+    "As life goes on, friends are recruited from a different pool ; people are thrown together in different contexts.",
+    "All the children were recruited from birth lists provided by a government information centre.",
+    "Once initiated, a neophyte can himself become godfather to further recruits, who then become great-godchildren to his own godfather.",
+    "Participants were recruited several ways, through flyers posted at deaf centers, direct contacts by research assistants, and recruiting previous research participants.",
+    "Using this method we recruited 55 control passengers who were asked to complete a questionnaire and provide specimens (as above).",
+    "A range of scientific and operational expertise was recruited in the development of the indicators and refinement of the associated data.",
+    "We counted the number of ants recruiting to the leaf at different times after t reatment, as in the fi rst experiment."
+  ],
+  "list_see_also": [
+    "recruitment"
+  ],
+  "list_browse": [
+    "recreate",
+    "recreation",
+    "recreation ground",
+    "recreational",
+    "recruit",
+    "recruitment",
+    "rectangle",
+    "rectangular",
+    "rectifiable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333766_bd83976e63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333766_476543a6c8_o.png",
+      "id_image": "recruit_2910452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378652_4de0256be7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378652_159ea54815_o.png",
+      "id_image": "recruit_4133611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688909_f7bddac44d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688909_b6df63d505_o.png",
+      "id_image": "recruit_784809"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "philosopher",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà triết học",
+          "definition": "a person who studies philosophy, especially one who develops a particular set of theories",
+          "world_new": [
+            "person",
+            "philosophy",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rousseau was a famous philosopher.",
+              "world_new": [
+                "famous"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If philosophy or astrology were revealed to the ancients, then the sayings of philosophers or astrologers and the prophecies of inspired seers are equivalent.",
+    "This organic vision of society was shared by moralists and philosophers.",
+    "Sometimes philosophers distinguish between moderate and extreme variants of fideism.",
+    "With pretense, disguise, and unreflective belief in disinterested philosophical analysis, philosophers can easily objectify the interests of certain power groups, whether scientific or political.",
+    "That doesn't seem like an outrageous thing to say, though large numbers of philosophers seem attached to a sharp dichotomy between cognitive and non-cognitive attitudes.",
+    "Firstly, one might hold that philosophical ideas should stand or fall on their content, rather than upon the reputation of the philosopher concerned.",
+    "However, the image of pioneers carving out a legitimacy in a new land is apt for the philosophers who take up residency in medical schools.",
+    "Instead, he argued that the problem of indifferent choice is a fiction and only occurs inside the heads of philosophers, never in the real world."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "philanthropy",
+    "philatelic",
+    "philatelist",
+    "philately",
+    "philosopher",
+    "philosophical",
+    "philosophically",
+    "philosophize",
+    "philosophy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394882_6b13ce5be0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394882_47b58b9c11_o.png",
+      "id_image": "philosopher_5234434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087380_806e65b0f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087380_c197e47a28_o.png",
+      "id_image": "philosopher_827355"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "panel",
+  "phat_am": "ˈpӕnl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ván ô (cửa, tường…)",
+          "definition": "a flat, straight-sided piece of wood, fabric etc such as is put into a door, wall, dress etc",
+          "world_new": [
+            "flat",
+            "piece",
+            "wood",
+            "fabric",
+            "door",
+            "wall",
+            "dress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a door panel.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ban hội thẩm; nhóm người tham gia cuộc thi",
+          "definition": "a group of people chosen for a particular purpose eg to judge a contest, take part in a quiz or other game",
+          "world_new": [
+            "group",
+            "people",
+            "particular",
+            "purpose",
+            "judge",
+            "contest",
+            "part",
+            "quiz",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The studio audience will ask some questions and the panel will try to answer them.",
+              "world_new": [
+                "studio",
+                "audience",
+                "ask",
+                "try",
+                "answer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, the canopy was lit up to highlight the unique form that was built, light emanating from beneath panels and through holes [19a].",
+    "The upper panels are top-hung opening lights to provide ventilation.",
+    "The middle two panels show funding ratios and stock fractions with only little variation.",
+    "The second and third panels represent the variable-time-preference economies for = 0.01 and = 0.02, respectively.",
+    "The panels are to collect advice and recommendations from representatives of affected small entities as part of their deliberative process.",
+    "Specifically in the area of music, each of the three panels also combined broad critique with a clear focus on specific materials.",
+    "Figure 4 shows three panels with the results of the sensitivity analyses of the previous section, but now for downside deviation as the risk measure.",
+    "The tools existing at that time were gene-poor linkage maps, somatic cell hybrid panels and cytogenetic maps."
+  ],
+  "list_see_also": [
+    "panelled",
+    "panelling"
+  ],
+  "list_browse": [
+    "panda",
+    "pandemonium",
+    "pander",
+    "pane",
+    "panel",
+    "panelled",
+    "panelling",
+    "pang",
+    "Pangaea"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690569_1ca6fcfc3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690569_d2542207f8_o.png",
+      "id_image": "panel_1719612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450383_b48d338810_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450383_3f2954bc24_o.png",
+      "id_image": "panel_209203"
+    }
+  ]
+}

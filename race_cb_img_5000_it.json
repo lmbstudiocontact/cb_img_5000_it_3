@@ -1,0 +1,189 @@
+{
+  "english": "race",
+  "phat_am": "reis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc đua",
+          "definition": "a competition to find who or which is the fastest",
+          "world_new": [
+            "competition",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a horse race.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tham gia cuộc đua, cuộc thi",
+          "definition": "to (cause to) run in a race",
+          "world_new": [
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m racing my horse on Saturday",
+              "world_new": [
+                "racing",
+                "my",
+                "horse",
+                "Saturday"
+              ]
+            },
+            {
+              "ex_of_definition": "The horse is racing against five others.",
+              "world_new": [
+                "horse",
+                "racing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đua với ai",
+          "definition": "to have a competition with (someone) to find out who is the fastest",
+          "world_new": [
+            "competition",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll race you to that tree.",
+              "world_new": [
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vội vã",
+          "definition": "to go etc quickly",
+          "world_new": [
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He raced along the road on his bike.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủng người",
+          "definition": "any one section of mankind, having a particular set of characteristics which make it different from other sections",
+          "world_new": [
+            "section",
+            "mankind",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "people of different races",
+              "world_new": [
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) race relations."
+            }
+          ]
+        },
+        {
+          "mean_english": "sắc tộc",
+          "definition": "the fact of belonging to any of these various sections",
+          "world_new": [
+            "fact",
+            "various"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is illegal to discriminate against anyone because of race.",
+              "world_new": [
+                "illegal",
+                "discriminate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tộc người",
+          "definition": "a group of people who share the same culture, language etc; the Anglo-Saxon race.",
+          "world_new": [
+            "group",
+            "people",
+            "share",
+            "culture",
+            "language"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This paradox was resolved in various ways by different theorists: polygenism and theories of races as biologically distinct subspecies arose to maintain hegemonic hierarchies.",
+    "Cross-cutting subject areas include children and the family, disability, gender, mental health, old age, race/ethnicity and young people.",
+    "It should also look into the issue whether regulatory competition is really a race and if so what do we mean by that.",
+    "The choice among all the actions that are simultaneously enabled at the same state is governed by the race policy.",
+    "But, unlike them, she recognizes race even as she seeks to transcend it.",
+    "Thus, this dataset represents the closest thing to a universe of advertisements that exists for these races.",
+    "In addition to these factors, we also examine race and insurance status.",
+    "Over time, party differences on race grew increasingly stark, and new voters began to sort themselves into the two parties according to their racial ideology."
+  ],
+  "list_see_also": [
+    "racer",
+    "racing",
+    "racecourse",
+    "racehorse",
+    "racetrack",
+    "racing car",
+    "a race against time",
+    "the races"
+  ],
+  "list_browse": [
+    "rabbit",
+    "rabble",
+    "rabies",
+    "raccoon",
+    "race",
+    "racecourse",
+    "racehorse",
+    "racer",
+    "racetrack"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697454_bb8611ec27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697454_b5f044ca88_o.png",
+      "id_image": "race_3667346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810118380_31746161fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810118380_7895346bba_o.png",
+      "id_image": "race_3708060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079645_ae903d8b6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079645_b29d04aff0_o.png",
+      "id_image": "race_4539828"
+    }
+  ]
+}

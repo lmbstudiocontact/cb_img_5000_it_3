@@ -1,0 +1,56 @@
+{
+  "english": "revolver",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súng ngắn",
+          "definition": "a type of pistol",
+          "world_new": [
+            "type",
+            "pistol"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She shot him with a revolver.",
+              "world_new": [
+                "shot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "revolution",
+    "revolutionary",
+    "revolutionize",
+    "revolve",
+    "revolver",
+    "revolving",
+    "revs",
+    "revue",
+    "reward"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462813_bd1b217fd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462813_17521cb2e9_o.png",
+      "id_image": "revolver_4344391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462778_e1e2b4d835_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462778_c911d03745_o.png",
+      "id_image": "revolver_6073982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085230_d45e253b27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085230_48b5873c2d_o.png",
+      "id_image": "revolver_6074002"
+    }
+  ]
+}

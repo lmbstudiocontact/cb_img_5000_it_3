@@ -1,0 +1,64 @@
+{
+  "english": "physician",
+  "phat_am": "fiˈziʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bác sĩ điều trị",
+          "definition": "a doctor who specializes in medical rather than surgical treatment of patients",
+          "world_new": [
+            "doctor",
+            "medical",
+            "rather",
+            "surgical",
+            "treatment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should consult a physician.",
+              "world_new": [
+                "consult"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The bulleted list reflects the sorts of reasons why physicians have typically practiced the way that they have.",
+    "Resolution of physician-patient conflicts in courts has become an ordinary event.",
+    "Admittedly, it is bold to imagine that physicians or patients will become deep ecologists or environmental partisans any time soon.",
+    "A physician was permitted to overrule these recommendations by providing the reason at the bottom of the sheet.",
+    "What are the factors that help students resist becoming technical or nonreflective physicians?",
+    "Really, the physician is the only one who has to communicate with the patient, do the right thing, and be responsible.",
+    "The reasons for the decrease in trained physicians are varied.",
+    "The costs of hospitalization (1;11), surgical procedures (4;33), physician visits (4), and diagnostic tests (4;24) were all included."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "phrasing",
+    "physical",
+    "physical education",
+    "physically",
+    "physician",
+    "physicist",
+    "physics",
+    "physiological",
+    "physiologically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393757_83e61cda7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393757_61ffa711cc_o.png",
+      "id_image": "physician_3527126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086220_721d16eb01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086220_5a8132d973_o.png",
+      "id_image": "physician_6036788"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "english": "mind",
+  "phat_am": "maind",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "trí tuệ",
+          "definition": "the power by which one thinks etc; the intelligence or understanding",
+          "world_new": [
+            "power",
+            "intelligence",
+            "understanding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a very inquiring mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chăm nom",
+          "definition": "to look after or supervise (eg a child)",
+          "world_new": [
+            "look",
+            "supervise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you mind the baby for a few minutes?.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm thấy phiền lòng",
+          "definition": "to be upset by; to object to",
+          "world_new": [
+            "upset",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must try not to mind when he criticizes your work.",
+              "world_new": [
+                "try",
+                "your",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cẩn thận",
+          "definition": "to be careful of",
+          "world_new": [
+            "careful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mind (= be careful not to trip over) the step!",
+              "world_new": [
+                "careful",
+                "trip",
+                "step"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để ý",
+          "definition": "to pay attention to or obey",
+          "world_new": [
+            "pay",
+            "attention",
+            "obey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should mind your parents’ words/advice.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "sự xen vào",
+          "definition": "be careful!",
+          "world_new": [
+            "careful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mind! There’s a car coming!",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "-minded",
+    "mindful",
+    "mindless",
+    "mindlessly",
+    "mindlessness",
+    "at/in the back of one’s mind",
+    "change one’s mind",
+    "be out of one’s mind",
+    "do you mind!",
+    "have a good mind to",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "mincemeat",
+    "mincer",
+    "mincing",
+    "mincingly",
+    "mind",
+    "mind one’s own business",
+    "-minded",
+    "mindful",
+    "mindless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698059_ac3133b270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698059_701cc790db_o.png",
+      "id_image": "mind_1215548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698024_55965f4137_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698024_8f38d28abb_o.png",
+      "id_image": "mind_1215563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387737_f9dcfa9e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387737_75ea704418_o.png",
+      "id_image": "mind_1935494"
+    }
+  ]
+}

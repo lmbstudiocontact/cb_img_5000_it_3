@@ -1,0 +1,116 @@
+{
+  "english": "probe",
+  "phat_am": "prəub",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái que thăm",
+          "definition": "a long thin instrument used by doctors to examine a wound etc.",
+          "world_new": [
+            "long",
+            "thin",
+            "instrument",
+            "examine",
+            "wound"
+          ]
+        },
+        {
+          "mean_english": "sự điều tra",
+          "definition": "an investigation",
+          "world_new": [
+            "investigation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a police probe into illegal activities.",
+              "world_new": [
+                "police",
+                "illegal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "điều tra",
+          "definition": "to investigate",
+          "world_new": [
+            "investigate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He probed into her private life.",
+              "world_new": [
+                "private",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dò vết thương",
+          "definition": "to examine (as if) with a probe",
+          "world_new": [
+            "examine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor probed the wound",
+              "world_new": [
+                "doctor",
+                "wound"
+              ]
+            },
+            {
+              "ex_of_definition": "He probed about in the hole with a stick.",
+              "world_new": [
+                "hole",
+                "stick"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Otherwise, no probing took place in response to misspellings.",
+    "In the second part, the measured densities are under estimated because of the deflection of the probe light.",
+    "The data quality filters yielded 9075 satisfactory 'transcripts' out of the original 15923 probe sets.",
+    "It can be equipped with different types of probes such that both electric and magnetic fields can be measured in a wide frequency range.",
+    "The appearance of several points in the third quadrant means that some of the toroidal vortex cores passed entirely outboard of the probe station.",
+    "The vertical displacement of this probe was detected by a linear displacement transducer.",
+    "This task is believed to probe the subjects' ability to assign -roles to positions where the manipulated variable is syntactic structure.",
+    "At least one of the probes is a species that is entirely excluded from lo domains (quenching curve indicated by asterisk)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "probably",
+    "probation",
+    "probation officer",
+    "probationary",
+    "probe",
+    "problem",
+    "problematic",
+    "proboscis",
+    "procedural"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323411_b8b06b0ec7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323411_d1fac20fd3_o.png",
+      "id_image": "probe_3212653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368297_2b45b3e8ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368297_49d6d52e19_o.png",
+      "id_image": "probe_3739688"
+    }
+  ]
+}

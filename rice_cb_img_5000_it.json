@@ -1,0 +1,64 @@
+{
+  "english": "rice",
+  "phat_am": "rais",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây lúa",
+          "definition": "a plant, grown in well-watered ground in tropical countries, whose seeds are used as food",
+          "world_new": [
+            "plant",
+            "grown",
+            "ground",
+            "tropical",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fried rice.",
+              "world_new": [
+                "fried"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are two rices which are chiefly concerned in this matter.",
+    "Efforts to calculate the level of price support for rice required the government to elicit cost of production data from the agricultural associations.",
+    "Infection is characterized by white segments resembling rice grains in the host's faeces.",
+    "The introduction of iron improved the effectiveness of coastal rice-growing technology.",
+    "Most of the agriculture practiced here is short-term rice and manioc followed by 4- 7 y of fallow.",
+    "After about twenty minutes a heaping plate of curried vegetables arrived, accompanied by a big bowl of rice.",
+    "Temporal deter minants of the productivity of rice-wheat cropping systems.",
+    "One of the major challenges is to grow zero-till direct dry seeded rice with agronomic practices already developed for wheat and other crops."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ribbon",
+    "ribonucleic acid",
+    "ribosomal",
+    "ribosome",
+    "rice",
+    "rich",
+    "riches",
+    "richly",
+    "richness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347296_76e540a834_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347296_b0eb40e737_o.png",
+      "id_image": "rice_129356"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392252_9f07c6d54a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392252_0296c68c1a_o.png",
+      "id_image": "rice_909147"
+    }
+  ]
+}

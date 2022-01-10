@@ -1,0 +1,91 @@
+{
+  "english": "quantity",
+  "phat_am": "ˈkwontəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "số lượng",
+          "definition": "the size, weight, number etc of something, especially a large size etc",
+          "world_new": [
+            "size",
+            "weight",
+            "number",
+            "large",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What quantity of paper do you need?",
+              "world_new": [
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "I buy these goods in quantity",
+              "world_new": [
+                "I",
+                "buy",
+                "goods"
+              ]
+            },
+            {
+              "ex_of_definition": "a small quantity of cement",
+              "world_new": [
+                "small",
+                "cement"
+              ]
+            },
+            {
+              "ex_of_definition": "large quantities of tinned food.",
+              "world_new": [
+                "large",
+                "tinned",
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fuelling the transformation in the camps was the introduction of relatively large quantities of cash in the early 1990s.",
+    "If it has been received recently but in small quantity, this may increase the reward value of the stimulus.",
+    "The searched for parameter depends nonlinearly on the field quantities, more precisely on first derivatives of the state variables.",
+    "Large quantities of each species should be collected, and also larvae in all their stages.",
+    "Counting realizes a temporal, first-order representation of the ordinal structure of the quantity of such a given set.",
+    "The method of creating each individual feature is decided based on that feature's tolerance allowances and the production quantities of the component.",
+    "Typically, this resulted in reduced quantity produced but had no effect on the rated quality of the texts.",
+    "In many applications, including image processing and computer vision, we need to track quantities that are defined on the surfaces."
+  ],
+  "list_see_also": [
+    "quantitative analysis",
+    "quantity surveyor",
+    "an unknown quantity"
+  ],
+  "list_browse": [
+    "qualm",
+    "quandary",
+    "quantifier",
+    "quantitative analysis",
+    "quantity",
+    "quantity surveyor",
+    "quantum",
+    "quarantine",
+    "quarrel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345101_12ef27a440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345101_19da87d7ae_o.png",
+      "id_image": "quantity_1356587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700229_83c332cef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700229_3d2ea8b253_o.png",
+      "id_image": "quantity_2104137"
+    }
+  ]
+}

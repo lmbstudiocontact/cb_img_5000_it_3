@@ -1,0 +1,108 @@
+{
+  "english": "peer",
+  "phat_am": "piə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà quí tộc",
+          "definition": "a nobleman (in Britain, one from the rank of baron upwards)",
+          "world_new": [
+            "nobleman",
+            "rank",
+            "baron"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a peer of the realm.",
+              "world_new": [
+                "realm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người ngang hàng",
+          "definition": "a person’s equal in rank, merit or age",
+          "world_new": [
+            "equal",
+            "rank",
+            "merit",
+            "age"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child was disliked by his peers",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) He is more advanced than the rest of his peer group.",
+              "world_new": [
+                "advanced",
+                "rest",
+                "group"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhìn kỹ",
+          "definition": "to look with difficulty",
+          "world_new": [
+            "look",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He peered at the small writing.",
+              "world_new": [
+                "small"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A revised class play method of peer assessment.",
+    "However, it was apparent that some children were less verbal in the presence of more outgoing peers.",
+    "These findings are robust but the developmental processes underlying the connections between peer victimization and psychopathology remain unclear.",
+    "Unlike most of their peers, these children continue to exhibit high levels of aggression during middle childhood.",
+    "The term \"vertical\" refers, of course, to factors transmitted from one generation to the next (in distinction from peer and sibling influences, for example).",
+    "We also thank our peer reviewers for their insightful comments and suggestions.",
+    "We thank the anonymous peer reviewers for their valuable insights and constructive comments.",
+    "We thank our peer reviewers for their critical evaluation of the article."
+  ],
+  "list_see_also": [
+    "peerage",
+    "peeress",
+    "peerless"
+  ],
+  "list_browse": [
+    "peeler",
+    "peelings",
+    "peep",
+    "peephole",
+    "peer",
+    "peerage",
+    "peeress",
+    "peerless",
+    "peeved"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368152_930830f99d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368152_7bcc8868ca_o.png",
+      "id_image": "peer_4922543"
+    }
+  ]
+}

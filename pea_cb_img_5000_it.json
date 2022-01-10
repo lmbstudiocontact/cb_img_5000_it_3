@@ -1,0 +1,85 @@
+{
+  "english": "pea",
+  "phat_am": "piː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đậu Hà Lan",
+          "definition": "the round seed of a kind of climbing plant, eaten as a vegetable",
+          "world_new": [
+            "seed",
+            "kind",
+            "climbing",
+            "plant",
+            "vegetable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "frozen peas",
+              "world_new": [
+                "frozen"
+              ]
+            },
+            {
+              "ex_of_definition": "garden peas.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây đậu Hà Lan",
+          "definition": "the plant which produces these seeds",
+          "world_new": [
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We planted peas and beans this year.",
+              "world_new": [
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In pea, there are no known mutants available for starch synthase which would help to resolve this matter.",
+    "Eect of planting wheat and peas in monoculture and in association.",
+    "Developmentally, this idea is supported by the early expression of pea lectin (together with vicilin) during cotyledon development.",
+    "The pea crop in 2001 died in mid-season due to excess water.",
+    "The overall results presented in this section summarize more than 70 purifications of mitochondria from pea seeds.",
+    "How pea aphids defend themselves against parasitoids and fungi is unknown.",
+    "The comparison of nitrogen use and leaching in sole cropped versus intercropped pea and barley.",
+    "By 90 days after sowing, when peas had matured, all crops had used similar amounts of water."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "payout",
+    "payroll",
+    "PC",
+    "PE",
+    "pea",
+    "peace",
+    "peace of mind",
+    "peace-offering",
+    "peaceable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680764_de9bfc7df9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680764_3cbc4fbd7d_o.png",
+      "id_image": "pea_284812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370427_f6e6900c7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370427_8710bdfcf4_o.png",
+      "id_image": "pea_5520709"
+    }
+  ]
+}

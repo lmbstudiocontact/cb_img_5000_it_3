@@ -1,0 +1,77 @@
+{
+  "english": "receptionist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lễ tân",
+          "definition": "a person who is employed (eg in a hotel, office etc) to answer the telephone, attend to guests, clients etc",
+          "world_new": [
+            "person",
+            "employed",
+            "hotel",
+            "office",
+            "answer",
+            "telephone",
+            "attend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She works as a hotel receptionist.",
+              "world_new": [
+                "works",
+                "hotel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Researchers or members of the practice staff, such as receptionists, could also introduce the research.",
+    "Initially the receptionists were the ones to say that we have a nurse practitioner 'this is what a nurse practitioner is', because patients don't know.",
+    "A wish was expressed that all results should be given in person and only by qualified staff, not by receptionists.",
+    "In the case of input, the actor is further restricted to be a receptionist.",
+    "Both the set of receptionists and the set of external actors may grow as the configuration evolves.",
+    "So the receptionists, once we educated them, they then educated the patients.",
+    "Participants included 46 general practitioners, 9 practice managers and 1 receptionist.",
+    "It does require extra staff-doctors, a full-time nurse and receptionist; nevertheless the results are encouraging."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "recent",
+    "recently",
+    "receptacle",
+    "reception",
+    "receptionist",
+    "receptive",
+    "recess",
+    "recession",
+    "recharge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450823_2941a228ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450823_7ea4fbeb0f_o.png",
+      "id_image": "receptionist_1060305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380907_805cd33cd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380907_24d7113bb3_o.png",
+      "id_image": "receptionist_2644578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450753_b38a5a873a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450753_a15b955c71_o.png",
+      "id_image": "receptionist_4088053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450708_41b102b337_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450708_0ebcebe6b5_o.png",
+      "id_image": "receptionist_4125088"
+    }
+  ]
+}

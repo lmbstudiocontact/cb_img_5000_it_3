@@ -1,0 +1,102 @@
+{
+  "english": "photograph",
+  "phat_am": "ˈfəutəɡraːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bức ảnh",
+          "definition": "(abbreviation photoˈfoutou) a picture taken by a camera, using the action of light on film or plates covered with certain chemicals",
+          "world_new": [
+            "picture",
+            "camera",
+            "action",
+            "light",
+            "film",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I took a lot of photographs during my holiday.",
+              "world_new": [
+                "I",
+                "my",
+                "holiday"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chụp ảnh",
+          "definition": "to take a photograph or photographs of (a person, thing etc)",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spends all his time photographing old buildings.",
+              "world_new": [
+                "time",
+                "old"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Where several photographs make up a plate, they should be accurately mounted on card and labelled.",
+    "The narrative is supported throughout by numerous photographs that depict environments that were approved or rejected by the older research participants and their families.",
+    "The channel radius is obtained from optical images of the channel, that are photographed with another digital camera again 10 ns exposure time!.",
+    "They visited the mining areas, under the guidance of one of the main proprietors and made a gesture, duly photographed, towards panning for gold themselves.",
+    "We next corrected the large-scale variation in brightness found in most fundus photographs.",
+    "Reproduction of some of the photographs is poor.",
+    "A comprehensive introduction to all these topics is accompanied by excellent illustrations and photographs, with a very useful 'further reading' list in each section.",
+    "Long-term study of solar radiation regimes in a tropical wet forest using quantum sensors and hemispherical photographs."
+  ],
+  "list_see_also": [
+    "photographer",
+    "photographic",
+    "photography"
+  ],
+  "list_browse": [
+    "phonograph",
+    "photo",
+    "photocopier",
+    "photocopy",
+    "photograph",
+    "photographer",
+    "photographic",
+    "photography",
+    "photometer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349511_4cecbeff5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349511_dcaa6421a7_o.png",
+      "id_image": "photograph_238303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394262_63fee50f9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394262_7f19bc8161_o.png",
+      "id_image": "photograph_238322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464133_4f17d0fccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464133_6af36afb0e_o.png",
+      "id_image": "photograph_238348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086645_979c000cca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086645_3ae5f3e7c9_o.png",
+      "id_image": "photograph_238350"
+    }
+  ]
+}

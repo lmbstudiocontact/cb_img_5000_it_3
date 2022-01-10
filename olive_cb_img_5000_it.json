@@ -1,0 +1,125 @@
+{
+  "english": "olive",
+  "phat_am": "ˈoliv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả ô liu",
+          "definition": "a type of edible fruit which is used as a garnish etc and which gives oil used for cooking",
+          "world_new": [
+            "type",
+            "edible",
+            "fruit",
+            "garnish",
+            "oil",
+            "cooking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put an olive in her cocktail",
+              "world_new": [
+                "cocktail"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) an olive tree",
+              "world_new": [
+                "tree"
+              ]
+            },
+            {
+              "ex_of_definition": "olive oil.",
+              "world_new": [
+                "oil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây ô liu",
+          "definition": "the tree on which it grows",
+          "world_new": [
+            "tree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a grove of olives."
+            }
+          ]
+        },
+        {
+          "mean_english": "màu ô liu",
+          "definition": "(also olive-green) the brownish-green or yellowish-green colour/color of the fruit",
+          "world_new": [
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They painted the room olive",
+              "world_new": [
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) She wore an olive-green hat.",
+              "world_new": [
+                "hat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gỗ ô liu",
+          "definition": "(also olive-wood) the wood of the tree.",
+          "world_new": [
+            "wood",
+            "tree"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We expected that a large frugivore like the olive baboon disperses seeds of a wide range of sizes undamaged, including large ones.",
+    "Fruits and olives were cultivated on the land north of the village.",
+    "Other crops such as olives and vines are in surplus already.",
+    "Where olives with hosts were offered, the fly larvae were at a suitable stage for parasitoid oviposition (second and third instars).",
+    "Additional family support is provided by fishing, and farming sheep, grapes and olives.",
+    "Both cultivated grapes and olives, and both participated in the market for agricultural labour and in the rental market for land.",
+    "They not only fought without a moment's rest for 10 days on end, by night and day, but they lived upon bread and olives.",
+    "Evaluating the impact of soil management on soil loss in olive orchards."
+  ],
+  "list_see_also": [
+    "olive branch"
+  ],
+  "list_browse": [
+    "old maid",
+    "Old Testament",
+    "old wives’ tale",
+    "old-fashioned",
+    "olive",
+    "olive branch",
+    "Olympic",
+    "ombudsman",
+    "omelette"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702129_c48ca4b412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702129_7945bf8d10_o.png",
+      "id_image": "olive_328039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702094_3c753a785f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702094_224b50dfec_o.png",
+      "id_image": "olive_3461970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347246_c41d4c6833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347246_7a8b051633_o.png",
+      "id_image": "olive_5830518"
+    }
+  ]
+}

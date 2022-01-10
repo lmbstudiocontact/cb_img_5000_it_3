@@ -1,0 +1,206 @@
+{
+  "english": "print",
+  "phat_am": "print",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu vết",
+          "definition": "a mark made by pressure",
+          "world_new": [
+            "mark",
+            "pressure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a footprint",
+              "world_new": [
+                "footprint"
+              ]
+            },
+            {
+              "ex_of_definition": "a fingerprint.",
+              "world_new": [
+                "fingerprint"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chữ in",
+          "definition": "printed lettering",
+          "world_new": [
+            "lettering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t read the print in this book.",
+              "world_new": [
+                "I",
+                "read",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ảnh dương bản",
+          "definition": "a photograph made from a negative",
+          "world_new": [
+            "photograph",
+            "negative"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I entered three prints for the photographic competition.",
+              "world_new": [
+                "I",
+                "photographic",
+                "competition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản in",
+          "definition": "a printed reproduction of a painting or drawing",
+          "world_new": [
+            "reproduction",
+            "painting",
+            "drawing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a print of Van Gogh’s ‘Sunflowers’."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "in",
+          "definition": "to mark (letters etc) on paper (by using a printing press etc)",
+          "world_new": [
+            "mark",
+            "paper",
+            "printing",
+            "press"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The invitations will be printed on white paper.",
+              "world_new": [
+                "white",
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuất bản",
+          "definition": "to publish (a book, article etc) in printed form",
+          "world_new": [
+            "publish",
+            "book",
+            "article",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His new novel will be printed next month.",
+              "world_new": [
+                "novel",
+                "month"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rửa ảnh",
+          "definition": "to produce (a photographic image) on paper",
+          "world_new": [
+            "produce",
+            "photographic",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He develops and prints his own photographs."
+            }
+          ]
+        },
+        {
+          "mean_english": "in hoa",
+          "definition": "to mark designs on (cloth etc)",
+          "world_new": [
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When the cloth has been woven, it is dyed and printed.",
+              "world_new": [
+                "cloth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viết hoa",
+          "definition": "to write, using capital letters",
+          "world_new": [
+            "capital"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please print your name and address.",
+              "world_new": [
+                "your",
+                "name",
+                "address"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "printer",
+    "printing",
+    "printing press",
+    "printout",
+    "in / out of print"
+  ],
+  "list_browse": [
+    "principality",
+    "principally",
+    "principle",
+    "principles",
+    "print",
+    "printer",
+    "printing",
+    "printing press",
+    "printout"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440078_45ec72fdb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440078_d429083bfa_o.png",
+      "id_image": "print_1193526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440038_73eb41f082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440038_ff376ffa5d_o.png",
+      "id_image": "print_1934012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061855_982c5a18e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061855_30227c674c_o.png",
+      "id_image": "print_5305185"
+    }
+  ]
+}

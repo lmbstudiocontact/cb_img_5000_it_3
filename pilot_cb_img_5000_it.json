@@ -1,0 +1,119 @@
+{
+  "english": "pilot",
+  "phat_am": "ˈpailət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phi công",
+          "definition": "a person who flies an aeroplane/airplane",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pilot and crew were all killed in the air crash.",
+              "world_new": [
+                "crew",
+                "air",
+                "crash"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoa tiêu",
+          "definition": "a person who directs a ship in and out of a harbour/harbor, river, or coastal waters.",
+          "world_new": [
+            "person",
+            "ship",
+            "river",
+            "coastal",
+            "waters"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thí điểm",
+          "definition": "experimental",
+          "world_new": [
+            "experimental"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pilot scheme (= one done on a small scale, eg to solve certain problems before a larger, more expensive project is started).",
+              "world_new": [
+                "scheme",
+                "small",
+                "scale",
+                "eg",
+                "solve",
+                "certain",
+                "expensive",
+                "project"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lái, điều khiển",
+          "definition": "to guide as a pilot",
+          "world_new": [
+            "guide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He piloted the ship/plane."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We gave them test results and short user profiles which were built with anonymised data from people who took part in pilots.",
+    "A pre-validated questionnaire [12] was adapted to our development of infection model for local use and piloted.",
+    "From their responses, 45 questions were developed, edited for clarity, and piloted.",
+    "I consider and-prefacing in talk that is evidence of one pilot's monitoring and prompting another pilot's conduct.",
+    "Each of the four local authorities involved had already piloted user and carer involvement projects.",
+    "The service was first piloted in 1998 as a means of providing a telephone listening service for (primarily older) people who are lonely and isolated.",
+    "More generally, the healthy behaviour interventions literature strongly supports thorough piloting with the target population to ascertain their particular beliefs and influences.",
+    "The forward section of the fuselage, which would have housed the covered pilot's cockpit and forward observer's cabin, was missing."
+  ],
+  "list_see_also": [
+    "pilot light"
+  ],
+  "list_browse": [
+    "pillar box",
+    "pillion",
+    "pillow",
+    "pillowcase",
+    "pilot",
+    "pilot light",
+    "pimple",
+    "pimpled",
+    "pin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084060_3f652cf9e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084060_345972713a_o.png",
+      "id_image": "pilot_1983300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084045_f4f973691e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084045_841205b3ed_o.png",
+      "id_image": "pilot_4251422"
+    }
+  ]
+}

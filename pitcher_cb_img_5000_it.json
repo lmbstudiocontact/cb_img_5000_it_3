@@ -1,0 +1,85 @@
+{
+  "english": "pitcher",
+  "phat_am": "ˈpitʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cầu thủ ném bóng",
+          "definition": "a person who pitches especially (in baseball) the player who throws the ball.",
+          "world_new": [
+            "person",
+            "player",
+            "ball"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bình; vò",
+          "definition": "a large jug",
+          "world_new": [
+            "large",
+            "jug"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pitcher of water.",
+              "world_new": [
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A good pitcher has a whole array of pitches in his arsenal.",
+    "The preparation of a meal involves many things - spoons, dishes, glasses, pitchers - and a certain facility in the use of those things.",
+    "Schilling is the 14th pitcher to reach the milestone.",
+    "Of course, although firing has decreased, it is still heavy, and if a pitcher is taken to the well too often, sooner or later it breaks.",
+    "The pitcher is of quite simple design, but is an article of great attraction to visitors.",
+    "The pitcher's mouth is covered by a gauze piece.",
+    "The chorus begins with an evocation of a pastoral scene, a flowing fountain where women come to dip their pitchers for water, in language that is also flowing.",
+    "For example, a woman tips a pitcher over a glass in one frame, and in the next, she is gone and the glass is full."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pitch",
+    "pitch-black",
+    "-pitched",
+    "pitched battle",
+    "pitcher",
+    "pitchfork",
+    "piteous",
+    "piteously",
+    "piteousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082135_c14b9c96bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082135_6711e1a921_o.png",
+      "id_image": "pitcher_221858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459368_6b88af7f49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459368_e191650474_o.png",
+      "id_image": "pitcher_2235963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389547_d4126da483_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389547_137b8a8b16_o.png",
+      "id_image": "pitcher_527764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082070_66289e4287_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082070_f988d75130_o.png",
+      "id_image": "pitcher_904616"
+    }
+  ]
+}

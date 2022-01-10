@@ -1,0 +1,126 @@
+{
+  "english": "park",
+  "phat_am": "paːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công viên",
+          "definition": "a public piece of ground with grass and trees",
+          "world_new": [
+            "public",
+            "piece",
+            "ground",
+            "grass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children go to the park every morning to play.",
+              "world_new": [
+                "morning",
+                "play"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bãi",
+          "definition": "the land surrounding a large country house",
+          "world_new": [
+            "land",
+            "surrounding",
+            "large",
+            "country",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Deer run wild in the park surrounding the mansion.",
+              "world_new": [
+                "run",
+                "wild",
+                "surrounding",
+                "mansion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đỗ xe",
+          "definition": "to stop and leave (a motor car etc) for a time",
+          "world_new": [
+            "stop",
+            "leave",
+            "motor",
+            "car",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He parked in front of our house.",
+              "world_new": [
+                "front",
+                "our",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most tourists visit the parks in glass-bottom boats.",
+    "Peace parks are a building block in this process, not only in our region, but potentially in the entire world.",
+    "Ideally, night parking takes place just before or at the onset of the rains.",
+    "Arguments about the perceived violation of authenticity as well as aesthetic values and standards are often employed to resist suggestions for heritage theme parks.",
+    "A total of 416 usable surveys were evenly split between resident and foreign visitors to the two parks.",
+    "A total of 644 soil samples were examined from the nine parks (table 1).",
+    "The 2001 aircraft parking site near the top of the island is also shown with a cross.",
+    "The policy of protection has favoured the establishment of national parks and game reserves, supported by legislation that prohibits or restricts hunting outside these areas."
+  ],
+  "list_see_also": [
+    "parking lot",
+    "parking",
+    "parking meter"
+  ],
+  "list_browse": [
+    "parenthood",
+    "parenting",
+    "pariah",
+    "parish",
+    "park",
+    "parking",
+    "parking lot",
+    "parking meter",
+    "parliament"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068915_790de22a4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068915_7e56880103_o.png",
+      "id_image": "park_1381963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376917_1f4642bc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376917_beb30b6fba_o.png",
+      "id_image": "park_1911298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068830_f427595c91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068830_4df4ab3098_o.png",
+      "id_image": "park_5389811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068980_69c9de947c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068980_ed21a61f3b_o.png",
+      "id_image": "park_553941"
+    }
+  ]
+}

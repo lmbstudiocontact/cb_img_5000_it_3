@@ -1,0 +1,87 @@
+{
+  "english": "plaque",
+  "phat_am": "plaːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tấm; bản",
+          "definition": "a plate of metal etc fixed to a wall etc as a memorial",
+          "world_new": [
+            "plate",
+            "metal",
+            "fixed",
+            "wall",
+            "memorial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His name was inscribed on a brass plaque.",
+              "world_new": [
+                "name",
+                "brass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ sứ để trang trí trên tường",
+          "definition": "a china etc ornament for fixing on the wall.",
+          "world_new": [
+            "china",
+            "ornament",
+            "wall"
+          ]
+        },
+        {
+          "mean_english": "bựa răng",
+          "definition": "a deposit of saliva and bacteria which forms on the teeth",
+          "world_new": [
+            "deposit",
+            "saliva",
+            "bacteria"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Plaque damages the enamel of your teeth.",
+              "world_new": [
+                "enamel",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The closely packed arrays of junctional channels are commonly called plaques.",
+    "The intracellular keratin network (intermediate filaments) of keratinocytes of the epidermis is connected to electron-dense plaques (hemidesmosmes) at the basal side of the keratinocytes abutting the basement membrane.",
+    "The iconography of these headdresses and the profile reptilian headdresses of leaning-lord plaques may denote interaction with members of a foreign elite.",
+    "Neuritic plaques contain extracellular deposits of 4 as abundant amyloid fibrils intermixed with nonfibrillar forms of this peptide, and also contain degenerating axons and dendrites (neurites).",
+    "Positive plaques were isolated and purified to a homogeneous stock.",
+    "A population of medium-sized plaques continued to show strong labeling in light-adapted retina single arrowheads!.",
+    "In the experiments reported here there is no opportunity for competitive optimization because of the subdivision of populations (single plaques) and, therefore, the opportunity for divergence between groups.",
+    "At present, the four 1993 replacement headboards carry plaques referring to them as replicas, which is not quite accurate."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "planning",
+    "plant",
+    "plantation",
+    "planter",
+    "plaque",
+    "plasma",
+    "plasma screen",
+    "plaster",
+    "plasterer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697489_2895327552_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697489_b25a2300bd_o.png",
+      "id_image": "plaque_1471807"
+    }
+  ]
+}

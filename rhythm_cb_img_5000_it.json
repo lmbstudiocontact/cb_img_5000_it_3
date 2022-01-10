@@ -1,0 +1,108 @@
+{
+  "english": "rhythm",
+  "phat_am": "ˈriðəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhịp điệu",
+          "definition": "a regular, repeated pattern of sounds, stresses or beats in music, poetry etc",
+          "world_new": [
+            "regular",
+            "repeated",
+            "pattern",
+            "music",
+            "poetry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Just listen to the rhythm of those drums",
+              "world_new": [
+                "listen"
+              ]
+            },
+            {
+              "ex_of_definition": "complicated rhythms.",
+              "world_new": [
+                "complicated"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nhịp nhàng",
+          "definition": "a regular, repeated pattern of movements",
+          "world_new": [
+            "regular",
+            "repeated",
+            "pattern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rowers lost their rhythm.",
+              "world_new": [
+                "lost",
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả năng hát có nhịp điệu",
+          "definition": "an ability to sing, move etc with rhythm",
+          "world_new": [
+            "ability",
+            "sing",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That girl has got rhythm.",
+              "world_new": [
+                "girl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The features of a motive are intervals and rhythms, combined to produce a memorable shape or contour...",
+    "Greek folk rhythms can be energetic, but are generally not fast; tempi are mostly moderate or slow.",
+    "Frontal midline theta rhythms reflect alternative activation of prefrontal cortex and anterior cingulate cortex in humans.",
+    "The piece veers between representation of street environments at one extreme, and abstract, looping rhythms at the other.",
+    "One soon tires of the over-frequent diminished sevenths, the excessively stereotyped rhythms and the unrelieved parataxis, one short, selfcontained phrase repeatedly coming up after another.",
+    "The percussion rhythms migrate into cellos and basses, acquiring pitches.",
+    "Pitch and interval invariance are important strategies for creating continuity across the rapidly-changing textures and rhythms.",
+    "A variety of rhythms are related to memory functions."
+  ],
+  "list_see_also": [
+    "rhythmic",
+    "rhythmically"
+  ],
+  "list_browse": [
+    "rhododendron",
+    "rhombus",
+    "rhubarb",
+    "rhyme",
+    "rhythm",
+    "rhythmic",
+    "rhythmically",
+    "rib",
+    "rib cage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462433_86db1d706c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462433_cc9355bf5f_o.png",
+      "id_image": "rhythm_2620560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347631_61290bf0e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347631_ecd0616c7a_o.png",
+      "id_image": "rhythm_3475357"
+    }
+  ]
+}

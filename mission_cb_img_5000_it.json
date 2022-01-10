@@ -1,0 +1,123 @@
+{
+  "english": "mission",
+  "phat_am": "ˈmiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sứ mệnh",
+          "definition": "a purpose for which a person or group of people is sent",
+          "world_new": [
+            "purpose",
+            "person",
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His mission was to seek help.",
+              "world_new": [
+                "seek",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mục đích",
+          "definition": "the purpose for which (one feels) one was born",
+          "world_new": [
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He regards it as his mission to help the cause of world peace.",
+              "world_new": [
+                "regards",
+                "help",
+                "cause",
+                "world",
+                "peace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phái đoàn",
+          "definition": "a group of people sent to have political and/or business discussions",
+          "world_new": [
+            "group",
+            "people",
+            "political",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Chinese trade mission.",
+              "world_new": [
+                "trade"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tòa công sứ",
+          "definition": "a place where missionaries live.",
+          "world_new": [
+            "place",
+            "live"
+          ]
+        },
+        {
+          "mean_english": "hội truyền giáo",
+          "definition": "a group of missionaries",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Catholic mission."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "missionary"
+  ],
+  "list_browse": [
+    "miss the boat",
+    "misshapen",
+    "missile",
+    "missing",
+    "mission",
+    "missionary",
+    "misspell",
+    "mist",
+    "mist over"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340901_ca042c89a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340901_eb13c30f17_o.png",
+      "id_image": "mission_1485075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340861_c9a266b720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340861_dcc628e98c_o.png",
+      "id_image": "mission_3775347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385767_910905b856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385767_ec4dc68922_o.png",
+      "id_image": "mission_4577418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455733_7e586e20ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455733_dfa36fdb35_o.png",
+      "id_image": "mission_780578"
+    }
+  ]
+}

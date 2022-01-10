@@ -1,0 +1,63 @@
+{
+  "english": "plank",
+  "phat_am": "plӕŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tấm ván",
+          "definition": "a long, flat piece of wood",
+          "world_new": [
+            "long",
+            "flat",
+            "piece",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The floor was made of planks.",
+              "world_new": [
+                "floor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One of the main planks for organic production is that only carefully and narrowly defined pesticides are allowed.",
+    "Getting the competition framework right is one of the main planks of economic growth and prosperity.",
+    "Let us show that all planks are nice and smart.",
+    "A short time ago you had to drive up two planks.",
+    "More obviously, the two large planks in the bottom left corner extend beyond the frame suggesting a world that continues beyond its margins.",
+    "The hospital was designed for seventy-five patients, but there were over 200 patients lying on bare planks closely pressed one to the other.",
+    "In practical application, the constant length links are turned into metal planks, and a rotational shaft and bearings are mounted on the intersection of two constant length links.",
+    "However, it is not a narrow issue to take away one of the central planks of the legal profession as it operates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plan ahead",
+    "plane",
+    "planet",
+    "planetary",
+    "plank",
+    "plankton",
+    "planner",
+    "planning",
+    "plant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343256_c445512a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343256_dfbc85c85d_o.png",
+      "id_image": "planks_972738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698544_ed238764af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698544_2deb8d14da_o.png",
+      "id_image": "plank_972756"
+    }
+  ]
+}

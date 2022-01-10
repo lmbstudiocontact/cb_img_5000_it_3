@@ -1,0 +1,57 @@
+{
+  "english": "respiratory",
+  "phat_am": "ˈrespərətəri",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc hô hấp",
+          "definition": "related to breathing",
+          "world_new": [
+            "related"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "respiratory diseases."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is of particular importance in recognizing respiratory cancers linked to inhaled dusts.",
+    "The respiratory burst is a crucial event in phagocytes aimed at the destruction of ingested particles.",
+    "Modulations of respiratory and laryngeal activity associated with changes in vocal intensity.",
+    "Characterizing social networks of importance for the propagation of diseases transmitted through respiratory droplets.",
+    "Early versus delayed selective surfactant treatment for neonatal respiratory distress syndrome.",
+    "There is very little research to inform practice in the use of antipyretics in upper respiratory tract infection.",
+    "The findings from this case study illustrate the value and potential for nurses to lead and co-ordinate the provision of a respiratory service to patients.",
+    "Spread of enteroviruses occurs via the faecal-oral and respiratory routes, and via hands and fomites, with the dominant mode of spread depending on the circumstances."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "respectively",
+    "respects",
+    "respiration",
+    "respirator",
+    "respiratory",
+    "respiratory system",
+    "respire",
+    "respite",
+    "resplendence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705379_666aba07c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705379_4ab21cfac6_o.png",
+      "id_image": "respiratory_2869091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350821_a1b0348da7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350821_d93bca0f6f_o.png",
+      "id_image": "respiratory_4310582"
+    }
+  ]
+}

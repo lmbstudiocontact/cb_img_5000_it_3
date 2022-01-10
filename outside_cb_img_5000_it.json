@@ -1,0 +1,188 @@
+{
+  "english": "outside",
+  "phat_am": "ˈautsaid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bề ngoài",
+          "definition": "the outer surface",
+          "world_new": [
+            "outer",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The outside of the house was painted white.",
+              "world_new": [
+                "house",
+                "white"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "phía ngoài",
+          "definition": "of, on, or near the outer part of anything",
+          "world_new": [
+            "outer",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the outside door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từ bên ngoài",
+          "definition": "not part of (a group, one’s work etc)",
+          "world_new": [
+            "part",
+            "group",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We shall need outside help",
+              "world_new": [
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "She has a lot of outside interests."
+            }
+          ]
+        },
+        {
+          "mean_english": "mỏng manh",
+          "definition": "(of a chance etc) very small",
+          "world_new": [
+            "chance",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has an outside chance of winning the race.",
+              "world_new": [
+                "chance",
+                "winning",
+                "race"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "bên ngoài",
+          "definition": "out of, not in a building etc",
+          "world_new": [
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went outside"
+            },
+            {
+              "ex_of_definition": "He stayed outside."
+            }
+          ]
+        },
+        {
+          "mean_english": "bề ngoài",
+          "definition": "on the outside",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house looked beautiful outside.",
+              "world_new": [
+                "house",
+                "beautiful"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "ngoài",
+          "definition": "on the outer part or side of; not inside or within",
+          "world_new": [
+            "outer",
+            "part",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stood outside the house",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "He did that outside working hours."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The dancers returned because they could use it as a tool to formulate body actions which were outside their normal performance routines.",
+    "It is possible that these pieces were used in ritual contexts outside the funerary context, then later placed in the tomb as an offering.",
+    "There is an increasing need for assessments of the status of monkey populations both within and outside protected areas.",
+    "In contrast, in traditional design, the role of functions and advantages of functional representation and manipulation are often unclear to researchers outside of the community.",
+    "Rental income and other personal property remained outside the separate estate and subject to disposal by the trustee at his discretion.",
+    "Outside a certain distance between utterances, the coherence drops off and is highly scattered.",
+    "Some values of the maximum speed of the vertical velocity inside and outside the front are also given in table 1.",
+    "If spatial understanding is regarded as outside conceptual structure, why is social understanding regarded as inside conceptual structure?"
+  ],
+  "list_see_also": [
+    "outsider",
+    "at the outside",
+    "outside in"
+  ],
+  "list_browse": [
+    "outrageousness",
+    "outright",
+    "outset",
+    "outshine",
+    "outside",
+    "outside in",
+    "outsider",
+    "outsize",
+    "outskirts"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341251_fa8d462072_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341251_1d22a81f3a_o.png",
+      "id_image": "outside_1827229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696459_72077806c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696459_9ab1672208_o.png",
+      "id_image": "outside_1828569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386187_391e00844f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386187_ba0a99d76a_o.png",
+      "id_image": "outside_5029613"
+    }
+  ]
+}

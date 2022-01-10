@@ -1,0 +1,61 @@
+{
+  "english": "phantom",
+  "phat_am": "ˈfantəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bóng ma",
+          "definition": "a ghost",
+          "world_new": [
+            "ghost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The castle is said to be haunted by a phantom.",
+              "world_new": [
+                "castle",
+                "haunted"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Daily checks by radiographers on the unit can be done quickly and easily with a cube phantom (which assumes the couch to be level).",
+    "It is not an implausible position on its own, but it seems to be in conflict with the case of paralyzed phantom limb patients.",
+    "Pitches that exceed the piano's tessitura hover, canopy-like, over the resonance: phantom pitches produced through the interaction of harmonics.",
+    "What if, instead of adding artificial connectivity between pairs of objects, a phantom object were introduced with which each real object was artificially connected?",
+    "Using a suitable phantom, it is possible to assess a number of standard image quality characteristics.",
+    "The \"single white drop of blood\" is a phantom sign, imagined and not empirically visible.",
+    "The interface is parameterized by an encoding, via phantom types, of the subtyping hierarchy.",
+    "The phantom includes a 'flood field' module for image uniformity assessment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pewter",
+    "pH",
+    "phagocyte",
+    "phalanx",
+    "phantom",
+    "Pharaoh",
+    "pharmaceutical",
+    "pharmacist",
+    "pharmacy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350446_1832f61809_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350446_72edb0bc4d_o.png",
+      "id_image": "phantom_675147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395227_7ed850710e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395227_85ee1d48f4_o.png",
+      "id_image": "phantom_821772"
+    }
+  ]
+}

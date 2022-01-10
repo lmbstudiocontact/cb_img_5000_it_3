@@ -1,0 +1,71 @@
+{
+  "english": "quest",
+  "phat_am": "kwest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự săn lùng",
+          "definition": "a search",
+          "world_new": [
+            "search"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the quest for gold",
+              "world_new": [
+                "gold"
+              ]
+            },
+            {
+              "ex_of_definition": "the quest for truth.",
+              "world_new": [
+                "truth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The problem went beyond the deficiencies of any particular ideology; it was inherent in the quest for ideological closure.",
+    "Because larvae that hatch from the same egg mass often quest in clusters, several of them may attach to the same individual host.",
+    "The genealogical quest in this otherwise well-researched and very interesting book induces a rather too teleological reading of the works studied.",
+    "This quest was motivated by a sociocultural inclination towards learning, which places instructive dialogue at the core of successful teaching and learning.",
+    "For most provincial ministries of health, it has been the focus of quests for containment, rationalisation and privatisation.",
+    "But they also remained thwarted in their quest for upward mobility.",
+    "Other variables (average temperature, three-month precipitation, hind foot length) were not significantly correlated with questing height.",
+    "This quest for newness of subject has led modern verse into strange paths."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "quell",
+    "quench",
+    "quenching",
+    "query",
+    "quest",
+    "question",
+    "question mark",
+    "question tag",
+    "question-master"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389152_51334c848b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389152_3bf9df5a7e_o.png",
+      "id_image": "quest_1469848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081580_f9625f2700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081580_241b53d2ff_o.png",
+      "id_image": "quest_2671454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344131_f97c5a2699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344131_575063b232_o.png",
+      "id_image": "quest_4176399"
+    }
+  ]
+}

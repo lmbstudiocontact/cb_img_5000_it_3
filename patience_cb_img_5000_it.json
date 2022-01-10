@@ -1,0 +1,88 @@
+{
+  "english": "patience",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính kiên trì",
+          "definition": "the ability or willingness to be patient",
+          "world_new": [
+            "ability",
+            "willingness",
+            "patient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Patience is a virtue",
+              "world_new": [
+                "virtue"
+              ]
+            },
+            {
+              "ex_of_definition": "The long wait was testing his patience.",
+              "world_new": [
+                "long",
+                "wait"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lối đánh bài paxiên",
+          "definition": "a card game usually played by one person",
+          "world_new": [
+            "card",
+            "game",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She often plays patience."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, the road to fruitful negotiations with public institutions is often long and winding, and must be traveled with patience.",
+    "But through his patience, endurance and practical commitment to innovation, the latter had proved the midwife to their birth.",
+    "So too would cheerfulness and patience in the face of absolute disaster.",
+    "Consider that with tolerance and patience, we godly demons may breed a noble world in a few hundred generations or so.",
+    "It risks being boring and trying the audience's patience, but succeeds in drawing humour from a blend of anticipation and surprise.",
+    "Patience is a personality trait + an attribute or ability.",
+    "This patience derives from understanding that the intervention will have little impact if it is forcibly imposed, an insight that develops during a speaker's life.",
+    "For example, application forms are not sent and not processed or processed with exceedingly long delays in the hope that the applicant loses patience."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pathologically",
+    "pathologist",
+    "pathology",
+    "pathway",
+    "patience",
+    "patient",
+    "patiently",
+    "patio",
+    "patois"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372587_1884c268e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372587_7a5886a2ec_o.png",
+      "id_image": "patience_2244708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682889_8dd5971b6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682889_9b697ccf65_o.png",
+      "id_image": "patience_5201548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442933_66261f1635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442933_5ca04151d8_o.png",
+      "id_image": "patience_708653"
+    }
+  ]
+}

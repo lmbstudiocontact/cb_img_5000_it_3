@@ -1,0 +1,90 @@
+{
+  "english": "replace",
+  "phat_am": "rəˈpleis",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thay thế",
+          "definition": "to put, use etc (a person, thing etc), or to be put, used etc, in place of another",
+          "world_new": [
+            "person",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I must replace that broken lock",
+              "world_new": [
+                "I",
+                "broken",
+                "lock"
+              ]
+            },
+            {
+              "ex_of_definition": "He replaced the cup he broke with a new one",
+              "world_new": [
+                "cup",
+                "broke"
+              ]
+            },
+            {
+              "ex_of_definition": "Cars have replaced horses as the normal means of transport.",
+              "world_new": [
+                "normal",
+                "means",
+                "transport"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt lại chỗ cũ",
+          "definition": "to put (something) back where it was",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please replace the books on the shelves."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "0, 1 or 2), he suggested replacing two blocks with nine plots by six blocks with three.",
+    "However, the following proposition shows that the constant 1/6 in the density assumption cannot be replaced with a smaller constant.",
+    "In so doing, she has replaced the musical world of the area - 'stagey stuff' - with that of her childhood.",
+    "While the character was absent, another character removed the object from the location, and replaced it with a different object.",
+    "Missing responses (5.6% of all data points) were replaced as before, and the data analysed in the same manner as before.",
+    "In many of these cases they could be replaced by sufficiently strong approximate isoperimetric results [15, 23, 28].",
+    "The olives (four per container) were replaced every other day.",
+    "Their new name replaces a contentious vowel with an arrowhead."
+  ],
+  "list_see_also": [
+    "replaceable",
+    "replacement"
+  ],
+  "list_browse": [
+    "repetition",
+    "repetitive",
+    "repetitively",
+    "repetitiveness",
+    "replace",
+    "replaceable",
+    "replacement",
+    "replay",
+    "replenish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678689_c4895da23f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678689_5ae6942779_o.png",
+      "id_image": "replace_4776514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368417_ec8cc33572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368417_60976f305f_o.png",
+      "id_image": "replace_536914"
+    }
+  ]
+}

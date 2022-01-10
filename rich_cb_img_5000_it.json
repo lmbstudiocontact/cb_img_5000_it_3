@@ -1,0 +1,118 @@
+{
+  "english": "rich",
+  "phat_am": "ritʃ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "giàu có",
+          "definition": "wealthy; having a lot of money, possessions etc",
+          "world_new": [
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rich man/country."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều",
+          "definition": "(with in) having a lot (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This part of the country is rich in coal.",
+              "world_new": [
+                "part",
+                "country",
+                "coal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có giá trị",
+          "definition": "valuable",
+          "world_new": [
+            "valuable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rich reward",
+              "world_new": [
+                "reward"
+              ]
+            },
+            {
+              "ex_of_definition": "rich materials."
+            }
+          ]
+        },
+        {
+          "mean_english": "giàu chất dinh dưỡng",
+          "definition": "containing a lot of fat, eggs, spices etc",
+          "world_new": [
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rich sauce.",
+              "world_new": [
+                "sauce"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đắt tiền",
+          "definition": "(of clothes, material etc) very beautiful and expensive.",
+          "world_new": [
+            "clothes",
+            "material",
+            "beautiful",
+            "expensive"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The notion of type system is much richer.",
+    "Under this mechanism, a citizen who had been appointed to undertake a public expense could challenge another richer citizen to undertake it himself.",
+    "Another is to arrange identical schedules in separate components that are followed by different components signaling reinforcer rates that are either richer or leaner.",
+    "Such enhancements lead to richer forms of negotiation than have hitherto been possible in game-theoretic or heuristic-based models.",
+    "The authors, therefore, are at pains to justify their ontological riches.",
+    "Developing richer ontologies for formal approaches to argumentation seems like a potentially important step in increasing the uptake of formal approaches in applications.",
+    "Overall, the cotton-producing area is among the richest areas in the country, with an estimated household income approximately five times the national average.",
+    "Here, the richer the area, the more dangerous it seems to be for journalists."
+  ],
+  "list_see_also": [
+    "richly",
+    "richness",
+    "riches"
+  ],
+  "list_browse": [
+    "ribonucleic acid",
+    "ribosomal",
+    "ribosome",
+    "rice",
+    "rich",
+    "riches",
+    "richly",
+    "richness",
+    "Richter scale"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462008_3d806a9c65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462008_404892878b_o.png",
+      "id_image": "rich_1674930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084650_b2efd68f4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084650_78cac12857_o.png",
+      "id_image": "rich_983008"
+    }
+  ]
+}

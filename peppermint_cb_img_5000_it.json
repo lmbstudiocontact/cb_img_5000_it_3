@@ -1,0 +1,77 @@
+{
+  "english": "peppermint",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dầu bạc hà",
+          "definition": "a flavouring/flavoring taken from a type of plant and used in sweets etc",
+          "world_new": [
+            "type",
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) peppermint tea.",
+              "world_new": [
+                "tea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẹo bạc hà",
+          "definition": "(sometimes abbreviated to mint) a sweet flavoured/flavored with peppermint",
+          "world_new": [
+            "sweet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The little boy had a bag of peppermints.",
+              "world_new": [
+                "boy",
+                "bag"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They contain only three ingredients: sugar, glucose, and peppermint oil.",
+    "If disturbed during the day, it emits a milky substance with a smell resembling peppermint.",
+    "Could we not change the taste to peppermint or something more pleasant?",
+    "A 2002 systemic review of herbal products found that several herbs, including peppermint and caraway, have anti-dyspeptic effects for non-ulcer dyspepsia with encouraging safety profiles.",
+    "Pulegone is a clear colorless oily liquid and has a pleasant odor similar to pennyroyal, peppermint and camphor.",
+    "You name it, bananas, peppermint, sunflowers, any smell that you can think of, they had it in a vial.",
+    "The patient's most striking symptom is confusing various smells (e.g. body odor for peppermint).",
+    "Peppermint is commonly used to soothe or treat symptoms such as nausea, vomiting, abdominal pain, indigestion, irritable bowel, and bloating."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pep talk",
+    "pepper",
+    "pepper mill",
+    "peppercorn",
+    "peppermint",
+    "peppery",
+    "per",
+    "per annum",
+    "per cent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436698_83eb2cf71c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436698_eab72c8995_o.png",
+      "id_image": "peppermint_1087459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676544_8c166272ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676544_33349d7bc1_o.png",
+      "id_image": "peppermint_5304689"
+    }
+  ]
+}

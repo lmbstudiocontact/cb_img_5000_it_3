@@ -1,0 +1,81 @@
+{
+  "english": "nomad",
+  "phat_am": "ˈnəumӕd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người du mục",
+          "definition": "one of a group of people with no permanent home who travel about with their sheep, cattle etc",
+          "world_new": [
+            "group",
+            "people",
+            "permanent",
+            "home",
+            "travel",
+            "their",
+            "sheep",
+            "cattle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many of the people of central Asia are nomads.",
+              "world_new": [
+                "people",
+                "central"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Having learned their lesson from the lean years of the early 1930s, many nomads did not try to rebuild their herds to the former level.",
+    "In bad weather, convicts had to spend the night in nomad tents erected by the locals, in caravansaries, or in empty huts.",
+    "There was a great population density and hardly any nomads.",
+    "In addition, the nomads gained military experience during the war, and their leadership became more sophisticated.",
+    "Without sufficient land, some nomads had little choice but to abandon their centuries-old way of life.",
+    "Compared to camel pastoralists, most of whom were nomads, cattle pastoralists conducted much shorter and more regular pastoral migrations.",
+    "The existing oral traditions and written accounts suggest that conflict between nomads and sedentaries was a recurring theme.",
+    "In the self-organising encampment of motor-homes, where nomads and tourists plug into a bare minimum of infrastructure, an easy going consensus-based polity is made manifest."
+  ],
+  "list_see_also": [
+    "nomadic",
+    "nomadically"
+  ],
+  "list_browse": [
+    "noiseless",
+    "noiselessly",
+    "noisily",
+    "noisy",
+    "nomad",
+    "nomadic",
+    "nomadically",
+    "nominal",
+    "nominate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437408_e4fd02ee6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437408_76a5019a83_o.png",
+      "id_image": "nomad_4664892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437348_7b69500ce0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437348_e060bd6d53_o.png",
+      "id_image": "nomad_5779011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437298_b07f2bcca0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437298_aaa5131d4a_o.png",
+      "id_image": "nomad_5999270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322056_02e18854b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322056_b81fdf3e49_o.png",
+      "id_image": "nomad_5999337"
+    }
+  ]
+}

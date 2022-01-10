@@ -1,0 +1,175 @@
+{
+  "english": "minute",
+  "phat_am": "ˈminit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phút (thời gian)",
+          "definition": "the sixtieth part of an hour; sixty seconds",
+          "world_new": [
+            "sixtieth",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is twenty minutes to eight"
+            },
+            {
+              "ex_of_definition": "The journey takes thirty minutes",
+              "world_new": [
+                "journey"
+              ]
+            },
+            {
+              "ex_of_definition": "a ten-minute delay.",
+              "world_new": [
+                "delay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phút (góc độ)",
+          "definition": "in measuring an angle, the sixtieth part of a degree; sixty seconds",
+          "world_new": [
+            "angle",
+            "sixtieth",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an angle of 47 50′ (= forty-seven degrees, fifty minutes).",
+              "world_new": [
+                "angle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rất ngắn",
+          "definition": "a very short time",
+          "world_new": [
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wait a minute"
+            },
+            {
+              "ex_of_definition": "It will be done in a minute."
+            }
+          ]
+        },
+        {
+          "mean_english": "thời điểm đó",
+          "definition": "a particular point in time",
+          "world_new": [
+            "particular",
+            "point",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "At that minute, the telephone rang.",
+              "world_new": [
+                "telephone"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biên bản",
+          "definition": "the notes taken at a meeting recording what was said",
+          "world_new": [
+            "meeting",
+            "recording"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The chairman asked for this decision to be recorded in the minutes.",
+              "world_new": [
+                "chairman",
+                "decision"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rất nhỏ",
+          "definition": "very small",
+          "world_new": [
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The diamonds in the brooch were minute.",
+              "world_new": [
+                "diamonds",
+                "brooch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỉ mỉ",
+          "definition": "paying attention to the smallest details",
+          "world_new": [
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took minute care over the preparation of the meal.",
+              "world_new": [
+                "care",
+                "preparation",
+                "meal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Her methodology is qualitative documentary analysis, drawing principally on municipal reports and committee minutes, and also some voluntary sector records.",
+    "Strongly recommended; even if you have some of the pieces already there are 25 minutes of unfamiliar music.",
+    "Within minutes, seven men, several dressed in suits and ties, marched in, one by one, and stood in a row behind us.",
+    "They say that there will be a 20 - 40 minute delay for the robot's signals to be transmitted to earth.",
+    "At 25 minutes' duration and requiring 25 players, it is one of the most substantial works ever to come out of the project.",
+    "It monitors the consumption of the substations belonging to the cluster (by summing the consumption reports it receives each minute).",
+    "The interval between immediate and delayed recall was occupied by a test of grip strength taking approximately 1 minute.",
+    "The significant differences that occur are minute: 4% compared to 3% among the typically developing children."
+  ],
+  "list_see_also": [
+    "minute hand",
+    "the minute (that)",
+    "to the minute",
+    "up to the minute"
+  ],
+  "list_browse": [
+    "minstrel",
+    "mint",
+    "minuet",
+    "minus",
+    "minute",
+    "minute hand",
+    "minutely",
+    "minuteness",
+    "miracle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341461_0e5b76ed02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341461_45fd55e714_o.png",
+      "id_image": "minute_817285"
+    }
+  ]
+}

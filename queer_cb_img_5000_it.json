@@ -1,0 +1,92 @@
+{
+  "english": "queer",
+  "phat_am": "kwiə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đồng tính luyến ái",
+          "definition": "belonging or related to the cultural movement that perceives gender and sexuality as fluid",
+          "world_new": [
+            "related",
+            "cultural",
+            "movement",
+            "gender",
+            "sexuality",
+            "fluid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "queer studies."
+            }
+          ]
+        },
+        {
+          "mean_english": "kỳ quặc",
+          "definition": "odd, strange or unusual",
+          "world_new": [
+            "odd",
+            "strange",
+            "unusual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "queer behaviour/behavior"
+            },
+            {
+              "ex_of_definition": "queer noises in the middle of the night.",
+              "world_new": [
+                "middle",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khó chịu; chóng mặt",
+          "definition": "sick; unwell",
+          "world_new": [
+            "unwell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I do feel a bit queer – perhaps I ate too many oysters.",
+              "world_new": [
+                "I",
+                "feel",
+                "bit",
+                "perhaps",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "queasy",
+    "queen",
+    "queen mother",
+    "queenly",
+    "queer",
+    "queerly",
+    "queerness",
+    "quell",
+    "quench"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081750_ddaa827e23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081750_a12b45e16e_o.png",
+      "id_image": "queer_2534606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459088_0f84c1df1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459088_eab4993768_o.png",
+      "id_image": "queer_2620874"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "panorama",
+  "phat_am": "pӕnəˈraːmə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "toàn cảnh",
+          "definition": "a wide view, of a landscape etc",
+          "world_new": [
+            "wide",
+            "view",
+            "landscape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a wonderful panorama from that hill.",
+              "world_new": [
+                "wonderful",
+                "hill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Despite the audience's mind-blanking walk in the dark, painted panoramas were designed to have a lingering effect upon the viewer.",
+    "His work included portraits, landscapes, scenery, and panoramas.",
+    "He incorporates large panoramas as well as close-up views, with subjects ranging from whales to hummingbirds.",
+    "Panoramas in this projection are meant to be viewed as though the image is wrapped into a sphere and viewed from within.",
+    "Furthermore, the metropolis was an important purveyor of cinematographic spectacle, as witnessed by the popularity of an early genre : the ' ' urban panoramas.",
+    "Once imported, the panorama is mapped, or wallpapered onto the inside of a sphere and a camera is placed precisely at its centre.",
+    "Exploration could be packaged into potent images: in the popular narratives of explorers themselves, the display of artefacts and relics, polar spectacles and panoramas, or a grandiloquent oil on canvas.",
+    "Our theaters have become panoramas and optical shows, in which one peddles dances, fights, horses, fire- and waterworks, and all kinds of fakirs' side-shows."
+  ],
+  "list_see_also": [
+    "panoramic"
+  ],
+  "list_browse": [
+    "Pangaea",
+    "panic",
+    "panicky",
+    "pannier",
+    "panorama",
+    "panoramic",
+    "pansy",
+    "pant",
+    "panther"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450113_e09f6d4b06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450113_2992d1669e_o.png",
+      "id_image": "panorama_305732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072015_0473da1b6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072015_6a18c4182f_o.png",
+      "id_image": "panorama_553532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071995_d93489baa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071995_da55d500a4_o.png",
+      "id_image": "panorama_553538"
+    }
+  ]
+}

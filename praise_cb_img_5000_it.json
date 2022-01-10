@@ -1,0 +1,95 @@
+{
+  "english": "praise",
+  "phat_am": "preiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khen ngợi",
+          "definition": "to express admiration or approval of; to commend",
+          "world_new": [
+            "express",
+            "admiration",
+            "approval",
+            "commend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He praised her singing.",
+              "world_new": [
+                "singing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thờ phụng",
+          "definition": "to glorify (God) by singing hymns etc",
+          "world_new": [
+            "glorify",
+            "singing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Praise the Lord!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tán dương",
+          "definition": "the expression of approval or honour/honor",
+          "world_new": [
+            "expression",
+            "approval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has received a lot of praise for his musical skill.",
+              "world_new": [
+                "musical",
+                "skill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The establishment of these devolved committees with their 'crusading enthusiasm' was later praised officially as a triumph of organisation, devotion, and harmonious cooperation.",
+    "The populace that had gathered for the feast customarily kept a vigil with praises throughout the entire night.",
+    "These excursions into political and economic theory received equal doses of praise and condemnation from critics and readers.",
+    "Because of this, they only take up facts and events that honor and praise the persons concerned.",
+    "For despite its fulsome praise, the note was at its core as much a threat as a compliment.",
+    "Her image left critics free to praise her: to note virility without suggesting that she fitted the usual authorial mould.",
+    "Many of these are humanistic exercises, opportunities to display learning and verbal dexterity in addition to, often rather than, sincere praise.",
+    "Subjects received constant encouragement and praise as well as necessary reminders \"to stay alert\" during the task."
+  ],
+  "list_see_also": [
+    "praiseworthy"
+  ],
+  "list_browse": [
+    "practised",
+    "pragmatic",
+    "pragmatically",
+    "prairie",
+    "praise",
+    "praiseworthy",
+    "pram",
+    "prance",
+    "prank"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445728_67777eb178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445728_799d430554_o.png",
+      "id_image": "praise_5521213"
+    }
+  ]
+}

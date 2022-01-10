@@ -1,0 +1,112 @@
+{
+  "english": "reservation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đặt trước",
+          "definition": "the act of reserving",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the reservation of a room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đặt trước",
+          "definition": "something (eg a table in a restaurant) which has been reserved",
+          "world_new": [
+            "table",
+            "reserved"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you have a reservation, Sir?"
+            }
+          ]
+        },
+        {
+          "mean_english": "sự e dè",
+          "definition": "a doubt",
+          "world_new": [
+            "doubt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has some reservations about the new legislation.",
+              "world_new": [
+                "legislation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vùng đất dành cho một mục đích nhất định",
+          "definition": "a piece of land set aside for a particular purpose",
+          "world_new": [
+            "piece",
+            "land",
+            "aside",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an Indian reservation in the United States.",
+              "world_new": [
+                "Indian"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The agitation was used to demand abolition of reservations altogether.",
+    "Education improves the child's labor efficiency, so that it will raise the caregiver's reservation wages in the next period.",
+    "They resisted proposals to dissolve their reservations and distribute tribal resources to individual members.",
+    "With these reservations in mind, the following conclusions could be drawn from the current investigation.",
+    "Members of the higher classes noted the changing expectations of their social inferiors with reservations.",
+    "Some reservations should be kept in mind when comparing nations.",
+    "Having already voiced some queries and reservations let me now turn to a few more.",
+    "I began reading it with some reservations but by the end a text closely supported by carefully chosen illustrations had won my admiration."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "resentful",
+    "resentfully",
+    "resentfulness",
+    "resentment",
+    "reservation",
+    "reserve",
+    "reserved",
+    "reservoir",
+    "reside"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437323_9db311786f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437323_62fdd4eddc_o.png",
+      "id_image": "reservation_2481894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437288_7ef043eea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437288_9eceaf23eb_o.png",
+      "id_image": "reservation_5569637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367017_ac6253b797_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367017_978f807cd7_o.png",
+      "id_image": "reservation_6213954"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "english": "organ",
+  "phat_am": "ˈoːɡən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơ quan",
+          "definition": "a part of the body or of a plant which has a special purpose",
+          "world_new": [
+            "part",
+            "body",
+            "plant",
+            "special",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the reproductive organs.",
+              "world_new": [
+                "reproductive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giọng nói",
+          "definition": "a means of spreading information, eg a newspaper",
+          "world_new": [
+            "means",
+            "information",
+            "newspaper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an organ of the Communist Party."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn oóc",
+          "definition": "a usually large musical instrument similar to a piano, with or without pipes",
+          "world_new": [
+            "large",
+            "musical",
+            "instrument",
+            "similar",
+            "piano",
+            "pipes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plays the organ"
+            },
+            {
+              "ex_of_definition": "an electric organ.",
+              "world_new": [
+                "electric"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Instead, he argued that building forms must be derived, like the form of organs, from the role they are to play in life.",
+    "The different parts of a school are members of a whole, operating together like organs in an organism.",
+    "They were examined for helminth and crustacean parasites only by standard methods, from all organs except the blood system.",
+    "Physical sense organs are the locus for such interaction.",
+    "Tested organs include lung or air sac, heart, spleen, liver, kidneys and intestine.",
+    "Such interventions may contribute to undermine the legitimacy of the local government and hamper democratic development by disempowering the political organs of local authorities.",
+    "In the midfetal period the already formed special sense organs of hands, eyes, nostrils, and mouth are sealed by fusion and thickening of the integument.",
+    "Despite recent large increases in the number of organs transplanted from living donors, especially from genetically unrelated volunteers, supply continues to lag far behind demand."
+  ],
+  "list_see_also": [
+    "organic",
+    "organically",
+    "organic compound"
+  ],
+  "list_browse": [
+    "ordinarily",
+    "ordinary",
+    "ordination",
+    "ore",
+    "organ",
+    "organelle",
+    "organic",
+    "organic compound",
+    "organically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081385_52786809fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081385_f1cdb2395e_o.png",
+      "id_image": "organ_1910776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388892_02cf6d301a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388892_b479424dca_o.png",
+      "id_image": "organ_2332633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699129_67a724b307_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699129_8f3588c09b_o.png",
+      "id_image": "organ_2515637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458663_e3f928102b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458663_75eeb6b87f_o.png",
+      "id_image": "organ_3028411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081240_b62da6b919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081240_0c0a5e8f53_o.png",
+      "id_image": "organ_3966560"
+    }
+  ]
+}

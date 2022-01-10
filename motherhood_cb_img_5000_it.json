@@ -1,0 +1,61 @@
+{
+  "english": "motherhood",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình mẹ",
+          "definition": "the state of being a mother",
+          "world_new": [
+            "state",
+            "mother"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave up her career for motherhood.",
+              "world_new": [
+                "career"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The most common focus of activity was in relationship to maternity and public policies directed towards motherhood.",
+    "How did the women themselves cope financially and emotionally with unwed motherhood?",
+    "In order to secure support for their children, past women needed to present marriage and motherhood as public not merely private concerns.",
+    "There has to be a new gender contract, to allow women to harmonize motherhood and careers.",
+    "However, it is interesting to note that the primary administrative categories for welfare entitlement have remained largely unaltered - motherhood, childhood, old age and disability.",
+    "The interest in hygiene intersected with a maternalist discourse that inculcated the values of domesticity and celebrated the virtues of motherhood.",
+    "Teenage motherhood is a frequent precursor of lone parenting, and this is implicit in our data as well.",
+    "Besides, many features of the system, especially motherhood at a very early age, were seen to be cruel and socially dysfunctional."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Mother’s Day",
+    "mother-in-law",
+    "mother-of-pearl",
+    "motherboard",
+    "motherhood",
+    "motherless",
+    "motherliness",
+    "motherly",
+    "motion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072265_57aaa6438a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072265_8a32924963_o.png",
+      "id_image": "motherhood_388351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335321_3f754b39c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335321_211205542b_o.png",
+      "id_image": "motherhood_394438"
+    }
+  ]
+}

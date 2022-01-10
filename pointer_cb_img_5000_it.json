@@ -1,0 +1,91 @@
+{
+  "english": "pointer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "que chỉ bản đồ",
+          "definition": "a long stick used to indicate places on a large map etc.",
+          "world_new": [
+            "long",
+            "stick",
+            "indicate",
+            "large",
+            "map"
+          ]
+        },
+        {
+          "mean_english": "kim",
+          "definition": "an indicator on a dial",
+          "world_new": [
+            "indicator",
+            "dial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pointer is on/at zero."
+            }
+          ]
+        },
+        {
+          "mean_english": "lời khuyên",
+          "definition": "a hint; a suggestion",
+          "world_new": [
+            "suggestion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give me some pointers on how to do it."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We also provide pointers to techniques in the literature that are appropriate for more complicated scenarios.",
+    "Because code regions and instance pointers are second-class constructs, we always know which code region an instruction affects.",
+    "Arrays, pointers, strings are all discussed roughly in the same place in all three texts.",
+    "They treat a programming language with multiple assignment, (recursive) first-order procedures and pointers.",
+    "Showing pointers of statistical interestingness reduces the glut of rules to be examined.",
+    "A concurrent garbage collector might have trouble finding all these pointers quickly.",
+    "However, one can trace the intermediate molecules, as well as the assembly process, just by tracing the sequence of pointers in the molecule.",
+    "The associated genetic variations can serve as powerful pointers to the region of the human genome where the disease-causing problem resides. 14."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "point one’s toes",
+    "point out",
+    "point-blank",
+    "pointed",
+    "pointer",
+    "pointless",
+    "pointlessly",
+    "points",
+    "poise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693664_1b667e4f5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693664_9209279a80_o.png",
+      "id_image": "pointer_169456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338451_94e88558cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338451_ab187176f1_o.png",
+      "id_image": "pointer_178408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453403_b422bdaa74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453403_1b881c8b08_o.png",
+      "id_image": "pointer_2373819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075440_9a050dc0d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075440_1b42d99797_o.png",
+      "id_image": "pointer_3858340"
+    }
+  ]
+}

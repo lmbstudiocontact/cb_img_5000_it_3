@@ -1,0 +1,100 @@
+{
+  "english": "peel",
+  "phat_am": "piːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gọt vỏ",
+          "definition": "to take off the skin or outer covering of (a fruit or vegetable)",
+          "world_new": [
+            "skin",
+            "outer",
+            "covering",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She peeled the potatoes."
+            }
+          ]
+        },
+        {
+          "mean_english": "bong ra",
+          "definition": "to take off or come off in small pieces",
+          "world_new": [
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The paint is beginning to peel (off).",
+              "world_new": [
+                "paint",
+                "beginning"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vỏ",
+          "definition": "the skin of certain fruits, especially oranges, lemons etc",
+          "world_new": [
+            "skin",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a banana peel.",
+              "world_new": [
+                "banana"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I refer to jams, marmalades, chocolate, candied peels, and other such items.",
+    "Subsequently, they were carefully peeled off.",
+    "Because she cares, she peels the egg for a patient's meal for the sake of that patient's convalescence.",
+    "The seeds were removed and, after the waxy aril was peeled off, were briefly surfacesterilized in 1% sodium hypochlorite.",
+    "He will see paint peeling off the walls and windows that need to be replaced, which could have been painted.",
+    "We don't know yet, though investigations are gradually peeling away the alternatives.",
+    "How can it be peeled, unfolded, exteriorized, without being destroyed?",
+    "We peeled away the pulp to expose the hard endocarp, and discarded all seeds with insect holes or other damage, such as fungus infection."
+  ],
+  "list_see_also": [
+    "peeler",
+    "peelings"
+  ],
+  "list_browse": [
+    "pedigree",
+    "pedlar",
+    "pee",
+    "peek",
+    "peel",
+    "peeler",
+    "peelings",
+    "peep",
+    "peephole"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368467_d3040b409b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368467_180d93269d_o.png",
+      "id_image": "peel_5660227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438608_1f6d8163ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438608_33b067f28e_o.png",
+      "id_image": "peel_5675485"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "notepad",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyển sổ tay",
+          "definition": "sheets of paper that are fastened together and used for writing notes on",
+          "world_new": [
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wrote down the names in his notepad."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Notepad supports both left-to-right and right-to-left based languages.",
+    "The notepad contains a list of names, phone numbers and addresses.",
+    "If it were an old case, we'd have a notepad and could give you information for your constituents, but the new computer system is not as good.",
+    "He is the technician of the group and always has his notepad.",
+    "He would supply these schools with everything that students stood in need of, such as books, notepads and so on, purchasing that with his personal donations.",
+    "Eventually, we are told, it may allow the creation of even thinner and more flexible screens for use in wearable computers and electronic newspapers and notepads.",
+    "The notepad and all other components communicate with each other via a clipboard, and with an external environment, exchanging external representations of the history of objects.",
+    "Carries a small pocket sized notepad and pencil."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "notebook",
+    "notecase",
+    "noted",
+    "notelet",
+    "notepad",
+    "notepaper",
+    "noteworthiness",
+    "noteworthy",
+    "nothing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057725_202efd163a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057725_732f7530e9_o.png",
+      "id_image": "notepad_170991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365827_303c88c49a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365827_d724d39215_o.png",
+      "id_image": "notepad_174673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436098_6bbd636584_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436098_8beb686899_o.png",
+      "id_image": "notepad_2106622"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "english": "queen",
+  "phat_am": "kwiːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nữ hoàng",
+          "definition": "a woman who rules a country, who inherits her position by right of birth",
+          "world_new": [
+            "country",
+            "position",
+            "right",
+            "birth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Queen of England"
+            },
+            {
+              "ex_of_definition": "Queen Elizabeth II."
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàng hậu",
+          "definition": "the wife of a king",
+          "world_new": [
+            "wife",
+            "king"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The king and his queen were both present.",
+              "world_new": [
+                "king",
+                "present"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nữ chúa",
+          "definition": "a woman who is in some way important, excellent or special",
+          "world_new": [
+            "important",
+            "excellent",
+            "special"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a beauty queen",
+              "world_new": [
+                "beauty"
+              ]
+            },
+            {
+              "ex_of_definition": "a movie queen.",
+              "world_new": [
+                "movie"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quân đầm",
+          "definition": "a playing card with a picture of a queen on it",
+          "world_new": [
+            "card",
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have two aces and a queen.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quân hậu",
+          "definition": "an important chesspiece",
+          "world_new": [
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He moved his queen to the left.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ong chúa; kiến chúa",
+          "definition": "the egg-laying female of certain kinds of insect (especially bees, ants and wasps).",
+          "world_new": [
+            "female",
+            "certain",
+            "insect"
+          ]
+        },
+        {
+          "mean_english": "kẻ đồng tính luyến ái",
+          "definition": "a homosexual man who assumes the female role.",
+          "world_new": [
+            "homosexual",
+            "female"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "queenly",
+    "queen mother"
+  ],
+  "list_browse": [
+    "quaver",
+    "quay",
+    "quayside",
+    "queasy",
+    "queen",
+    "queen mother",
+    "queenly",
+    "queer",
+    "queerly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389372_b2e15a5c56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389372_a19f801ca1_o.png",
+      "id_image": "queen_2349515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459148_2c2f2117a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459148_e75d5038c1_o.png",
+      "id_image": "queen_4133591"
+    }
+  ]
+}

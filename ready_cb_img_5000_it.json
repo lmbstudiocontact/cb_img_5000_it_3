@@ -1,0 +1,132 @@
+{
+  "english": "ready",
+  "phat_am": "ˈredi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đã xong",
+          "definition": "(opposite unready) prepared; able to be used etc immediately or when needed; able to do (something) immediately or when necessary",
+          "world_new": [
+            "immediately",
+            "immediately",
+            "necessary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve packed our cases, so we’re ready to leave",
+              "world_new": [
+                "our",
+                "leave"
+              ]
+            },
+            {
+              "ex_of_definition": "Is tea ready yet?",
+              "world_new": [
+                "tea",
+                "yet"
+              ]
+            },
+            {
+              "ex_of_definition": "Your coat has been cleaned and is ready (to be collected).",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đã sẵn sàng",
+          "definition": "(opposite unready) willing",
+          "world_new": [
+            "willing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m always ready to help.",
+              "world_new": [
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhanh",
+          "definition": "quick",
+          "world_new": [
+            "quick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re too ready to find faults in other people",
+              "world_new": [
+                "find",
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "He always has a ready answer.",
+              "world_new": [
+                "answer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gần như; sắp",
+          "definition": "likely, about (to do something)",
+          "world_new": [
+            "likely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My head feels as if it’s ready to burst.",
+              "world_new": [
+                "head",
+                "burst"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are now ready to establish a local formula for the pointwise dimension of invariant measures that are not necessarily ergodic.",
+    "Finally, we are ready to prove the following.",
+    "Citing previous cognitive work, she notes that shorter phrases require less processing and are more ready to be articulated before longer ones.",
+    "We are now ready to analyse the effect of the introduction of preferential trading.",
+    "We are now ready to prove our main theorem.",
+    "We do not know, however, whether these figures were readied in every case.",
+    "We are now ready to prove the following.",
+    "Moreover, mature trees ready for harvest may be grown for historical, socioeconomic, and geographical reasons, rather than due to the management effort."
+  ],
+  "list_see_also": [
+    "readiness",
+    "readily",
+    "ready cash",
+    "ready-made",
+    "ready money",
+    "ready-to-wear",
+    "in readiness"
+  ],
+  "list_browse": [
+    "reading material",
+    "reading matter",
+    "readjust",
+    "readjustment",
+    "ready",
+    "ready cash",
+    "ready money",
+    "ready-made",
+    "ready-to-wear"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336731_53a2b9671c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336731_4d22b2e5f3_o.png",
+      "id_image": "ready_1024205"
+    }
+  ]
+}

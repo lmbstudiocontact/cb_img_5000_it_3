@@ -1,0 +1,79 @@
+{
+  "english": "photocopy",
+  "phat_am": "ˈfəutəkopi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sao chụp",
+          "definition": "a copy of a document etc made by a machine which photographs it",
+          "world_new": [
+            "copy",
+            "document",
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll get some photocopies made of this letter.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sao chụp",
+          "definition": "to make a copy in this way",
+          "world_new": [
+            "copy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you photocopy this letter for me?",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The acetate film was attached to paper and photocopied, providing an image of the mapped feeding areas.",
+    "Figures should be provided initially as clear roughs or photocopies.",
+    "To reiterate, they have no research support, computer, photocopying machine, printer, etc., which limits their efficacy.",
+    "Keynes, as he said, 'put two and two together' and had photocopies made of the leaves.",
+    "No part of this journal may be reproduced in any form, by print, photocopy, microfilm, or any other means, without written permission from the publisher.",
+    "Then, photocopy and distribute the poems to the class.",
+    "The photocopy, judged by some technical characteristics, was made on a copier produced not long after 1970.",
+    "Many collections of papers on development projects are not formally published but exist only in photocopies or as ' grey literature ', almost impossible to locate systematically."
+  ],
+  "list_see_also": [
+    "photocopier"
+  ],
+  "list_browse": [
+    "phonics",
+    "phonograph",
+    "photo",
+    "photocopier",
+    "photocopy",
+    "photograph",
+    "photographer",
+    "photographic",
+    "photography"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349536_fd2676884f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349536_51747fbc26_o.png",
+      "id_image": "photocopy_5068570"
+    }
+  ]
+}

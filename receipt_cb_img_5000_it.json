@@ -1,0 +1,80 @@
+{
+  "english": "receipt",
+  "phat_am": "rəˈsiːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nhận được",
+          "definition": "the act of receiving or being received",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please sign this form to acknowledge receipt of the money.",
+              "world_new": [
+                "sign",
+                "form",
+                "acknowledge",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hóa đơn",
+          "definition": "a written note saying that money etc has been received",
+          "world_new": [
+            "note",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I paid the bill and he gave me a receipt.",
+              "world_new": [
+                "I",
+                "bill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fourth, there is evidence of much more widespread receipts of cash-based social assistance transfers from the government, and some evidence that it is also better targeted.",
+    "Finally, the contribution rate, c, is set in order to balance the receipts of the pen sion system to equal the pension expenditure each period.",
+    "I save the receipts from both places.",
+    "Invisible earnings n. [1969] that part of a country's balance of payments that is composed of receipts and payments for services (as opposed to material goods).",
+    "A special case is extensively revised, maybe requiring receipts as evidence.",
+    "Based on cash rents; receipts of rents in kind are not considered here.",
+    "Whatever national, regional and local monetary factors are inflating cost aggregates should also be inflating receipts aggregates in nearly the same fashion.",
+    "As usual with all government revenue, official treasury receipts were presumably issued at the point of collection."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "recapitulate",
+    "recapitulation",
+    "recapture",
+    "recede",
+    "receipt",
+    "receive",
+    "receiver",
+    "recent",
+    "recently"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381357_e3a9f4ab3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381357_b48e720bee_o.png",
+      "id_image": "receipt_1652599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073265_61248c0056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073265_42114c6b12_o.png",
+      "id_image": "receipt_4116585"
+    }
+  ]
+}

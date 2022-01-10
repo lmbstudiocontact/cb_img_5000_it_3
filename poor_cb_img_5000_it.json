@@ -1,0 +1,99 @@
+{
+  "english": "poor",
+  "phat_am": "puə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nghèo",
+          "definition": "having little money or property",
+          "world_new": [
+            "money",
+            "property"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is too poor to buy clothes for the children",
+              "world_new": [
+                "buy",
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "the poor nations of the world.",
+              "world_new": [
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kém; tồi",
+          "definition": "not good; of bad quality",
+          "world_new": [
+            "bad",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His work is very poor",
+              "world_new": [
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "a poor effort.",
+              "world_new": [
+                "effort"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng thương",
+          "definition": "deserving pity",
+          "world_new": [
+            "deserving",
+            "pity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Poor fellow!",
+              "world_new": [
+                "fellow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "poorness",
+    "poorly"
+  ],
+  "list_browse": [
+    "pony-trekking",
+    "ponytail",
+    "poodle",
+    "pool",
+    "poor",
+    "poorly",
+    "poorness",
+    "pop",
+    "pop up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450813_a985b5bc2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450813_e62868f555_o.png",
+      "id_image": "poor_3053775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335816_41589fd325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335816_e2ea579a89_o.png",
+      "id_image": "poor_6349625"
+    }
+  ]
+}

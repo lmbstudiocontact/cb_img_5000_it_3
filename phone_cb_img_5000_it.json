@@ -1,0 +1,91 @@
+{
+  "english": "phone",
+  "phat_am": "fəun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điện thoại",
+          "definition": "a telephone",
+          "world_new": [
+            "telephone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were talking on the phone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gọi điện thoại",
+          "definition": "to telephone (a person, message or place)",
+          "world_new": [
+            "telephone",
+            "person",
+            "message"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll phone you this evening.",
+              "world_new": [
+                "evening"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Usually, a company that requires its workforce to be mobile will issue mobile phones to them and pay all the bills.",
+    "However, the inbuilt cameras in mobile phones are small devices intended to provide basic image capturing facilities.",
+    "Since mobile phones were introduced, a new dynamic has developed in the practices related to this device.",
+    "In the latter class of models, primitives are largely given, for example, the phones in phonology models and the words in lexicon models.",
+    "Today, the use of mobile phones is widespread and the number of users is increasing rapidly.",
+    "She phoned her husband who was on a trip abroad, warning it could not possibly have been an accident.",
+    "The phonetic mode was thought to be a language-general phonetic mode of perception in which phones are discriminated without any influence of linguistic experience.",
+    "Sixty-nine percent of the firms have at least one telephone, and the phones work on average about half the time."
+  ],
+  "list_see_also": [
+    "phone book",
+    "phone booth",
+    "phone box",
+    "phone call",
+    "phonecard",
+    "phone up"
+  ],
+  "list_browse": [
+    "phlegmatic",
+    "phloem",
+    "phobia",
+    "phoenix",
+    "phone",
+    "phone book",
+    "phone booth",
+    "phone box",
+    "phone call"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704474_893d0a9ea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704474_c0f2cf15ef_o.png",
+      "id_image": "phone_523104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349811_ee2452b5ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349811_df929b79f3_o.png",
+      "id_image": "phone_523122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464423_bc77269185_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464423_35d6c4aff8_o.png",
+      "id_image": "phone_656275"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "peg",
+  "phat_am": "peɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miếng gỗ/ thép",
+          "definition": "a usually short, not very thick, piece of wood, metal etc used to fasten or mark something",
+          "world_new": [
+            "short",
+            "thick",
+            "piece",
+            "wood",
+            "metal",
+            "fasten",
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were four pegs stuck in the ground.",
+              "world_new": [
+                "ground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái mắc",
+          "definition": "a hook on a wall or door for hanging clothes etc on",
+          "world_new": [
+            "hook",
+            "wall",
+            "door",
+            "hanging",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hang your clothes on the pegs in the cupboard.",
+              "world_new": [
+                "your",
+                "clothes",
+                "cupboard"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái kẹp",
+          "definition": "(also clothes-peg) a wooden or plastic clip for holding clothes etc to a rope while drying.",
+          "world_new": [
+            "wooden",
+            "plastic",
+            "clip",
+            "clothes",
+            "rope"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kẹp",
+          "definition": "to fasten with a peg",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She pegged the clothes on the washing-line.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The applied forces and moment are varied by adjusting the relative position and orientation between the pegs and the holes.",
+    "The exact geometry of the pegs and the holes is important for predicting contact-states at a given insertion depth.",
+    "To overcome this problem the authors suggested the application of small motions of the peg around the contact point.",
+    "Knees are shown but no depiction of feet; the legs end in a ring below which is a round peg base 8 cm long.",
+    "The feet have four toes each, and below the feet extends a 2.5 cm-long peg base.",
+    "It is assumed that the peg is infinitely rigid, and thus, deformation appears on the cart side only.",
+    "Finally, the prefix serves as a ' peg element ', inserted if there is no other syllable preceding the stem.",
+    "The peg is then inserted into a pre-specified hole at reduced speed and released."
+  ],
+  "list_see_also": [
+    "take (someone) down a peg (or two)"
+  ],
+  "list_browse": [
+    "peeved",
+    "peevish",
+    "peevishly",
+    "peevishness",
+    "peg",
+    "pejorative",
+    "pejoratively",
+    "pelican",
+    "pell-mell"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438323_f5c95fd20c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438323_c66af93a9b_o.png",
+      "id_image": "peg_4636779"
+    }
+  ]
+}

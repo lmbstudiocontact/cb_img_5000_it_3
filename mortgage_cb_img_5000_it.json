@@ -1,0 +1,90 @@
+{
+  "english": "mortgage",
+  "phat_am": "ˈmoːɡidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "văn tự thế chấp",
+          "definition": "a legal agreement by which a sum of money is lent for the purpose of buying buildings, land etc",
+          "world_new": [
+            "legal",
+            "agreement",
+            "sum",
+            "money",
+            "lent",
+            "purpose",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fixed-rate mortgage"
+            },
+            {
+              "ex_of_definition": "(also adjective) mortgage repayments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thế chấp",
+          "definition": "to offer (buildings etc) as security for a loan.",
+          "world_new": [
+            "offer",
+            "security",
+            "loan"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This difference is essentially due to difference in the purchase price and mortgage subsidies over the capital levy on housing.",
+    "He also knew that he had to continue working for several more years because his mortgage would close when he was 75 years old.",
+    "Furthermore, the property crash particularly affected new entrants to the market, who were left with high mortgages and negative equity.",
+    "The family's business dealings often involved huge investments, which sometimes required loans taken off mortgages on family property.",
+    "Deducting the amount of outstanding mortgage then produces an estimate of the amount of equity each respondent has tied up in his or her home.",
+    "Older owner-occupiers are likely to have paid off their mortgages or have mortgages which are small in relation to the market value of their homes.",
+    "The home mortgage interest deduction's value has increased from $1,277 on average in 1980 to $2,011 annually in 2001.",
+    "This was also the first time that the farm passed into the hands of a mortgage holder."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mortality",
+    "mortally",
+    "mortar",
+    "mortar-board",
+    "mortgage",
+    "mortician",
+    "mortification",
+    "mortify",
+    "mortifying"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072900_a3ba44dca1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072900_e1ccfa802d_o.png",
+      "id_image": "mortgage_554340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450883_677c640eb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450883_a0f7d78b70_o.png",
+      "id_image": "mortgage_554453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691144_2db8121343_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691144_dfacf40503_o.png",
+      "id_image": "mortgage_5571446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380957_bbcc41775a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380957_709b273b5b_o.png",
+      "id_image": "mortgage_646635"
+    }
+  ]
+}

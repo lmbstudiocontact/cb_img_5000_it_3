@@ -1,0 +1,144 @@
+{
+  "english": "reason",
+  "phat_am": "ˈriːzn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lý do",
+          "definition": "something which makes something happen, describes why it happened, should happen or is going to happen etc",
+          "world_new": [
+            "happen",
+            "happen",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the reason for this noise?",
+              "world_new": [
+                "noise"
+              ]
+            },
+            {
+              "ex_of_definition": "What is your reason for going to London?",
+              "world_new": [
+                "your"
+              ]
+            },
+            {
+              "ex_of_definition": "The reason (why) I am going is that I want to.",
+              "world_new": [
+                "I",
+                "I",
+                "want"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lý trí",
+          "definition": "the power of the mind to think, form opinions and judgements etc",
+          "world_new": [
+            "power",
+            "mind",
+            "think",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Only man has reason – animals do not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "suy luận",
+          "definition": "to (be able to) think, form opinions and judgements etc",
+          "world_new": [
+            "think",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Man alone has the ability to reason.",
+              "world_new": [
+                "alone",
+                "ability"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tranh luận",
+          "definition": "to argue; to work out after some thought",
+          "world_new": [
+            "work",
+            "thought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She reasoned that if he had caught the 6.30 p.m. train, he would not be home before 8.00.",
+              "world_new": [
+                "p",
+                "m",
+                "train",
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Qualitative spatial representation and reasoning with the region connection calculus.",
+    "The reason we apply a uniform random number for rendering fractal is that it can create unique and more diverse forms.",
+    "In other words, voters had good reason to vote strategically within parties to maximize the number of seats their side would win.",
+    "For similar reasons, we examine attitudes towards gender roles and moral issues.",
+    "In such a framework, there would seem to be no reason not to include social meaning along with 'ordinary' semantics and pragmatics.",
+    "For purely logical reasons, the strongest form of the uniqueness question - is the specific behavior or pattern of behavior found only in the target group?",
+    "However, this was not always the case, for several reasons.",
+    "A physician was permitted to overrule these recommendations by providing the reason at the bottom of the sheet."
+  ],
+  "list_see_also": [
+    "reasonable",
+    "reasonableness",
+    "reasonably",
+    "reasoning",
+    "have reason to (believe/think etc)",
+    "it stands to reason",
+    "listen to reason",
+    "lose one’s reason",
+    "reason with",
+    "see reason",
+    ""
+  ],
+  "list_browse": [
+    "rearm",
+    "rearmament",
+    "rearrange",
+    "rearrangement",
+    "reason",
+    "reason with",
+    "reasonable",
+    "reasonableness",
+    "reasonably"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381597_0776666f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381597_e5b8f9dd31_o.png",
+      "id_image": "reason_2106612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451473_a61debf025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451473_4a287e7109_o.png",
+      "id_image": "reason_4525477"
+    }
+  ]
+}

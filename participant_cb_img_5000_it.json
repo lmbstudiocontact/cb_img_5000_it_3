@@ -1,0 +1,61 @@
+{
+  "english": "participant",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người tham dự",
+          "definition": "a person who participates (in a particular activity)",
+          "world_new": [
+            "person",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the participants in the Olympic Games.",
+              "world_new": [
+                "Olympic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The participants read 60 sentences in random order in a sentence reading task.",
+    "The sentence contexts were presented in random order so that participants would not be able to predict which condition the stimulus would appear in next.",
+    "Consequently, elderly participants were not recruited as the survey content would have been irrelevant.",
+    "The participant gets a quick look at the pattern.",
+    "However, some participants reported that cancer had no impact on their life priorities.",
+    "At the level of the situation model, it is important to maintain separate representations for each participant.",
+    "The authors suggest that representations from one participant's head are aligned directly with those from the other participant's head.",
+    "The risk for depression was increased in participants who reported a previous poor pregnancy outcome."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "partake",
+    "partial",
+    "partial immersion",
+    "partiality",
+    "participant",
+    "participate",
+    "participation",
+    "participle",
+    "particle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686359_999396b426_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686359_050cde9dd0_o.png",
+      "id_image": "participant_5957132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446288_8dfd8d3d0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446288_ba3a71f8b5_o.png",
+      "id_image": "participant_6040649"
+    }
+  ]
+}

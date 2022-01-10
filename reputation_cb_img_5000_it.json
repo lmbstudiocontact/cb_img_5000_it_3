@@ -1,0 +1,92 @@
+{
+  "english": "reputation",
+  "phat_am": "repjuˈteiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "danh tiếng",
+          "definition": "the opinion which people in general have about a person etc, a persons’s abilities etc",
+          "world_new": [
+            "opinion",
+            "people",
+            "general",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That firm has a good/bad reputation",
+              "world_new": [
+                "firm"
+              ]
+            },
+            {
+              "ex_of_definition": "He has made a reputation for himself as an expert in computers",
+              "world_new": [
+                "expert"
+              ]
+            },
+            {
+              "ex_of_definition": "He has the reputation of being difficult to please",
+              "world_new": [
+                "difficult",
+                "please"
+              ]
+            },
+            {
+              "ex_of_definition": "The scandal damaged his reputation.",
+              "world_new": [
+                "scandal",
+                "damaged"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both these instruments have been used internationally, and both have at best mixed reputations.",
+    "To the extent that reputations emerge through gossip and social networks, language cannot be ignored as an important means of signal broadcast and signal manipulation.",
+    "Less important reasons were the improvement of their effectiveness and/or their businesses, and enhancement of their professional reputations.",
+    "They cannot afford to risk their reputations on cases which will surely find their clients guilty.",
+    "I argued that rank-and-file politicians may be interested primarily in cultivating either personal reputations or party reputations.",
+    "Firms pay heavily for reputations because they are so valuable in this way.",
+    "At the same time, public figures such as incumbents have less room to manoeuvre because of their strong reputations.",
+    "Where private enterprises value their reputations, the threat of adverse publicity can prove an effective deterrent to bad environmental practices."
+  ],
+  "list_see_also": [
+    "reputable",
+    "reputed",
+    "live up to one’s reputation"
+  ],
+  "list_browse": [
+    "repulsive",
+    "repulsively",
+    "repulsiveness",
+    "reputable",
+    "reputation",
+    "reputed",
+    "request",
+    "requiem",
+    "require"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677439_e2b5568d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677439_1b2e1e3b13_o.png",
+      "id_image": "reputation_2132560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322301_ca7688b010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322301_f703347b73_o.png",
+      "id_image": "reputation_2720867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059120_9887ff79b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059120_19d37d7f4d_o.png",
+      "id_image": "reputation_4675015"
+    }
+  ]
+}

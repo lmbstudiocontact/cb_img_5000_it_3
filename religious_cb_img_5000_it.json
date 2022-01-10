@@ -1,0 +1,82 @@
+{
+  "english": "religious",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc tôn giáo",
+          "definition": "of religion",
+          "world_new": [
+            "religion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "religious education",
+              "world_new": [
+                "education"
+              ]
+            },
+            {
+              "ex_of_definition": "a religious leader/instructor."
+            }
+          ]
+        },
+        {
+          "mean_english": "sùng đạo",
+          "definition": "following the rules, forms of worship etc of a religion",
+          "world_new": [
+            "following",
+            "worship",
+            "religion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a religious man."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "relief",
+    "relieve",
+    "relieved",
+    "religion",
+    "religious",
+    "religiously",
+    "religiousness",
+    "relinquish",
+    "relish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326456_d767400078_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326456_efe3eddbe3_o.png",
+      "id_image": "religious_2178187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063360_c04a30f7b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063360_b3daec6755_o.png",
+      "id_image": "religious_422094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371152_09a7d93c52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371152_bb722d21dc_o.png",
+      "id_image": "religious_4459355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371122_2246291f32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371122_039e186868_o.png",
+      "id_image": "religious_6001133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441278_894fd92920_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441278_099fbeb1c8_o.png",
+      "id_image": "religious_6213878"
+    }
+  ]
+}

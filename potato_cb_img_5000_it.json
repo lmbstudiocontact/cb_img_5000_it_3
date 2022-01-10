@@ -1,0 +1,77 @@
+{
+  "english": "potato",
+  "phat_am": "pəˈteitəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây khoai tây",
+          "definition": "a type of plant with round underground stems (called tubers) which are used as a vegetable",
+          "world_new": [
+            "type",
+            "plant",
+            "underground",
+            "vegetable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fried potatoes.",
+              "world_new": [
+                "fried"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "củ khoai tây",
+          "definition": "the tuber or tubers",
+          "world_new": [
+            "tuber"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She bought 2 kilos of potatoes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Crops covered include, amongst others, legumes, potatoes, vegetables, mushrooms and cassava.",
+    "For example, when compared to potato residue, rapeseed residue decreased hairy nightshade and longspine sandbur biomass by 82 and 83%, respectively after 3 weeks22.",
+    "The study was conducted in two potato cropping systems in the same region.",
+    "Common species of vegetables cultivated on the plots were tomato, spinach, potato, sweet potato and chillies.",
+    "No reduction in chemical fertilizer use for potatoes and silage corn was observed and increased crop yields were unlikely.",
+    "For land/feed-coupled potato farms, profits were attributed to the farm that owned the land, regardless of which farm was operating it.",
+    "Similar isoforms have been reported for tomato, pepper, potato and other plant species.",
+    "In addition, the relationship enabled potato producers to grow more acres of potato and use silage corn as a rotation crop."
+  ],
+  "list_see_also": [
+    "potato crisp"
+  ],
+  "list_browse": [
+    "posy",
+    "pot",
+    "pot-shot",
+    "potassium",
+    "potato",
+    "potato crisp",
+    "potency",
+    "potent",
+    "potential"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377777_04902168e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377777_5be72e2b69_o.png",
+      "id_image": "potato_1292465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069760_d94fb5f667_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069760_7c14e78043_o.png",
+      "id_image": "potato_2333938"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "english": "receive",
+  "phat_am": "rəˈsiːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhận được",
+          "definition": "to get or be given",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He received a letter",
+              "world_new": [
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "They received a good education.",
+              "world_new": [
+                "education"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp đón",
+          "definition": "to have a formal meeting with",
+          "world_new": [
+            "formal",
+            "meeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Pope received the Queen in the Vatican."
+            }
+          ]
+        },
+        {
+          "mean_english": "kết nạp",
+          "definition": "to allow to join something",
+          "world_new": [
+            "allow",
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was received into the group.",
+              "world_new": [
+                "group"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chào đón",
+          "definition": "to greet, react to, in some way",
+          "world_new": [
+            "greet",
+            "react"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The news was received in silence",
+              "world_new": [
+                "news",
+                "silence"
+              ]
+            },
+            {
+              "ex_of_definition": "The townspeople received the heroes with great cheers.",
+              "world_new": [
+                "great"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chứa chấp đồ gian",
+          "definition": "to accept (stolen goods) especially with the intention of reselling (them)",
+          "world_new": [
+            "accept",
+            "intention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was found guilty of receiving stolen goods.",
+              "world_new": [
+                "found",
+                "guilty",
+                "goods"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One patient received terminal sedation, but treatment for depression was stopped in the other 18 patients because of the development of terminal delirium.",
+    "Seventeen of the 99 patients were admitted with a feeding tube in place and half received a new feeding tube.",
+    "Another advantage of depot medication is that staff can be sure that medication has been received by the patient.",
+    "The direction in which the sound is panned is received as the parameters p4 and p5 of the instrument statement.",
+    "Each treatment group then received special instruction in vocabulary.",
+    "Miscellaneous income is income received from nonemployment sources, such as rent, pensions, and interest.",
+    "They did not suffer from medical or psychiatric disorders and were not receiving medication, and had no family history of psychiatric disorder.",
+    "Healthrelated quality of life among patients with breast cancer receiving zoledronic acid or pamidronate disodium for metastatic bone lesions."
+  ],
+  "list_see_also": [
+    "receiver"
+  ],
+  "list_browse": [
+    "recapitulation",
+    "recapture",
+    "recede",
+    "receipt",
+    "receive",
+    "receiver",
+    "recent",
+    "recently",
+    "receptacle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381302_0fa1cc33ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381302_11b7d17f7b_o.png",
+      "id_image": "receive_1324126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451198_2fd4bfb8df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451198_6fcc4c6a57_o.png",
+      "id_image": "receive_1652597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381212_18bd5d4a70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381212_2d6b61d903_o.png",
+      "id_image": "receive_6272646"
+    }
+  ]
+}

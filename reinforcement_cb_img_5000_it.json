@@ -1,0 +1,81 @@
+{
+  "english": "reinforcement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tăng cường",
+          "definition": "the act of reinforcing.",
+          "world_new": [
+            "act"
+          ]
+        },
+        {
+          "mean_english": "quân tiếp viện",
+          "definition": "men added to an army etc in order to strengthen it",
+          "world_new": [
+            "added",
+            "army",
+            "order",
+            "strengthen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As the enemy attacks increased, the general called for reinforcements.",
+              "world_new": [
+                "enemy",
+                "general"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We certainly sent as many reinforcements as we could many months ago to the waters where we anticipated this new danger.",
+    "The book talks about differences in ground formation, manpower, reinforcements and equipment, but these are not insurmountable.",
+    "I am convinced, regardless of the rhetoric and the pretence, that these reinforcements are a preparation for evacuation.",
+    "If so, again you would have to have reinforcements, or even satellite stations, to make sure that there is blanket coverage.",
+    "They informed him that they were prepared to negotiate, but not if reinforcements arrived.",
+    "Further temporary work is being undertaken to accommodate recent reinforcements.",
+    "The question of reinforcements would be considered in the light of circumstances.",
+    "As a result, seasonal reinforcements are provided where required to ensure a speedy and efficient service."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rein in",
+    "reincarnation",
+    "reindeer",
+    "reinforce",
+    "reinforcement",
+    "reject",
+    "rejection",
+    "rejoice",
+    "rejoicing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329026_586c2d0c33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329026_110ec68672_o.png",
+      "id_image": "reinforcement_1924424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683984_e363e1422c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683984_5e3660a8a0_o.png",
+      "id_image": "reinforcement_3317725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373682_5193a12568_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373682_25288175aa_o.png",
+      "id_image": "reinforcement_5101246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328906_721a5a7582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328906_79ef187203_o.png",
+      "id_image": "reinforcement_5679315"
+    }
+  ]
+}

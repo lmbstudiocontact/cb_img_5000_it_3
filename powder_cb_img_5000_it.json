@@ -1,0 +1,140 @@
+{
+  "english": "powder",
+  "phat_am": "ˈpaudə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bột",
+          "definition": "any substance in the form of fine particles",
+          "world_new": [
+            "substance",
+            "form",
+            "fine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "soap powder",
+              "world_new": [
+                "soap"
+              ]
+            },
+            {
+              "ex_of_definition": "milk powder.",
+              "world_new": [
+                "milk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phấn",
+          "definition": "a special kind of substance in this form, used as a cosmetic etc",
+          "world_new": [
+            "special",
+            "kind",
+            "substance",
+            "form",
+            "cosmetic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "face powder",
+              "world_new": [
+                "face"
+              ]
+            },
+            {
+              "ex_of_definition": "talcum powder.",
+              "world_new": [
+                "talcum"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuốc súng",
+          "definition": "formerly, gunpowder",
+          "world_new": [
+            "formerly",
+            "gunpowder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "powder and shot.",
+              "world_new": [
+                "shot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh phấn",
+          "definition": "to put powder on (one’s face or body)",
+          "world_new": [
+            "face"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She powdered her nose.",
+              "world_new": [
+                "powdered",
+                "nose"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The dried plant parts were milled to a fine powder using an electric blender.",
+    "It was covered with dust, sand, wax, or white powder.",
+    "The powder identified as calcite in a fracture line of the substratum we believe originated from the penetration of calcareous deposits in ground water.",
+    "Incision sites were then sutured, and an antibiotic powder or spray was administered to these sites.",
+    "Minor elements were analysed on pressed powder discs, and major elements on fused glass discs.",
+    "The fertilizer was applied as a powder and mixed well with the sample to achieve a homogeneous nutrient distribution.",
+    "The surfaces of each metal were ground and polished with sandpaper (300-4000) and alumina powder (0.3 m).",
+    "Mixing the spores with powder of clay, rock or meteorites increased the survival rate by five orders of magnitude."
+  ],
+  "list_see_also": [
+    "powdered",
+    "powdery",
+    "powder puff",
+    "powder room"
+  ],
+  "list_browse": [
+    "pour",
+    "pout",
+    "poverty",
+    "POW",
+    "powder",
+    "powder puff",
+    "powder room",
+    "powdered",
+    "powdery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446283_755ce0e2f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446283_14f0cd9f96_o.png",
+      "id_image": "powder_1411864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375992_689fe53a13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375992_f81fcdbd30_o.png",
+      "id_image": "powder_1941205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686364_0701a42cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686364_968d6d8945_o.png",
+      "id_image": "powder_342833"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "microwave",
+  "phat_am": "ˈmaikrəweiv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vi sóng",
+          "definition": "(also microwave oven) an oven that heats or cooks food very quickly using electromagnetic waves",
+          "world_new": [
+            "oven",
+            "food",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I generally only use the microwave for cooking rice.",
+              "world_new": [
+                "I",
+                "generally",
+                "cooking",
+                "rice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nấu bằng vi sóng",
+          "definition": "to cook or heat something in a microwave",
+          "world_new": [
+            "cook",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Microwave the ready meal for three minutes.",
+              "world_new": [
+                "ready",
+                "meal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the past, the reliability of the technology was limited by the magnetron used to generate the microwaves.",
+    "Water molecules are exposed to intense electromagnetic fields in strong, non-resonant microwaves in order to create heat.",
+    "The direct generation of double-quantum coherences is not efficient in the case of weaker microwave pulses as obtainable by commercial instruments.",
+    "Advances in satellites, microwaves, and cellular radio are reducing the cost of reaching the remoter rural areas.",
+    "By microwaving ants on full power, of course.",
+    "Microwaving is simply one method of heating food.",
+    "There are a limited number of cases reported in which babies were put into microwaves, though these cases were \"not\" known to involve any drugs.",
+    "We cannot have nuclear-powered microwaves—except in the sense that nuclear power can be fed into the electricity industry and used in microwaves."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "microprocessor",
+    "microscope",
+    "microscopic",
+    "microscopically",
+    "microwave",
+    "mid",
+    "mid-fielder",
+    "midday",
+    "middle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458983_5a5597ee7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458983_4e47d9900b_o.png",
+      "id_image": "microwave_1143125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699394_74754f0966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699394_7e5b9e97a5_o.png",
+      "id_image": "microwave_298341"
+    }
+  ]
+}

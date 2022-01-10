@@ -1,0 +1,155 @@
+{
+  "english": "paper",
+  "phat_am": "ˈpeipə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấy",
+          "definition": "the material on which these words are written, made from wood, rags etc and used for writing, printing, wrapping parcels etc",
+          "world_new": [
+            "material",
+            "wood",
+            "rags",
+            "printing",
+            "wrapping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need paper and a pen to write a letter",
+              "world_new": [
+                "I",
+                "pen",
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a paper bag.",
+              "world_new": [
+                "bag"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tờ giấy",
+          "definition": "a single (often printed or typed) piece of this",
+          "world_new": [
+            "single",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were papers all over his desk.",
+              "world_new": [
+                "desk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "báo",
+          "definition": "a newspaper",
+          "world_new": [
+            "newspaper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you read the paper?",
+              "world_new": [
+                "read"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề bài thi",
+          "definition": "a group of questions for a written examination",
+          "world_new": [
+            "group",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Latin paper was very difficult.",
+              "world_new": [
+                "Latin",
+                "difficult"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giấy tờ",
+          "definition": "documents proving one’s identity, nationality etc",
+          "world_new": [
+            "identity",
+            "nationality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The policeman demanded to see my papers.",
+              "world_new": [
+                "policeman",
+                "see",
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The structure of this paper is as follows.",
+    "Upon acceptance of a paper, the author will be asked to transfer copyright to the publisher.",
+    "The rest of the paper is organized as follows.",
+    "In addition, there were other papers on designing economic plans, capital accumulation, and foreign examples of economic development plans, translated by the bank.",
+    "I am pleased that my paper was accepted.",
+    "The first of these is advanced in the two 1868 papers.",
+    "The plan of this paper is as follows.",
+    "The rest of the paper is structured as follows."
+  ],
+  "list_see_also": [
+    "papery",
+    "paperback",
+    "paper knife",
+    "paper sculpture",
+    "paperweight",
+    "paperwork"
+  ],
+  "list_browse": [
+    "papacy",
+    "papal",
+    "paparazzo",
+    "papaya",
+    "paper",
+    "paper knife",
+    "paper sculpture",
+    "paperback",
+    "paperweight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379207_620cf3c898_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379207_e3f29faa61_o.png",
+      "id_image": "paper_1032687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334281_1667e10365_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334281_fa3f457fb5_o.png",
+      "id_image": "paper_1131437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449273_e32641108d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449273_67de35a036_o.png",
+      "id_image": "paper_1188520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379252_594c83cca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379252_94f1172f66_o.png",
+      "id_image": "paper_420285"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "rainy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có mưa",
+          "definition": "having (many) showers of rain",
+          "world_new": [
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rainy day",
+              "world_new": [
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "the rainy season",
+              "world_new": [
+                "season"
+              ]
+            },
+            {
+              "ex_of_definition": "rainy weather.",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We analysed the relationship between predator and herbivore activity in the rainy and dry seasons using a regression.",
+    "Additionally, we divided the year into a dry season and a rainy season.",
+    "The time frames cover the warm and rainy season, when peaks of mosquito abundance are more likely to occur in the area.",
+    "Females construct underground nests, typically at the beginning of the rainy season before temporary ponds fill, in which they oviposit and attend eggs and tadpoles.",
+    "There are two rainy seasons and two dry seasons per year.",
+    "During the second year, enrichment ratios were consistently > 1.0, showing that this effect persisted for more than a single rainy season.",
+    "In fact, the understorey during the dry season was hotter and drier than the lab clearing in the rainy season.",
+    "Since both flower and fruit episodes are rainy season events, moisture may not be limiting in this species."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "raindrop",
+    "rainfall",
+    "raininess",
+    "rainwater",
+    "rainy",
+    "raise",
+    "raise hell/Cain/the roof etc",
+    "raise one’s eyebrows",
+    "raise one’s voice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384567_cd6cc0a10c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384567_64ceda1bcc_o.png",
+      "id_image": "rainy_1624390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384532_76494ab26d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384532_e81e47ff06_o.png",
+      "id_image": "rainy_4647955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076745_d924ffda3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076745_b78aca6b60_o.png",
+      "id_image": "rainy_5903651"
+    }
+  ]
+}

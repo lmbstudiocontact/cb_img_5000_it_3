@@ -1,0 +1,103 @@
+{
+  "english": "philosophy",
+  "phat_am": "fiˈlosəfi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "triết lý",
+          "definition": "the search for knowledge and truth, especially about the nature of man and his behaviour/behavior and beliefs",
+          "world_new": [
+            "search",
+            "knowledge",
+            "truth",
+            "nature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "moral philosophy.",
+              "world_new": [
+                "moral"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "triết học",
+          "definition": "a particular system of philosophical theories",
+          "world_new": [
+            "particular",
+            "system",
+            "philosophical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a very simple philosophy (=attitude to life) – enjoy life!",
+              "world_new": [
+                "I",
+                "simple",
+                "enjoy",
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Applying a knowledge-focused management philosophy to immature economies.",
+    "At this stage, it could appear that the book is all philosophy with no practical applications.",
+    "They also serve to challenge cherished assumptions, and to encourage readers to visit, or re-visit their personal philosophies of music education.",
+    "Her research interests are in medical ethics, feminist philosophy, and mental illness and public health.",
+    "Cartesian dualism is a minority position in contemporary philosophy, at least as a scientific theory of mind, and for very good reason.",
+    "A special subgroup, possibly the most important for the study of science and philosophy, are the tri-partite encyclopedias.",
+    "The philosophy of these homes is characterized by a very strong emphasis on training the staff.",
+    "The concept of 'mutuality' is a very helpful one for the reader to use in understanding the author's underpinning philosophy to music with young children."
+  ],
+  "list_see_also": [
+    "philosopher",
+    "philosophical",
+    "philosophically",
+    "philosophize"
+  ],
+  "list_browse": [
+    "philosopher",
+    "philosophical",
+    "philosophically",
+    "philosophize",
+    "philosophy",
+    "phlegm",
+    "phlegmatic",
+    "phloem",
+    "phobia"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087300_d5882996f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087300_58a351abca_o.png",
+      "id_image": "philosophy_1651657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087270_89f2fdb0cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087270_c7feaed4cf_o.png",
+      "id_image": "philosophy_2244711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464723_0dc701a6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464723_107a8913e2_o.png",
+      "id_image": "philosophy_401540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394782_7e01223cf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394782_7ef0ed96eb_o.png",
+      "id_image": "philosophy_4601310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349971_8a37032486_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349971_abd60acd69_o.png",
+      "id_image": "philosophy_4635451"
+    }
+  ]
+}

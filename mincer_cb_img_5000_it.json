@@ -1,0 +1,56 @@
+{
+  "english": "mincer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người õng ẹo",
+          "definition": "a machine for mincing meat etc",
+          "world_new": [
+            "machine",
+            "mincing",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Could you put the meat in the mincer?",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is like a food machine: more meat is put into the mincer, and understandably more comes out.",
+    "The consultation period is now closed, and the report will now enter the ministerial mincer for consideration."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "minaret",
+    "mince",
+    "mince pie",
+    "mincemeat",
+    "mincer",
+    "mincing",
+    "mincingly",
+    "mind",
+    "mind one’s own business"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698094_3227c35874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698094_d77f6925d0_o.png",
+      "id_image": "mincer_1699283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457643_14484c189b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457643_6a66575c78_o.png",
+      "id_image": "mincer_447187"
+    }
+  ]
+}

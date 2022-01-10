@@ -1,0 +1,90 @@
+{
+  "english": "rifle",
+  "phat_am": "ˈraifl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súng trường",
+          "definition": "a gun with a long barrel, fired from the shoulder",
+          "world_new": [
+            "gun",
+            "long",
+            "barrel",
+            "shoulder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers are being taught to shoot with rifles.",
+              "world_new": [
+                "shoot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lục lọi",
+          "definition": "to search (through something)",
+          "world_new": [
+            "search"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thief rifled through the drawers.",
+              "world_new": [
+                "thief"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ăn trộm",
+          "definition": "to steal",
+          "world_new": [
+            "steal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The document had been rifled.",
+              "world_new": [
+                "document"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rifle range"
+  ],
+  "list_browse": [
+    "ridiculously",
+    "ridiculousness",
+    "riding school",
+    "rife",
+    "rifle",
+    "rifle range",
+    "rift",
+    "rig",
+    "rig out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346811_0ca6b12a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346811_91fb40d52a_o.png",
+      "id_image": "rifle_2495769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461583_5279835bbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461583_aed977eb66_o.png",
+      "id_image": "rifle_5322294"
+    }
+  ]
+}

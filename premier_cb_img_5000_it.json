@@ -1,0 +1,78 @@
+{
+  "english": "premier",
+  "phat_am": "ˈpremiə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thứ nhất",
+          "definition": "first or leading",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Italy’s premier industrialist.",
+              "world_new": [
+                "industrialist"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thủ tướng",
+          "definition": "a prime minister",
+          "world_new": [
+            "prime",
+            "minister"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the French premier.",
+              "world_new": [
+                "French"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He was thus one of the few state premiers to have been turned out of office after only one term.",
+    "They are yet to win a flag but finished minor premiers in 2006 and 2007.",
+    "The show premiered to 2.47 million viewers, and retained a regular audience of 2.5 million viewers during its summer run.",
+    "However, she was unable to commit to the project due to her health (she died soon after the work premiered).",
+    "The 1st season premiered at the fall 2008.",
+    "The network bought the show, which premiered the following year, and became a popular, critical and financial success.",
+    "Premiers go home afterwards with tears in their eyes because they have just said that.",
+    "The second season premiered with 3.43 million viewers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prelude",
+    "premature",
+    "prematurely",
+    "premeditated",
+    "premier",
+    "première",
+    "premises",
+    "premolar",
+    "premonition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444163_d972c4aabb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444163_00cdd551d0_o.png",
+      "id_image": "premier_395779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373862_75f2b6ef3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373862_a09a83233f_o.png",
+      "id_image": "premier_5571590"
+    }
+  ]
+}

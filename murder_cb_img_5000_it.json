@@ -1,0 +1,107 @@
+{
+  "english": "murder",
+  "phat_am": "ˈməːdə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kẻ sát nhân",
+          "definition": "(an act of) killing a person on purpose and illegally",
+          "world_new": [
+            "act",
+            "person",
+            "purpose",
+            "illegally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police are treating his death as a case of murder",
+              "world_new": [
+                "police",
+                "death",
+                "case"
+              ]
+            },
+            {
+              "ex_of_definition": "an increase in the number of murders.",
+              "world_new": [
+                "increase",
+                "number"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tội giết người",
+          "definition": "any killing or causing of death that is considered as bad as this",
+          "world_new": [
+            "death",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the murder of innocent people by terrorists.",
+              "world_new": [
+                "innocent",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giết người",
+          "definition": "to kill (a person) on purpose and illegally",
+          "world_new": [
+            "kill",
+            "purpose",
+            "illegally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He murdered two children."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "murderer",
+    "murderous",
+    "murderously"
+  ],
+  "list_browse": [
+    "municipality",
+    "municipally",
+    "munitions",
+    "mural",
+    "murder",
+    "murderer",
+    "murderous",
+    "murderously",
+    "murmur"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446668_2446a4b6df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446668_be17fc64f1_o.png",
+      "id_image": "murder_1256809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446623_46f776888d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446623_6b82757c10_o.png",
+      "id_image": "murder_2323041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446608_c17ac7735e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446608_80d4b1f4bf_o.png",
+      "id_image": "murder_5411101"
+    }
+  ]
+}

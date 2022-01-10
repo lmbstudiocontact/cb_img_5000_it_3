@@ -1,0 +1,177 @@
+{
+  "english": "notice",
+  "phat_am": "ˈnəutis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thông báo",
+          "definition": "a written or printed statement to announce something publicly",
+          "world_new": [
+            "statement",
+            "announce",
+            "publicly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stuck a notice on the door, saying that he had gone home",
+              "world_new": [
+                "door",
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "They put a notice in the paper announcing the birth of their daughter.",
+              "world_new": [
+                "paper",
+                "birth",
+                "their",
+                "daughter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chú ý",
+          "definition": "attention",
+          "world_new": [
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His skill attracted their notice",
+              "world_new": [
+                "skill",
+                "their"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll bring the problem to his notice as soon as possible.",
+              "world_new": [
+                "bring",
+                "problem",
+                "soon",
+                "possible"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giấy báo nghỉ việc",
+          "definition": "warning given especially before leaving a job or dismissing someone",
+          "world_new": [
+            "warning",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her employer gave her a month’s notice",
+              "world_new": [
+                "employer"
+              ]
+            },
+            {
+              "ex_of_definition": "The cook gave in her notice",
+              "world_new": [
+                "cook"
+              ]
+            },
+            {
+              "ex_of_definition": "Please give notice of your intentions.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "để ý",
+          "definition": "to see, observe, or keep in one’s mind",
+          "world_new": [
+            "see",
+            "observe",
+            "keep",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I noticed a book on the table",
+              "world_new": [
+                "I",
+                "noticed",
+                "book",
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "He noticed her leave the room",
+              "world_new": [
+                "noticed",
+                "leave",
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "Did he say that? I didn’t notice.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am not the first to have noticed the unequal treatment accorded the different parts of the monograph.",
+    "It is important for the staff to notice problems and discuss opportunities for treatment with patients and relatives.",
+    "This was undertaken when they noticed the carer had not been able to attend the carers' meetings.",
+    "In short, and without anyone particularly noticing it, these debates have been democratized.",
+    "We noticed first that the velocity of the downstream or upstream waves decreases with rising throughput.",
+    "No significant differentiation of symptoms was noticed between lines.",
+    "These economically most rewarding strategies differ significantly from today's practice of symptomatic treatment when heavy rodent damage is noticed.",
+    "We have noticed this phenomenon in elicitation dialogues about research groups."
+  ],
+  "list_see_also": [
+    "noticeable",
+    "noticeably",
+    "noticed",
+    "noticeboard",
+    "at short notice",
+    "take notice of"
+  ],
+  "list_browse": [
+    "nothing is sacred (to him/them etc)",
+    "nothing much",
+    "nothing to write home about",
+    "nothingness",
+    "notice",
+    "noticeable",
+    "noticeably",
+    "noticeboard",
+    "noticed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057470_7873d2922b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057470_530086069f_o.png",
+      "id_image": "notice_3154616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057415_848cafdf52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057415_507420d1f1_o.png",
+      "id_image": "notice_4807723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365557_be0f3dda66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365557_385265cc98_o.png",
+      "id_image": "notice_6000874"
+    }
+  ]
+}

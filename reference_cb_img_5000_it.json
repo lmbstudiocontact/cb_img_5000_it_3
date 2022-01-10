@@ -1,0 +1,111 @@
+{
+  "english": "reference",
+  "phat_am": "ˈrefərəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tham khảo",
+          "definition": "(an) act of referring (to something); a mention (of something)",
+          "world_new": [
+            "act",
+            "mention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made several references to her latest book",
+              "world_new": [
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "With reference to your request for information, I regret to inform you that I am unable to help you.",
+              "world_new": [
+                "your",
+                "request",
+                "information",
+                "I",
+                "regret",
+                "inform",
+                "I",
+                "unable",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận xét",
+          "definition": "a note about one’s character, ability etc, eg when one applies for a new job",
+          "world_new": [
+            "note",
+            "character",
+            "ability",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our new secretary had excellent references from her previous employers.",
+              "world_new": [
+                "secretary",
+                "excellent",
+                "previous"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần tham khảo",
+          "definition": "an indication in a book, report etc, showing where one got one’s information or where further information can be found",
+          "world_new": [
+            "indication",
+            "book",
+            "report",
+            "information",
+            "further",
+            "information",
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a list of references.",
+              "world_new": [
+                "list"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of these, only 1% of past temporal reference contexts were marked by periphrastic did.",
+    "If a value has a unique type, then there can be only one reference to it.",
+    "Expedients such as reference price tables had to be used, although it was impossible to ascertain their validity.",
+    "An appropriate uniqueness condition would be to fix the @ and surfaces where they interesect the reference plane.",
+    "Once such a set is deter1 mined on a reference plane, the surfaces are essentially fixed for the entire flow field.",
+    "Additional references were identified through searching bibliographies of related publications and through contact with relevant topic experts and industry.",
+    "The period of reference is the past 1 month and detailed questions were asked about the past 1 week.",
+    "Thus, reference paths can be identified with every matching."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ref",
+    "refectory",
+    "refer",
+    "referee",
+    "reference",
+    "reference book",
+    "reference library",
+    "referendum",
+    "refill"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068880_e220191556_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068880_6b9d47a35f_o.png",
+      "id_image": "reference_2844426"
+    }
+  ]
+}

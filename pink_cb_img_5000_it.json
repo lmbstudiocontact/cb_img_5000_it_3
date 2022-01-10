@@ -1,0 +1,70 @@
+{
+  "english": "pink",
+  "phat_am": "piŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "màu hồng",
+          "definition": "(of) (any shade of) a colour/color between red and white",
+          "world_new": [
+            "shade",
+            "red",
+            "white"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dress of pink satin.",
+              "world_new": [
+                "dress",
+                "satin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hồng hào",
+          "definition": "(of) the colour/color of healthy skin",
+          "world_new": [
+            "healthy",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "pink cheeks"
+            },
+            {
+              "ex_of_definition": "Her cheeks are pink with health.",
+              "world_new": [
+                "health"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "pinkness",
+    "pinkish"
+  ],
+  "list_browse": [
+    "pineapple",
+    "ping",
+    "ping-pong",
+    "pinhole",
+    "pink",
+    "pinkish",
+    "pinkness",
+    "pinna",
+    "pinnacle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700954_77656668eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700954_876322b81f_o.png",
+      "id_image": "pink_2218719"
+    }
+  ]
+}

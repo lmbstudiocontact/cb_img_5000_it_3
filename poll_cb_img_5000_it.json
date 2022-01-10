@@ -1,0 +1,125 @@
+{
+  "english": "poll",
+  "phat_am": "pəul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc bầu cử",
+          "definition": "an election",
+          "world_new": [
+            "election"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They organized a poll to elect a president.",
+              "world_new": [
+                "organized",
+                "elect",
+                "president"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số phiếu bầu",
+          "definition": "the number of votes",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There has been a heavy poll (= a large number of votes).",
+              "world_new": [
+                "heavy",
+                "large",
+                "number"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc thăm dò ý kiến",
+          "definition": "(also opinion poll) a test of public opinion by asking people questions.",
+          "world_new": [
+            "test",
+            "public",
+            "opinion",
+            "people"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thu được",
+          "definition": "to receive a number of votes",
+          "world_new": [
+            "receive",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He polled fifty per cent of the votes.",
+              "world_new": [
+                "per",
+                "cent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Opinion polls generally gather information, albeit limited, about the socioeconomic background of respondents, including such items as age, gender, occupation, education, income, and family.",
+    "Public opinion concerning end-of-life issues is frequently measured by government surveys, newspaper polls, and research studies.",
+    "However, the evaluation of attitudes through the use of public opinion polls is superficial considering the emotionally charged situations in which consent decisions occur.",
+    "After its creation in 1990, the party immediately gained media recognition and political success, polling 6.7% of the vote in the parliamentary election in 1991.",
+    "Parties mobilize the cadres who get ordinary citizens to the polls and sustain their civic participation.",
+    "Thus, high levels of unemployment may lead to a protest vote at the polling booth.",
+    "The claim that polls would increase responsiveness on the part of elected officials is hardly new.",
+    "The answer which might bridge this chasm probably lies in a closer examination of the party agents who manned the polls."
+  ],
+  "list_see_also": [
+    "polling booth",
+    "polling station",
+    "go to the polls"
+  ],
+  "list_browse": [
+    "politically correct",
+    "politician",
+    "politics",
+    "polka",
+    "poll",
+    "pollen",
+    "pollinate",
+    "pollination",
+    "polling booth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381952_25252c07e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381952_f44283f841_o.png",
+      "id_image": "poll_1902215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381912_9494158655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381912_f0cab7889c_o.png",
+      "id_image": "poll_2164295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451698_71281c4c18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451698_15f5e2e0e2_o.png",
+      "id_image": "poll_2388936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336926_ee57519ae0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336926_1ed03c8268_o.png",
+      "id_image": "poll_281389"
+    }
+  ]
+}

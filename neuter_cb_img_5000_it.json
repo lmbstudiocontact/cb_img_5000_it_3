@@ -1,0 +1,66 @@
+{
+  "english": "neuter",
+  "phat_am": "ˈnjuːtə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc giống trung",
+          "definition": "in certain languages, of the gender which is neither masculine nor feminine",
+          "world_new": [
+            "certain",
+            "gender",
+            "masculine",
+            "nor",
+            "feminine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a neuter noun.",
+              "world_new": [
+                "noun"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vô tính",
+          "definition": "without sex",
+          "world_new": [
+            "sex"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Worker bees are neuter, being neither male nor female.",
+              "world_new": [
+                "male",
+                "nor",
+                "female"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "neural",
+    "neurological",
+    "neurologist",
+    "neurology",
+    "neuter",
+    "neutral",
+    "neutrality",
+    "neutralize",
+    "neutron"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678789_5bafc5041d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678789_8975392c7f_o.png",
+      "id_image": "neuter_2935070"
+    }
+  ]
+}

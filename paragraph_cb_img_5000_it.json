@@ -1,0 +1,78 @@
+{
+  "english": "paragraph",
+  "phat_am": "ˈpӕrəɡraːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đoạn văn",
+          "definition": "a part of a piece of writing, marked by beginning the first sentence on a new line and usually leaving a short space at the beginning of the line",
+          "world_new": [
+            "part",
+            "piece",
+            "marked",
+            "beginning",
+            "sentence",
+            "line",
+            "short",
+            "space",
+            "beginning",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are a couple of paragraphs about the bank robbery on page three of today’s paper.",
+              "world_new": [
+                "couple",
+                "bank",
+                "robbery",
+                "page",
+                "paper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The remainder of this paragraph is from this source.",
+    "The last paragraph of the note had more than mere formal significance.",
+    "The results of the next two paragraphs make the conclusion virtually certain.",
+    "Bewilderingly, like her point lace, her story's introductory proprieties are delayed until the second paragraph.",
+    "The largest of these corresponds precisely to the growth rate mentioned in the first paragraph of this section.",
+    "Namely, it is the argument that has been updated towards the end of the previous paragraph which needs especial care.",
+    "These results indicate that simplified texts exhibited more semantic similarity within sentences and within paragraphs than did authentic texts.",
+    "It begins with a short paragraph of acknowledgements."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "paradoxical",
+    "paradoxically",
+    "paraffin",
+    "paragon",
+    "paragraph",
+    "parallel",
+    "parallelogram",
+    "paralyse",
+    "paralysis"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333321_3154b24fa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333321_05551238e8_o.png",
+      "id_image": "paragraph_4507980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333256_b6b6044a71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333256_2ee9714027_o.png",
+      "id_image": "paragraph_6311360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070225_e0250f666f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070225_811ce4fd7e_o.png",
+      "id_image": "paragraph_930232"
+    }
+  ]
+}

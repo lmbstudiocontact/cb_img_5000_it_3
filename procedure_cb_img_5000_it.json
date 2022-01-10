@@ -1,0 +1,68 @@
+{
+  "english": "procedure",
+  "phat_am": "prəˈsiːdʒə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thủ tục",
+          "definition": "the order or method of doing something",
+          "world_new": [
+            "order",
+            "method"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They followed the usual procedure(s).",
+              "world_new": [
+                "usual"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The same procedure took place another twice more, using the same 15 words.",
+    "For this reason we chose to compute numerically the normal trajectories using the following procedure.",
+    "The purpose of this paper is to provide a theoretical framework for adequate assessment procedures to testing foreign language vocabulary.",
+    "They were told that the purpose of the procedure was to observe the child trying to wait.",
+    "This study seeks to confirm or refine such described patterns through a more rigorous sampling procedure.",
+    "Considering the time-consuming procedure used in adaptive control,13 this paper presents an efficient way for multi-input system's hysteresis decision to avoid any singularity.",
+    "Explicit procedures are specified for the identification and classification of slips, and illustrative examples of the coding are rehearsed.",
+    "For example, procedures are designed to teaching someone how to make or do something."
+  ],
+  "list_see_also": [
+    "procedural"
+  ],
+  "list_browse": [
+    "problem",
+    "problematic",
+    "proboscis",
+    "procedural",
+    "procedure",
+    "proceed",
+    "proceedings",
+    "proceeds",
+    "process"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438243_c823c72d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438243_de3ba8fe23_o.png",
+      "id_image": "procedure_2519438"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323136_cf4168b1c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323136_a3318ec43a_o.png",
+      "id_image": "procedure_2752868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059810_6726f36424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059810_c6f7554bf0_o.png",
+      "id_image": "procedure_4252302"
+    }
+  ]
+}

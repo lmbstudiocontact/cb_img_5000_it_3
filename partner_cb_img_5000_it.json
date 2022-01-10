@@ -1,0 +1,97 @@
+{
+  "english": "partner",
+  "phat_am": "ˈpaːtnə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cộng sự",
+          "definition": "a person who shares the ownership of a business etc with one or more others",
+          "world_new": [
+            "person",
+            "ownership",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was made a partner in the firm.",
+              "world_new": [
+                "firm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bạn nhảy/ cùng phe",
+          "definition": "one of two people who dance, play in a game etc together",
+          "world_new": [
+            "people",
+            "dance",
+            "play",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tennis/dancing partner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cùng nhảy/ cùng chơi",
+          "definition": "to be a partner to (someone)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He partnered his wife in the last dance.",
+              "world_new": [
+                "wife",
+                "dance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "partnership"
+  ],
+  "list_browse": [
+    "parting",
+    "partisan",
+    "partition",
+    "partly",
+    "partner",
+    "partnership",
+    "party",
+    "pass",
+    "pass (something or someone) off as"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375802_df7e969952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375802_f35238a438_o.png",
+      "id_image": "partner_1322195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375752_7ae4d51b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375752_938ecccb2e_o.png",
+      "id_image": "partner_1806239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446003_6e99beb244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446003_a80ceeaa04_o.png",
+      "id_image": "partner_4214044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375842_3abeac09fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375842_60d1b6d2bf_o.png",
+      "id_image": "partner_860504"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "percentage",
+  "phat_am": "pəˈsentidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tỷ lệ phần trăm",
+          "definition": "an amount, number or rate given as a fraction of one hundred",
+          "world_new": [
+            "amount",
+            "number",
+            "rate",
+            "fraction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve expressed all these figures as percentages."
+            }
+          ]
+        },
+        {
+          "mean_english": "tỷ lệ",
+          "definition": "a part or proportion of something",
+          "world_new": [
+            "part",
+            "proportion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A large percentage of the population can’t read or write.",
+              "world_new": [
+                "large",
+                "population",
+                "read"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The numbers in brackets represent the raw data expressed as a fraction, from which the percentages are calculated.",
+    "Her percentages cannot be compared with the percentages presented in our article since we were not interested in clitics in general.",
+    "Where data are available, the numbers and percentages of all births which are illegitimate are most often reported only for very recent years.",
+    "In the present trial, faecal cultures incubated for 14 days showed more consistent reduction percentages, compared to cultures incubated only for 7 days.",
+    "The small percentages of no invagination and exogastrulation morphologies bring the percentages to 100%.",
+    "Exact confidence intervals on the percentages positive were also calculated.",
+    "The percentages of indeterminate households are small in all three cases and do not distort the results.",
+    "As before, the range of percentages seen across individual files is also given."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "per",
+    "per annum",
+    "per cent",
+    "perceive",
+    "percentage",
+    "perception",
+    "perceptive",
+    "perceptively",
+    "perceptiveness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321236_5c37770c30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321236_ac7fd63e9d_o.png",
+      "id_image": "percentage_3103219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436563_db502f85f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436563_571fa4713b_o.png",
+      "id_image": "percentage_563190"
+    }
+  ]
+}

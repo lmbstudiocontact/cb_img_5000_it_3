@@ -1,0 +1,92 @@
+{
+  "english": "officer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sĩ quan",
+          "definition": "a person holding a commission in the army, navy or air force",
+          "world_new": [
+            "person",
+            "commission",
+            "army",
+            "navy",
+            "air",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a naval officer.",
+              "world_new": [
+                "naval"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viên chức",
+          "definition": "a person who carries out a public duty",
+          "world_new": [
+            "person",
+            "public",
+            "duty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a police officer.",
+              "world_new": [
+                "police"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They produced two performances for fellow inmates and prison officers.",
+    "Documenting the evidence is a highly skilled task performed by dedicated officers.",
+    "The identification of 36 women officers as ' social workers ' is revealing here.",
+    "Although the officers did not command regular troops, they did have influence in the army because of their prestige and number.",
+    "The social welfare officers sought the women's consent to be contacted, and all those who agreed were interviewed.",
+    "Most chroniclers say nothing of the number of officers involved in the siege.",
+    "The officers of the state, however, were not the only ones to offer a conspiracy theory to account for the racial attacks.",
+    "The younger the workforce, including personnel officers, the less likely that older people will be seen in a positive light."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "offhandedly",
+    "offhandedness",
+    "office",
+    "office-bearer",
+    "officer",
+    "official",
+    "officially",
+    "officiate",
+    "officious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703054_f232ff2af4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703054_e2304f9a24_o.png",
+      "id_image": "officer_1876787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085615_1faeeb05e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085615_2145d7070f_o.png",
+      "id_image": "officer_2053970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348271_985c8d0367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348271_007bdc2d76_o.png",
+      "id_image": "officer_6036782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702994_f88cc44075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702994_0861e40396_o.png",
+      "id_image": "officer_6417642"
+    }
+  ]
+}

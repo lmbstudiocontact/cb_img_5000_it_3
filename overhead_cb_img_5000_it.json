@@ -1,0 +1,61 @@
+{
+  "english": "overhead",
+  "phat_am": "əuvəˈhed",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "phía trên đầu",
+          "definition": "above; over one’s head",
+          "world_new": [
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane flew overhead",
+              "world_new": [
+                "plane"
+              ]
+            },
+            {
+              "ex_of_definition": "an overhead bridge.",
+              "world_new": [
+                "bridge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All centers were provided with a fixed management allowance to cover general overheads (use of hospital facilities).",
+    "The answer is that the run-time overheads are dependent on the structure and style of the program.",
+    "To maximize parallelism, whilst minimizing overheads, accessing and updating the table space must be carefully controlled.",
+    "However, it is undesirable to issue too-small tasks because of the additional communication overheads and management overheads that are incurred.",
+    "We now look at ways of reducing these overheads, first by focusing on eliminating -conversion, then on substitution propagation.",
+    "We shall assume that the other variable overheads £l0,000- relevant.",
+    "The expenses not included in the trading account are called overheads.",
+    "In order to avoid the overheads of initiating concurrent evaluation from outweighing the gains, it is necessary to be selective and avoid initiating trivial tasks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "overestimate",
+    "overflow",
+    "overgrown",
+    "overhaul",
+    "overhead",
+    "overheads",
+    "overhear",
+    "overjoyed",
+    "overlap"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385257_4eb17c9027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385257_7e8ac7590b_o.png",
+      "id_image": "overhead_5641182"
+    }
+  ]
+}

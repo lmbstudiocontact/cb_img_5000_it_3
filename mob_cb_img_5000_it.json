@@ -1,0 +1,73 @@
+{
+  "english": "mob",
+  "phat_am": "mob",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đám đông hỗn tạp",
+          "definition": "a noisy, violent or disorderly crowd of people",
+          "world_new": [
+            "noisy",
+            "violent",
+            "disorderly",
+            "crowd",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was attacked by an angry mob.",
+              "world_new": [
+                "angry"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tấn công",
+          "definition": "(of a crowd) to surround and push about in a disorderly way",
+          "world_new": [
+            "surround",
+            "push",
+            "disorderly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The singer was mobbed by a huge crowd of his fans.",
+              "world_new": [
+                "singer",
+                "huge",
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ml",
+    "mm",
+    "moan",
+    "moat",
+    "mob",
+    "mobile",
+    "mobile phone",
+    "mobility",
+    "mobilization"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385047_13c0656660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385047_9f721842bc_o.png",
+      "id_image": "mob_3292647"
+    }
+  ]
+}

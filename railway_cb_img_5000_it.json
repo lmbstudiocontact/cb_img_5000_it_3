@@ -1,0 +1,98 @@
+{
+  "english": "railway",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường sắt",
+          "definition": "a track with (usually more than one set of) two (or sometimes three) parallel steel rails on which trains run; railroad American",
+          "world_new": [
+            "track",
+            "parallel",
+            "steel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’re building a new railway",
+              "world_new": [
+                "building"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a railway station.",
+              "world_new": [
+                "station"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngành đường sắt",
+          "definition": "the whole organization which is concerned with the running of trains, the building of tracks etc; railroad American",
+          "world_new": [
+            "whole",
+            "organization",
+            "running",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a job on the railway",
+              "world_new": [
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "The railways are very badly run in some countries.",
+              "world_new": [
+                "badly",
+                "run"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Within this discourse railways were represented as symbol and cause, representative both of an emerging modernity and the technological driving force of developmental change.",
+    "Technical articles range from short de®nitions of terms to detailed discussions of civil, mechanical, and electrical and electronic engineering as they concern railways.",
+    "References to transport range very widely and include traffic management for roads and railways as well as various possibilities for autonomous vehicles, and applications to space travel and underwater exploration.",
+    "Such railways are said to be two-way functioning [6].",
+    "They develop robust software tools which are used in significant industrial case studies, in areas like railways, embedded systems and hardware communication platforms.",
+    "As with the emerging revolutionary spirit, hopes and wounds from the nationalist movement were not only concentrated on the asphalt roads and railways, but also sparked through the wireless.",
+    "The problem of calculating cost lies at the heart of large scale technological developments such as railways, electricity, and telecommunications.",
+    "By memorandum of agreement, member railways had voluntarily agreed to cease all price-based competition and abide by a common schedule of rates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "raider",
+    "rail",
+    "railing",
+    "railroad",
+    "railway",
+    "rain",
+    "rain cats and dogs",
+    "rain check: take a rain check",
+    "rain forest"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695349_023b84e91e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695349_1024b8f4ea_o.png",
+      "id_image": "railway_1987405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077385_48b11607b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077385_f80b04cc28_o.png",
+      "id_image": "railway_619145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695379_165a2ce484_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695379_5fecd00825_o.png",
+      "id_image": "railway_858289"
+    }
+  ]
+}

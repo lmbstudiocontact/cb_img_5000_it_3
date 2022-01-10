@@ -1,0 +1,68 @@
+{
+  "english": "radiation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tỏa chiếu",
+          "definition": "rays of light, heat etc or of any radioactive substance",
+          "world_new": [
+            "light",
+            "heat",
+            "radioactive",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a radiation leak.",
+              "world_new": [
+                "leak"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Workers who contract diseases—including leukaemia—due to electromagnetic radiations—other than radiant heat—or to ionising particles are covered by disease number 25 in the schedule of diseases prescribed for industrial injuries purposes.",
+    "Secondly, the licensees will be absolutely liable for any injury or damage caused by ionising radiations emitted from anything on the licensed site.",
+    "The first point is ionising radiations.",
+    "Secondary radiation processes due to particle acceleration upon reflection will also be considered.",
+    "A number of specialist inspectors are already available to advise on problems relating to the use of ionising radiations.",
+    "A draft code of regulations covering the protection of workers in factories against ionising radiations is in preparaton.",
+    "High-power short-wave radiations are reported to induce lethal temperatures in animal life in stored materials, so that all stages are said to be destroyed with expedition and ease.",
+    "The ionising radiations regulations include a number of requirements to ensure the protection of staff, such as the requirements for measuring and regulating the doses they receive."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "radiance",
+    "radiant",
+    "radiantly",
+    "radiate",
+    "radiation",
+    "radiator",
+    "radical",
+    "radically",
+    "radicle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456213_39fc65ab22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456213_96278e71f8_o.png",
+      "id_image": "radiation_2456864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386337_5e3cdbbbf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386337_375a4f9617_o.png",
+      "id_image": "radiation_2752164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696629_28e7f444b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696629_21c5daef93_o.png",
+      "id_image": "radiation_706206"
+    }
+  ]
+}

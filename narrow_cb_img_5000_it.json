@@ -1,0 +1,129 @@
+{
+  "english": "narrow",
+  "phat_am": "ˈnӕrəu",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hẹp",
+          "definition": "having or being only a small distance from side to side",
+          "world_new": [
+            "small",
+            "distance",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a narrow road",
+              "world_new": [
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "The bridge is too narrow for large lorries to cross.",
+              "world_new": [
+                "bridge",
+                "large",
+                "cross"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "eo hẹp",
+          "definition": "only just managed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a narrow escape.",
+              "world_new": [
+                "escape"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hẹp hòi",
+          "definition": "(of ideas, interests or experience) not extensive enough",
+          "world_new": [
+            "extensive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a narrow outlook on life.",
+              "world_new": [
+                "outlook",
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thu hẹp",
+          "definition": "to make or become narrow",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road suddenly narrowed.",
+              "world_new": [
+                "road",
+                "suddenly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fourth, the optimal population size narrows as problem difficulty increases.",
+    "Zoospores narrowed down toward the forward end and had two flagella.",
+    "The structure of this 0.5-mm mode is highly periodic, implying a much narrower spectrum of wavelengths than in single wires z pinches.",
+    "The ascending aorta was bulbous, but narrowed at the transverse arch and at the site of repair of the aortic coarctation.",
+    "The beginning social research worker can make most certain the value of his contribution if he narrows his research to very specific problems.",
+    "First, they narrowed the view of the participants of the range of acceptable solutions to their problem.",
+    "Although the lumen is not significantly narrowed, localized peaks of velocity, up to 2 m/sec were found close to the two indented regions.",
+    "As expected, the probability that war is avoided increases as the gap between the rivals' demand and offer narrows."
+  ],
+  "list_see_also": [
+    "narrowly",
+    "narrows",
+    "narrow-minded"
+  ],
+  "list_browse": [
+    "narrate",
+    "narration",
+    "narrative",
+    "narrator",
+    "narrow",
+    "narrow-minded",
+    "narrowly",
+    "narrows",
+    "nasal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683289_2bab706c76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683289_f4784ae579_o.png",
+      "id_image": "narrow_1670272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443208_a9ae176e3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443208_7443fbc721_o.png",
+      "id_image": "narrow_4563856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683329_2f85a8f9bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683329_8a3efe5379_o.png",
+      "id_image": "narrow_567422"
+    }
+  ]
+}

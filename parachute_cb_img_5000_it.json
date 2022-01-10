@@ -1,0 +1,99 @@
+{
+  "english": "parachute",
+  "phat_am": "ˈpӕrəʃuːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái dù",
+          "definition": "an umbrella-shaped piece of light, strong cloth etc beneath which a person etc is tied with ropes so that he etc can come slowly down to the ground from a great height",
+          "world_new": [
+            "piece",
+            "light",
+            "strong",
+            "cloth",
+            "person",
+            "slowly",
+            "ground",
+            "great",
+            "height"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They made the descent from the plane by parachute",
+              "world_new": [
+                "descent",
+                "plane"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a parachute-jump."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhảy dù",
+          "definition": "to come down to the ground using a parachute",
+          "world_new": [
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The troops parachuted into France.",
+              "world_new": [
+                "troops"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The parachute provides a backward force against which his muscles must work.",
+    "Projects must not be parachuted in from outside and not steered by quangos which take pride in their invisibility and anonymity, by-passing elected local government.",
+    "There is no access for them other than by parachuting food supplies and by the odd aircraft landing.",
+    "The advisability of supplying parachutes has been exhaustively reviewed, and as a result it has been decided that the disadvantages outweigh the advantages.",
+    "The fibrous ring may be an isolated lesion, but more frequently is associated with a parachute or hammock valve.",
+    "Two of them had parachute valves and one developed grade 2 mitral regurgitation.",
+    "Another example of difficulty is presented by those who practise parachuting.",
+    "Licensing, if that is the appropriate word, for activities such as parachuting at least would be conditional on production of an insurance certificate."
+  ],
+  "list_see_also": [
+    "parachutist"
+  ],
+  "list_browse": [
+    "paprika",
+    "par",
+    "parable",
+    "paracetamol",
+    "parachute",
+    "parachutist",
+    "parade",
+    "paradigm",
+    "paradigmatic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070615_9f51a97e63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070615_f1d651ccec_o.png",
+      "id_image": "parachute_1485078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333676_25265dd984_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333676_a4b093b162_o.png",
+      "id_image": "parachute_1487559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333661_6413800999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333661_1a017976af_o.png",
+      "id_image": "parachute_4146379"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "english": "move",
+  "phat_am": "muːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "di chuyển",
+          "definition": "to (cause to) change position or go from one place to another",
+          "world_new": [
+            "change",
+            "position",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He moved his arm",
+              "world_new": [
+                "arm"
+              ]
+            },
+            {
+              "ex_of_definition": "Don’t move!"
+            },
+            {
+              "ex_of_definition": "Please move your car.",
+              "world_new": [
+                "your",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển nhà",
+          "definition": "to change houses",
+          "world_new": [
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re moving on Saturday.",
+              "world_new": [
+                "moving",
+                "Saturday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xúc động",
+          "definition": "to affect the feelings or emotions of",
+          "world_new": [
+            "affect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was deeply moved by the film.",
+              "world_new": [
+                "I",
+                "deeply",
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "(đánh cờ) nước",
+          "definition": "(in board games) an act of moving a piece",
+          "world_new": [
+            "board",
+            "act",
+            "moving",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can win this game in three moves.",
+              "world_new": [
+                "win",
+                "game"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển, xê dịch",
+          "definition": "an act of changing homes",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How did your move go?",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Subsequent scenes show teeming streets, construction sites, moving trains, and the bustling harbor.",
+    "The fluid particles avoid moving near the fixed wall y = 0, so that as they emerge from the origin they are biased towards the vertical.",
+    "At times the camera was mounted on moving surfaces, such as trains, trams, ships, or even the subway.",
+    "After the recording and the developing, the hologram was returned to the second holder and moved into the laser beam line.",
+    "The theoretical debate has moved beyond the subject of interpretation of the past, to the necessity to reflect on archaeology itself.",
+    "The manipulator remains standing still, until the operator begins to move it.",
+    "The remaining fourteen had moved into private enterprise, mostly with firms specializing in the field of their former ministries.",
+    "Older infants may be more likely to have moved around to different foster homes and thus to have suffered more disruptions than younger infants."
+  ],
+  "list_see_also": [
+    "movable",
+    "movement",
+    "movie",
+    "moving",
+    "movingly",
+    "get a move on",
+    "make a move",
+    "move along",
+    "move heaven and earth",
+    "move house",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "mouthful",
+    "mouthpiece",
+    "mouthwash",
+    "movable",
+    "move",
+    "move along",
+    "move heaven and earth",
+    "move house",
+    "move in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378687_d7fc984dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378687_534021d15e_o.png",
+      "id_image": "move_1083106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070715_563627857a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070715_ca5c3502d1_o.png",
+      "id_image": "move_1558171"
+    }
+  ]
+}

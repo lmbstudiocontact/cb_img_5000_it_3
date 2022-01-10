@@ -1,0 +1,68 @@
+{
+  "english": "rebound",
+  "phat_am": "riˈbaund",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nẩy lại",
+          "definition": "to bounce back",
+          "world_new": [
+            "bounce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ball rebounded off the wall.",
+              "world_new": [
+                "ball",
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In 34 games, he averaged 14.8 points, 8.0 rebounds, 2.1 assists and 1.1 blocks in 29.2 minutes per game.",
+    "Throughout the event he accumulated averages of 8 points and 6 rebounds per game.",
+    "He sent my letter down to the commissars in the engine room, from whence it rebounded smartly with a memorandum attached.",
+    "He improved his regular season statistics significantly, averaging 15.5 points per game (ppg), 5.3 assists per game (apg) and 2.6 rebounds per game (rpg).",
+    "He was third in the league in rebounding in 1952-53, with 920.",
+    "His numbers continued to increase as a senior; he averaged 28.5 points and eight rebounds.",
+    "Gains in the countryside have already rebounded on the cities.",
+    "He spoke of water table rebounds, of iron pyrites, of adits—a horizontal or near-horizontal tunnel from the surface into a mine for entry, drainage or exploration."
+  ],
+  "list_see_also": [
+    "on the rebound"
+  ],
+  "list_browse": [
+    "rebellious",
+    "rebelliously",
+    "rebelliousness",
+    "reboot",
+    "rebound",
+    "rebuff",
+    "rebuke",
+    "recall",
+    "recapitulate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451438_90bbf68f0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451438_31caa9af44_o.png",
+      "id_image": "rebound_4647371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691769_ceb8837b04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691769_f4e6b3d738_o.png",
+      "id_image": "rebound_4647377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691759_cb138147a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691759_63e8cf9353_o.png",
+      "id_image": "rebound_5526405"
+    }
+  ]
+}

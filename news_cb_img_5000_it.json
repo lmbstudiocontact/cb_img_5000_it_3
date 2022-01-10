@@ -1,0 +1,88 @@
+{
+  "english": "news",
+  "phat_am": "njuːz",
+  "list_english": [
+    {
+      "type_word": "noun singular",
+      "list_definition": [
+        {
+          "mean_english": "tin tức",
+          "definition": "a report of, or information about, recent events",
+          "world_new": [
+            "report",
+            "information",
+            "recent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can hear the news on the radio at 9 o’clock",
+              "world_new": [
+                "hear",
+                "radio",
+                "o’clock"
+              ]
+            },
+            {
+              "ex_of_definition": "Is there any news about your friend?",
+              "world_new": [
+                "your",
+                "friend"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a news broadcast.",
+              "world_new": [
+                "broadcast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Blogs may be a source of political opinion, news frames, and (in some cases) new information about public affairs.",
+    "Such fictional programmes will be joined in the very near future by internationally available news output.",
+    "Twenty-two publications were editorials, notes, meeting abstracts, or news items and therefore excluded from further analysis.",
+    "The news of her impending death led to the gathering of her children, who confer red about the possible course of action.",
+    "However, the radio did play an important role in the dissemination of certain types of news, and it was clearly more influential than the press.",
+    "They are almost invariably linked to a more intellectual pursuit: they accompany interviews, reviews, or 'news' items.",
+    "However, judging from some of the 20/21st century newspapers, the tendency to fictionalize news is still alive and well.",
+    "The news was relayed to the restive citizens that they had a few days' respite."
+  ],
+  "list_see_also": [
+    "newsy",
+    "news agency",
+    "newsagent",
+    "newscast",
+    "newscaster",
+    "newsgroup",
+    "newsletter",
+    "newspaper",
+    "newsreader",
+    "newsstand"
+  ],
+  "list_browse": [
+    "newbie",
+    "newcomer",
+    "newfangled",
+    "newly",
+    "news",
+    "news agency",
+    "newsagent",
+    "newscast",
+    "newscaster"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678459_e77d7264bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678459_2a74c0b745_o.png",
+      "id_image": "news_383832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678419_93ddaebf00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678419_4a59a87131_o.png",
+      "id_image": "news_823470"
+    }
+  ]
+}

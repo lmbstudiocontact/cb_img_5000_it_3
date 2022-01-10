@@ -1,0 +1,69 @@
+{
+  "english": "profess",
+  "phat_am": "prəˈfes",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tuyên bố",
+          "definition": "to state or declare openly.",
+          "world_new": [
+            "state",
+            "declare",
+            "openly"
+          ]
+        },
+        {
+          "mean_english": "tự xưng là",
+          "definition": "to claim or pretend",
+          "world_new": [
+            "claim",
+            "pretend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He professed to be an expert.",
+              "world_new": [
+                "expert"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of the 50 girls admitted as boarders between 1719 and 1745, 88 per cent later professed.",
+    "The wives professed themselves disinterested in coitus twice as frequently as they reported that the husbands lacked interest.",
+    "And it is not necessar y to profess pluralism in order to stress the divergent character of musical practices.",
+    "The liberalism they professed was never strong enough to exceed the limitations of the halfhear ted initiatives for reform which issued from the colonial administration.",
+    "The astonishment he professed was pure theatre for the record.",
+    "The movement's own promotional literature professed obedience to the state, and asserted that spiritual regeneration fostered peace and civic virtue.",
+    "Communist rulers had been removed, not by outside interventions, but by the very working classes they professed to represent.",
+    "Spiritual coadjutors and professed were ordained priests and received advanced training in theology, though the latter studied longer than the former."
+  ],
+  "list_see_also": [
+    "profession",
+    "professional",
+    "professionally"
+  ],
+  "list_browse": [
+    "production",
+    "productive",
+    "productivity",
+    "Prof.",
+    "profess",
+    "profession",
+    "professional",
+    "professionally",
+    "professor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366457_9ce0678447_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366457_99f27972cb_o.png",
+      "id_image": "profess_5454364"
+    }
+  ]
+}

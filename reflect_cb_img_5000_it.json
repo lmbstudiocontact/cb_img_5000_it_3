@@ -1,0 +1,103 @@
+{
+  "english": "reflect",
+  "phat_am": "rəˈflekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phản xạ",
+          "definition": "to send back (light, heat etc)",
+          "world_new": [
+            "send",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The white sand reflected the sun’s heat.",
+              "world_new": [
+                "white",
+                "sand",
+                "heat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phản chiếu",
+          "definition": "(of a mirror etc) to give an image of",
+          "world_new": [
+            "mirror",
+            "image"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was reflected in the mirror/water."
+            }
+          ]
+        },
+        {
+          "mean_english": "cân nhắc",
+          "definition": "to think carefully",
+          "world_new": [
+            "think",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give him a minute to reflect (on what he should do).",
+              "world_new": [
+                "minute"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Alternatively, they might reflect more general patterns that differentiate types of treatment facilities.",
+    "This confident, swingeing condemnation in part reflected the disarray, fragmentation, and anxieties of the evangelical movement as a whole by the 1890s.",
+    "These cost differences reflect the different hospital equipment policies for reusable equipment (the results when disposable equipment were used were virtually identical).",
+    "More policies that reflect systems thinking are needed.",
+    "The theoretical debate has moved beyond the subject of interpretation of the past, to the necessity to reflect on archaeology itself.",
+    "Interestingly, the above study, although discusses course content in detail, does reflect the evaluations from perceived student's needs.",
+    "This ambivalence was reflected in the continuous violation of the cease-fire agreement by both parties.",
+    "Memory complaints do reflect perceptions of past memory performance and are also an early manifestation of memory impairment."
+  ],
+  "list_see_also": [
+    "reflecting",
+    "reflection",
+    "reflective",
+    "reflectively",
+    "reflector"
+  ],
+  "list_browse": [
+    "refined",
+    "refinement",
+    "refinery",
+    "refit",
+    "reflect",
+    "reflecting",
+    "reflection",
+    "reflective",
+    "reflectively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376612_e93da85896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376612_1fccb777e3_o.png",
+      "id_image": "reflect_4427713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686849_8d9d498ace_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686849_aa589cc10b_o.png",
+      "id_image": "reflect_6315721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686904_962088b4d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686904_d3507113fb_o.png",
+      "id_image": "reflect_705350"
+    }
+  ]
+}

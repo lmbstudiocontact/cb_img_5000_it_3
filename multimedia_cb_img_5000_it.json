@@ -1,0 +1,112 @@
+{
+  "english": "multimedia",
+  "phat_am": "(British) ˌmaltiˈmiːdiə; (American) ˌmaltiːˈmiːdiːə, ˌmaltaiˈmiːdiːə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đa môi trường",
+          "definition": "using a combination of sound, pictures, and video to present information on a computer screen",
+          "world_new": [
+            "combination",
+            "sound",
+            "video",
+            "present",
+            "information",
+            "computer",
+            "screen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "multimedia software.",
+              "world_new": [
+                "software"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đa phương tiện",
+          "definition": "(in art and education) using different methods and materials to present information or to express something",
+          "world_new": [
+            "art",
+            "present",
+            "information",
+            "express"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a multimedia presentation.",
+              "world_new": [
+                "presentation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuộc đa phương tiện",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the use of multimedia in online distance learning.",
+              "world_new": [
+                "distance",
+                "learning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Research has demonstrated that students can develop word segmentation and word recognition skills in multimedia environments.",
+    "The next step, the form of computing which adds moving images and sound to text and static graphics, is generally considered to be multimedia.",
+    "Will the rise of multimedia performance (including live video mixes by vj's) in popular music veins have a positive effect on such output?",
+    "The 1992 edition lists 2212 titles including 419 multimedia discs.",
+    "Attacking anxiety : a naturalistic study of a multimedia self-help program.",
+    "Therefore, the authors emphasize representing knowledge concerning the function of a multimedia document rather than the document itself.",
+    "I should add that, in our multimedia world, it depends on the general level of literacy as well.",
+    "The whole area of direct interaction with the public is left to some intriguing references to multimedia and installation works in the final chapter."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "multi-coloured",
+    "multi-storey",
+    "multicultural",
+    "multilingual",
+    "multimedia",
+    "multimillionaire",
+    "multiple",
+    "multiple sclerosis",
+    "multiple-choice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069120_1a9a3d4f5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069120_e7cb313c96_o.png",
+      "id_image": "multimedia_1014674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069080_68ddd3221c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069080_a5cc952958_o.png",
+      "id_image": "multimedia_1892552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687279_46f543d1d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687279_6a5e011d36_o.png",
+      "id_image": "multimedia_6298094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687244_d61172ba5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687244_bf79ca91a5_o.png",
+      "id_image": "multimedia_6298339"
+    }
+  ]
+}

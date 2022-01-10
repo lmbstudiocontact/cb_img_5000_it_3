@@ -1,0 +1,64 @@
+{
+  "english": "prison",
+  "phat_am": "ˈprizn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà tù",
+          "definition": "a building in which criminals are kept; jail",
+          "world_new": [
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sent to prison"
+            },
+            {
+              "ex_of_definition": "He is in prison."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They produced two performances for fellow inmates and prison officers.",
+    "But such policies were not fully implemented in other prisons, not least because of resistance by local prison officials.",
+    "It was thus not surprising that many of the older women ' jokingly' described their homes as ' prisons' during the focus group discussions.",
+    "Most commentators believed that many ' incorrigibles ' had to be interned in security confinement after their prison or penitentiary sentence, in order to protect society.",
+    "Does the story even imply that all five went to prison?",
+    "Many prison officials agreed that, as long as security confinement had not become law, ' incorrigible ' inmates should at least be excluded from most benefits.",
+    "This may reflect the absence of patients with heart disease in some prisons, though all are likely to have some patients at some time.",
+    "That study found the risk associated with receipt of tattoos in prison elevated, but not statistically significant."
+  ],
+  "list_see_also": [
+    "prisoner",
+    "prisoner of war",
+    "take/keep/hold prisoner"
+  ],
+  "list_browse": [
+    "priory",
+    "prise",
+    "prism",
+    "prismatic",
+    "prison",
+    "prisoner",
+    "prisoner of war",
+    "privacy",
+    "private"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439178_9102c1b9b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439178_5db1c77c34_o.png",
+      "id_image": "prison_2861299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324161_2928d1ef15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324161_00c3f36b4c_o.png",
+      "id_image": "prison_382273"
+    }
+  ]
+}

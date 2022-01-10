@@ -1,0 +1,100 @@
+{
+  "english": "mobile",
+  "phat_am": "ˈmoubail",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "di động",
+          "definition": "able to move",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A van supplying country districts with library books is called a mobile library",
+              "world_new": [
+                "van",
+                "country",
+                "library",
+                "library"
+              ]
+            },
+            {
+              "ex_of_definition": "The old lady is no longer mobile – she has to stay in bed all day.",
+              "world_new": [
+                "old",
+                "lady",
+                "stay",
+                "bed",
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dễ di chuyển",
+          "definition": "able to move or be moved quickly or easily",
+          "world_new": [
+            "move",
+            "quickly",
+            "easily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Considering his age, he’s very mobile on his feet",
+              "world_new": [
+                "age"
+              ]
+            },
+            {
+              "ex_of_definition": "Most of the furniture is very light and mobile.",
+              "world_new": [
+                "furniture",
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hay thay đổi",
+          "definition": "(of someone’s features or face) changing easily in expression.",
+          "world_new": [
+            "easily",
+            "expression"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "mobility",
+    "mobilize",
+    "mobilization",
+    "mobile phone"
+  ],
+  "list_browse": [
+    "mm",
+    "moan",
+    "moat",
+    "mob",
+    "mobile",
+    "mobile phone",
+    "mobility",
+    "mobilization",
+    "mobilize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454958_23ed7f7175_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454958_efd24ae1f3_o.png",
+      "id_image": "mobile_1443110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340041_8ecf2aae5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340041_590826dfe8_o.png",
+      "id_image": "mobile_1447580"
+    }
+  ]
+}

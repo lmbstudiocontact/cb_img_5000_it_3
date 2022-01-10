@@ -1,0 +1,76 @@
+{
+  "english": "registration",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đăng ký",
+          "definition": "the act of recording names or information on an official list",
+          "world_new": [
+            "act",
+            "recording",
+            "information",
+            "official",
+            "list"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "voter registration",
+              "world_new": [
+                "voter"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) You’ll have to pay a registration fee of £35.",
+              "world_new": [
+                "pay",
+                "fee"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It would be foolhardy to suggest that affordable registration and titling will by itself restrain predatory state functionaries from encroaching on farmer rights.",
+    "The 1859 law allowed the registration of haciendas and labour contracts, but the $.10 per contract charge acted as a disincentive to the system's use.",
+    "In that year the method of registration changed from books to cards which were arranged alphabetically by the name of the head of the household.",
+    "The overseers also offered other types of relief : finding employment and arranging for family registration, child care and health care.",
+    "All talk about \"internal representations\" and internal or external difference registration or detection, and so on, is beside the point.",
+    "The clinic is open-access, with no prior patient registration required.",
+    "The difference between a wife and a concubine may be merely a legal one of formal registration, ceremony and other legalities.",
+    "The bone of contention is the section on registration of political parties."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "register",
+    "register office / registry office",
+    "registered",
+    "registrar",
+    "registration",
+    "registration number",
+    "registry",
+    "regret",
+    "regretful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329841_e97791517c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329841_d1e3d6f1aa_o.png",
+      "id_image": "registration_2361722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684754_41ea89bc03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684754_e613bcd99a_o.png",
+      "id_image": "registration_3965942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329761_31386b5908_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329761_7fbe8897c5_o.png",
+      "id_image": "registration_4246662"
+    }
+  ]
+}

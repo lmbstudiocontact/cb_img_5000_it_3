@@ -1,0 +1,136 @@
+{
+  "english": "relieve",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm giảm; làm dịu",
+          "definition": "to lessen or stop (pain, worry etc)",
+          "world_new": [
+            "lessen",
+            "stop",
+            "worry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor gave him some drugs to relieve the pain",
+              "world_new": [
+                "doctor",
+                "pain"
+              ]
+            },
+            {
+              "ex_of_definition": "Aid is being sent to relieve the hardship of the refugees.",
+              "world_new": [
+                "hardship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thay phiên",
+          "definition": "to take over a job or task from",
+          "world_new": [
+            "job",
+            "task"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You guard the door first, and I’ll relieve you in two hours.",
+              "world_new": [
+                "guard",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sa thải",
+          "definition": "to dismiss (a person) from his job or position",
+          "world_new": [
+            "dismiss",
+            "job",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was relieved of his post/duties.",
+              "world_new": [
+                "relieved"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm nhẹ bớt (gánh nặng)",
+          "definition": "to take (something heavy, difficult etc) from someone",
+          "world_new": [
+            "heavy",
+            "difficult"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "May I relieve you of that heavy case?",
+              "world_new": [
+                "I",
+                "heavy",
+                "case"
+              ]
+            },
+            {
+              "ex_of_definition": "The new gardener relieved the old man of the burden of cutting the grass.",
+              "world_new": [
+                "gardener",
+                "relieved",
+                "old",
+                "burden",
+                "cutting",
+                "grass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải cứu",
+          "definition": "to come to the help of (a town etc which is under siege or attack).",
+          "world_new": [
+            "help",
+            "town",
+            "siege"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Besides, poverty may diminish his importance in the eyes of his parishioners, especially if he cannot relieve them in their distress.",
+    "In the setting of cancer, physical distress needs to be relieved before psychological or existential suffering can be attended to.",
+    "The left lateral position can improve fetal blood -ow by relieving aortocaval compression.",
+    "Indeed, given a physician's obligation to relieve a patient's pain, such acts are at times obligatory.",
+    "It is instituted not to end life, but to relieve suffering.",
+    "Current priorities for research and research funding re-ect a strongly felt need, among governments and donor agencies, for rapid problem-solving to relieve poverty.",
+    "The first three months of 1842 alone saw them relieving over 10,000 casuals, at a cost of nearly £2,000.",
+    "This is a highly desirable feature that relieves the burden of coding missions in agent systems from the start."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reliance",
+    "reliant",
+    "relic",
+    "relief",
+    "relieve",
+    "relieved",
+    "religion",
+    "religious",
+    "religiously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681759_6e08e28300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681759_047876f9af_o.png",
+      "id_image": "relieve_6066553"
+    }
+  ]
+}

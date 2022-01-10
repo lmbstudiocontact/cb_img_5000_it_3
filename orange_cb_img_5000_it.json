@@ -1,0 +1,116 @@
+{
+  "english": "orange",
+  "phat_am": "ˈorindʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả cam",
+          "definition": "a type of juicy citrus fruit with a thick reddish-yellow skin",
+          "world_new": [
+            "type",
+            "juicy",
+            "fruit",
+            "thick",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’d like an orange"
+            },
+            {
+              "ex_of_definition": "(also adjective) an orange tree.",
+              "world_new": [
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màu da cam",
+          "definition": "the colour/color of this fruit",
+          "world_new": [
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wall was painted a bright orange.",
+              "world_new": [
+                "wall",
+                "bright"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có màu da cam",
+          "definition": "of the colour/color orange",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an orange dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mùi cam",
+          "definition": "with the taste of orange juice",
+          "world_new": [
+            "taste",
+            "juice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an orange drink.",
+              "world_new": [
+                "drink"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I see that shiploads of oranges are coming over.",
+    "We will raise only six crates of oranges.",
+    "Of the two prepositional phrases, on top of the oranges in the bowl (303 utterances) and in the bowl with the oranges (313 utterances) occurred the most.",
+    "Why have licences to import oranges been refused when the importers could get over the freight difficulty?",
+    "Who is responsible for the waste and where did the oranges come from?",
+    "The seasonal mean proportion of males was 0.552+0.012 compared to 0.448+0.012 for females, but with greater fluctuations among sampling dates compared to oranges.",
+    "Children picked up the oranges, which were poisoned, and ate them.",
+    "What value can combine the merits of apples and oranges?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "oracy",
+    "oral",
+    "orally",
+    "orang-utan",
+    "orange",
+    "oration",
+    "orator",
+    "oratorical",
+    "oratory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344581_9eafbfe816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344581_53c06075b1_o.png",
+      "id_image": "orange_170327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389497_c3a07e338c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389497_b3c977e4e3_o.png",
+      "id_image": "orange_501324"
+    }
+  ]
+}

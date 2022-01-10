@@ -1,0 +1,53 @@
+{
+  "english": "rabbi",
+  "phat_am": "ˈrӕbai",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giáo sĩ Do Thái",
+          "definition": "a Jewish priest or teacher of the law",
+          "world_new": [
+            "Jewish",
+            "priest",
+            "teacher",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the chief rabbi.",
+              "world_new": [
+                "chief"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "quotation marks",
+    "quote",
+    "quotient",
+    "R",
+    "rabbi",
+    "rabbit",
+    "rabble",
+    "rabies",
+    "raccoon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457228_89618fa18d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457228_7f909b9fc6_o.png",
+      "id_image": "rabbi_3497545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079840_8ed049b066_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079840_0ab681a3b3_o.png",
+      "id_image": "rabbi_5443098"
+    }
+  ]
+}

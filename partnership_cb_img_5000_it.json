@@ -1,0 +1,94 @@
+{
+  "english": "partnership",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cộng tác",
+          "definition": "the state of being or becoming partners",
+          "world_new": [
+            "state",
+            "becoming"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a business partnership",
+              "world_new": [
+                "business"
+              ]
+            },
+            {
+              "ex_of_definition": "He entered into partnership with his brother.",
+              "world_new": [
+                "brother"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự liên kết",
+          "definition": "people playing together in a game",
+          "world_new": [
+            "people",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The champions were defeated by the partnership of Rutherford and Carragher in the men’s doubles.",
+              "world_new": [
+                "defeated",
+                "doubles"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A case study on partnerships in sport policy is used to illustrate the analysis.",
+    "As this last comment suggests, some officers found their involvement in the partnerships to be a considerable and insufficiently appreciated additional burden.",
+    "Although partnerships and grassroots support are imperative, successful settings focus on internal integration before attempting to encompass partners outside the organization.",
+    "The institutional partnerships that are associated with particular public programmes usually have a limited life, not least because the programmes themselves do.",
+    "The first section includes chapters on neighbour relations; crime stress; gender, family and friendship roles; inter-generational support; and intimate partnerships.",
+    "A possible interpretation is that governments invest more in partnerships that serve their own interest.",
+    "Chapter 3 presents basic aspects of morphology and word formation, whereas chapter 4 deals with \"lexical partnerships,\" especially collocations, and rudimentary information on language corpora.",
+    "Similarly, accountants, say, move between chartered accountancy partnerships and industry."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "partisan",
+    "partition",
+    "partly",
+    "partner",
+    "partnership",
+    "party",
+    "pass",
+    "pass (something or someone) off as",
+    "pass as/for"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330896_03a6e24868_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330896_f9dd94b1ea_o.png",
+      "id_image": "partnership_3057916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445773_a0ee709702_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445773_691ccc4352_o.png",
+      "id_image": "partnership_3386878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330791_480417b4ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330791_f74da0cd39_o.png",
+      "id_image": "partnership_3775393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685799_d37b3c810a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685799_e2c940786a_o.png",
+      "id_image": "partnership_5138009"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "pastry",
+  "phat_am": "ˈpeistri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bột nhão",
+          "definition": "flour paste used in making pies, tarts etc",
+          "world_new": [
+            "flour",
+            "paste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "puff pastry.",
+              "world_new": [
+                "puff"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bánh ngọt",
+          "definition": "a pie, tart etc made with this",
+          "world_new": [
+            "pie",
+            "tart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Danish pastries."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In other countries, different names are used for similar or identical pastries.",
+    "They also bring a variety of pastries and snacks for the couple.",
+    "Two years later, they began giving gifts of pastries to the neighbors, who were inevitably impacted by the ever-larger event.",
+    "Firstly, sugar is used for making cakes and pastries, not wine.",
+    "The pastries are baked until the layers separate, forming the \"sfogliatella's\" characteristic ridges.",
+    "Any food or clothing that entered the cell was to be scrutinised ; bread, cake, pastry and fowl were to be cut up to ensure they concealed no tools.",
+    "Poaa is the label name for dough based salty pastries.",
+    "The first tribe to score two points wins coffee and pastries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pastille",
+    "pastime",
+    "pastor",
+    "pastoral",
+    "pastry",
+    "pasture",
+    "pasty",
+    "pat",
+    "patch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328876_c0ba398e10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328876_071296b09b_o.png",
+      "id_image": "pastry_1056801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065670_3091b47335_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065670_9ce3983407_o.png",
+      "id_image": "pastry_2484312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328791_d97ec93bb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328791_b1b517a7b7_o.png",
+      "id_image": "pastry_5293914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683824_5249cd8063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683824_04445a6b40_o.png",
+      "id_image": "pastry_6299639"
+    }
+  ]
+}

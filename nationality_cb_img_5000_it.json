@@ -1,0 +1,55 @@
+{
+  "english": "nationality",
+  "phat_am": "nӕʃəˈnӕləti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quốc tịch",
+          "definition": "(the state of belonging to) a particular nation",
+          "world_new": [
+            "state",
+            "particular",
+            "nation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘What nationality are you?’ ‘I’m German’"
+            },
+            {
+              "ex_of_definition": "You will come across (people of) many nationalities in London.",
+              "world_new": [
+                "across"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "national service",
+    "nationalism",
+    "nationalist",
+    "nationalistic",
+    "nationality",
+    "nationalization",
+    "nationalize",
+    "nationally",
+    "nationwide"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683054_ee5e203707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683054_59398d5c66_o.png",
+      "id_image": "national_3014423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443008_22b915d42d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443008_b25f1c1bf6_o.png",
+      "id_image": "national_5189458"
+    }
+  ]
+}

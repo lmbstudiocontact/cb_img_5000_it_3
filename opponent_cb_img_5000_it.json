@@ -1,0 +1,72 @@
+{
+  "english": "opponent",
+  "phat_am": "əˈpəunənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "địch thủ",
+          "definition": "a person who opposes",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an opponent of the government",
+              "world_new": [
+                "government"
+              ]
+            },
+            {
+              "ex_of_definition": "He beat his opponent by four points.",
+              "world_new": [
+                "beat",
+                "points"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Initial opponent's moves do not carry pointers, but we call them pointing moves also for uniformity.",
+    "The role of honest broker in negotiations between loquacious opponents, however, was not to the ambassador's liking.",
+    "While pro-aristocratic attitudes became identified with the royalist party, their liberal opponents became ever more criticial of aristocratic liberalism.",
+    "His call for \"honest\" taxes operated on the premise that his opponents would flinch before the prospect of a divisive debate about transparent taxes.",
+    "Both sought to expose the reality, as they saw it, of their opponent's politics.",
+    "Advocates attacked opponents where it hurt most, questioning and challenging their key argument and standing it on its head.",
+    "The discussion of freedom is no less full of gaps and problems, and the tendency to ungenerous caricature of opponents again proves irresistible.",
+    "In the case of criminal justice, several stinging defeats for opponents of civil rights galvanized a powerful elite countermovement."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "opinion poll",
+    "opinionated",
+    "opium",
+    "opossum",
+    "opponent",
+    "opportune",
+    "opportunely",
+    "opportuneness",
+    "opportunism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460383_ba1961a0cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460383_4718f4c628_o.png",
+      "id_image": "opponent_1622537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345581_a50b350764_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345581_6fb675df0d_o.png",
+      "id_image": "opponent_4144468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700689_3a47ee088c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700689_430ed65f84_o.png",
+      "id_image": "opponent_5087858"
+    }
+  ]
+}

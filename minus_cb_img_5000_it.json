@@ -1,0 +1,105 @@
+{
+  "english": "minus",
+  "phat_am": "ˈmainəs",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "trừ",
+          "definition": "used to show subtraction",
+          "world_new": [
+            "subtraction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ten minus two equals eight (10 – 2 = 8)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phép trừ",
+          "definition": "(also minus sign) a sign (–) used to show subtraction or negative quality.",
+          "world_new": [
+            "sign",
+            "subtraction",
+            "negative",
+            "quality"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "âm",
+          "definition": "negative or less than zero",
+          "world_new": [
+            "negative"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a minus number",
+              "world_new": [
+                "number"
+              ]
+            },
+            {
+              "ex_of_definition": "Twelve from ten equals minus two (10 – 12 = –2)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Older mini buses must comply with specific regulations according to their actual use.",
+    "However, no system is perfect, and there have been a few minuses.",
+    "I think that it is fair that we should acknowledge the minuses.",
+    "If she travels in a mini, it should more than cover the journey both ways.",
+    "There are pluses and minuses, and there is still a long way to go before the facilities are properly used.",
+    "They believe that the opportunities for mini plants have been given to private industry to keep it quiet.",
+    "The knowledge that they would be \"minused\" in that way would encourage few of them to do so.",
+    "The great thing to remember about the urban development corporations, especially the 10 mini corporations, is that after about five years they are dissolved."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "minority",
+    "minstrel",
+    "mint",
+    "minuet",
+    "minus",
+    "minute",
+    "minute hand",
+    "minutely",
+    "minuteness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696789_84b27e5171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696789_1bc879562e_o.png",
+      "id_image": "minus_227949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078930_910b8f977e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078930_09d25e60d3_o.png",
+      "id_image": "minus_2368488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341496_8c6f16e8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341496_d54f9880fb_o.png",
+      "id_image": "minus_2844381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341481_8f822ce5ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341481_701e907a62_o.png",
+      "id_image": "minus_5982743"
+    }
+  ]
+}

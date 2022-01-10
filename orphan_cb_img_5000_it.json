@@ -1,0 +1,69 @@
+{
+  "english": "orphan",
+  "phat_am": "ˈoːfən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trẻ mồ côi",
+          "definition": "a child who has lost both parents (rarely only one parent)",
+          "world_new": [
+            "child",
+            "lost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That little girl is an orphan",
+              "world_new": [
+                "girl"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) an orphan child.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On this occasion, three daughters were orphaned, so the family property was granted to a couple with two male children.",
+    "The surprising fact that only 53 per cent of the orphans could be identified in the court archives has already been discussed.",
+    "Where workhouses were introduced, they were regulated under humane sets of rules, and largely catered for orphaned and homeless people.",
+    "Within this tradition, adoption and fostering used to be the two main ways of providing alternative care to orphans and abandoned children.",
+    "The poor no longer included only the traditional groups (widows, orphans, the blind, the lame) but also comprised newer kinds as well.",
+    "The state monopolises welfare provision to orphans and abandoned children found in urban areas, where it emphasises institutional care.",
+    "Our widows and orphans cry in their homes; our old fathers cry along the road.",
+    "Thousands of orphans and abandoned children have grown up in foster families in these ordinary rural villages."
+  ],
+  "list_see_also": [
+    "orphanage"
+  ],
+  "list_browse": [
+    "ornateness",
+    "ornithological",
+    "ornithologist",
+    "ornithology",
+    "orphan",
+    "orphanage",
+    "orthodox",
+    "orthopaedic",
+    "orthopaedics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697744_ba051a5640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697744_0933741401_o.png",
+      "id_image": "orphanage_5759350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387567_e7b44f146a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387567_ea9f4ecf41_o.png",
+      "id_image": "orphan_2453601"
+    }
+  ]
+}

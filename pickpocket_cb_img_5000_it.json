@@ -1,0 +1,47 @@
+{
+  "english": "pickpocket",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kẻ móc túi",
+          "definition": "a person who steals from people’s pockets",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He kept his wallet in his hand because he knew there would be pickpockets in the crowd.",
+              "world_new": [
+                "wallet",
+                "hand",
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pick up speed",
+    "pick-up",
+    "picket",
+    "pickle",
+    "pickpocket",
+    "picnic",
+    "pictorial",
+    "pictorially",
+    "picture"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085500_9f9633ddae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085500_207d021d2b_o.png",
+      "id_image": "pickpocket_4321377"
+    }
+  ]
+}

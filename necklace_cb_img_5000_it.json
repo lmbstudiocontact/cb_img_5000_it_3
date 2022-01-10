@@ -1,0 +1,62 @@
+{
+  "english": "necklace",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuỗi hạt",
+          "definition": "a string of jewels, beads etc worn around the neck",
+          "world_new": [
+            "string",
+            "worn",
+            "neck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a diamond necklace.",
+              "world_new": [
+                "diamond"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "necessitate",
+    "necessity",
+    "neck",
+    "neck and neck",
+    "necklace",
+    "neckline",
+    "necktie",
+    "nectar",
+    "nectarine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063430_ec7786f29e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063430_81b0bc4d52_o.png",
+      "id_image": "necklace_315206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063385_6d7181587b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063385_815247293b_o.png",
+      "id_image": "necklace_332038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441423_80fd41fd8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441423_f53e96c17b_o.png",
+      "id_image": "necklace_488338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681464_df0b0a3424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681464_4c0cbfcd5f_o.png",
+      "id_image": "necklace_688325"
+    }
+  ]
+}

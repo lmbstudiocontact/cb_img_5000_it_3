@@ -1,0 +1,64 @@
+{
+  "english": "priest",
+  "phat_am": "priːst",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "linh mục",
+          "definition": "(in the Christian Church, especially the Roman Catholic, Orthodox and Anglican churches) a clergyman",
+          "world_new": [
+            "Christian",
+            "Roman",
+            "Anglican",
+            "clergyman"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Catholic priest."
+            }
+          ]
+        },
+        {
+          "mean_english": "thầy tế",
+          "definition": "(feminine priestess) (in non-Christian religions) an official who performs sacrifices etc to the god(s).",
+          "world_new": [
+            "official"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "priesthood"
+  ],
+  "list_browse": [
+    "prickly",
+    "pride",
+    "pride of place",
+    "pride oneself on",
+    "priest",
+    "priesthood",
+    "prig",
+    "priggish",
+    "priggishly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681059_ab762eeb08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681059_f2bf572802_o.png",
+      "id_image": "priest_4261534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681024_b29341a5d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681024_c6d46f3155_o.png",
+      "id_image": "priest_4530994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681104_02f2978099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681104_6c57572ff7_o.png",
+      "id_image": "priest_807694"
+    }
+  ]
+}

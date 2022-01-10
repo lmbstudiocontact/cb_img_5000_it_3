@@ -1,0 +1,159 @@
+{
+  "english": "pile",
+  "phat_am": "pail",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đống: chồng",
+          "definition": "a (large) number of things lying on top of each other in a tidy or untidy heap; a (large) quantity of something lying in a heap",
+          "world_new": [
+            "number",
+            "top",
+            "tidy",
+            "untidy",
+            "quantity",
+            "heap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a neat pile of books in the corner of the room",
+              "world_new": [
+                "neat",
+                "corner",
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "There was pile of rubbish at the bottom of the garden.",
+              "world_new": [
+                "rubbish",
+                "bottom",
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số lượng lớn",
+          "definition": "a large quantity, especially of money",
+          "world_new": [
+            "large",
+            "quantity",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He must have piles of money to own a car like that.",
+              "world_new": [
+                "money",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xếp thành chồng",
+          "definition": "to make a pile of (something); to put (something) in a pile",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He piled the boxes on the table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cọc",
+          "definition": "a large pillar or stake driven into the ground as a foundation for a building, bridge etc",
+          "world_new": [
+            "large",
+            "pillar",
+            "stake",
+            "ground",
+            "foundation",
+            "building",
+            "bridge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The entire city of Venice is built on piles.",
+              "world_new": [
+                "entire",
+                "city"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mặt thảm mịn",
+          "definition": "the thick soft surface of carpets and some kinds of cloth eg velvet",
+          "world_new": [
+            "thick",
+            "soft",
+            "surface",
+            "cloth",
+            "velvet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rug has a deep/thick pile.",
+              "world_new": [
+                "rug"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To the contrary, the illusions piled atop apparent mental causation are the building blocks of human psychology and social life.",
+    "A heap of skulls was piled outside this front gate.",
+    "Cassowaries consume the fruit whole, when ripe, and defecate seeds in piles away from parent trees, where seed predation rates are lower.",
+    "She sweats to pile up virtues for the man.",
+    "Overall, 40-57% of the control bait piles were harvested, and 57-89% of the test piles.",
+    "The evidence, or perhaps the rhetorical use of evidence, seems to be piling up.",
+    "Once the piles are made they take two ollas or tinajas and put one on top of the other.",
+    "No rock lines or rock piles were discovered in the course of the survey."
+  ],
+  "list_see_also": [
+    "pile-up",
+    "pile up"
+  ],
+  "list_browse": [
+    "pigtail",
+    "pike",
+    "pilaff",
+    "pilchard",
+    "pile",
+    "pile-driver",
+    "pile-up",
+    "pilfer",
+    "pilferage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084600_ccc9a3ec18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084600_bab6897523_o.png",
+      "id_image": "pile_5392248"
+    }
+  ]
+}

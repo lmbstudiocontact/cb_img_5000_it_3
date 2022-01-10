@@ -1,0 +1,86 @@
+{
+  "english": "petrol",
+  "phat_am": "ˈpetrəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xăng",
+          "definition": "a liquid got from petroleum, used as fuel for motor cars etc; gas or gasoline American",
+          "world_new": [
+            "liquid",
+            "petroleum",
+            "fuel",
+            "motor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll stop at the next garage and buy more petrol",
+              "world_new": [
+                "stop",
+                "garage",
+                "buy"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a petrol engine.",
+              "world_new": [
+                "engine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The main occupations are : drivers, tractor drivers, petrol station workers, irrigation workers (men and women), weeders (men and women), gardeners and loaders.",
+    "From an architectural point of view, it isn't the branding itself that makes the petrol station interesting, but the standardization of form and building technology that branding encourages.",
+    "Very soon petrol companies were building chains of standardized stations.",
+    "Petrol is what marketing people call a 'distress purchase'.",
+    "It may be noted, that petrol driven vehicles also emit pollutants into the atmosphere that impose a cost on the society.",
+    "The petrol station is the branded building par ex cellence, though it is hard to see quite why.",
+    "Chapter 6 on volatility is not only well written, but the part about petrol shortage and near-crisis situations at the pump is also funny.",
+    "An instance of this is the use of the example of price-fixing by petrol companies in a discussion of evolutionary stable strategies in animal species."
+  ],
+  "list_see_also": [
+    "petroleum",
+    "petroleum jelly",
+    "petrol pump",
+    "petrol station"
+  ],
+  "list_browse": [
+    "petition",
+    "petitioner",
+    "petrify",
+    "petrochemical",
+    "petrol",
+    "petrol pump",
+    "petrol station",
+    "petroleum",
+    "petroleum jelly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087895_60d26e51ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087895_2d66e9b7a6_o.png",
+      "id_image": "petrol_169795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705244_0492e603d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705244_89f438ccf4_o.png",
+      "id_image": "petrol_1965909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350686_044b20234e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350686_30149ff726_o.png",
+      "id_image": "petrol_2289563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350636_0d7df33fdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350636_eeb2e175a2_o.png",
+      "id_image": "petrol_2540886"
+    }
+  ]
+}

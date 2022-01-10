@@ -1,0 +1,123 @@
+{
+  "english": "page",
+  "phat_am": "peidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trang sách",
+          "definition": "one side of a sheet of paper in a book, magazine etc",
+          "world_new": [
+            "side",
+            "sheet",
+            "paper",
+            "book",
+            "magazine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "page ninety-four"
+            },
+            {
+              "ex_of_definition": "a three-page letter.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cậu bé phục vụ tại khách sạn",
+          "definition": "(in hotels) a boy who takes messages, carries luggage etc.",
+          "world_new": [
+            "boy",
+            "luggage"
+          ]
+        },
+        {
+          "mean_english": "tiểu đồng",
+          "definition": "(also page boy) a boy servant.",
+          "world_new": [
+            "boy",
+            "servant"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gọi loa nhắn tin",
+          "definition": "to try to find someone in a public place by calling out his name (often through a loud-speaker system)",
+          "world_new": [
+            "try",
+            "find",
+            "public",
+            "place",
+            "calling",
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I could not see my friend in the hotel, so I had him paged.",
+              "world_new": [
+                "I",
+                "see",
+                "my",
+                "friend",
+                "hotel",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is also a list of over 40 institutes and individuals working on jackfruit, and 25 pages of recipes using the fruit or seeds.",
+    "This reaches its most inconclusive situation on page 22, when it is used twice in one sentence, both capitalised and not!",
+    "Accompanying the letters, some of which run to more than ten pages, were other records (or ' enclosures').",
+    "Despite the book's length, the bibliography reaches to only six pages.",
+    "On a technical note, the maps are so blurred as to be sometimes unreadable and the print quality is light and indistinct on some pages.",
+    "Each chapter is preceded by a contents page, has clear subject headings throughout, and concludes with a summary and suggestions for further reading.",
+    "Page measurenments are shown with the vertical dimension first.",
+    "This is a huge encyclopedic ornate text in three volumes that covers approximately 3,000 pages."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "paedophile",
+    "paedophilia",
+    "pagan",
+    "paganism",
+    "page",
+    "pageant",
+    "pageantry",
+    "pager",
+    "pagoda"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452158_1c11bdfb19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452158_ac5d20d19d_o.png",
+      "id_image": "page_485245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382297_375621451d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382297_d53bf58130_o.png",
+      "id_image": "page_4905252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452123_79412d1b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452123_de12c829ea_o.png",
+      "id_image": "page_893427"
+    }
+  ]
+}

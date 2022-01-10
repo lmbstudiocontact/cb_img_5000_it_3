@@ -1,0 +1,78 @@
+{
+  "english": "moss",
+  "phat_am": "mos",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rêu",
+          "definition": "(any variety of) a type of small flowerless plant, found in damp places, forming a soft green covering on tree trunks etc",
+          "world_new": [
+            "variety",
+            "type",
+            "small",
+            "plant",
+            "found",
+            "damp",
+            "soft",
+            "green",
+            "covering",
+            "tree",
+            "trunks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bank of the river was covered in moss.",
+              "world_new": [
+                "bank",
+                "river"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The maximum water-holding capacity of moss was estimated from the difference between moist and dry weight.",
+    "The moss was burnt off the willow stocks and in some cases the heat discoloured and even damaged the bark of the stocks.",
+    "Reduced litter loads and a greater quantity of moss were two key responses.",
+    "Only occasional spot spraying of fern regrowth is required after moss is established.",
+    "There is moderate species richness in the mosses colonising buildings.",
+    "Other contaminants should also be considered, especially aerosols and particulate accumulations in snow ablation zones and moss sites adjacent to the runway site.",
+    "The four variables were: cover by higher plants, litter, moss and soil surface depressions, stratified towards the soil surface in that order.",
+    "Non-vascular species were recorded within 95 sample plots and totalled 2 2 mosses, 66 liverworts and 4 6 macrolichens."
+  ],
+  "list_see_also": [
+    "mossy"
+  ],
+  "list_browse": [
+    "mortuary",
+    "mosaic",
+    "mosque",
+    "mosquito",
+    "moss",
+    "mossy",
+    "most",
+    "mostly",
+    "MOT"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690874_873bea350e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690874_735454174a_o.png",
+      "id_image": "moss_2036769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380652_45f7dc5eed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380652_3dd9f10226_o.png",
+      "id_image": "moss_3196058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335601_049f73f12e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335601_b53686ee2c_o.png",
+      "id_image": "moss_3968223"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "peanut",
+  "phat_am": "ˈpiːnat",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạt lạc",
+          "definition": "(also groundnutor monkey nut) a type of nut that looks rather like a pea",
+          "world_new": [
+            "type",
+            "nut",
+            "looks",
+            "rather",
+            "pea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "roast peanuts.",
+              "world_new": [
+                "roast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The overall goal of the present study was to gain a better understanding of the physiological basis for the differential environmental responses between peanut genotypes.",
+    "In peanutallergic individuals, subsequent exposure to peanut allergens induces inflammatory reactions largely governed by mast cells, basophils and eosinophils.",
+    "Twenty-four hour rainfall, a simple environmental variable for predicting peanut leaf spot epidemics.",
+    "There were no other sequences in the database from any other organisms that had high homology to the sequenced cultivated peanut microsatellite allele.",
+    "Expression of the mutated peanut allergen construct will result in the production of hypoallergenic variants that can be used for immunotherapy.",
+    "There is a clear need for a safe and effective specific therapy for patients with peanut allergy.",
+    "Thus, biomass was not a good indicator for pod yield, and biomass evaluation would not have helped in the selection of peanut breeding lines.",
+    "The identification and characterisation of peanut allergens allows for the development of vaccines that could potentially be used for the treatment of peanut allergy."
+  ],
+  "list_see_also": [
+    "peanut butter"
+  ],
+  "list_browse": [
+    "peak",
+    "peaked",
+    "peaky",
+    "peal",
+    "peanut",
+    "peanut butter",
+    "pear",
+    "pear-shaped",
+    "pearl"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439993_17f20a556f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439993_404ddaa098_o.png",
+      "id_image": "peanut_4278309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324926_869f975fef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324926_31247cd144_o.png",
+      "id_image": "peanut_4391589"
+    }
+  ]
+}

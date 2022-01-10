@@ -1,0 +1,57 @@
+{
+  "english": "moisturize",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho ẩm",
+          "definition": "to keep the moisture in (skin)",
+          "world_new": [
+            "keep",
+            "moisture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This cream is used to moisturize the skin.",
+              "world_new": [
+                "cream",
+                "skin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "moisten",
+    "moistly",
+    "moistness",
+    "moisture",
+    "moisturize",
+    "moisturizer",
+    "molar",
+    "molasses",
+    "mole"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338541_09ca1381b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338541_26ba052187_o.png",
+      "id_image": "moisturizing_1905835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075545_4f0a2bbc34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075545_b8818c6f99_o.png",
+      "id_image": "moisturizing_2446361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693639_2a0cfde7ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693639_a54bc0c31f_o.png",
+      "id_image": "moisturizing_3791155"
+    }
+  ]
+}

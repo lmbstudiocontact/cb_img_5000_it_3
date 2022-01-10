@@ -1,0 +1,127 @@
+{
+  "english": "nature",
+  "phat_am": "ˈneitʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thiên nhiên",
+          "definition": "the physical world, eg trees, plants, animals, mountains, rivers etc, or the power which made them",
+          "world_new": [
+            "physical",
+            "world",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the beauty of nature",
+              "world_new": [
+                "beauty"
+              ]
+            },
+            {
+              "ex_of_definition": "the forces of nature",
+              "world_new": [
+                "forces"
+              ]
+            },
+            {
+              "ex_of_definition": "the study of nature.",
+              "world_new": [
+                "study"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản tính",
+          "definition": "the qualities born in a person; personality",
+          "world_new": [
+            "personality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a generous nature.",
+              "world_new": [
+                "generous"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính chất",
+          "definition": "quality; what something is or consists of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the nature of your work?",
+              "world_new": [
+                "your",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "loại; thứ",
+          "definition": "a kind, type etc",
+          "world_new": [
+            "kind",
+            "type"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "bankers and other people of that nature.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Given the qualitative nature of the survey, the results were interpreted and put in relation to existing estimates in the literature.",
+    "This does seem to be a somewhat anthropocentric viewpoint and one, moreover, that effectively replaces the old culture/nature dualism with a human/non-human dualism.",
+    "The difficulty of taking such steps returns us to the linked nature of lingua franca and power.",
+    "Given the nature of our research questions, we needed to target organic shoppers.",
+    "Related, although somewhat different considerations apply to texts of purely theoretical nature, too.",
+    "The attraction of what might at first blush seem a redundant translation was that nature could speak in a clear and undistorted voice.",
+    "The qualitative nature of the discussion in the text does not depend on having only one person.",
+    "Whether changing the nature of that provision to a more personal and less business-like consultation will be what women users want remains to be seen."
+  ],
+  "list_see_also": [
+    "-natured",
+    "in the nature of",
+    "nature reserve"
+  ],
+  "list_browse": [
+    "natural history",
+    "natural resources",
+    "naturalist",
+    "naturally",
+    "nature",
+    "nature reserve",
+    "-natured",
+    "naught",
+    "naughtily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327541_5851c694b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327541_f71c0810d9_o.png",
+      "id_image": "nature_4359728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372222_576d2e25eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372222_228975ae72_o.png",
+      "id_image": "nature_4359742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682584_b15fea0afb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682584_147cd3d0b7_o.png",
+      "id_image": "nature_4359947"
+    }
+  ]
+}

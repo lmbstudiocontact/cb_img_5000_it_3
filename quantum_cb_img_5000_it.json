@@ -1,0 +1,74 @@
+{
+  "english": "quantum",
+  "phat_am": "ˈkwontəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lượng tử",
+          "definition": "the smallest amount of a physical quantity, such as energy, that can exist independently, or this amount used as a unit of measurement",
+          "world_new": [
+            "amount",
+            "physical",
+            "quantity",
+            "energy",
+            "exist",
+            "independently",
+            "amount",
+            "unit",
+            "measurement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The amount of energy given off is measured in quanta.",
+              "world_new": [
+                "amount",
+                "energy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, even in the regime of quantum chaos, the computer can be used reliably for some time, although it is eventually destroyed.",
+    "It is uncertain, however, whether ' quantum evolution ', and punctuated equilibrium in the transition zone are important.",
+    "The most distinctive feature of quantum theory - the interference of probabilities - is thus expressed equally well in position space and momentum space.",
+    "The dispersion relation for a quantum pair plasma is derived, by using a wave kinetic description.",
+    "The development of quantum walks in the context of quantum computation, as generalisations of random walk techniques, has led rapidly to several new quantum algorithms.",
+    "In recent years, these two notions of complexity have begun to interact within the quantum information field.",
+    "In quantum mechanics a particle can behave like a particle or a wave.",
+    "Long-term study of solar radiation regimes in a tropical wet forest using quantum sensors and hemispherical photographs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "quantifier",
+    "quantitative analysis",
+    "quantity",
+    "quantity surveyor",
+    "quantum",
+    "quarantine",
+    "quarrel",
+    "quarrelsome",
+    "quarrelsomeness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700194_d2bbcf878c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700194_b13a59d441_o.png",
+      "id_image": "quantum_1534094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389977_d4925909e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389977_48e992c165_o.png",
+      "id_image": "quantum_6214167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459798_049ae708eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459798_7b0e12dfac_o.png",
+      "id_image": "quantum_6214172"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "response",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trả lời; sự phản ứng",
+          "definition": "a reply or reaction",
+          "world_new": [
+            "reply",
+            "reaction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our letters have never met with any response"
+            },
+            {
+              "ex_of_definition": "My suggestions met with little response."
+            }
+          ]
+        },
+        {
+          "mean_english": "phụ xướng",
+          "definition": "in church services, a part spoken by the congregation rather than the priest.",
+          "world_new": [
+            "church",
+            "part",
+            "spoken",
+            "congregation",
+            "rather",
+            "priest"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "resplendence",
+    "resplendent",
+    "resplendently",
+    "respond",
+    "response",
+    "response partners",
+    "responsibility",
+    "responsible",
+    "responsibly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087915_35669e6684_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087915_cf8e563703_o.png",
+      "id_image": "response_1055447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705284_2242f17f83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705284_fed0d497c5_o.png",
+      "id_image": "response_4694797"
+    }
+  ]
+}

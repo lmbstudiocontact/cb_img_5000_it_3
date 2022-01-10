@@ -1,0 +1,94 @@
+{
+  "english": "moral",
+  "phat_am": "ˈmorəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc đạo đức",
+          "definition": "of, or relating to, character or behaviour especially right behaviour",
+          "world_new": [
+            "character",
+            "behaviour",
+            "right",
+            "behaviour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has high moral standards"
+            },
+            {
+              "ex_of_definition": "He leads a very moral (= good) life.",
+              "world_new": [
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài học",
+          "definition": "the lesson to be learned from something that happens, or from a story",
+          "world_new": [
+            "lesson",
+            "learned",
+            "story"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The moral of this story is that crime doesn’t pay.",
+              "world_new": [
+                "story",
+                "crime",
+                "pay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another increasingly popular suggestion is that an individual's lifestyle choices may affect his or her moral claims or entitlements.",
+    "Finally, it is in the interest of employees to have ethical care that respects them as persons - in the full moral sense of the term.",
+    "So, if it can be the case that a deity's activity cannot account for worlds' moral differences, (7a) is false.",
+    "Natural philosophy was supposed to lead to moral virtue, to modesty and religious reverence.",
+    "The moral significance of the intending-foreseeing distinction requires more than the mere functional role of intention and foresight.",
+    "In other words, popular consensus, or a shared moral universe, may be something of a red herring.",
+    "An authority that rests on substantive moral limitations is conceptually possible.",
+    "Feminist ethicists reject this stance and assert that moral philosophy has to pay attention to the psychological, social and political dimensions of life."
+  ],
+  "list_see_also": [
+    "morally",
+    "morality",
+    "morals"
+  ],
+  "list_browse": [
+    "mop",
+    "mop up",
+    "mope",
+    "moped",
+    "moral",
+    "morale",
+    "morality",
+    "morally",
+    "morals"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381532_63f4ee2940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381532_e0de6813f8_o.png",
+      "id_image": "moral_2464149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451408_e1e3662a65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451408_c5cec87daa_o.png",
+      "id_image": "moral_6352978"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "pier",
+  "phat_am": "piə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cầu tàu",
+          "definition": "a platform of stone, wood etc stretching from the shore into the sea, a lake etc, used as a landing-place for boats or as a place of entertainment",
+          "world_new": [
+            "platform",
+            "stone",
+            "wood",
+            "shore",
+            "sea",
+            "lake",
+            "place",
+            "entertainment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Brighton pier."
+            },
+            {
+              "ex_of_definition": "The passengers stepped down onto the pier."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Will he confirm that, when he produces proposals, he will study closely the question of enabling legislation, particularly in relation to piers?",
+    "There would be no advantage in using the existing bridge piers.",
+    "You can only do that by railway facilities, by river and sea facilities, and also by piers.",
+    "Crossing the threshold brings you into a lofty hall articulated by tall brick and blockwork piers.",
+    "In my constituency, we need other things, like piers and lower freight charges.",
+    "Dog excrement is to be found on pavements everywhere, on the grass where children play, on the beaches and on the piers.",
+    "A large wind-chime hammock sculpture was suspended from a woven canoe-like roof structure lashed to the pier's end.",
+    "The intention was clearly to form a continuous tie across the building, so restraining the walls against any outward movement because these beams span between the piers framing the windows."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "piebald",
+    "piece",
+    "piece together",
+    "piecemeal",
+    "pier",
+    "pierce",
+    "piercing",
+    "piercingly",
+    "piercingness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702524_1bd22e14a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702524_53954d22ca_o.png",
+      "id_image": "pier_2241079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085120_032f9cba4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085120_11cfb07e02_o.png",
+      "id_image": "pier_3038976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702459_4519914f70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702459_31a6a3ae26_o.png",
+      "id_image": "pier_3720012"
+    }
+  ]
+}

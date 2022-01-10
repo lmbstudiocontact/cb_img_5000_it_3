@@ -1,0 +1,102 @@
+{
+  "english": "renew",
+  "phat_am": "rəˈnjuː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm lại",
+          "definition": "to begin, do, produce etc again",
+          "world_new": [
+            "begin",
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He renewed his efforts"
+            },
+            {
+              "ex_of_definition": "We must renew our attack on drug abuse.",
+              "world_new": [
+                "our",
+                "attack",
+                "drug",
+                "abuse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gia hạn",
+          "definition": "to cause (eg a licence) to continue for another or longer period of time",
+          "world_new": [
+            "cause",
+            "continue",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My television licence has to be renewed in October.",
+              "world_new": [
+                "television",
+                "licence",
+                "October"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm mới lại",
+          "definition": "to make new or fresh or as if new again",
+          "world_new": [
+            "fresh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The panels on the doors have all been renewed."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of those who survived this tragedy, some renewed their contracts at the mines after the war.",
+    "The oviposition domes were washed and later re-used whenever necessary, but host fruits within the devices were renewed daily.",
+    "The state has to be mended, augmented, relegitimised and renewed periodically ; institutionbuilding is an endless process.",
+    "Where inhibitor experiments were continued for more than 3 h solutions were renewed.",
+    "The world constantly renews itself, and when you look at it that way, regret and nostalgia seem equally futile.",
+    "Maintaining a constant attachment to death lessens the noise of the other selves who strive to prevent the self from growing and renewing.",
+    "Comparative social policy is a fast-moving field, and the literature is constantly renewing itself.",
+    "In the 1996 edition there is a renewed activity in retirement, and the emergence of a new category of health and well-being."
+  ],
+  "list_see_also": [
+    "renewable",
+    "renewal"
+  ],
+  "list_browse": [
+    "remunerative",
+    "renaissance",
+    "render",
+    "rendezvous",
+    "renew",
+    "renewable",
+    "renewal",
+    "renounce",
+    "renovate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370037_ed8a2e223c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370037_e1a0a26970_o.png",
+      "id_image": "renew_3906457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370007_df21ee6cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370007_4b070e14e9_o.png",
+      "id_image": "renew_5965841"
+    }
+  ]
+}

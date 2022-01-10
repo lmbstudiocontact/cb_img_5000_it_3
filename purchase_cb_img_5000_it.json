@@ -1,0 +1,108 @@
+{
+  "english": "purchase",
+  "phat_am": "ˈpəːtʃəs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mua",
+          "definition": "to buy",
+          "world_new": [
+            "buy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I purchased a new house.",
+              "world_new": [
+                "I",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng đã mua",
+          "definition": "anything that has been bought",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She carried her purchases home in a bag.",
+              "world_new": [
+                "home",
+                "bag"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự mua sắm",
+          "definition": "the act of buying",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The purchase of a car should never be a hasty matter.",
+              "world_new": [
+                "car",
+                "hasty",
+                "matter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In a \"free society\" what grounds are there for restricting the freedom of adults to purchase, and of medical practitioners to sell, cosmetic surgery?",
+    "It seems reasonable that a part of our sample purchased rather than earned some of their service years.",
+    "The recommendations are followed as far as possible by the purchase division to establish the markets.",
+    "Even though launches were ultimately rather ephemeral purchases, consumers quickly turned to this new technology as a method of infiltrating the practice of science.",
+    "Meanwhile, the state granted tracts of land to nobles or permitted them to purchase land in what had become the old borderlands.",
+    "Nowhere was this link more apparent than in the attitudes displayed by landlords during the purchase and sale of particular landed properties.",
+    "Townsmen were supposed to be able to purchase these goods for a reasonable price in the respective parts of the country.",
+    "They have purchased shares of privatized state enterprises and played a role in corporate governance."
+  ],
+  "list_see_also": [
+    "purchaser"
+  ],
+  "list_browse": [
+    "pupil",
+    "puppet",
+    "puppet show",
+    "puppetry",
+    "purchase",
+    "purchaser",
+    "pure",
+    "pure and simple",
+    "pure-blooded"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347231_21cf98f58f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347231_76e507a040_o.png",
+      "id_image": "purchase_1198278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702044_77d209a8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702044_3d03c0d8f1_o.png",
+      "id_image": "purchase_1648812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702019_33b658c3e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702019_bc60d417b4_o.png",
+      "id_image": "purchase_4646890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084595_8cb3f6358c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084595_9253572d31_o.png",
+      "id_image": "purchase_5986569"
+    }
+  ]
+}

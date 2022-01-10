@@ -1,0 +1,107 @@
+{
+  "english": "panic",
+  "phat_am": "ˈpӕnik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoảng loạn",
+          "definition": "(a) sudden great fear, especially that spreads through a crowd etc",
+          "world_new": [
+            "sudden",
+            "great",
+            "fear",
+            "crowd"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fire caused a panic in the shopping mall.",
+              "world_new": [
+                "fire",
+                "shopping",
+                "mall"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hoảng loạn",
+          "definition": "to make or become so frightened that one loses the power to think clearly",
+          "world_new": [
+            "become",
+            "frightened",
+            "power",
+            "think",
+            "clearly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He panicked at the sight of the audience.",
+              "world_new": [
+                "sight",
+                "audience"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In an emergency he either panics, or, because of the speed, can do nothing to save his life and the lives of others.",
+    "The truth is that we have been panicked into taking this step by the kind of racial hostility evinced in the last 12 months.",
+    "Slaveholders, heirs of a secular cultural of domination, were cautious and efficiently violent when necessary ; they were hardly terrified or panicked by their society.",
+    "Her doctors panicked and fled.",
+    "Nobody was hurt, but the congregation panicked and stampeded for the exit.",
+    "At the same time, they tried to escape - in fact, they panicked.",
+    "The three national political parties have been panicked into this situation by the short-term success of the nationalist parties.",
+    "The existence of a credible state insurance fund, he believed, would eliminate the fear that drove bank runs and contagious panics."
+  ],
+  "list_see_also": [
+    "panicky"
+  ],
+  "list_browse": [
+    "panelled",
+    "panelling",
+    "pang",
+    "Pangaea",
+    "panic",
+    "panicky",
+    "pannier",
+    "panorama",
+    "panoramic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380327_0163988b30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380327_4d65dd3c15_o.png",
+      "id_image": "panic_1316897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690454_e38e30fda8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690454_1a83e30ee7_o.png",
+      "id_image": "panic_213324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072160_578cce5dae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072160_7ae9407212_o.png",
+      "id_image": "panic_4897063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450228_94b3a61dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450228_8de7302547_o.png",
+      "id_image": "panic_5266102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690359_9dacc29781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690359_2da7eb8b4e_o.png",
+      "id_image": "panic_5705051"
+    }
+  ]
+}

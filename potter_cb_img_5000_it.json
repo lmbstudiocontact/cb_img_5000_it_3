@@ -1,0 +1,88 @@
+{
+  "english": "potter",
+  "phat_am": "ˈpotə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ gốm",
+          "definition": "a person who makes plates, cups, vases etc out of clay and fires them in an oven (called a kiln)",
+          "world_new": [
+            "person",
+            "clay",
+            "oven"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a potter’s wheel.",
+              "world_new": [
+                "wheel"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi lang thang",
+          "definition": "to wander about doing small jobs or doing nothing important",
+          "world_new": [
+            "wander",
+            "small",
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I spent the afternoon pottering (about).",
+              "world_new": [
+                "I",
+                "spent",
+                "afternoon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As an active par ticipant in the production process, she gained a rare inside view of the work and life of the potters.",
+    "We visited sources, talked to potters, and collected samples from potters and from sources.",
+    "Demand is not sufficient for peripheral potters to make a wide range of pots.",
+    "I would expect the potter to respect the sentimental value of the plate, but not to understand it.",
+    "The verse is clay, not marble, and it's the actor who turns the potter's wheel.",
+    "Two additional dimensions of potting have received attention in the archaeological literature and are expected to vary with the core -periphery economic position of potters.",
+    "The potters take advantage of the rainy season to sow maize and beans, which are harvested in the autumn.",
+    "It was the plan that all potters would eventually follow."
+  ],
+  "list_see_also": [
+    "pottery"
+  ],
+  "list_browse": [
+    "potentially",
+    "pothole",
+    "potion",
+    "potted",
+    "potter",
+    "pottery",
+    "potty",
+    "pouch",
+    "pouffe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069065_cf7d2b25b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069065_21aac2679c_o.png",
+      "id_image": "potter_1230732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447333_466598ffb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447333_901ca0c62a_o.png",
+      "id_image": "potter_4539349"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "mid",
+  "phat_am": "mid",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "giữa",
+          "definition": "at, or in, the middle of",
+          "world_new": [
+            "middle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a midweek football match",
+              "world_new": [
+                "football",
+                "match"
+              ]
+            },
+            {
+              "ex_of_definition": "in mid air",
+              "world_new": [
+                "air"
+              ]
+            },
+            {
+              "ex_of_definition": "a mid-air collision between two aircraft.",
+              "world_new": [
+                "collision",
+                "aircraft"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "mid-fielder"
+  ],
+  "list_browse": [
+    "microscope",
+    "microscopic",
+    "microscopically",
+    "microwave",
+    "mid",
+    "mid-fielder",
+    "midday",
+    "middle",
+    "middle age"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389142_63011f61a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389142_ec23f67ac9_o.png",
+      "id_image": "mid_3014430"
+    }
+  ]
+}

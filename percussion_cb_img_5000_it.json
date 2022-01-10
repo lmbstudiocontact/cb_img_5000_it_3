@@ -1,0 +1,90 @@
+{
+  "english": "percussion",
+  "phat_am": "pəˈkaʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ gõ",
+          "definition": "(in an orchestra, the group of people who play) musical instruments in which the sound is produced by striking them eg drums, cymbals etc",
+          "world_new": [
+            "orchestra",
+            "group",
+            "people",
+            "musical",
+            "sound",
+            "striking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plays (the) percussion in the orchestra",
+              "world_new": [
+                "orchestra"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a percussion instrument.",
+              "world_new": [
+                "instrument"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đập",
+          "definition": "the striking of one hard object against another",
+          "world_new": [
+            "striking",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A gun is fired by means of percussion.",
+              "world_new": [
+                "gun",
+                "means"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It assumes that electronic keyboards and pitched percussion instruments are available, alongside standard classroom percussion and at least one suitably loaded computer.",
+    "His approach to scoring, particularly for percussion, has something of the air of a child in a sweet-shop, urgently trying a bit of everything.",
+    "The voices adopt the rhythm given by the percussion section, and sentences are rendered mechanical by being broken into short pieces.",
+    "Its instrumentation is flexible, but will typically include a rhythm section (percussion, bass, piano) and frontline musicians (saxophone/ trumpet/ voice etc).",
+    "Percussion, bass, keyboards and guitar all follow the same pattern of chord changes in exactly the same rhythm and with the same accents.",
+    "The material is relatively simple: drones, amplified percussion, distortion effects, and, in the final track, a range of objects.",
+    "In any case, the gently thudding accompaniment is certainly not to be found anywhere in the percussion parts.",
+    "Bifacial points are pointed tools shaped from large flake blanks by collateral bifacial percussion and pressure flaking."
+  ],
+  "list_see_also": [
+    "percussionist"
+  ],
+  "list_browse": [
+    "perceptive",
+    "perceptively",
+    "perceptiveness",
+    "perch",
+    "percussion",
+    "percussionist",
+    "perennial",
+    "perfect",
+    "perfection"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676099_f6d52c0093_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676099_cc100d1cff_o.png",
+      "id_image": "percussion_4457239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320961_d90ed79c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320961_b2b497d4eb_o.png",
+      "id_image": "percussion_5391309"
+    }
+  ]
+}

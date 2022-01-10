@@ -1,0 +1,54 @@
+{
+  "english": "parrot",
+  "phat_am": "ˈpӕrət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con vẹt",
+          "definition": "a kind of bird found in warm countries, especially in South America, with a hooked bill and usually brightly-coloured/-colored feathers, that can be taught to imitate human speech",
+          "world_new": [
+            "kind",
+            "bird",
+            "found",
+            "warm",
+            "hooked",
+            "bill",
+            "imitate",
+            "human",
+            "speech"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The parrot was squawking in its cage.",
+              "world_new": [
+                "its",
+                "cage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "parole",
+    "paroxysm",
+    "parquet",
+    "parricide",
+    "parrot",
+    "parsley",
+    "parsnip",
+    "parson",
+    "parsonage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068315_6308b1c6e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068315_fd457b626a_o.png",
+      "id_image": "parrot_1355972"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "mystery",
+  "phat_am": "ˈmistəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điều bí ẩn",
+          "definition": "something that cannot be, or has not been, explained",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the mystery of how the universe was formed",
+              "world_new": [
+                "universe"
+              ]
+            },
+            {
+              "ex_of_definition": "the mystery of his disappearance",
+              "world_new": [
+                "disappearance"
+              ]
+            },
+            {
+              "ex_of_definition": "How she passed her exam is a mystery to me."
+            }
+          ]
+        },
+        {
+          "mean_english": "điều bí mật",
+          "definition": "the quality of being impossible to explain, understand etc",
+          "world_new": [
+            "quality",
+            "impossible",
+            "explain",
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her death was surrounded by mystery.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the same time, the cosmic dimension looks forward to the mysteries of finitude and beyond.",
+    "Modern science has made it possible to look beneath the tissues of the human body, and has aided surgery in telling of the hidden mysteries.",
+    "Linguistics and cognitive science: problems and mysteries.",
+    "Superficiality is poor company for medicine, but mysteries are worse.",
+    "The material means of music are rationally quantifiable but not the mysteries of their application.",
+    "In this reading, the libretto acts as the direct model for the music and the music's essence lies in its capacity to shadow the text and to represent its mysteries.",
+    "By reason of this terror the savage trembled before the magician who seemed to have penetrated the mysteries of nature about him.",
+    "We enjoy mysteries, so long as they do not threaten our person."
+  ],
+  "list_see_also": [
+    "mysterious",
+    "mysteriously"
+  ],
+  "list_browse": [
+    "myriapod",
+    "myself",
+    "mysterious",
+    "mysteriously",
+    "mystery",
+    "mystify",
+    "myth",
+    "mythical",
+    "mythically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444698_fba16b3bc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444698_bef4e14760_o.png",
+      "id_image": "mystery_2040703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684659_6ca58591cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684659_a3ccc0898a_o.png",
+      "id_image": "mystery_2178097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684614_18babe74bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684614_5c99378688_o.png",
+      "id_image": "mystery_3079241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329626_563ea9e013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329626_16e0996cbc_o.png",
+      "id_image": "mystery_4114763"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "quaver",
+  "phat_am": "ˈkweivə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sự rung tiếng",
+          "definition": "(especially of a sound or a person’s voice) to shake or tremble",
+          "world_new": [
+            "sound",
+            "shake",
+            "tremble"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The old man’s voice quavered.",
+              "world_new": [
+                "old",
+                "voice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giọng nói run rẩy",
+          "definition": "a shaking or trembling",
+          "world_new": [
+            "shaking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a quaver in her voice.",
+              "world_new": [
+                "voice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nốt móc đơn",
+          "definition": "a note equal to half a crotchet in length; eighth note American",
+          "world_new": [
+            "note",
+            "equal",
+            "half",
+            "crotchet"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Over this in the soprano he superimposes the second subject in quavers, that has not been heard since the end of the second section.",
+    "A third cycle is left unfinished when the dotted quaver motion breaks off in the second bar.",
+    "The 8 bar subject starts in minims with a second harmonic half in slow quavers.",
+    "There are then trills for one bar and another quaver, quaver rest, quaver, quaver rest pattern with a straight crotchet accompaniment for 4 bars.",
+    "A melody originally consisting of four quavers (eighth notes) for example, is augmented if it later appears with four crotchets (quarter notes) instead.",
+    "In the eighth bar of the maiden's song, on the word \"rhre\" (touch), the quavers stop and the rhythm of the opening section returns.",
+    "Motives 1-3, for example, each present a quaver rest, followed by one, two or three quaver attacks, followed by a note of longer duration.",
+    "The pair of semiquavers allotted to the trochee 'nebyl' appears appropriate, as does the quaver employed for the monosyllable 'tarn' (there), with its lengthened final consonant."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "quarters",
+    "quartet",
+    "quartz",
+    "quasar",
+    "quaver",
+    "quay",
+    "quayside",
+    "queasy",
+    "queen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699559_43495f31d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699559_9ed12d0209_o.png",
+      "id_image": "quaver_1864045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389417_8e457c6a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389417_3ef9dc11b7_o.png",
+      "id_image": "quaver_366494"
+    }
+  ]
+}

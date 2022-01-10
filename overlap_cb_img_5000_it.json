@@ -1,0 +1,71 @@
+{
+  "english": "overlap",
+  "phat_am": "əuvəˈlӕp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gối lên nhau",
+          "definition": "to extend over and cover a part of",
+          "world_new": [
+            "extend",
+            "cover",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pieces of cloth overlapped (each other).",
+              "world_new": [
+                "cloth"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự gối đè lên nhau",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an overlap of two centimetres."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our study uses a dynamic general equilibrium framework with overlapping generations and probabilistic aging.",
+    "As is often the case in edited collections, while each chapter makes a distinctive contribution there are also many common themes and inevitably some overlaps.",
+    "As a side note, we remark that previously disjunct curve segments may become (partially) overlapping.",
+    "Distinctions can be made in three, partially overlapping, categorical structures.",
+    "The religious wars were spread over several mutually overlapping conflicts that dragged on several years.",
+    "The significance of such overlaps has been hinted at in recent studies on urban public spaces.",
+    "After setting the design in its historical context (and here their contribution overlaps with that of others) they go on to justify its importance.",
+    "A list was thus produced in which partial overlaps between different instruments were articulated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "overhead",
+    "overheads",
+    "overhear",
+    "overjoyed",
+    "overlap",
+    "overload",
+    "overlook",
+    "overly",
+    "overnight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455118_a86779e171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455118_8db5c74f9b_o.png",
+      "id_image": "overlap_979798"
+    }
+  ]
+}

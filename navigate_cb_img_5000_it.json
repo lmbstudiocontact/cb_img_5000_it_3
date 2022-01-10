@@ -1,0 +1,97 @@
+{
+  "english": "navigate",
+  "phat_am": "ˈnӕviɡeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm hoa tiêu",
+          "definition": "to direct, guide or move (a ship, aircraft etc) in a particular direction",
+          "world_new": [
+            "direct",
+            "guide",
+            "move",
+            "ship",
+            "aircraft",
+            "particular",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He navigated the ship through the dangerous rocks.",
+              "world_new": [
+                "ship",
+                "dangerous"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dẫn đường",
+          "definition": "to find or follow one’s route when in a ship, aircraft, car etc",
+          "world_new": [
+            "find",
+            "follow",
+            "route",
+            "ship",
+            "aircraft",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If I drive, will you navigate?",
+              "world_new": [
+                "I",
+                "drive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The rest of this section is about determining the correct figure and navigating this joint activity in which only females take part.",
+    "As we are navigating mathematical waters close to known undecidable quantities, the reader might worry about the computability of these data.",
+    "The space between power and desire is sometimes navigated with skill and sometimes ignored altogether.",
+    "How is neighborhood perceived and navigated differently by males and females?",
+    "We store vast amounts of material, with a variety of mechanisms for understanding, containing, and navigating it.",
+    "The great potential payoffs from successfully navigating reallife coordination games may have been part of the selective pressure favoring the evolution of language and culture.",
+    "We regard reading books as an essential skill for navigating effectively in our culture; it represents an achievement.",
+    "The next result concerns the conditions under which the robot reaches its moving goal when navigating under the velocity pursuit guidance law."
+  ],
+  "list_see_also": [
+    "navigable",
+    "navigation",
+    "navigator"
+  ],
+  "list_browse": [
+    "naval",
+    "nave",
+    "navel",
+    "navigable",
+    "navigate",
+    "navigation",
+    "navigator",
+    "navy",
+    "NCO"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327181_6a527ec596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327181_30f2ef7739_o.png",
+      "id_image": "navigate_1406305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442198_52896b94bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442198_0562d2ea99_o.png",
+      "id_image": "navigate_1516447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063980_6a872226b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063980_e860748f5f_o.png",
+      "id_image": "navigate_2878798"
+    }
+  ]
+}

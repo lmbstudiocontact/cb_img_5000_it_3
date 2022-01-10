@@ -1,0 +1,97 @@
+{
+  "english": "product",
+  "phat_am": "ˈprodəkt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kết quả",
+          "definition": "a result",
+          "world_new": [
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plan was the product of hours of thought.",
+              "world_new": [
+                "plan",
+                "thought"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sản phẩm",
+          "definition": "something manufactured",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The firm manufactures metal products.",
+              "world_new": [
+                "firm",
+                "metal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáp án",
+          "definition": "the result of multiplying one number by another",
+          "world_new": [
+            "result",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The product of 9 and 2 is 18."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The low water content was probably due to the corrosion products and the substantial water loss during preparation.",
+    "Plantation forests are playing an increasingly important role in meeting the world's growing requirements for wood and nonwood forest products.",
+    "The leading products are millet and raw cotton and the region's rich volcanic soil is particularly well-suited to cotton production.",
+    "404 tected by the automation system, and of information about rejected products.",
+    "There was no program for the labeling of shrimp products which are turtle friendly, as is the case with dolphin friendly tuna.",
+    "The mode of transmission is assumed to be due to sharing the same risk factors of drinking and eating unpasteurized dairy products.",
+    "The other is \"dematerialization\"; in other words, selling services products per form rather than just selling products.",
+    "Conflicts related to illicit collection of forest products and cutting of trees is resolved through cautioning the offender in the first instance."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prodigally",
+    "prodigy",
+    "produce",
+    "producer",
+    "product",
+    "production",
+    "productive",
+    "productivity",
+    "Prof."
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367157_983144e646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367157_8891c29b7f_o.png",
+      "id_image": "product_1933978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677334_18bd1156a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677334_d3a42da76b_o.png",
+      "id_image": "product_2620577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677289_a05139625c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677289_78a093601e_o.png",
+      "id_image": "product_4072893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367097_16bfc9df98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367097_46e5587616_o.png",
+      "id_image": "product_6192530"
+    }
+  ]
+}

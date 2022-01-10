@@ -1,0 +1,100 @@
+{
+  "english": "monster",
+  "phat_am": "ˈmonstə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quái vật",
+          "definition": "(also adjective) (something) of unusual size, form or appearance",
+          "world_new": [
+            "unusual",
+            "size",
+            "form",
+            "appearance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a monster tomato.",
+              "world_new": [
+                "tomato"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "con vật khổng lồ",
+          "definition": "a huge and/or horrible creature",
+          "world_new": [
+            "huge",
+            "horrible",
+            "creature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "prehistoric monsters.",
+              "world_new": [
+                "prehistoric"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người quái ác",
+          "definition": "a very evil person",
+          "world_new": [
+            "evil",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The man must be a monster to treat his children so badly!",
+              "world_new": [
+                "treat",
+                "badly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The compound naeligshleo\"um, used for a place where water monsters lie, could be envisaged as a headland with hollowed-out shelves.",
+    "We are not just dealing with a few deviant monsters.",
+    "Such children, it is feared, grow up to become uncivilised little monsters and may pose a threat to other children as well as to their communities.",
+    "Humans look outward at this and other death-associated monsters from a position of life, much as they look outward at rivers or ethnonymic others in geographic space.",
+    "There he is surrounded by his rout of oughly-headed monsters.",
+    "Lorries are sometimes depicted as mechanical monsters or juggernauts.",
+    "Making monsters is an ideological working-through of this dissenting identity.",
+    "With monsters like these lurking, the need for a modesty board to shield miniskirted legs from the predatory gaze becomes self-evident."
+  ],
+  "list_see_also": [
+    "monstrous",
+    "monstrously"
+  ],
+  "list_browse": [
+    "monotonously",
+    "monotony",
+    "monoxide",
+    "monsoon",
+    "monster",
+    "monstrous",
+    "monstrously",
+    "month",
+    "monthly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337306_936440ae7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337306_d3b85f7b33_o.png",
+      "id_image": "monster_606890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074365_448cc74382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074365_bbbc64e867_o.png",
+      "id_image": "monster_773372"
+    }
+  ]
+}

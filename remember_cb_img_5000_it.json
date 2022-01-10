@@ -1,0 +1,116 @@
+{
+  "english": "remember",
+  "phat_am": "riˈmembə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhớ",
+          "definition": "to keep in the mind, or to bring back into the mind after forgetting for a time",
+          "world_new": [
+            "keep",
+            "mind",
+            "bring",
+            "mind",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I remember you – we met three years ago",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I remember watching the first men landing on the moon",
+              "world_new": [
+                "I",
+                "landing",
+                "moon"
+              ]
+            },
+            {
+              "ex_of_definition": "Remember to telephone me tonight",
+              "world_new": [
+                "telephone",
+                "tonight"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t remember where I hid it.",
+              "world_new": [
+                "I",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhớ đến ai",
+          "definition": "to reward or make a present to",
+          "world_new": [
+            "reward",
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He remembered her in his will."
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển lời chúc đến ai",
+          "definition": "to pass (a person’s) good wishes (to someone)",
+          "world_new": [
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Remember me to your parents.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The realization may be accompanied by a rush of emotion that is interpreted as the impact of remembering something for the first time.",
+    "However, it should be remembered that this is only one of the six clustering solutions.",
+    "Total solar eclipses are rarer still and are so striking-turning day into night-that they are well remembered.",
+    "Recall was minimal, all participants remembered their overall score, but only three remembered other details.",
+    "Evaluate them if you wish, remembering always that different rankings will be produced from different perspectives, including the perspectives of different concepts of faith.",
+    "The child does not know how to integrate it with other memories and thus it is not remembered in the intervening years.",
+    "First, it is clear that events in which young children are involved are better remembered by them, relative to events that they only witness.",
+    "Specifically, if people reach more often to one remembered location - \"biased\" location - than others, memory responses are distorted in the direction of the biased target."
+  ],
+  "list_see_also": [
+    "remembrance"
+  ],
+  "list_browse": [
+    "remarkable",
+    "remarkably",
+    "remedial",
+    "remedy",
+    "remember",
+    "remembrance",
+    "remind",
+    "reminder",
+    "remission"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325956_83ffa68625_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325956_55933543a3_o.png",
+      "id_image": "remember_5822099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681029_c4b53462ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681029_4e6bbc6398_o.png",
+      "id_image": "remember_5860861"
+    }
+  ]
+}

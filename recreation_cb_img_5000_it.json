@@ -1,0 +1,81 @@
+{
+  "english": "recreation",
+  "phat_am": "rekriˈeiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoạt động giải trí",
+          "definition": "(a) pleasant activity which one enjoys doing in one’s spare time (eg a sport, hobby)",
+          "world_new": [
+            "pleasant",
+            "activity",
+            "spare",
+            "time",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have little time for recreation",
+              "world_new": [
+                "I",
+                "time"
+              ]
+            },
+            {
+              "ex_of_definition": "amusements and recreations."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If a large number of people went away on a given day, the necessary recreations and amenities would develop in order to meet their needs.",
+    "We have become most censorious about other people's recreations.",
+    "I merely mention those two alternative recreations, because we have constantly been told that they have been a power towards stopping drinking in this country.",
+    "One of my recreations—being a perpetual optimist as all farmers are—is a game of golf.",
+    "The book is concerned with ' ' agencies of display in museums, festivals, world's fairs, historical recreations and tourist attractions.",
+    "Fishing is not like other recreations or sports.",
+    "When we find a sport such as cockfighting debasing itself, we remove it from the realm of our activities and recreations.",
+    "They have opportunities of indulging in golf, tennis and other recreations which are denied to the ordinary worker."
+  ],
+  "list_see_also": [
+    "recreational",
+    "recreation ground"
+  ],
+  "list_browse": [
+    "recoup",
+    "recover",
+    "recovery",
+    "recreate",
+    "recreation",
+    "recreation ground",
+    "recreational",
+    "recruit",
+    "recruitment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449023_829fa20c8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449023_a475dd9975_o.png",
+      "id_image": "recreation_2773107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448968_e11de6be7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448968_5422e2aa54_o.png",
+      "id_image": "recreation_3124471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070935_24d1026041_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070935_d0a3d276a7_o.png",
+      "id_image": "recreation_5778818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070905_15a829818a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070905_afae81749e_o.png",
+      "id_image": "recreation_5783721"
+    }
+  ]
+}

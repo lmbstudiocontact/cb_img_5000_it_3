@@ -1,0 +1,73 @@
+{
+  "english": "parchment",
+  "phat_am": "ˈpaːtʃmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấy da",
+          "definition": "a (piece of a) material used for writing on, made from animal skin",
+          "world_new": [
+            "material",
+            "animal",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People wrote on parchment in medieval times.",
+              "world_new": [
+                "medieval",
+                "times"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The technology of the plastered board, a parchment (or paper) support treated with a white ground, was not quickly abandoned.",
+    "Clause 1 also abolishes the rule that a deed must be written on paper or parchment.",
+    "The parchment has been folded over at the bottom and twenty-two seals tabs affixed.",
+    "He also suggested that some of the parchments were palimpsests which had been reused.",
+    "Another wing of the church was the storehouse for the materials for his art works, such as old missals, lecterns, parchments and chairs.",
+    "The wall is parchment-like, with virtual absence of myocardium.",
+    "The petition is written on a single sheet of parchment, 21\" inches wide, # 28 inches high.",
+    "Among other questions discussed is the nature of evidence, given changes in writing systems and the materiality of the medium, from parchment to e-mail."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "paratroops",
+    "parcel",
+    "parch",
+    "parched",
+    "parchment",
+    "pardon",
+    "pardon me",
+    "parent",
+    "parentage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332731_22eceb8a81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332731_8dc3ee914d_o.png",
+      "id_image": "parchment_1553791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447728_ea5d520111_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447728_7639791617_o.png",
+      "id_image": "parchment_2858842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447683_c3a5986ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447683_ba9f141b9a_o.png",
+      "id_image": "parchment_3317537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069430_673780668c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069430_818794baee_o.png",
+      "id_image": "parchment_5327120"
+    }
+  ]
+}

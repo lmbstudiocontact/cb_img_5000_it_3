@@ -1,0 +1,54 @@
+{
+  "english": "realtor",
+  "phat_am": "(British) ˈriəltə, ˈriəlˌtoː; (American) ˈriːəltər, ˈriːəlˌtoːr",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người môi giới bất động sản",
+          "definition": "someone whose job is to sell or rent houses or land on behalf of other people; real estate agent especially American , estate agent British",
+          "world_new": [
+            "job",
+            "sell",
+            "rent",
+            "land",
+            "behalf"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The realtor arranged to sell the woman’s home to a developer for a price well below market rate.",
+              "world_new": [
+                "sell",
+                "home",
+                "developer",
+                "price",
+                "market",
+                "rate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "realization",
+    "realize",
+    "really",
+    "realm",
+    "realtor",
+    "ream",
+    "reap",
+    "reaper",
+    "reappear"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692024_cd3111103b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692024_e560781bbe_o.png",
+      "id_image": "realtor_4650340"
+    }
+  ]
+}

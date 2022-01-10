@@ -1,0 +1,122 @@
+{
+  "english": "popular",
+  "phat_am": "ˈpopjulə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nổi tiếng",
+          "definition": "liked by most people",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a popular holiday resort",
+              "world_new": [
+                "holiday",
+                "resort"
+              ]
+            },
+            {
+              "ex_of_definition": "a popular person",
+              "world_new": [
+                "person"
+              ]
+            },
+            {
+              "ex_of_definition": "She is very popular with children."
+            }
+          ]
+        },
+        {
+          "mean_english": "phổ biến",
+          "definition": "believed by most people",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a popular theory.",
+              "world_new": [
+                "theory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc nhân dân",
+          "definition": "of the people in general",
+          "world_new": [
+            "people",
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "popular rejoicing.",
+              "world_new": [
+                "rejoicing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình dân",
+          "definition": "easily read, understood etc by most people",
+          "world_new": [
+            "easily",
+            "read",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a popular history of Britain.",
+              "world_new": [
+                "history"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My analysis begins with a sketch of how recordings entered local popular life in the early decades of this century.",
+    "The recorded repertoire was now changing, and the proportion of popular music increased considerably after 1908.",
+    "Managerialism became popular in the public sector from the 1980s on.",
+    "Record collecting is a major activity, yet a relatively neglected aspect of the consumption of popular music.",
+    "They were extremely popular amongst the residents and drew the highest attendances.",
+    "A popular example of an analog model is the use of electrical circuit models of mechanical systems.",
+    "The interested reader can now choose from a whole spectrum of books ranging from popular introductions to extensive monographs.",
+    "The problem is that such accounts do little to aid an understanding of the popular music industries in the contemporary era."
+  ],
+  "list_see_also": [
+    "popularly",
+    "popularity",
+    "popularize"
+  ],
+  "list_browse": [
+    "popcorn",
+    "pope",
+    "poppy",
+    "populace",
+    "popular",
+    "popularity",
+    "popularize",
+    "popularly",
+    "populate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690879_2797b77632_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690879_4d99af67ea_o.png",
+      "id_image": "popular_1879447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690839_b3366a583a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690839_421ce4a96f_o.png",
+      "id_image": "popular_4334789"
+    }
+  ]
+}

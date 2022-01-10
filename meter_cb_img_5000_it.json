@@ -1,0 +1,98 @@
+{
+  "english": "meter",
+  "phat_am": "ˈmiːtə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dụng cụ đo",
+          "definition": "an instrument for measuring, especially quantities of electricity, gas, water etc",
+          "world_new": [
+            "instrument",
+            "electricity",
+            "gas",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a parking meter",
+              "world_new": [
+                "parking"
+              ]
+            },
+            {
+              "ex_of_definition": "If you want to know how much electricity you have used, you will have to look at the meter.",
+              "world_new": [
+                "want",
+                "know",
+                "electricity",
+                "look"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mét",
+          "definition": "see metre1, metre2."
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đo (bằng đồng hồ)",
+          "definition": "to measure (especially electricity etc) by using a meter",
+          "world_new": [
+            "measure",
+            "electricity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This instrument meters rainfall.",
+              "world_new": [
+                "instrument",
+                "rainfall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The state variables have different units, for example meters for position and radians per second for angular velocity.",
+    "All of the machinery of the factory is installed in one large room that measures about sixty meters in length by twenty-five meters in width.",
+    "But surely the bodily experience of ' ' fifteen meters distant' ' is wholly unlike the visual experience of that same thing.",
+    "We assume that the real construction and maintenance costs per linear meter are the same throughout the island.",
+    "The total volume of water is vast, differing in depth from area to area, from nearly zero to 600 feet (185 meters).",
+    "He therefore invokes the pragmatic approach to account for the gradient properties of meter.",
+    "The melted subsurface water, and the injected vaporized water will contribute to a global surface water layer meters or more in depth.",
+    "Greek lyric meter is then a carefully orchestrated way of toying with the expectations of metrically sophisticated listeners."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "meteorite",
+    "meteorological",
+    "meteorologist",
+    "meteorology",
+    "meter",
+    "methane",
+    "method",
+    "methodical",
+    "methodically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390182_bf5e079c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390182_151dc2e483_o.png",
+      "id_image": "meter_1035466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345176_c0a6d0b386_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345176_a6a62c53dc_o.png",
+      "id_image": "meter_3468185"
+    }
+  ]
+}

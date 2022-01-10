@@ -1,0 +1,114 @@
+{
+  "english": "network",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mạng lưới",
+          "definition": "anything in the form of a net, ie with many lines crossing each other",
+          "world_new": [
+            "form",
+            "net",
+            "lines",
+            "crossing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A network of roads covered the countryside.",
+              "world_new": [
+                "countryside"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mạng lưới truyền thanh",
+          "definition": "a widespread organization",
+          "world_new": [
+            "widespread",
+            "organization"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a radio network",
+              "world_new": [
+                "radio"
+              ]
+            },
+            {
+              "ex_of_definition": "television networks.",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mạng",
+          "definition": "a system of computers that can exchange messages and information",
+          "world_new": [
+            "system",
+            "exchange",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Internet is a global computer network",
+              "world_new": [
+                "Internet",
+                "global",
+                "computer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The inhabitants of the shanty towns have frequently achieved stability and social organisation through the establishment of personal networks and voluntary associations.",
+    "While it was suggested that the support networks of older people were mobilised to greater effect in rural than urban areas, the data were inconclusive.",
+    "Another example of larger community social networks and their implications was encountered during the test excavation of rural sites.",
+    "Distributed representations, simple recurrent networks, and grammatical structure.",
+    "There were 137 respondents who did not place any children in their networks.",
+    "Based on the topology of many of these networks, this should not be surprising.",
+    "Consequently, the lexical networks articulated by the differences in collocational patterns emerge.",
+    "On the other hand, backpropagation neural networks are a supervised learning method that has an excellent reputation for classification problems."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "netball",
+    "netiquette",
+    "netting",
+    "nettle",
+    "network",
+    "neural",
+    "neurological",
+    "neurologist",
+    "neurology"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060995_8aaaaf3d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060995_467bd8b7d0_o.png",
+      "id_image": "network_179649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060960_ce2a03edec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060960_e0ebb923db_o.png",
+      "id_image": "network_563221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368907_a282191440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368907_4e2c7ff392_o.png",
+      "id_image": "network_748857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323966_4aec5cd659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323966_6f507240b7_o.png",
+      "id_image": "network_755033"
+    }
+  ]
+}

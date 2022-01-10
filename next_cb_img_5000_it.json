@@ -1,0 +1,120 @@
+{
+  "english": "next",
+  "phat_am": "nekst",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tiếp sau",
+          "definition": "nearest in place, time etc",
+          "world_new": [
+            "place",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When you have called at that house, go on to the next one",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "The next person to arrive late will be sent away",
+              "world_new": [
+                "person",
+                "arrive"
+              ]
+            },
+            {
+              "ex_of_definition": "Who is next on the list?",
+              "world_new": [
+                "list"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "sau đó",
+          "definition": "immediately after in place or time",
+          "world_new": [
+            "immediately",
+            "place",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Gavin arrived first and Kathy came next."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "kế tiếp",
+          "definition": "the person or thing nearest in place, time etc",
+          "world_new": [
+            "person",
+            "place",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Finish one question before you begin to answer the next",
+              "world_new": [
+                "question",
+                "begin",
+                "answer"
+              ]
+            },
+            {
+              "ex_of_definition": "One minute he was sitting beside me – the next he was lying on the ground.",
+              "world_new": [
+                "minute",
+                "sitting",
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "next best/biggest/oldest etc",
+    "next door",
+    "next of kin",
+    "next to"
+  ],
+  "list_browse": [
+    "newsreader",
+    "newsstand",
+    "newsy",
+    "newt",
+    "next",
+    "next best/biggest/oldest etc",
+    "next door",
+    "next of kin",
+    "next to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438153_26f0a37824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438153_48baec11d6_o.png",
+      "id_image": "next_452320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438113_32497c3687_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438113_db30d70c43_o.png",
+      "id_image": "next_6321842"
+    }
+  ]
+}

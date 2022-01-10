@@ -1,0 +1,88 @@
+{
+  "english": "remedy",
+  "phat_am": "ˈremədi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phương thuốc; giải pháp",
+          "definition": "a cure for an illness or something bad",
+          "world_new": [
+            "cure",
+            "illness",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I know a good remedy for toothache.",
+              "world_new": [
+                "I",
+                "know",
+                "toothache"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sửa chữa",
+          "definition": "to put right",
+          "world_new": [
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These mistakes can be remedied."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There, as we saw, the plaintiff's right to remedy in some sense derived from the right in whose violation the defendant's breach of duty consisted.",
+    "This argument seems to me flawed as well, for the reason mentioned above-that the remedy should serve to correct the breach of duty.",
+    "The article concludes with a set of guidelines to anticipate and remedy those comprehension problems.",
+    "An alternative of extracting market premiums for good environmental practices has had only limited success and is difficult to apply universally to remedy general problems.",
+    "Bilingual education, \"diversity\" programs, and affirmative action policies aim to do more than assure individual opportunity by remedying specific discriminatory acts.",
+    "Not all the supporters of the campaign would necessarily agree with some of the proposed remedies, such as deregulation, privatisation, and restructuring.",
+    "As this article has demonstrated, throughout the eighteenth century, there were legal remedies against wrongful confinement, however costly and difficult they were to obtain.",
+    "This paper seeks to remedy, at least in part, this neglect."
+  ],
+  "list_see_also": [
+    "remedial"
+  ],
+  "list_browse": [
+    "remark",
+    "remarkable",
+    "remarkably",
+    "remedial",
+    "remedy",
+    "remember",
+    "remembrance",
+    "remind",
+    "reminder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370832_04822ca541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370832_fff6b5382c_o.png",
+      "id_image": "remedy_1347254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440938_2fba43f1f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440938_3627ba2029_o.png",
+      "id_image": "remedy_4005663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326086_cb8e37da6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326086_88b6264ae1_o.png",
+      "id_image": "remedy_673551"
+    }
+  ]
+}

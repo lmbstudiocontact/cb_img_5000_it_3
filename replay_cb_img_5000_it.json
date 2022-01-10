@@ -1,0 +1,77 @@
+{
+  "english": "replay",
+  "phat_am": "riːˈplei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chơi lại",
+          "definition": "to play (a football match etc) again (eg because neither team won)",
+          "world_new": [
+            "play",
+            "football",
+            "match",
+            "team"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The match ended in a draw – it will have to be replayed.",
+              "world_new": [
+                "match",
+                "draw"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "trận đấu lại",
+          "definition": "a replayed football match etc.",
+          "world_new": [
+            "football",
+            "match"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There could be no question of the local government reorganisation element standing; in such circumstances, the whole thing should be replayed.",
+    "Five matches were drawn, with replays taking place in the following midweek fixture.",
+    "Messages should not be duplicated, reordered or replayed.",
+    "Further, many words and conversations had to be replayed several times before any understanding was achieved.",
+    "Therefore, whether someone tells an event in the language in which the event originally occurred does not appear to affect how extensively the event is replayed in either language.",
+    "Having been so produced, this recorder enables records to be replayed by the use of the same device through an ordinary television set.",
+    "Material from long-term memory is revived into working memory, where it is replayed and reexperienced.",
+    "To summarize, the two basic questions (selectivity for threatening experiences, benefit of replaying these experiences in dreams) are in my view not supported by the presented evidence."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "repetitiveness",
+    "replace",
+    "replaceable",
+    "replacement",
+    "replay",
+    "replenish",
+    "replenishment",
+    "replica",
+    "replicate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368167_555b448c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368167_32161caf3b_o.png",
+      "id_image": "replay_2368478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060050_47df6b60dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060050_7acebddbc3_o.png",
+      "id_image": "replay_679403"
+    }
+  ]
+}

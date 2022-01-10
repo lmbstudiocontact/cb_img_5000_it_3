@@ -1,0 +1,91 @@
+{
+  "english": "pedal",
+  "phat_am": "ˈpedl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bàn đạp",
+          "definition": "a lever worked by the foot, as on a bicycle, piano, organ etc",
+          "world_new": [
+            "lever",
+            "foot",
+            "bicycle",
+            "piano",
+            "organ"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the brake pedal in a car.",
+              "world_new": [
+                "brake",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đạp",
+          "definition": "to move (something) by means of pedals",
+          "world_new": [
+            "move",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pedalled (his bicycle) down the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I do not agree with this ruling, for the power-assisted bicycle is not a motor cycle with pedals, as is the moped.",
+    "I often see electric violinists who step on foot pedals, physically turning their bodies or heads towards the ground.",
+    "We may find ourselves back-pedalling on decisions which we might have to take now.",
+    "I worked with one composer whose piece required eight continuous controller pedals arranged in a semi-circle around my chair.",
+    "Would there be little kids on bikes, pedalling around with those bottles?",
+    "Secondly, when pushing his bicycle his lights must be all alight just as if he were pedalling.",
+    "We can also add other devices to the instrument such as motion tracking and pedals.",
+    "Do not stop pedalling; carry on negotiating until the end."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "peculiarity",
+    "peculiarly",
+    "pedagogic",
+    "pedagogically",
+    "pedal",
+    "pedant",
+    "pedantic",
+    "pedantically",
+    "pedantry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369177_70c1682d3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369177_d2d7e3013f_o.png",
+      "id_image": "pedal_1924264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439328_808d53845d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439328_2d496076ed_o.png",
+      "id_image": "pedal_5349649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369247_40ca7b2266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369247_6e2e1532c2_o.png",
+      "id_image": "pedal_637954"
+    }
+  ]
+}

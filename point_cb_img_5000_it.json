@@ -1,0 +1,358 @@
+{
+  "english": "point",
+  "phat_am": "point",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đầu nhọn",
+          "definition": "the sharp end of anything",
+          "world_new": [
+            "sharp"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the point of a pin",
+              "world_new": [
+                "pin"
+              ]
+            },
+            {
+              "ex_of_definition": "a sword point",
+              "world_new": [
+                "sword"
+              ]
+            },
+            {
+              "ex_of_definition": "at gunpoint (= threatened by a gun)."
+            }
+          ]
+        },
+        {
+          "mean_english": "mũi đất",
+          "definition": "a piece of land that projects into the sea etc",
+          "world_new": [
+            "piece",
+            "land",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship came round Lizard Point.",
+              "world_new": [
+                "ship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu chấm",
+          "definition": "a small round dot or mark (.)",
+          "world_new": [
+            "small",
+            "dot",
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a decimal point",
+              "world_new": [
+                "decimal"
+              ]
+            },
+            {
+              "ex_of_definition": "five point three six (= 5.36)"
+            },
+            {
+              "ex_of_definition": "In punctuation, a point is another name for a full stop.",
+              "world_new": [
+                "punctuation",
+                "name",
+                "full",
+                "stop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vị trí xác định",
+          "definition": "an exact place or spot",
+          "world_new": [
+            "exact",
+            "place",
+            "spot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When we reached this point of the journey, we stopped to rest.",
+              "world_new": [
+                "journey",
+                "rest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời điểm nhất định",
+          "definition": "an exact moment",
+          "world_new": [
+            "exact",
+            "moment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her husband walked in at that point.",
+              "world_new": [
+                "husband"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiệt độ",
+          "definition": "a place on a scale especially of temperature",
+          "world_new": [
+            "place",
+            "scale",
+            "temperature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the boiling point of water.",
+              "world_new": [
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điểm trên la bàn",
+          "definition": "a division on a compass eg north, south-west etc.",
+          "world_new": [
+            "division",
+            "compass",
+            "north"
+          ]
+        },
+        {
+          "mean_english": "điểm thi đấu",
+          "definition": "a mark in scoring a competition, game, test etc",
+          "world_new": [
+            "mark",
+            "competition",
+            "game",
+            "test"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has won by five points to two.",
+              "world_new": [
+                "points"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vấn đề",
+          "definition": "a particular matter for consideration or action",
+          "world_new": [
+            "particular",
+            "matter",
+            "consideration",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The first point we must decide is, where to meet",
+              "world_new": [
+                "decide",
+                "meet"
+              ]
+            },
+            {
+              "ex_of_definition": "That’s a good point"
+            },
+            {
+              "ex_of_definition": "You’ve missed the point"
+            },
+            {
+              "ex_of_definition": "That’s the whole point",
+              "world_new": [
+                "whole"
+              ]
+            },
+            {
+              "ex_of_definition": "We’re wandering away from the point."
+            }
+          ]
+        },
+        {
+          "mean_english": "mục đích",
+          "definition": "(a) purpose or advantage",
+          "world_new": [
+            "purpose",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s no point (in) asking me – I don’t know.",
+              "world_new": [
+                "I",
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nét tính cách, phẩm chất của con người",
+          "definition": "a personal characteristic or quality",
+          "world_new": [
+            "personal",
+            "characteristic",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We all have our good points and our bad ones.",
+              "world_new": [
+                "our",
+                "points",
+                "our",
+                "bad"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ổ cắm điện",
+          "definition": "an electrical socket in a wall etc into which a plug can be put",
+          "world_new": [
+            "electrical",
+            "socket",
+            "wall",
+            "plug"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is there only one electrical point in this room?",
+              "world_new": [
+                "electrical",
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chĩa",
+          "definition": "to aim in a particular direction",
+          "world_new": [
+            "aim",
+            "particular",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pointed the gun at her.",
+              "world_new": [
+                "pointed",
+                "gun"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ hướng",
+          "definition": "to call attention to something especially by stretching the index finger in its direction",
+          "world_new": [
+            "call",
+            "attention",
+            "index",
+            "finger",
+            "its",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pointed (his finger) at the door",
+              "world_new": [
+                "pointed",
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "He pointed to a sign.",
+              "world_new": [
+                "pointed",
+                "sign"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vá, lấp",
+          "definition": "to fill worn places in (a stone or brick wall etc) with mortar.",
+          "world_new": [
+            "fill",
+            "worn",
+            "stone",
+            "brick",
+            "wall",
+            "mortar"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "pointed",
+    "pointer",
+    "pointless",
+    "pointlessly",
+    "points",
+    "be on the point of",
+    "come to the point",
+    "make a point of",
+    "make one’s point",
+    "point out",
+    ""
+  ],
+  "list_browse": [
+    "poet",
+    "poetic",
+    "poetically",
+    "poetry",
+    "point",
+    "point of view",
+    "point one’s toes",
+    "point out",
+    "point-blank"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338631_f6f1a58550_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338631_a68354d769_o.png",
+      "id_image": "point_3295121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693749_e9c4911035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693749_a3bdb427ab_o.png",
+      "id_image": "point_3295236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453528_3238a348fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453528_c1e6525dca_o.png",
+      "id_image": "point_3295291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383542_a4fb593346_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383542_d07e297f40_o.png",
+      "id_image": "point_682533"
+    }
+  ]
+}

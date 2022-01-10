@@ -1,0 +1,86 @@
+{
+  "english": "publication",
+  "phat_am": "pabliˈkeiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự công bố; sự xuất bản sách",
+          "definition": "the act of publishing or announcing publicly",
+          "world_new": [
+            "act",
+            "publishing",
+            "publicly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the publication of a new novel",
+              "world_new": [
+                "novel"
+              ]
+            },
+            {
+              "ex_of_definition": "the publication of the facts."
+            }
+          ]
+        },
+        {
+          "mean_english": "xuất bản phẩm",
+          "definition": "something that has been published eg a book or magazine",
+          "world_new": [
+            "book",
+            "magazine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "recent publications.",
+              "world_new": [
+                "recent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When authors cited publications with multiple authors, we counted each author separately.",
+    "However, the entries for insertion mutations did not include flanking sequences, so we sought them in the original publications.",
+    "The fact that half of the included publications were in the format of abstracts or posters limits enormously the amount of information available.",
+    "A strong body of research continues to appear, developing and refining the hypothesis, along with publications that argue against a demonstrated relationship among these languages.",
+    "Her publications focus on philosophy of science, philosophy of mind, ethics in science, and neuroethics.",
+    "Findings on specific subtypes and disorders will be dealt with in separate follow-up publications.",
+    "Both are government publications with an 80-fold difference in the reported cellulitis incidence rates.",
+    "Researchers could be misled by the publications of the first category because they were usually censored by the government to fit its propaganda purposes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "public spirit",
+    "public transport",
+    "public-spirited",
+    "publican",
+    "publication",
+    "publicity",
+    "publicize",
+    "publicly",
+    "publish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393627_0bf9836945_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393627_ac4089d00e_o.png",
+      "id_image": "publication_4615679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703539_e8c24cd008_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703539_823053f99e_o.png",
+      "id_image": "publication_4949232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463533_30c2bc38ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463533_e9a7eaa7d4_o.png",
+      "id_image": "publication_6159445"
+    }
+  ]
+}

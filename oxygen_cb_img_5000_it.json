@@ -1,0 +1,72 @@
+{
+  "english": "oxygen",
+  "phat_am": "ˈoksidʒən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khí oxy",
+          "definition": "(symbol O) an element, a gas without taste, colour/color or smell, forming part of the air",
+          "world_new": [
+            "element",
+            "gas",
+            "taste",
+            "smell",
+            "part",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He died from lack of oxygen.",
+              "world_new": [
+                "lack"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The present study was undertaken to investigate the effects of inspired oxygen and positive end-expiratory pressure on arterial blood gases and systemic delivery of oxygen.",
+    "Increased subaerial volcanism and the rise of atmospheric oxygen 2.5 billion years ago.",
+    "Five days later, following extubation, the saturations were 86-88% in 50% facial oxygen.",
+    "Thus, it appears that at least a few species of methanogens can tolerate atmospheric oxygen for relatively extended periods of time.",
+    "We note that since (2.20), the equation for oxygen tension, is quasi-steady, small jumps in the oxygen tension may appear between consecutive timesteps.",
+    "This effect allows oxygen to be released from the molecule at venous oxygen pressure.",
+    "In each case, inversion of configuration was demonstrated using thio-substituted non-bridging phosphate oxygens.",
+    "An improvement in uptake of peak level of oxygen was observed after intervention."
+  ],
+  "list_see_also": [
+    "oxygen mask"
+  ],
+  "list_browse": [
+    "ownership",
+    "ox",
+    "oxidation",
+    "oxidize",
+    "oxygen",
+    "oxygen mask",
+    "oyster",
+    "oyster bed",
+    "oz"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076245_3e4ac81e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076245_a7e071700c_o.png",
+      "id_image": "oxygen_2827094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454123_a699334cb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454123_3bc4a868e7_o.png",
+      "id_image": "oxygen_315259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694294_dedc2540e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694294_3e3a43c1ba_o.png",
+      "id_image": "oxygen_762523"
+    }
+  ]
+}

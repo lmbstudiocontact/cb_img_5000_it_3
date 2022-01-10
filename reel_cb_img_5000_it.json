@@ -1,0 +1,135 @@
+{
+  "english": "reel",
+  "phat_am": "riːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống chỉ",
+          "definition": "a round wheel-shaped or cylindrical object of wood, metal etc on which thread, film, fishing-lines etc can be wound",
+          "world_new": [
+            "cylindrical",
+            "object",
+            "wood",
+            "metal",
+            "thread",
+            "film",
+            "wound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a reel of sewing-cotton"
+            },
+            {
+              "ex_of_definition": "He changed the reel in the projector.",
+              "world_new": [
+                "projector"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhạc cho vũ điệu quay ở Scotland…",
+          "definition": "(the music for) a type of lively Scottish, Irish or American dance",
+          "world_new": [
+            "music",
+            "type",
+            "lively",
+            "American",
+            "dance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fiddler played a reel",
+              "world_new": [
+                "fiddler"
+              ]
+            },
+            {
+              "ex_of_definition": "They are dancing a reel.",
+              "world_new": [
+                "dancing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lảo đảo; quay cuồng",
+          "definition": "to stagger; to sway; to move in an unsteady way",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The drunk man reeled along the road",
+              "world_new": [
+                "drunk",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "My brain was reeling with all the information that he gave me.",
+              "world_new": [
+                "brain",
+                "information"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I do not apologise for reeling off a few statistics.",
+    "In fact, it hit them a reeling blow.",
+    "In the village you could see shop-window signs from a composer offering, for a fee, strathspeys, reels or airs for your birth, wedding or funeral.",
+    "Farmers are reeling from lower prices, but they are also swamped by paperwork.",
+    "We should be wary of embarking on actions that would have knock-on consequences across the tourism industry, which is already seriously ailing, if not reeling.",
+    "The motorist is still reeling from the massive extra taxes and duties which have been levied since the general election.",
+    "How many reels of film are allowed to go to dust?",
+    "He reeled off a very long list of similar cases."
+  ],
+  "list_see_also": [
+    "reel in",
+    "reel off"
+  ],
+  "list_browse": [
+    "redundant",
+    "reed",
+    "reef",
+    "reek",
+    "reel",
+    "reel in",
+    "reel off",
+    "ref",
+    "refectory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069215_bbb7665f63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069215_726cf222ba_o.png",
+      "id_image": "reel_2570181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332406_392c1c1591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332406_a759c060a9_o.png",
+      "id_image": "reel_3109451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332391_1baca960ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332391_8c5321c0ed_o.png",
+      "id_image": "reel_3786166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332351_a802b813b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332351_aa1a898dae_o.png",
+      "id_image": "reel_3879894"
+    }
+  ]
+}

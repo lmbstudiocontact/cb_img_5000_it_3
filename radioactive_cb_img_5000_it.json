@@ -1,0 +1,74 @@
+{
+  "english": "radioactive",
+  "phat_am": "reidiəuˈӕktiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tia phóng xạ",
+          "definition": "(of some substances, eg uranium) giving off rays which can be dangerous, but which can also be used in eg medicine",
+          "world_new": [
+            "dangerous",
+            "medicine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "radioactive metals."
+            }
+          ]
+        },
+        {
+          "mean_english": "có chứa chất phóng xạ",
+          "definition": "containing radioactive substances",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "radioactive waste/dust."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Production of radioactive nuclides by energetic protons generated from intense laser-plasma interactions.",
+    "In radioactive beam generation experiments, resolution of the isotopes and transmission of the secondary beam through the fragment separator are very important problems.",
+    "This was used as the starting material for the selective radioactive amplification.",
+    "In either case the toxic or radioactive waste is trapped in the solid, preventing it from leaching into the local water table.",
+    "It is expected that the latter can regulate the crossfield plasma particle transport in tokamak discharges which are contaminated by radioactive dust.",
+    "Mutagenicity tests on bacterial cultures using exceptionally radioactive heavy mineral beach sands : irradiation or chemistry?",
+    "Antibodies labeled with a radioactive isotope can also be used for in vivo diagnosis to identify or locate the sites of tissues and cell populations.",
+    "By the technique of radioactive dating, it has been shown that the chondrites all crystallized 4.6r 109 years ago."
+  ],
+  "list_see_also": [
+    "radioactivity"
+  ],
+  "list_browse": [
+    "radical",
+    "radically",
+    "radicle",
+    "radio",
+    "radioactive",
+    "radioactivity",
+    "radiograph",
+    "radiographer",
+    "radiography"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455898_a9ff3f8433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455898_8c7323ab92_o.png",
+      "id_image": "radioactive_2752166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696379_7290e83a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696379_504ecc56a5_o.png",
+      "id_image": "radioactive_439967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078465_81b6e43c13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078465_c12f0961a3_o.png",
+      "id_image": "radioactive_670858"
+    }
+  ]
+}

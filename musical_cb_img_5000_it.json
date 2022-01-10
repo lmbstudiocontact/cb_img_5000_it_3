@@ -1,0 +1,120 @@
+{
+  "english": "musical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc âm nhạc",
+          "definition": "of or producing music",
+          "world_new": [
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a musical instrument.",
+              "world_new": [
+                "instrument"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "du dương",
+          "definition": "like music, especially in being pleasant to hear",
+          "world_new": [
+            "music",
+            "pleasant",
+            "hear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a musical voice.",
+              "world_new": [
+                "voice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có năng khiếu về nhạc",
+          "definition": "(of a person) having a talent for music",
+          "world_new": [
+            "talent",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their children are all musical."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhạc kịch; phim ca nhạc",
+          "definition": "a film or play that includes a large amount of singing, dancing etc",
+          "world_new": [
+            "film",
+            "play",
+            "large",
+            "amount",
+            "singing",
+            "dancing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We went to see a musical.",
+              "world_new": [
+                "see"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If he did otherwise, the whole tranche could be blown on a couple of small-scale musicals or seven or eight straight plays.",
+    "Your subscription series would be mostly dramas with a few comedies, classics, musicals, and other types of plays.",
+    "Also, will they accrue from general sales of his work, and from musicals?",
+    "In this study, a musical note was considered to be a gene and a phrase to be a gene strand.",
+    "French had no 'settled musical accent' that could be marked.",
+    "In more traditional musical terms this component could be thought of as a drone or pedal point.",
+    "On the other hand, the fact of using different speakers and placing them in different positions allows a particularly musical flow of sound.",
+    "The difficulty this presented in terms of the equal but competing imperative for musical variation is evident from the autograph manuscript."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mush",
+    "mushroom",
+    "mushy",
+    "music",
+    "musical",
+    "musically",
+    "musician",
+    "musket",
+    "musketeer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375447_4edfbc9c6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375447_2ca6ddc912_o.png",
+      "id_image": "musical_1902007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685804_19064a359f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685804_32e745efd8_o.png",
+      "id_image": "musical_2267700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067510_98961e21e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067510_50be30fb96_o.png",
+      "id_image": "musical_5105523"
+    }
+  ]
+}

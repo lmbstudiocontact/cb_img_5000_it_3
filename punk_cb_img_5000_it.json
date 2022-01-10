@@ -1,0 +1,84 @@
+{
+  "english": "punk",
+  "phat_am": "paŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhạc punk rock",
+          "definition": "a type of loud and aggressive rock music that was popular in the late 1970s and early 1980s; punk rock",
+          "world_new": [
+            "type",
+            "loud",
+            "aggressive",
+            "rock",
+            "music",
+            "popular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a punk band.",
+              "world_new": [
+                "band"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người mê nhạc punk rock",
+          "definition": "someone who likes punk music and dresses in a style popular among punks, for example by wearing torn clothes with safety pins and having brightly coloured/colored hair; punk rocker",
+          "world_new": [
+            "music",
+            "style",
+            "popular",
+            "example",
+            "wearing",
+            "clothes",
+            "safety",
+            "brightly"
+          ]
+        },
+        {
+          "mean_english": "du côn",
+          "definition": "an insulting word for a young man who behaves in a rude and violent way.",
+          "world_new": [
+            "insulting",
+            "young",
+            "rude",
+            "violent"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "punishable",
+    "punishing",
+    "punishment",
+    "punitive",
+    "punk",
+    "punt",
+    "puny",
+    "pup",
+    "pupa"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084835_5b9e347657_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084835_435ecabb1c_o.png",
+      "id_image": "punk_169905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084820_009b486370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084820_8a414f308e_o.png",
+      "id_image": "punk_1881095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462218_ed8b757664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462218_b2fc7395a2_o.png",
+      "id_image": "punk_1901115"
+    }
+  ]
+}

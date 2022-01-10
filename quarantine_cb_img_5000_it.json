@@ -1,0 +1,118 @@
+{
+  "english": "quarantine",
+  "phat_am": "ˈkworəntiːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cách ly",
+          "definition": "the keeping away from other people or animals of people or animals that might be carrying an infectious disease",
+          "world_new": [
+            "keeping",
+            "people",
+            "people",
+            "infectious",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My dog was in quarantine for six months.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời hạn cách ly",
+          "definition": "the period in or for which this is done",
+          "world_new": [
+            "period"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The quarantine for a dog entering Britain from abroad is six months.",
+              "world_new": [
+                "dog",
+                "abroad"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cách ly",
+          "definition": "to put (a person or animal) in quarantine",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government authorized health authorities to quarantine anyone infected by the disease.",
+              "world_new": [
+                "government",
+                "health",
+                "infected",
+                "disease"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I assure him that positively all imported live poultry is quarantined under the present legislation.",
+    "Xinhua says the local agriculture department has quarantined the infected area.",
+    "They arrange testing outside the official system so that they will not be quarantined.",
+    "Why are we not having an honest discussion about quarantining?",
+    "The city had no means of quarantining such large numbers of ill arrivals.",
+    "Individual objects can be quarantined through bagging to either contain or prevent infestation.",
+    "Genetic material would need to be quarantined in flasks.",
+    "When the quarantine station opened in 1891 it was equipped only for the disinfection of commodities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "quantitative analysis",
+    "quantity",
+    "quantity surveyor",
+    "quantum",
+    "quarantine",
+    "quarrel",
+    "quarrelsome",
+    "quarrelsomeness",
+    "quarry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459748_5d8c2f2705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459748_97acf4f574_o.png",
+      "id_image": "quarantine_2622439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344941_ac6b05c61a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344941_258e4ce196_o.png",
+      "id_image": "quarantine_3027591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344916_bf216e218c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344916_2374cd1fc1_o.png",
+      "id_image": "quarantine_3159977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389802_97535d7e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389802_55dc635be8_o.png",
+      "id_image": "quarantine_3590584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389757_d80f27b105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389757_aac4eee2af_o.png",
+      "id_image": "quarantine_4600898"
+    }
+  ]
+}

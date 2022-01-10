@@ -1,0 +1,91 @@
+{
+  "english": "raffle",
+  "phat_am": "ˈrӕfl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc xổ số để bán hàng (nhất là vì từ thiện)",
+          "definition": "a way of raising money by selling numbered tickets, one or more of which win a prize",
+          "world_new": [
+            "money",
+            "win",
+            "prize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I won this doll in a raffle",
+              "world_new": [
+                "I",
+                "doll"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) raffle tickets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bán hàng bằng cách chơi xổ số",
+          "definition": "to give as the prize in a raffle",
+          "world_new": [
+            "prize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They raffled a bottle of whisky to raise money for cancer research.",
+              "world_new": [
+                "bottle",
+                "whisky",
+                "raise",
+                "money",
+                "cancer",
+                "research"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cash prizes and a handmade quilt made by ladies in the community are raffled at the end of the day's events.",
+    "Often parcels of grocery that have been put in the bazaar on sale or return are made up and raffled in the ordinary way.",
+    "There is no doubt in my mind that the chief source of income of many worthwhile charities today comes from running these more or less small raffles.",
+    "The objects that are sold are so large that they cannot be bought by an individual and, therefore, they are raffled.",
+    "If he could continue this excellent good fortune, for instance, in raffles in his constituency, he would soon be a very rich man.",
+    "In just four years, they have raised more than £650,000 through all sorts of ordinary activities, such as raffles, jumble sales and tombolas.",
+    "Students are entered into raffles for free parking permits as long as the student has registered the vehicle and received no tickets for the year.",
+    "They should not have to support themselves through jumble sales and raffles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "radium",
+    "radius",
+    "RAF",
+    "raffia",
+    "raffle",
+    "raft",
+    "rafter",
+    "rafting",
+    "rag"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078180_2f564e4662_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078180_acd978faa7_o.png",
+      "id_image": "raffle_1901848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696094_64834e4a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696094_21092f4430_o.png",
+      "id_image": "raffle_5256650"
+    }
+  ]
+}

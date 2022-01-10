@@ -1,0 +1,328 @@
+{
+  "english": "place",
+  "phat_am": "pleis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nơi",
+          "definition": "a particular spot or area",
+          "world_new": [
+            "particular",
+            "spot",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a quiet place in the country",
+              "world_new": [
+                "quiet",
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "I spent my holiday in various different places.",
+              "world_new": [
+                "I",
+                "spent",
+                "my",
+                "holiday",
+                "various"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoảng trống",
+          "definition": "an empty space",
+          "world_new": [
+            "empty",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a place for your books on this shelf.",
+              "world_new": [
+                "your",
+                "shelf"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "toà nhà hay khu vực dùng cho một mục đích cụ thể",
+          "definition": "an area or building with a particular purpose",
+          "world_new": [
+            "area",
+            "building",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a market place.",
+              "world_new": [
+                "market"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ ngồi",
+          "definition": "a seat (in a theatre/theater, train, at a table etc)",
+          "world_new": [
+            "seat",
+            "train",
+            "table"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went to his place and sat down."
+            }
+          ]
+        },
+        {
+          "mean_english": "vị trí",
+          "definition": "a position in an order, series, queue etc",
+          "world_new": [
+            "position",
+            "order",
+            "series",
+            "queue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She got the first place in the competition",
+              "world_new": [
+                "competition"
+              ]
+            },
+            {
+              "ex_of_definition": "I lost my place in the queue.",
+              "world_new": [
+                "I",
+                "lost",
+                "my",
+                "queue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "địa vị",
+          "definition": "a person’s position or level of importance in society etc",
+          "world_new": [
+            "position",
+            "level",
+            "importance",
+            "society"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Warriors rose to an important place in Aztec society.",
+              "world_new": [
+                "important",
+                "society"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ đánh dấu trong cuốn sách",
+          "definition": "a point in the text of a book etc",
+          "world_new": [
+            "point",
+            "text",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wind was blowing the pages of my book and I kept losing my place.",
+              "world_new": [
+                "wind",
+                "my",
+                "book",
+                "I",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trách nhiệm; quyền",
+          "definition": "duty or right",
+          "world_new": [
+            "duty",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s not my place to tell him he’s wrong.",
+              "world_new": [
+                "my",
+                "tell",
+                "wrong"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công việc hay vị trí",
+          "definition": "a job or position in a team, organization etc",
+          "world_new": [
+            "job",
+            "position",
+            "team",
+            "organization"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s got a place in the team",
+              "world_new": [
+                "team"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s hoping for a place on the staff.",
+              "world_new": [
+                "staff"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà",
+          "definition": "house; home",
+          "world_new": [
+            "home"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Come over to my place.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "(viết tắt) quảng trường; đường phố",
+          "definition": "(often abbreviated to Pl.when written) a word used in the names of certain roads, streets or squares.",
+          "world_new": [
+            "certain"
+          ]
+        },
+        {
+          "mean_english": "số con số sau dấu thập phân",
+          "definition": "a number or one of a series of numbers following a decimal point",
+          "world_new": [
+            "number",
+            "series",
+            "following",
+            "decimal",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Make the answer correct to four decimal places.",
+              "world_new": [
+                "answer",
+                "correct",
+                "decimal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt, để",
+          "definition": "to put",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He placed it on the table",
+              "world_new": [
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "He was placed in command of the army.",
+              "world_new": [
+                "command",
+                "army"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhớ",
+          "definition": "to remember who a person is",
+          "world_new": [
+            "remember",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I know I’ve seen her before, but I can’t quite place her.",
+              "world_new": [
+                "I",
+                "know",
+                "I",
+                "quite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The speakers are placed in a position that allows the sound to bounce across the water surface.",
+    "Given that handfuls of debitage were placed directly into artifact bags in the field, all technologically diagnostic forms are well represented.",
+    "The first places all inequality constraints directly into a logarithmic barrier, leaving only explicit equality constraints.",
+    "The core feature of this review is that it places self-development at the centre of a definition of language teacher development.",
+    "The ethanol is placed in the indoor lower corridor and the acetone in the upper corridor.",
+    "An additional difficulty is that decisions have to be made as to where different subdomains of applied linguistics should be placed.",
+    "The relative contributions of each of the constraints placed on the current data are at present unknown.",
+    "Most studies of financial development have placed primary emphasis on the provision of external finance."
+  ],
+  "list_see_also": [
+    "place name",
+    "go places",
+    "in the first/second etc place",
+    "in place",
+    "in place of",
+    "out of place",
+    "put oneself in someone else’s place",
+    "put (someone) in his/her place",
+    "take place",
+    "take the place of"
+  ],
+  "list_browse": [
+    "pizzicato",
+    "pl.",
+    "placard",
+    "placate",
+    "place",
+    "place name",
+    "placenta",
+    "placental",
+    "placid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344211_5962414a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344211_61a4f934a1_o.png",
+      "id_image": "place_1692037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344191_6faf709780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344191_c31bb9b5ed_o.png",
+      "id_image": "place_5744807"
+    }
+  ]
+}

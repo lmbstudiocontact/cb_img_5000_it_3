@@ -1,0 +1,350 @@
+{
+  "english": "play",
+  "phat_am": "plei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nô đùa",
+          "definition": "to amuse oneself",
+          "world_new": [
+            "amuse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child is playing in the garden",
+              "world_new": [
+                "child",
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "He is playing with his toys"
+            },
+            {
+              "ex_of_definition": "The little girl wants to play with her friends.",
+              "world_new": [
+                "girl"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chơi",
+          "definition": "to take part in (games etc)",
+          "world_new": [
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plays football",
+              "world_new": [
+                "football"
+              ]
+            },
+            {
+              "ex_of_definition": "He is playing in goal",
+              "world_new": [
+                "goal"
+              ]
+            },
+            {
+              "ex_of_definition": "Here’s a pack of cards – who wants to play (with me)?",
+              "world_new": [
+                "pack",
+                "cards"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m playing golf with him this evening.",
+              "world_new": [
+                "golf",
+                "evening"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đóng vai",
+          "definition": "to act in a play etc; to act (a character)",
+          "world_new": [
+            "act",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s playing Lady Macbeth"
+            },
+            {
+              "ex_of_definition": "The company is playing in London this week.",
+              "world_new": [
+                "company",
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu diễn",
+          "definition": "(of a play etc) to be performed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Oklahoma’ is playing at the local theatre.",
+              "world_new": [
+                "local",
+                "theatre"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu diễn",
+          "definition": "to (be able to) perform on (a musical instrument)",
+          "world_new": [
+            "perform",
+            "musical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She plays the piano",
+              "world_new": [
+                "piano"
+              ]
+            },
+            {
+              "ex_of_definition": "Who was playing the piano this morning?",
+              "world_new": [
+                "piano",
+                "morning"
+              ]
+            },
+            {
+              "ex_of_definition": "He plays (the oboe) in an orchestra.",
+              "world_new": [
+                "orchestra"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chơi khăm",
+          "definition": "(usually with on) to carry out or do (a trick)",
+          "world_new": [
+            "carry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He played a trick on me.",
+              "world_new": [
+                "trick"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đấu với",
+          "definition": "(usually with at) to compete against (someone) in a game etc",
+          "world_new": [
+            "compete",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll play you at tennis.",
+              "world_new": [
+                "tennis"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vụt qua",
+          "definition": "(of light) to pass with a flickering movement",
+          "world_new": [
+            "pass",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The firelight played across the ceiling.",
+              "world_new": [
+                "across",
+                "ceiling"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng vào",
+          "definition": "to direct (over or towards something)",
+          "world_new": [
+            "direct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The firemen played their hoses over the burning house.",
+              "world_new": [
+                "their",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đưa ra",
+          "definition": "to put down or produce (a playing-card) as part of a card game",
+          "world_new": [
+            "produce",
+            "part",
+            "card",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He played the seven of hearts.",
+              "world_new": [
+                "hearts"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giải trí",
+          "definition": "recreation; amusement",
+          "world_new": [
+            "amusement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A person must have time for both work and play.",
+              "world_new": [
+                "person",
+                "time",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vở kịch",
+          "definition": "an acted story; a drama",
+          "world_new": [
+            "drama"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shakespeare wrote many great plays.",
+              "world_new": [
+                "great"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc thi đấu",
+          "definition": "the playing of a game",
+          "world_new": [
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "At the start of today’s play, England was leading India by fifteen runs.",
+              "world_new": [
+                "start"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự vận hành",
+          "definition": "freedom of movement (eg in part of a machine).",
+          "world_new": [
+            "freedom",
+            "movement",
+            "part"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Problems, then, are raised about the ecological validity of this constraint and the role it might play in the perception of ordinary, everyday motion.",
+    "The actors not only double up to play different parts, but also perform different roles as entertainers, musicians, and storytellers.",
+    "Clarification requests play an important role in effective conversations, and children must learn the conversational rules for interpreting and responding to such requests.",
+    "That older actresses play fewer roles than older men is perhaps not surprising.",
+    "Despite the fundamental role phonetic representations play in language acquisition, there has been very little research on their development in a bilingual context.",
+    "To provide compelling evidence for adaptation, however, homologous traits must play the same functional roles in human and nonhuman species.",
+    "She would put on a scarf and play various roles.",
+    "It may be that syllable structure may not play a role in the organization of lexical representations, but may influence the organization of phonological representations."
+  ],
+  "list_see_also": [
+    "player",
+    "playable",
+    "playful",
+    "playfully",
+    "playfulness",
+    "playboy",
+    "playground",
+    "playing card",
+    "playing field",
+    "playmate",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "platinum",
+    "platoon",
+    "platter",
+    "plausible",
+    "play",
+    "play a hoax on",
+    "play a trick / tricks on",
+    "play a/no part in",
+    "play at"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386442_e988be2b53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386442_309f628a03_o.png",
+      "id_image": "play_3590560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386397_fb3b6ccd89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386397_db3acde4bd_o.png",
+      "id_image": "play_6381520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341451_fc21d7cde4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341451_27285fb938_o.png",
+      "id_image": "play_814147"
+    }
+  ]
+}

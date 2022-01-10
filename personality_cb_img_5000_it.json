@@ -1,0 +1,116 @@
+{
+  "english": "personality",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính cách",
+          "definition": "a person’s characteristics (of the mind, the emotions etc) as a whole",
+          "world_new": [
+            "mind",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a likeable / forceful (= strong) personality.",
+              "world_new": [
+                "likeable",
+                "forceful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cá tính",
+          "definition": "strong, distinctive (usually attractive) character",
+          "world_new": [
+            "strong",
+            "distinctive",
+            "character"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is not beautiful, but she has a lot of personality.",
+              "world_new": [
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người nổi tiếng",
+          "definition": "a well-known person",
+          "world_new": [
+            "well-known",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a television personality",
+              "world_new": [
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a personality cult (= very great, usually too great, admiration for a person, usually a political leader).",
+              "world_new": [
+                "cult",
+                "great",
+                "great",
+                "admiration",
+                "person",
+                "political"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There might even be instances in which, because of their personalities, there is no psychological harm to either party.",
+    "A sociological study of this remarkable change in public attitudes would be rewarding, and should be undertaken before the events and personalities are forgotten.",
+    "The contrasting personalities of the fitness-instructors influenced how they interpreted their particular training curriculum.",
+    "They become more ideals through their personalities, and at any rate something of a block has existed against looking too much.",
+    "He held that individuals with flexible, resilient and self-aware personalities were most likely to benefit from reviewing their past through reminiscence.",
+    "Rather, a complex mixture of economic factors, local tensions, and individual personalities combined in attacks on specific individuals.",
+    "Competent teachers with non-discouraging personalities using nondefensive methods and techniques, who cherish their students and hold them in unconditional positive regard, are the best teachers.",
+    "Indeed, one might reasonably suspect that the sample is over-representative of obsessive-compulsive personalities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "personal pronoun",
+    "personal stereo",
+    "personal trainer",
+    "personal watercraft",
+    "personality",
+    "personalize",
+    "personalized",
+    "personally",
+    "personnel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435398_aea55221f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435398_5e83cd2a2b_o.png",
+      "id_image": "personality_1474710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056980_8b53f82cc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056980_682b6531ef_o.png",
+      "id_image": "personality_1945688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435378_cb8d6f66ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435378_5611132da0_o.png",
+      "id_image": "personality_2072729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365112_310cbd1410_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365112_716c76938d_o.png",
+      "id_image": "personality_4525542"
+    }
+  ]
+}

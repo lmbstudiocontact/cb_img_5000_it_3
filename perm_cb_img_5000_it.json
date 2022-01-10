@@ -1,0 +1,75 @@
+{
+  "english": "perm",
+  "phat_am": "pəːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quăn",
+          "definition": "a permanent wave in a person’s hair",
+          "world_new": [
+            "permanent",
+            "wave",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s had a perm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm tóc quăn",
+          "definition": "to give a permanent wave to (hair)",
+          "world_new": [
+            "permanent",
+            "wave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s had her hair permed.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cuticles are often damaged by excessive mechanical manipulation such as brushing, using heat (like using curling irons) or chemical processing (like perms or texturizers).",
+    "I suggest that he might do it like the pools and perm two from four.",
+    "The offers read like a full perm on a football pool coupon.",
+    "I did not intend to enter into the debate until the question of \"perms\" was raised.",
+    "It is open to any landowner to perm it these activities to take place on his land by permission and that excludes those which are criminal offences.",
+    "Some in the industry admit that they use \"temp to perm\" fees to stall that process.",
+    "I wish to goodness we had decided on a perm and not a large haircut.",
+    "I would perm them in favour of those which relate to the harm test based on prejudice in one way or another."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "perk",
+    "perkily",
+    "perkiness",
+    "perky",
+    "perm",
+    "permanence",
+    "permanent",
+    "permanent wave",
+    "permanently"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320426_c9a49b8871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320426_c40cfccf46_o.png",
+      "id_image": "perm_3125044"
+    }
+  ]
+}

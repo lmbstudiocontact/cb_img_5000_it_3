@@ -1,0 +1,114 @@
+{
+  "english": "prejudice",
+  "phat_am": "ˈpredʒədis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thành kiến",
+          "definition": "(an) opinion or feeling for or especially against something, formed unfairly or unreasonably ie without proper knowledge",
+          "world_new": [
+            "opinion",
+            "feeling",
+            "unfairly",
+            "proper",
+            "knowledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The jury must listen to his statement without prejudice",
+              "world_new": [
+                "jury",
+                "listen",
+                "statement"
+              ]
+            },
+            {
+              "ex_of_definition": "Is racial prejudice (= dislike of people because of their race) increasing in this country?",
+              "world_new": [
+                "racial",
+                "dislike",
+                "people",
+                "their",
+                "country"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho có định kiến",
+          "definition": "to cause to feel prejudice for or against something",
+          "world_new": [
+            "cause",
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Publicity can sometimes prejudice the interests of justice.",
+              "world_new": [
+                "justice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây tổn hại",
+          "definition": "to harm or endanger (a person’s position, prospects etc) in some way",
+          "world_new": [
+            "harm",
+            "endanger",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your terrible handwriting will prejudice your chances of passing the exam.",
+              "world_new": [
+                "terrible",
+                "handwriting",
+                "your",
+                "passing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are simply too many constituencies, too many prejudices and too many conflicting instincts to satisfy.",
+    "Thus did red tape and prejudice prevent an important feature connected with the genuine character of spiritual agency from being put to the test.",
+    "Negative judgments on social class, nationality, education, regional provenance, and accent, can all manifest themselves as linguistic prejudice.",
+    "Thus, partial tolerance becomes the perfect alibi for generalized prejudice against the regional varieties and praise of the standard.",
+    "All stories are artificial constructions, he seeks to remind us, and never convey the facts to the exception of presuppositions, prejudices and blindspots about ourselves.",
+    "In fact, there are a good many reasons to take the embittered reflections and prejudices of contemporaries seriously, and not to brush them aside.",
+    "The reliability of records such as electoral registers can also be prejudiced by differential geographical mobility.",
+    "Relativism counsels tolerance, it is believed, whereas nonrelativism engenders accusations of irrationality or willful malice and a dogmatic attachment to one's own cultural prejudices."
+  ],
+  "list_see_also": [
+    "prejudiced"
+  ],
+  "list_browse": [
+    "pregnant",
+    "prehensile",
+    "prehistoric",
+    "prejudge",
+    "prejudice",
+    "prejudiced",
+    "preliminary",
+    "prelude",
+    "premature"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373967_4dd68c310b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373967_27eb742933_o.png",
+      "id_image": "prejudice_6174387"
+    }
+  ]
+}

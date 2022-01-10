@@ -1,0 +1,81 @@
+{
+  "english": "pension",
+  "phat_am": "ˈpenʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lương hưu",
+          "definition": "a sum of money paid regularly to a widow, a person who has retired from work, a soldier who has been seriously injured in a war etc",
+          "world_new": [
+            "sum",
+            "money",
+            "regularly",
+            "widow",
+            "person",
+            "retired",
+            "work",
+            "soldier",
+            "seriously",
+            "injured",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives on his pension"
+            },
+            {
+              "ex_of_definition": "a retirement pension.",
+              "world_new": [
+                "retirement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She also had strived to retire on a sufficient pension.",
+    "Apparently, these types of pension funds are able to manage their investment more efficiently than the other categories : industry funds have lower costs.",
+    "The article suggests a way in which a more transparent system could guarantee a total state pension at a fixed percentage of average earnings.",
+    "A person's living conditions depend increasingly on the pensions received.",
+    "Another point that receives substantial attention is the low rates of pension system coverage.",
+    "The private sector scheme is managed by private pension institutions : insurance companies, corporate pension funds, industry-wide pension funds, and other statutory pension providers.",
+    "Its generous pension programme contrasts with a virtual absence of state interest in health or care provision for elders.",
+    "Thus, the pension associated with the employee's 10 years of service will be $12,000 annually payable at 65, not $6,000."
+  ],
+  "list_see_also": [
+    "pensioner",
+    "pension off"
+  ],
+  "list_browse": [
+    "penitentiary",
+    "pennant",
+    "penniless",
+    "penny",
+    "pension",
+    "pension off",
+    "pensioner",
+    "pensive",
+    "pensively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322116_2684aea318_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322116_ecfb378b8f_o.png",
+      "id_image": "pension_1809760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367037_81e1427682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367037_73aeb2e43b_o.png",
+      "id_image": "pension_2237846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366987_08e8ac0fd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366987_a73ce11a32_o.png",
+      "id_image": "pension_5798600"
+    }
+  ]
+}

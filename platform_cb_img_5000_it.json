@@ -1,0 +1,99 @@
+{
+  "english": "platform",
+  "phat_am": "ˈplӕtfoːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sân ga",
+          "definition": "the raised area between or beside the lines in a train station",
+          "world_new": [
+            "area",
+            "lines",
+            "train",
+            "station"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They waited on the platform for their train to arrive",
+              "world_new": [
+                "their",
+                "train",
+                "arrive"
+              ]
+            },
+            {
+              "ex_of_definition": "The London train will leave from platform 6.",
+              "world_new": [
+                "train",
+                "leave"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bục",
+          "definition": "a raised part of a floor eg in a hall, for speakers, entertainers etc",
+          "world_new": [
+            "part",
+            "floor",
+            "hall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The orchestra arranged themselves on the platform.",
+              "world_new": [
+                "orchestra"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Agent-oriented programming has led to the proliferation of frameworks and development platforms for agents.",
+    "Processes are either truncated distally or expanded to form irregularly polygonal platforms, some of which typically extend outwards at right angles to the process stem.",
+    "The tasks assigned to the system are mainly pick-and-place operations between the working platforms.",
+    "The two platforms are connected by six wires, whose tension is maintained by pulleys and spiral springs that are fixed on the base.",
+    "In typical service robotic environments, it is a challenging task to automate this procedure of finding even platforms for placing objects.",
+    "At coronations, platforms were erected for the singers beside the ambo.",
+    "They also formed the basis of constitutional assembly platforms and influenced the content of constitutional reforms.",
+    "As noted earlier, various regional platforms of local civil society organisations discussed land-related disputes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plateau",
+    "plated",
+    "plateful",
+    "platelet",
+    "platform",
+    "plating",
+    "platinum",
+    "platoon",
+    "platter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386742_1b5d06e514_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386742_40596d885c_o.png",
+      "id_image": "platform_2437181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456573_96bda23665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456573_facf755cb8_o.png",
+      "id_image": "platform_373008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456483_8185beb167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456483_87d894d8a0_o.png",
+      "id_image": "platform_3901483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696839_9ee8a466ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696839_6249506598_o.png",
+      "id_image": "platform_6213821"
+    }
+  ]
+}

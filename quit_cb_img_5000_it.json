@@ -1,0 +1,66 @@
+{
+  "english": "quit",
+  "phat_am": "kwit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bỏ; ngừng",
+          "definition": "to leave, stop, or resign from etc",
+          "world_new": [
+            "leave",
+            "stop",
+            "resign"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going to quit teaching",
+              "world_new": [
+                "teaching"
+              ]
+            },
+            {
+              "ex_of_definition": "They have been ordered to quit the house by next week.",
+              "world_new": [
+                "house",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a result, the incentive to use advance notice would be countercyclical since the probability that workers quit falls during recession.",
+    "He quit in 1954 to take part in the creation of one of the first private laboratories dedicated to assisting metallurgical and mechanical domestic industries.",
+    "Accepting to quit the current game closes this game and cancels the remaining commitments of the game.",
+    "Thus, if a worker quits before the notice period expires, there are no additional costs involved, beyond the wage paid during the notice time.",
+    "Individuals less than 40 years of age who have a family member diagnosed with heart disease are likely to have quit smoking.",
+    "From such a viewpoint, quitting may seem to have a too meagre prospect of succeeding to be worth trying.",
+    "This suggests that over one in three are being forced to continue to operate in a caring business that they would rather quit.",
+    "However, 20 percent of the dentists had at some time or other recommended smokeless tobacco as a support for smokers who wanted to quit."
+  ],
+  "list_see_also": [
+    "be quit of"
+  ],
+  "list_browse": [
+    "quintet",
+    "quintuplet",
+    "quip",
+    "quirk",
+    "quit",
+    "quite",
+    "quiver",
+    "quiz",
+    "quiz-master"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387887_9c494f4216_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387887_2ac1f8a440_o.png",
+      "id_image": "quit_1686708"
+    }
+  ]
+}

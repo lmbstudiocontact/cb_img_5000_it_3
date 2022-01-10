@@ -1,0 +1,119 @@
+{
+  "english": "progress",
+  "phat_am": "ˈprəuɡres",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phát triển",
+          "definition": "movement forward; advance",
+          "world_new": [
+            "movement",
+            "advance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the progress of civilization.",
+              "world_new": [
+                "civilization"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tiến bộ",
+          "definition": "improvement",
+          "world_new": [
+            "improvement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The students are making (good) progress."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "tiến lên",
+          "definition": "to go forward",
+          "world_new": [
+            "forward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had progressed only a few miles when the car broke down.",
+              "world_new": [
+                "car",
+                "broke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiến bộ",
+          "definition": "to improve",
+          "world_new": [
+            "improve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your French is progressing.",
+              "world_new": [
+                "French"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This evolution of models is the stuff of scientific progress.",
+    "Nevertheless, the rise in goods prices is less than the case of no technological progress.",
+    "Just as ostracism can slow economic growth, demands for methodological \"correctness\" can slow scientific progress.",
+    "Although there has been enormous progress toward accomplishing parts of the vision, the core problem - the design of ligands to bind proteins - has remained intractable.",
+    "If these differing notions of sustainability are to have operational consequences, then measures of progress towards sustainable development are required.",
+    "As the project progresses it is the pupils that take on the responsibility for the entire process, not the teachers or leaders.",
+    "Designing robots that can respond has proved extremely difficult and progress has been slow.",
+    "Further reference to tools and players is made as the book progresses."
+  ],
+  "list_see_also": [
+    "progressive",
+    "progressively",
+    "progressiveness",
+    "in progress"
+  ],
+  "list_browse": [
+    "progeny",
+    "program",
+    "programme",
+    "programmer",
+    "progress",
+    "progressive",
+    "progressively",
+    "progressiveness",
+    "prohibit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321031_855ab09439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321031_4491aee601_o.png",
+      "id_image": "progress_5672044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676079_e2b1af72ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676079_f1bd2b8f88_o.png",
+      "id_image": "progress_5672330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436273_479b44f692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436273_7fb1841aec_o.png",
+      "id_image": "progress_943765"
+    }
+  ]
+}

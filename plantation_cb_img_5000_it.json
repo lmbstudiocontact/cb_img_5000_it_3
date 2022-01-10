@@ -1,0 +1,75 @@
+{
+  "english": "plantation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vườn ươm",
+          "definition": "a place that has been planted with trees.",
+          "world_new": [
+            "place"
+          ]
+        },
+        {
+          "mean_english": "đồn điền",
+          "definition": "a piece of land or estate for growing certain crops, especially cotton, sugar, rubber, tea and tobacco",
+          "world_new": [
+            "piece",
+            "land",
+            "estate",
+            "certain",
+            "cotton",
+            "sugar",
+            "rubber",
+            "tea",
+            "tobacco"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He owned a rubber plantation in Malaysia.",
+              "world_new": [
+                "rubber"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the case of insects that cause defoliation in both natural forests and plantations, outbreaks are most likely to occur in plantations.",
+    "To highlight the terrible conditions at the plantations, he drew quite a harsh picture of women's life in the village home.",
+    "Cotton and indigo plantations flourished in the early nineteenth century.",
+    "Note that organizing collective protection by private owners is infeasible, because private plantations are scattered in many places.",
+    "First, they were a heritage of the coerced labour systems of the sugar plantations which produced a historical norm of low wages.",
+    "In the case of private plantations, we interviewed their owners.",
+    "Many individual ancient oaks are still to be found in current plantations of conifers, left simply because they were too difficult to remove.",
+    "Additionally, sites used for agriculture, cattle-raising, and forest plantations could be designated as reserves."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plankton",
+    "planner",
+    "planning",
+    "plant",
+    "plantation",
+    "planter",
+    "plaque",
+    "plasma",
+    "plasma screen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697859_1fa5482688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697859_792704a86d_o.png",
+      "id_image": "plantation_1191617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342551_c922ca1dcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342551_7700285622_o.png",
+      "id_image": "plantation_1590710"
+    }
+  ]
+}

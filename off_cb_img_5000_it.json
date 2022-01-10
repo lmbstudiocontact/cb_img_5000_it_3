@@ -1,0 +1,265 @@
+{
+  "english": "off",
+  "phat_am": "of",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "khỏi, đứt rời",
+          "definition": "away (from a place, time etc)",
+          "world_new": [
+            "place",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He walked off"
+            },
+            {
+              "ex_of_definition": "She cut her hair off",
+              "world_new": [
+                "cut",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "The holidays are only a week off",
+              "world_new": [
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "She took off her coat.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tắt",
+          "definition": "not working; not giving power etc",
+          "world_new": [
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The water’s off"
+            },
+            {
+              "ex_of_definition": "Switch off the light.",
+              "world_new": [
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghỉ; không đi làm",
+          "definition": "not at work",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s taking tomorrow off",
+              "world_new": [
+                "tomorrow"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s off today."
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn thành",
+          "definition": "completely",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Finish off your work.",
+              "world_new": [
+                "your",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tệ hại",
+          "definition": "not as good as usual, or as it should be",
+          "world_new": [
+            "usual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His work has gone off recently",
+              "world_new": [
+                "work",
+                "recently"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hỏng; thiu",
+          "definition": "(of food) rotten",
+          "world_new": [
+            "rotten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This milk has gone off – we can’t drink it",
+              "world_new": [
+                "milk",
+                "drink"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) That meat is certainly off.",
+              "world_new": [
+                "meat",
+                "certainly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuống xe",
+          "definition": "out of a vehicle, train etc",
+          "world_new": [
+            "vehicle",
+            "train"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bus stopped and we got off.",
+              "world_new": [
+                "bus"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hủy bỏ",
+          "definition": "cancelled",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The marriage is off.",
+              "world_new": [
+                "marriage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "khỏi; cách; rời",
+          "definition": "away from; down from",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It fell off the table",
+              "world_new": [
+                "fell",
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "a mile off the coast",
+              "world_new": [
+                "mile",
+                "coast"
+              ]
+            },
+            {
+              "ex_of_definition": "He cut about five centimetres off my hair.",
+              "world_new": [
+                "cut",
+                "my",
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không cho",
+          "definition": "not wanting or allowed to have (food etc)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child is off his food.",
+              "world_new": [
+                "child",
+                "food"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuống xe",
+          "definition": "out of (a vehicle, train etc)",
+          "world_new": [
+            "vehicle",
+            "train"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We got off the bus.",
+              "world_new": [
+                "bus"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "off-chance",
+    "off-colour",
+    "offhand",
+    "offhandedly",
+    "offhandedness",
+    "off-licence",
+    "offline",
+    "offshore",
+    "offside",
+    "offspring",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "of course",
+    "of late",
+    "of mixed race",
+    "of one’s own accord",
+    "off",
+    "off and on / on and off",
+    "off balance",
+    "off duty",
+    "off guard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703494_de0c4ecac6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703494_15135b36b9_o.png",
+      "id_image": "off_1744264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086025_f26013f4b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086025_aa4af4e775_o.png",
+      "id_image": "off_4752777"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "reflective",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "biết suy nghĩ",
+          "definition": "thoughtful",
+          "world_new": [
+            "thoughtful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was in a reflective mood.",
+              "world_new": [
+                "mood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phản chiếu",
+          "definition": "reflecting",
+          "world_new": [
+            "reflecting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "reflective number-plates."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As ambush predators, lurking and quickly capturing prey using stealth tactics, they are suggested to have benefited greatly from the nonreflective, keeled scales.",
+    "Opinions are often reflective of misinformation and superficial.",
+    "Upon analysis, the ideas of stability and reflective equilibrium can be combined to form two different second-order justifications for political liberalism.",
+    "Scripting languages often have late-binding, runtime types, or reflective operations, which one might expect to be difficult to project back to a statically-typed metalanguage.",
+    "The definition of assemblies still makes sense for restricted realizability: again they form a reflective subcategory equivalent to that of the separated objects.",
+    "Task-specific procedures are created as the starting points and outcomes of such reflective problem-solving processes are associated in memory, to create situation-action pairs.",
+    "The book balances the contributions with practical and organization focus with contributions that are more reflective and place current concerns in a wider context.",
+    "The ability to discriminate between two language codes, and to separate them, seemed to be linked to development of reflective, metalinguistic ability."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "refit",
+    "reflect",
+    "reflecting",
+    "reflection",
+    "reflective",
+    "reflectively",
+    "reflector",
+    "reflex",
+    "reflexive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331551_2673874616_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331551_b75fb3db54_o.png",
+      "id_image": "reflective_5376488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376227_5d92c79909_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376227_19bbf39d7b_o.png",
+      "id_image": "reflective_5830508"
+    }
+  ]
+}

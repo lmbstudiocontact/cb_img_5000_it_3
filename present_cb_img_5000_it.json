@@ -1,0 +1,261 @@
+{
+  "english": "present",
+  "phat_am": "ˈpreznt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có mặt",
+          "definition": "being here, or at the place, occasion etc mentioned",
+          "world_new": [
+            "place",
+            "occasion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My father was present on that occasion",
+              "world_new": [
+                "father",
+                "occasion"
+              ]
+            },
+            {
+              "ex_of_definition": "Who else was present at the wedding?",
+              "world_new": [
+                "else",
+                "wedding"
+              ]
+            },
+            {
+              "ex_of_definition": "Now that the whole class is present, we can begin the lesson.",
+              "world_new": [
+                "whole",
+                "class",
+                "begin",
+                "lesson"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiện tại",
+          "definition": "existing now",
+          "world_new": [
+            "existing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the present moment",
+              "world_new": [
+                "moment"
+              ]
+            },
+            {
+              "ex_of_definition": "the present prime minister.",
+              "world_new": [
+                "prime",
+                "minister"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời hiện tại",
+          "definition": "(of the tense of a verb) indicating action now",
+          "world_new": [
+            "tense",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the sentence ‘She wants a chocolate’, the verb is in the present tense.",
+              "world_new": [
+                "sentence",
+                "verb",
+                "tense"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tặng",
+          "definition": "to give, especially formally or ceremonially",
+          "world_new": [
+            "formally",
+            "ceremonially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child presented a bunch of flowers to the Queen",
+              "world_new": [
+                "child",
+                "bunch"
+              ]
+            },
+            {
+              "ex_of_definition": "He was presented with a gold watch when he retired.",
+              "world_new": [
+                "gold",
+                "watch",
+                "retired"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giới thiệu",
+          "definition": "to introduce",
+          "world_new": [
+            "introduce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "May I present my wife (to you)?",
+              "world_new": [
+                "I",
+                "my",
+                "wife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trình diễn; trình chiếu",
+          "definition": "to arrange the production of (a play, film etc)",
+          "world_new": [
+            "arrange",
+            "production",
+            "play",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Elizabethan Theatre Company presents ‘Hamlet’, by William Shakespeare."
+            }
+          ]
+        },
+        {
+          "mean_english": "trình bày",
+          "definition": "to offer (ideas etc) for consideration, or (a problem etc) for solving",
+          "world_new": [
+            "offer",
+            "consideration",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She presents (=expresses) her ideas very clearly",
+              "world_new": [
+                "clearly"
+              ]
+            },
+            {
+              "ex_of_definition": "The situation presents a problem.",
+              "world_new": [
+                "situation",
+                "problem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuất hiện",
+          "definition": "to bring (oneself); to appear",
+          "world_new": [
+            "bring",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He presented himself at the dinner table half an hour late.",
+              "world_new": [
+                "dinner",
+                "table",
+                "half",
+                "hour"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "món quà",
+          "definition": "a gift",
+          "world_new": [
+            "gift"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wedding present",
+              "world_new": [
+                "wedding"
+              ]
+            },
+            {
+              "ex_of_definition": "birthday presents.",
+              "world_new": [
+                "birthday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "None of the studies presents a fine-grained qualitative and quantitative analysis of error patterns, for type of article and gender separately.",
+    "The judicial and psychiatric heterogeneity might also have concealed possible deviations in working memory and\\or planning present in certain subgroups.",
+    "The results, presenting both qualitative and quantitative analyses, provide interesting insights into the responses of the students to the experiment itself.",
+    "The present study aimed to assess, in a community sample, actions taken to cope with depression at different levels of psychological distress.",
+    "In rice fields, these three families or subfamilies made up 63% of species and 86% of all individuals present.",
+    "The present problem appears, however, more difficult to grasp physically than the problem of the shelving beach.",
+    "The present study requires no prescribed entrance conditions, and permits solution for completely arbitrary shape.",
+    "On neither of these ways of construing the existence question does it present a substantial philosophical issue."
+  ],
+  "list_see_also": [
+    "presently",
+    "the present",
+    "at present",
+    "for the present",
+    "present participle",
+    "present perfect"
+  ],
+  "list_browse": [
+    "prescribe",
+    "prescription",
+    "presence",
+    "presence of mind",
+    "present",
+    "present arms",
+    "present participle",
+    "present perfect",
+    "presentable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683484_f2025298f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683484_8766ed8c1a_o.png",
+      "id_image": "present_170798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373077_9a5383d8e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373077_15e0b89800_o.png",
+      "id_image": "present_2255787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683399_16e9b24ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683399_0016d9e090_o.png",
+      "id_image": "present_4383917"
+    }
+  ]
+}

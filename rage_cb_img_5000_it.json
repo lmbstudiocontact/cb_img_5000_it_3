@@ -1,0 +1,154 @@
+{
+  "english": "rage",
+  "phat_am": "reidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn thịnh nộ",
+          "definition": "(a fit of) violent anger",
+          "world_new": [
+            "fit",
+            "violent",
+            "anger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He flew into a rage"
+            },
+            {
+              "ex_of_definition": "He shouted with rage."
+            }
+          ]
+        },
+        {
+          "mean_english": "cơn cuồng bạo",
+          "definition": "violence; great force",
+          "world_new": [
+            "great",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the rage of the sea.",
+              "world_new": [
+                "sea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nổi khùng",
+          "definition": "to act or shout in great anger",
+          "world_new": [
+            "act",
+            "shout",
+            "great",
+            "anger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He raged at his secretary.",
+              "world_new": [
+                "secretary"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nổi cơn dữ dội",
+          "definition": "(of wind, storms etc) to be violent; to blow with great force",
+          "world_new": [
+            "wind",
+            "blow",
+            "great",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The storm raged all night.",
+              "world_new": [
+                "storm",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diễn ra ác liệt",
+          "definition": "(of battles, arguments etc) to be carried on with great violence",
+          "world_new": [
+            "great",
+            "violence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The battle raged for two whole days.",
+              "world_new": [
+                "battle",
+                "whole"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoành hành",
+          "definition": "(of diseases etc) to spread quickly and affect many people",
+          "world_new": [
+            "spread",
+            "quickly",
+            "affect",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fever was raging through the town.",
+              "world_new": [
+                "raging",
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The idea that 16 nations can solemnly consider the possibility of using battlefield nuclear systems when the conflict is raging around them is somewhat unrealistic.",
+    "While the storm rages, we need to be able to look to the future more determinedly.",
+    "There was a big forest fire raging at the time, and the danger was very present to my mind.",
+    "They are part of the same evil that is raging throughout the world—suspicion of one class against another, and between one nation and another.",
+    "In the meantime, a proper cyber war is raging.",
+    "The reason for the low morale at present is not all the political argument that rages, although some would have us believe that.",
+    "Is not that position made worse because the areas being hit hardest are those where civil war is raging?",
+    "The war that is currently raging permits not only so-called 'legal' exploitation of this type, but also much less covert forms of plunder."
+  ],
+  "list_see_also": [
+    "raging",
+    "(all) the rage"
+  ],
+  "list_browse": [
+    "rafter",
+    "rafting",
+    "rag",
+    "ragamuffin",
+    "rage",
+    "ragged",
+    "raggedly",
+    "raggedness",
+    "raging"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385587_2db13e1eae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385587_e9ed1b0884_o.png",
+      "id_image": "rage_708630"
+    }
+  ]
+}

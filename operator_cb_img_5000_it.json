@@ -1,0 +1,84 @@
+{
+  "english": "operator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người vận hành",
+          "definition": "a person who works a machine",
+          "world_new": [
+            "person",
+            "works",
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a crane operator.",
+              "world_new": [
+                "crane"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người trực tổng đài điện thoại",
+          "definition": "a person who connects telephone calls",
+          "world_new": [
+            "person",
+            "telephone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ask the operator to connect you to that number.",
+              "world_new": [
+                "connect",
+                "number"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The other functions and operators are also shown here because of their use in the transformation process.",
+    "Indeed, operators of the module language could also correspond, in practice, to an extralinguistic tool like a linker.",
+    "To show this, we recall a basic result on compact operators and orthonormal systems.",
+    "A set of novel, simple operators is presented.",
+    "A typical solution is to add new operators to the abstract interface for freeing of abstract objects.",
+    "Our approach is purely based on algebraic and semantical aspects of informative monotone operators over bilattices.",
+    "We overload the symbols \" \" and \" \" as both operators on predicates and operators on commands.",
+    "Indexicals are thus best suited for operators that enjoy a short expression."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "operating system",
+    "operation",
+    "operational",
+    "operative",
+    "operator",
+    "opiate",
+    "opinion",
+    "opinion poll",
+    "opinionated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083405_ee65e7e19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083405_f9d407c7a4_o.png",
+      "id_image": "operator_1042076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083365_37469fb262_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083365_06d9a2aaea_o.png",
+      "id_image": "operator_3768443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083315_66e70657e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083315_2bee27353c_o.png",
+      "id_image": "operator_6083035"
+    }
+  ]
+}

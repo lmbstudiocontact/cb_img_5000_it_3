@@ -1,0 +1,95 @@
+{
+  "english": "problem",
+  "phat_am": "ˈprobləm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vấn đề khó khăn",
+          "definition": "a difficulty; a matter about which it is difficult to decide what to do",
+          "world_new": [
+            "matter",
+            "difficult",
+            "decide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Life is full of problems",
+              "world_new": [
+                "full"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a problem child.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài toán",
+          "definition": "a question to be answered or solved",
+          "world_new": [
+            "question"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mathematical problems.",
+              "world_new": [
+                "mathematical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "None had been referred for assessment or treatment of any psychological problem.",
+    "The problem is that each player's use indirectly interferes with the other's use and that some arrangement is necessary to reconcile both uses.",
+    "Perhaps, moreover, a case can be made for saying that philosophical understanding is advanced, not by solving problems head-on, but by moving around them.",
+    "The initial measures addressed sociodemographic variables, psychological\\psychiatric problems and social disability.",
+    "I come now to what is perhaps a more serious problem from a philosophical perspective.",
+    "Validated solutions of initial value problems for ordinary differential equations.",
+    "For this, we must rely on the physically-based model equation, and on comparisons with solutions (numerical) of the exact problem.",
+    "The zero plural avoids the problem of having two sibilants in quick succession at the end of the words, and coincidentally maintains the classical tradition."
+  ],
+  "list_see_also": [
+    "problematic"
+  ],
+  "list_browse": [
+    "probation",
+    "probation officer",
+    "probationary",
+    "probe",
+    "problem",
+    "problematic",
+    "proboscis",
+    "procedural",
+    "procedure"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678524_7b2c6b1ab2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678524_4ab28c031c_o.png",
+      "id_image": "problem_1924432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438403_38a24dbcf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438403_914320f863_o.png",
+      "id_image": "problem_2643530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060010_4b146e9d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060010_c40758dd44_o.png",
+      "id_image": "problem_6040652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060145_c1acb3ed6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060145_8630c93558_o.png",
+      "id_image": "problem_860478"
+    }
+  ]
+}

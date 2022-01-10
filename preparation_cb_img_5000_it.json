@@ -1,0 +1,91 @@
+{
+  "english": "preparation",
+  "phat_am": "prepəˈreiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chuẩn bị",
+          "definition": "the act of preparing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can’t pass an exam without preparation.",
+              "world_new": [
+                "pass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật chuẩn bị",
+          "definition": "something done to prepare",
+          "world_new": [
+            "prepare"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was making hasty preparations for her departure.",
+              "world_new": [
+                "hasty",
+                "departure"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Four of the non-retired respondents did not answer the three questions on thought, preparation and expected comfort.",
+    "This practice is, perhaps, more critical in the preparation of fish served with bones in and skin on, than in the cooking of fillets.",
+    "Such variability and the presence of flagella and microtubules in their preparations make their data not comparable with ours.",
+    "During conceptual preparation, a speaker decides on the conceptual information to be verbally expressed, called the ' 'message' ' concepts.",
+    "Admittedly, the task for the knowledge engineer does get harder, because the elicitation sessions require much more preparation.",
+    "This included her past experience that might be preparation for this role.",
+    "The authors discuss the conditions that can make for successful peer work, including preparation of the students and a sensitive approach by the teacher.",
+    "Unfortunately, this unique specimen was destroyed during preparation for scanning electron micrography."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "premonition",
+    "preoccupation",
+    "preoccupy",
+    "prep.",
+    "preparation",
+    "preparatory",
+    "preparatory school",
+    "prepare",
+    "prepared"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328751_46d5065224_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328751_b8203f8660_o.png",
+      "id_image": "preparation_329807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065545_fc00878081_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065545_0c70c4acaf_o.png",
+      "id_image": "preparation_3380822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373442_1fe20ce64b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373442_d3c1aaafb4_o.png",
+      "id_image": "preparation_4192905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065490_2ecff62872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065490_8bc7357218_o.png",
+      "id_image": "preparation_6159837"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328611_32a80cb366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328611_8bfcca32ff_o.png",
+      "id_image": "preparation_6347410"
+    }
+  ]
+}

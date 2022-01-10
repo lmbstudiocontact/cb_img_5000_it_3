@@ -1,0 +1,81 @@
+{
+  "english": "retirement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nghỉ hưu",
+          "definition": "the act of retiring from work",
+          "world_new": [
+            "act",
+            "retiring",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is not long till his retirement.",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời gian nghỉ hưu",
+          "definition": "a person’s life after retiring from work",
+          "world_new": [
+            "life",
+            "retiring",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s enjoying his retirement."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The numbers of these officers have since been reduced by retirements and other causes, and on 31st ultimo they stood at 141 and 1,091 respectively.",
+    "If transitional costs are higher, it will be because redundancies and early retirements are greater and, therefore, savings subsequently will be greater still.",
+    "I am worried about very remunerative early retirements.",
+    "There were no retirements on the grounds of ill-health.",
+    "Even after allowing for the normal retirements at elections, there will inevitably be redundancies.",
+    "I hope we shall be able to arrange retirements voluntarily; we are trying to work the plan in that way.",
+    "In addition to this, they have been harassed by a feeling of great insecurity and anxiety owing to compulsory retirements on the ground of economy.",
+    "Our records show retirements and discharges at all ages and do not specify those under 40 years of age."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "retina",
+    "retinue",
+    "retire",
+    "retired",
+    "retirement",
+    "retiring",
+    "retort",
+    "retrace",
+    "retract"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349266_504b4293cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349266_52319aea38_o.png",
+      "id_image": "retirement_1691584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349241_e10c4f7358_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349241_5514896baf_o.png",
+      "id_image": "retirement_2329905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349221_dfa8fc7ae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349221_1bd4980f6f_o.png",
+      "id_image": "retirement_4072872"
+    }
+  ]
+}

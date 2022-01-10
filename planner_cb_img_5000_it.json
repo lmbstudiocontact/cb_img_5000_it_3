@@ -1,0 +1,70 @@
+{
+  "english": "planner",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người thiết kế",
+          "definition": "a person who plans (especially buildings etc)",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a town planner.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One could say that they hastened to 'fix' the 'mistake' made by the planners of leaving the bathroom outside the house.",
+    "In the first part of this paper, a solution for the local minima problem, associated to local planners, has been proposed.",
+    "Ebgoc differs from these planners in that it combines the process of identifying specific subgoals with the process of identifying and instantiating operators.",
+    "The system represents such concepts as being approachable and pedestrian friendly, and it allows urban planners to evaluate design models with respect to those concepts.",
+    "Therefore, solving the planner's problem will not deliver the market allocation. 12.",
+    "An ecological perspective on history and life is incompatible with laissezfaire ideology, referred to by planners as the 'continuation-of-trends scenario'.",
+    "The efficiency loss grows because increasing minimum guaranteed consumption levels do not allow the component planners to enforce high labor effort.",
+    "None of the other planners could solve the last problem."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "planet",
+    "planetary",
+    "plank",
+    "plankton",
+    "planner",
+    "planning",
+    "plant",
+    "plantation",
+    "planter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388097_395774d8dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388097_0919a0af45_o.png",
+      "id_image": "planner_1876791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457873_fbb93e5c2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457873_b24199aed1_o.png",
+      "id_image": "planner_1876941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080560_09150c9e50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080560_e237da33b0_o.png",
+      "id_image": "planner_3380787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457798_50a48264eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457798_d0a8e85329_o.png",
+      "id_image": "planner_4016157"
+    }
+  ]
+}

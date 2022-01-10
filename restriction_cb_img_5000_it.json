@@ -1,0 +1,83 @@
+{
+  "english": "restriction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quy tắc",
+          "definition": "a rule etc that limits or controls",
+          "world_new": [
+            "rule"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Even in a free democracy a person’s behaviour/behavior must be subject to certain restrictions.",
+              "world_new": [
+                "free",
+                "democracy",
+                "subject",
+                "certain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giới hạn",
+          "definition": "the act of restricting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "restriction of freedom.",
+              "world_new": [
+                "freedom"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cotton, wheat, and tobacco farmers confronted an uncertain economic environment and were willing to accept restrictions on production in exchange for high, guaranteed prices.",
+    "Nor are there any restrictions on donations that parties may receive.",
+    "The restriction of fingerprint collection to people already suspected of a crime reinforced the tendency to rely upon punishment rather than effective state investigation.",
+    "Geminates and partial geminates circumvent the restriction, because the place features are not uniquely parsed as attributes of a segment in the coda position.",
+    "This paper's aim is precisely to characterize the computational power of several restrictions of a realistic programming language.",
+    "Depending on the intended semantics, different additional restrictions can be placed on the usage of those roles.",
+    "Characteristics associated with fear of falling and activity restriction in community-living older persons.",
+    "A key property of such an objective function is that it keeps the method used for genetic evaluation and the restriction in inbreeding separated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "restrained",
+    "restraint",
+    "restrict",
+    "restricted",
+    "restriction",
+    "restrictive",
+    "result",
+    "resume",
+    "resumption"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464763_0d262513a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464763_28992f6e2b_o.png",
+      "id_image": "restriction_2529750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394887_7ac13a87a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394887_f17a31de77_o.png",
+      "id_image": "restriction_5138594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464728_d669b923ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464728_72c4b70570_o.png",
+      "id_image": "restriction_6121436"
+    }
+  ]
+}

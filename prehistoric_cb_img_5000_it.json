@@ -1,0 +1,66 @@
+{
+  "english": "prehistoric",
+  "phat_am": "priːiˈstorik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thời tiền sử",
+          "definition": "of, or belonging to, the time before recorded history",
+          "world_new": [
+            "time",
+            "history"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a prehistoric monster.",
+              "world_new": [
+                "monster"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A lot of abandoned ancient cities with many pre-historic instruments and human skeletons has been found in several parts of the modern-day province.",
+    "What research seems to be proposing is that there is greater continuity of culture in the prehistoric period.",
+    "The region has been inhabited since pre-historic times with tumuli in the heathland to the south of the village.",
+    "The cave was discovered in the 18th century, although it is presumed that it was used by pre-historic people.",
+    "Magnetism as a property of matter has been known since pre-historic times.",
+    "In pre-historic times, the area was a huge lake, of which only three small lakes remain today.",
+    "Archaeologists found many pre-historic instruments and human skeletons in many parts of the district.",
+    "We often find older landscape elements in the periphery of the village areas, such as prehistoric settlement sites and sacral sites."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prefix",
+    "pregnancy",
+    "pregnant",
+    "prehensile",
+    "prehistoric",
+    "prejudge",
+    "prejudice",
+    "prejudiced",
+    "preliminary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444388_3530414dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444388_7684021b15_o.png",
+      "id_image": "prehistoric_5999313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329366_23188e5f8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329366_2605815987_o.png",
+      "id_image": "prehistoric_5999349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374082_26ee141ba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374082_f768a34876_o.png",
+      "id_image": "prehistoric_784386"
+    }
+  ]
+}

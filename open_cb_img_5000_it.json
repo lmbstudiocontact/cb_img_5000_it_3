@@ -1,0 +1,253 @@
+{
+  "english": "open",
+  "phat_am": "ˈəupən",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mở; ngỏ",
+          "definition": "not shut, allowing entry or exit",
+          "world_new": [
+            "shut",
+            "entry",
+            "exit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an open box",
+              "world_new": [
+                "box"
+              ]
+            },
+            {
+              "ex_of_definition": "The gate is wide open.",
+              "world_new": [
+                "gate",
+                "wide"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hở; thoáng rộng",
+          "definition": "allowing the inside to be seen",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an open book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sẵn sàng làm việc",
+          "definition": "ready for business etc",
+          "world_new": [
+            "ready",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shop is open on Sunday afternoons",
+              "world_new": [
+                "shop",
+                "Sunday"
+              ]
+            },
+            {
+              "ex_of_definition": "After the fog had cleared, the airport was soon open again",
+              "world_new": [
+                "fog",
+                "airport",
+                "soon"
+              ]
+            },
+            {
+              "ex_of_definition": "The gardens are open to the public.",
+              "world_new": [
+                "gardens",
+                "public"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công khai",
+          "definition": "not kept secret",
+          "world_new": [
+            "secret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an open show of affection.",
+              "world_new": [
+                "affection"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẳng thắn",
+          "definition": "frank",
+          "world_new": [
+            "frank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was very open with me about his work.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bỏ ngỏ",
+          "definition": "still being considered etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let’s leave the matter open for the time being.",
+              "world_new": [
+                "leave",
+                "matter",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trống không",
+          "definition": "empty, with no trees, buildings etc",
+          "world_new": [
+            "empty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like to be out in the open country",
+              "world_new": [
+                "I",
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "an open space.",
+              "world_new": [
+                "space"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mở ra",
+          "definition": "to make or become open",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He opened the door",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "The door opened",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "The new shop opened last week.",
+              "world_new": [
+                "shop",
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt đầu",
+          "definition": "to begin",
+          "world_new": [
+            "begin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He opened the meeting with a speech of welcome.",
+              "world_new": [
+                "meeting",
+                "speech",
+                "welcome"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We discuss the theoretical components of the model as well as the estimation outcomes in the open-and closed-economy frameworks.",
+    "We, thus, leave open whether long and short vowels are represented differently at this earliest stage.",
+    "The window opens when aphids are abundant enough for sufficient survival of larvae developing from eggs.",
+    "The surgical team wants to schedule the patient for open-heart surgery.",
+    "Open and closed-loop control algorithms were studied for vertical motion analysis considering linear springy telescopic leg.",
+    "Thereby, a continuous supply of urea and amino acids to an open reaction system would be expected to overcome this limitation.",
+    "It reinforces that crucial determinants are respect for multiple perspectives, equal distribution of power, clarity of practice model, and open communication styles and systems.",
+    "From the data on number of flowers visited and the number of open flowers we calculated the number of visits per flower per hour."
+  ],
+  "list_see_also": [
+    "opener",
+    "opening",
+    "openly",
+    "openness",
+    "open-air",
+    "open day",
+    "open-minded",
+    "open-plan",
+    "be an open secret",
+    "bring (something) out into the open",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "opacity",
+    "opal",
+    "opaque",
+    "opaqueness",
+    "open",
+    "open day",
+    "open fire",
+    "open on to",
+    "open the floodgates"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461503_08d5b9fbc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461503_fdbd7711a8_o.png",
+      "id_image": "open_2742019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391617_7f2a004584_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391617_fbef314c39_o.png",
+      "id_image": "open_3543139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461448_b9e7cd9c85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461448_a60fc38d61_o.png",
+      "id_image": "open_4383420"
+    }
+  ]
+}

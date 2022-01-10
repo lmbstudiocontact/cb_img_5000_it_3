@@ -1,0 +1,77 @@
+{
+  "english": "poker",
+  "phat_am": "ˈpəukə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "que cời lửa",
+          "definition": "a (usually metal) rod for stirring up a fire",
+          "world_new": [
+            "rod",
+            "stirring",
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a red-hot poker.",
+              "world_new": [
+                "red-hot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chơi bài",
+          "definition": "a kind of card game usually played for money.",
+          "world_new": [
+            "kind",
+            "card",
+            "game",
+            "money"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, in a game of poker, a player who calls someone's bluff has to come up with the \"ante\".",
+    "Therefore, this new device has been introduced, and it seems to me something like a new game of international poker with bills of exchange as the cards.",
+    "The licensing hours are bad, and there are not very many good poker schools around in the area where he goes to live.",
+    "In my constituency there are elderly people who use gas only for a gas poker.",
+    "I have no doubt that this is a high-risk game of poker in which these matters are conducted in a way that is advantageous to ourselves.",
+    "They have been playing a kind of poker game.",
+    "Inevitably, that will be the big poker game of the pharmaceutical world.",
+    "He is not playing a game of poker."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "poke",
+    "poke about",
+    "poke fun at",
+    "poke one’s nose into",
+    "poker",
+    "poky",
+    "polar",
+    "polar bear",
+    "pole"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074990_9aeb19c759_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074990_257b44119e_o.png",
+      "id_image": "poker_287745"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074965_88cb5df800_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074965_82e3b3e08c_o.png",
+      "id_image": "poker_5558277"
+    }
+  ]
+}

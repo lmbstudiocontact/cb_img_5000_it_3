@@ -1,0 +1,282 @@
+{
+  "english": "raise",
+  "phat_am": "reiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nâng lên; giơ lên",
+          "definition": "to move or lift to a high(er) position",
+          "world_new": [
+            "move",
+            "lift",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Raise your right hand",
+              "world_new": [
+                "your",
+                "right",
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "Raise the flag.",
+              "world_new": [
+                "flag"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nâng lên",
+          "definition": "to make higher",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you paint your flat, that will raise the value of it considerably",
+              "world_new": [
+                "paint",
+                "your",
+                "flat",
+                "value",
+                "considerably"
+              ]
+            },
+            {
+              "ex_of_definition": "We’ll raise that wall about 20 centimetres.",
+              "world_new": [
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chăn nuôi",
+          "definition": "to grow (crops) or breed (animals) for food",
+          "world_new": [
+            "grow",
+            "breed",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We don’t raise pigs on this farm.",
+              "world_new": [
+                "farm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nuôi nấng",
+          "definition": "to rear, bring up (a child)",
+          "world_new": [
+            "rear",
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has raised a large family.",
+              "world_new": [
+                "large",
+                "family"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt câu hỏi",
+          "definition": "to state (a question, objection etc which one wishes to have discussed)",
+          "world_new": [
+            "state",
+            "question",
+            "objection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Has anyone in the audience any points they would like to raise?",
+              "world_new": [
+                "audience",
+                "points"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sưu tầm; quyên góp",
+          "definition": "to collect; to gather",
+          "world_new": [
+            "gather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll try to raise money",
+              "world_new": [
+                "try",
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "The revolutionaries managed to raise a small army.",
+              "world_new": [
+                "small",
+                "army"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khiến",
+          "definition": "to cause",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His remarks raised a laugh.",
+              "world_new": [
+                "laugh"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tạo nên",
+          "definition": "to cause to rise or appear",
+          "world_new": [
+            "cause",
+            "rise",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car raised a cloud of dust.",
+              "world_new": [
+                "car",
+                "cloud",
+                "dust"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xây dựng",
+          "definition": "to build (a monument etc)",
+          "world_new": [
+            "build",
+            "monument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’ve raised a statue of Robert Burns / in memory of Robert Burns.",
+              "world_new": [
+                "statue",
+                "memory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cất cao giọng",
+          "definition": "to give (a shout etc)",
+          "world_new": [
+            "shout"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s no need to raise your voice.",
+              "world_new": [
+                "your",
+                "voice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liên lạc bằng ra-đi-ô",
+          "definition": "to make contact with by radio",
+          "world_new": [
+            "contact",
+            "radio"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t raise the mainland.",
+              "world_new": [
+                "I",
+                "mainland"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nâng lương",
+          "definition": "an increase in wages or salary",
+          "world_new": [
+            "increase",
+            "salary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going to ask the boss for a raise.",
+              "world_new": [
+                "ask",
+                "boss"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The front of each cubicle was raised to 120 cm by a removable wooden panel.",
+    "But this raises precisely the question of what such appeals to nature are supposed to achieve.",
+    "The data also raise questions about government stability in majoritarian and proportional systems.",
+    "This reduces the costs of financial intermediation and raises the overall return on investment.",
+    "In this commentary we raise two issues that we think are directly related to the theory's treatment of mental representations as emulations.",
+    "Individual interviews were conducted with two participants to explore themes and issues raised during discussions which they did not attend.",
+    "We find greater tip raising before both types of schwa, indicating light \\l\\ before schwa and dark \\l\\ in coda position.",
+    "The correlation coefficients between male life expectancy and some of the other control variables in the model raises the risk of multicollinearity."
+  ],
+  "list_see_also": [
+    "raise someone’s hopes",
+    "raise hell/Cain/the roof etc",
+    "raise someone’s spirits"
+  ],
+  "list_browse": [
+    "rainfall",
+    "raininess",
+    "rainwater",
+    "rainy",
+    "raise",
+    "raise hell/Cain/the roof etc",
+    "raise one’s eyebrows",
+    "raise one’s voice",
+    "raise someone’s hopes"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384472_4cf5c1d3f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384472_4de00f4e73_o.png",
+      "id_image": "raise_2201799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384442_62863eec24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384442_ab61e45fae_o.png",
+      "id_image": "raise_2358297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339491_2f4d843b6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339491_44ae4ddc4d_o.png",
+      "id_image": "raise_2358359"
+    }
+  ]
+}

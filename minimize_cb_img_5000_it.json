@@ -1,0 +1,85 @@
+{
+  "english": "minimize",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giảm thiểu",
+          "definition": "to make as little as possible",
+          "world_new": [
+            "possible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our aim is to minimize the danger as far as possible.",
+              "world_new": [
+                "aim",
+                "danger",
+                "far",
+                "possible"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh giá thấp",
+          "definition": "to cause to seem little or unimportant",
+          "world_new": [
+            "cause",
+            "seem",
+            "unimportant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He minimized the help he had received.",
+              "world_new": [
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Then, a position-based robust platform controller is designed to achieve the objective of minimizing the effect of wheel slip on control performance.",
+    "In germinating seeds, the leakage of electrolytes is immediately minimized, due to the re-establishment of membrane integrity to prevent further leakage.",
+    "Even so, minimizing moral conflicts is a desideratum of any activity.",
+    "I show that an agent who is concerned about minimizing forecast errors may inadvertently become \"locked-in\" to an extrapolative forecast.",
+    "We offer a low-frequency generalization of the zero frequency ion shear driven instability by minimizing the relative drift magnitude as well as the shears themselves.",
+    "Dedicated algorithms, minimizing errors, were also developed to correctly unfold the spectrum from the experimental data.",
+    "Thus, it maximizes the benefits of frugivory by minimizing searching costs.",
+    "Thus, health workers' potential influence is minimized because their attitudes and behaviours mirror the community rather than advocating change to promote health."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "minibus",
+    "minicab",
+    "minim",
+    "minimal",
+    "minimize",
+    "minimum",
+    "mining",
+    "minion",
+    "miniskirt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079465_7c25db1ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079465_69082291c0_o.png",
+      "id_image": "minimize_1828563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456873_22d14550a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456873_ef31d098f7_o.png",
+      "id_image": "minimize_3058484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079510_27a091e91d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079510_b58566e0c6_o.png",
+      "id_image": "minimize_376873"
+    }
+  ]
+}

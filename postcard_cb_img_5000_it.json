@@ -1,0 +1,65 @@
+{
+  "english": "postcard",
+  "phat_am": "ˈpəuskaːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bưu thiếp",
+          "definition": "a card on which a message may be sent by post, often with a picture on one side (a picture postcard)",
+          "world_new": [
+            "card",
+            "message",
+            "picture",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sent me a postcard of the Taj Mahal when she was in India."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I can write a short, simple postcard, for example sending holiday greetings.",
+    "Families who returned a postcard to express their interest in the study were then contacted by telephone.",
+    "Local postcards depicting meaningful sites in village life.",
+    "But smaller developments may also prove instrumental: those as specific as tourism (and its postcards) and advertising (and its logos).",
+    "This postcard was to identify those individuals who had returned specimens so that they would not be contacted again.",
+    "We do not want to see the city as a picture postcard.",
+    "The response rate was maximized by sending non-responders a postcard reminder followed by a duplicate questionnaire and finally a second postcard reminder.",
+    "Especially in the production of postcards this imaginary world is continued, eagerly bought by tourists who thus carry on and cherish illusionary images of reality."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "postage stamp",
+    "postal",
+    "postal order",
+    "postbox",
+    "postcard",
+    "postcode",
+    "poste restante",
+    "poster",
+    "posterior"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448603_202bc41a12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448603_d46e666575_o.png",
+      "id_image": "postcard_1042395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688614_5422d0a2e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688614_0585ac5013_o.png",
+      "id_image": "postcard_200425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070415_00ac446034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070415_f360bd2afa_o.png",
+      "id_image": "postcard_313957"
+    }
+  ]
+}

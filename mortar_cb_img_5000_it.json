@@ -1,0 +1,94 @@
+{
+  "english": "mortar",
+  "phat_am": "ˈmoːtə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vữa",
+          "definition": "a mixture of cement, sand and water, used in building eg to hold bricks in place.",
+          "world_new": [
+            "mixture",
+            "cement",
+            "sand",
+            "water",
+            "building",
+            "hold",
+            "place"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súng cối",
+          "definition": "a type of short gun for firing shells upwards, in close-range attacks.",
+          "world_new": [
+            "type",
+            "short",
+            "gun"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cối giã",
+          "definition": "a dish in which to grind substances, especially with a pestle",
+          "world_new": [
+            "dish",
+            "grind",
+            "pestle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pestle and mortar.",
+              "world_new": [
+                "pestle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mortal",
+    "mortal sin",
+    "mortality",
+    "mortally",
+    "mortar",
+    "mortar-board",
+    "mortgage",
+    "mortician",
+    "mortification"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381087_beef1dae31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381087_2ce30631b3_o.png",
+      "id_image": "mortar_1411842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381042_ba82371370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381042_9265dbc9b7_o.png",
+      "id_image": "mortar_1682100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691294_e9e2f666d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691294_302604751d_o.png",
+      "id_image": "mortar_3857526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691399_df036a2e9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691399_52b79fe59e_o.png",
+      "id_image": "mortar_963300"
+    }
+  ]
+}

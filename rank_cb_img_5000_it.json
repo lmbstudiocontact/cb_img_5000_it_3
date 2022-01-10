@@ -1,0 +1,184 @@
+{
+  "english": "rank",
+  "phat_am": "rӕŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cấp bậc",
+          "definition": "(in the army, navy etc) a person’s position of importance",
+          "world_new": [
+            "army",
+            "navy",
+            "position",
+            "importance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was promoted to the rank of sergeant/colonel."
+            }
+          ]
+        },
+        {
+          "mean_english": "hàng",
+          "definition": "a line or row (especially of soldiers or taxis)",
+          "world_new": [
+            "line",
+            "row"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a taxi rank just outside the station.",
+              "world_new": [
+                "taxi",
+                "outside",
+                "station"
+              ]
+            },
+            {
+              "ex_of_definition": "The officer ordered the front rank to fire.",
+              "world_new": [
+                "officer",
+                "front",
+                "fire"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tầng lớp xã hội",
+          "definition": "a social class",
+          "world_new": [
+            "social",
+            "class"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the lower social ranks.",
+              "world_new": [
+                "lower",
+                "social"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xếp hạng",
+          "definition": "to have, or give, a place in a group, according to importance",
+          "world_new": [
+            "place",
+            "group",
+            "importance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I would rank him among our greatest writers",
+              "world_new": [
+                "I",
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "Apes rank above dogs in intelligence.",
+              "world_new": [
+                "intelligence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "complete; absolute",
+          "world_new": [
+            "absolute"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "rank stupidity",
+              "world_new": [
+                "stupidity"
+              ]
+            },
+            {
+              "ex_of_definition": "The race was won by a rank outsider.",
+              "world_new": [
+                "race",
+                "outsider"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khó chịu",
+          "definition": "unpleasantly stale and strong",
+          "world_new": [
+            "unpleasantly",
+            "stale",
+            "strong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rank smell of tobacco.",
+              "world_new": [
+                "smell",
+                "tobacco"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Features which are inherently highly salient have corresponding faithfulness constraints which are universally highly ranked ; while inherently subtler features have lower-ranked faithfulness constraints.",
+    "Profit maximization ranked very low in the early and mid group, while it was mentioned more frequently among the late entrants.",
+    "Using the standard ranking logic, the following schematic rankings predict the presence or absence of a tone-flop mutation.",
+    "The prospect of holding public office successfully harnessed private ambition to party legitimation and swelled the ranks of the partisan labour force.",
+    "In the beginning, he and his fellow worshippers truly ranked among the poor in spirit as well as in material goods.",
+    "However, there are larger differences in the personal characteristics of ministers at different ranks.",
+    "When ranked according to performance on key variables 118 trusts scored three or less.",
+    "All other candidates are disfavoured by at least one constraint ranked above the cut-off, and are therefore excluded from being possible outputs."
+  ],
+  "list_see_also": [
+    "the rank and file"
+  ],
+  "list_browse": [
+    "random",
+    "randomly",
+    "range",
+    "ranger",
+    "rank",
+    "rankness",
+    "ransack",
+    "ransom",
+    "rant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075870_a973207fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075870_e153be16d4_o.png",
+      "id_image": "rank_2344540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694029_5585902421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694029_8a05b147b3_o.png",
+      "id_image": "rank_265796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383772_0f62356f1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383772_b67ab7e8d1_o.png",
+      "id_image": "rank_942357"
+    }
+  ]
+}

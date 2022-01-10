@@ -1,0 +1,73 @@
+{
+  "english": "posh",
+  "phat_am": "poʃ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bảnh bao",
+          "definition": "of a superior type or class",
+          "world_new": [
+            "superior",
+            "type",
+            "class"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a posh family",
+              "world_new": [
+                "family"
+              ]
+            },
+            {
+              "ex_of_definition": "posh clothes.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, being 'posh' is not a positive thing for some of these respondents.",
+    "The school has become so posh that contemporaries of mine, including myself, could not now get into it.",
+    "The phrase 'too posh to push' has been coined as an indictment of celebrities, although sometimes the phrase is used to encompass all middle-class women.",
+    "The people whom we met had posh designer suits.",
+    "It has to go into manufactured products such as motor cars, washing machines and other consumer durables—to use that posh economic term.",
+    "This is not the talk of the high tables of our posh universities, but the expression of the bitterness in working- class pubs and clubs.",
+    "If the police do not like punks, it appears that they do not like young lads with posh accents either.",
+    "I suppose that that is simply a posh way of saying \"two-facedness\"."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "portrait",
+    "portray",
+    "portrayal",
+    "pose",
+    "posh",
+    "position",
+    "positive",
+    "positively",
+    "positiveness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071250_5ff602bec2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071250_532a0d21a3_o.png",
+      "id_image": "posh_1343013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379097_f27b8b2d07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379097_9a6f80d59e_o.png",
+      "id_image": "posh_1343039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071195_9c15008991_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071195_8f19ed2f1f_o.png",
+      "id_image": "posh_1888223"
+    }
+  ]
+}

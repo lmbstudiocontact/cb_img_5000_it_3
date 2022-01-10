@@ -1,0 +1,68 @@
+{
+  "english": "refrigerator",
+  "phat_am": "rəˈfridʒəreitə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tủ lạnh",
+          "definition": "(also fridgefridʒ) a machine which keeps food cold and so prevents it from going bad",
+          "world_new": [
+            "machine",
+            "food",
+            "cold",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Milk should be kept in the refrigerator."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After being allowed to set at room temperature, the plates were stored in a refrigerator overnight until the surface was dry.",
+    "Let us say, for example, that unbeknown to me my son has drunk the bottle of soda in the refrigerator.",
+    "I am thirsty and a bottle of soda is in the refrigerator.",
+    "The vial was tightly capped and stored in the family's refrigerator.",
+    "Colony counts were similar in case and control dishcloths and refrigerator swabs.",
+    "The sealed vials were time/date labeled and stored in a ziplocked bag in the family's refrigerator until collection was completed.",
+    "Just as an ant cannot comprehend a refrigerator, so an infant cannot grasp death.",
+    "Ownership of another consumer good, the refrigerator/freezer, also played a role in fishing activity."
+  ],
+  "list_see_also": [
+    "refrigerate",
+    "refrigeration"
+  ],
+  "list_browse": [
+    "refreshingly",
+    "refreshments",
+    "refrigerate",
+    "refrigeration",
+    "refrigerator",
+    "refuel",
+    "refuge",
+    "refugee",
+    "refund"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375292_21211fccfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375292_7b23776f06_o.png",
+      "id_image": "refrigerator_1692844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330581_2a593a7322_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330581_08c8b7b1bb_o.png",
+      "id_image": "refrigerator_1744242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445508_141b08f418_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445508_89e08717cb_o.png",
+      "id_image": "refrigerator_2005833"
+    }
+  ]
+}

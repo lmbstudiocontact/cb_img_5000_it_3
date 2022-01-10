@@ -1,0 +1,76 @@
+{
+  "english": "photography",
+  "phat_am": "fəˈtoɡrəfi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chụp ảnh",
+          "definition": "the act of taking photographs",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "wedding photography",
+              "world_new": [
+                "wedding"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s very keen on photography.",
+              "world_new": [
+                "keen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The plots were installed next to the river or a river-channel bank, to facilitate their localization by aerial photography.",
+    "Using remote photography in wildlife ecology: a review.",
+    "Conversely, at another level, photography is a series of different practices, different strands, all of which have different intentions, different cultural expectations and social usages.",
+    "Field and his co-workers visited many glaciers and recorded (using photography) for the first time how they had receded.",
+    "It begins with photography in portraiture, proceeding to documentary and then aesthetic treatments.",
+    "Since the method of photography displays regions of strong shear, the hypotenuse of the rectangle should appear bright.",
+    "The singular significance attached to images of fisherfolk in the material available owes much to the circumstances in which photography first developed.",
+    "Where possible, four random points (one from each quarter) of each vegetation type based on the 2004 aerial photography were sampled."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "photocopy",
+    "photograph",
+    "photographer",
+    "photographic",
+    "photography",
+    "photometer",
+    "photon",
+    "photosphere",
+    "photospheric"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349261_913d73dfce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349261_f0c6bda8e3_o.png",
+      "id_image": "photography_2389249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463933_a00f24865d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463933_313581a881_o.png",
+      "id_image": "photography_2450937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703969_e81d8017d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703969_185e4769ee_o.png",
+      "id_image": "photography_250583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393992_534a5870d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393992_4eab81b2bf_o.png",
+      "id_image": "photography_5683958"
+    }
+  ]
+}

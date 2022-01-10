@@ -1,0 +1,63 @@
+{
+  "english": "pint",
+  "phat_am": "paint",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "Panh, đơn vị đo lường, ở Anh bằng 0,57 lít, ở Mỹ bằng 0,47 lít",
+          "definition": "a unit for measuring liquids, one-eighth of a gallon (in Britain, 0.57 litre; in the United States, 0.47 litre)",
+          "world_new": [
+            "unit",
+            "gallon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pint of milk/beer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "About 320,000 gallons were transported which provided a weekly allowance of two pints per head for nearly 200,000 people during that period.",
+    "They drank up to seven pints of beer a night.",
+    "The same machines are used as for half-pints, in many cases pints and even quarts; the machine is adjusted.",
+    "One-third pints are allowed only for schools under the schools milk scheme.",
+    "Each van of smuggled beer contains 1,500 pints, which is more than the weekly trade of a small community pub.",
+    "With three children it is 4·79 pints per week, and with four and more children the figure is 4·35.",
+    "I am no expert on the subtext of heads on pints of beer.",
+    "However, he has many constituents who drink many thousands of pints—not litres—of milk."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pinna",
+    "pinnacle",
+    "pinpoint",
+    "pins and needles",
+    "pint",
+    "pioneer",
+    "pious",
+    "piously",
+    "pip"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083115_d8d30f4a94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083115_6affd01187_o.png",
+      "id_image": "pint_2533807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460408_d766f4b291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460408_86715c138f_o.png",
+      "id_image": "pint_3239474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700724_42d2d779a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700724_8057866cdc_o.png",
+      "id_image": "pint_5499191"
+    }
+  ]
+}

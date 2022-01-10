@@ -1,0 +1,67 @@
+{
+  "english": "meteorite",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thiên thạch",
+          "definition": "a small meteor that has fallen to earth",
+          "world_new": [
+            "small",
+            "meteor",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "meteorites burning up in the atmosphere.",
+              "world_new": [
+                "atmosphere"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Here, we present the results concerning the adsorption and detection of the adenine nucleic based on a series of minerals including clay and meteorite.",
+    "No such matrix exists to constrain the various mineral phases in the thin stony meteorite targets.",
+    "Mixing the spores with powder of clay, rock or meteorites increased the survival rate by five orders of magnitude.",
+    "Collisional break-up can reset the exposure ages for some meteorites, and produce 'double exposure ' or other complexities for others.",
+    "Chondrules are millimeter-sized pieces of previously molten matter embedded in chondrite-type meteorites.",
+    "Future work will include analysis of organic compounds, as well as an increased number of inorganic, mineral and meteorite species.",
+    "Various chondrite meteorites (by far the most common type) show all stages of partial melting from mild to almost completely vaporized.",
+    "Throughout the book there is strong emphasis on detailed description of meteorite classification and systematics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "metaphysical",
+    "metaphysics",
+    "meteor",
+    "meteoric",
+    "meteorite",
+    "meteorological",
+    "meteorologist",
+    "meteorology",
+    "meter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345311_80831ecae8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345311_5d26878020_o.png",
+      "id_image": "meteorite_167322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390232_bb02dd5a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390232_86d2b590b2_o.png",
+      "id_image": "meteorite_2125554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460063_f221afb046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460063_66a0264cb2_o.png",
+      "id_image": "meteorite_4860862"
+    }
+  ]
+}

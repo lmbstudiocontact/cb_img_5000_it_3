@@ -1,0 +1,77 @@
+{
+  "english": "napkin",
+  "phat_am": "ˈnӕpkin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khăn ăn",
+          "definition": "(also table napkin) a small piece of cloth or paper for protecting the clothes from drips etc and for wiping the lips at meals",
+          "world_new": [
+            "small",
+            "piece",
+            "cloth",
+            "paper",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a paper napkin.",
+              "world_new": [
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khăn ăn",
+          "definition": "the full form of nappy.",
+          "world_new": [
+            "full",
+            "form"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There were dirty plates and cups everywhere, napkins all over the floor and the staff seemed to be inexperienced students.",
+    "Frances always held her napkin over her mouth when she attempted to remove a stubborn piece of food from her back dentures.",
+    "There were two babies with rickets clothed in cotton frocks, cotton vests and dilapidated napkins, no more than discoloured cotton rags.",
+    "They were immediately familiar with the proper use of utensils, napkins and condiments.",
+    "Beppo takes a fresh napkin, and starts to dry his own face.",
+    "Today the consumer is sensible enough not to need to be patronised, led, and kept in napkins for the rest of his life.",
+    "When they get home and sit down to tea we see to it that they have a table napkin to instruct them.",
+    "The marquis tears the napkin out of his hands and throws it at his face."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nanotechnology",
+    "nap",
+    "napalm",
+    "nape",
+    "napkin",
+    "nappy",
+    "narcotic",
+    "narrate",
+    "narration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443458_4cc15c2667_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443458_82445e7493_o.png",
+      "id_image": "napkin_2235949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065205_653470a3f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065205_e79a7e9847_o.png",
+      "id_image": "napkin_2396948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328481_3fa2a8a274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328481_c217df290d_o.png",
+      "id_image": "napkin_455392"
+    }
+  ]
+}

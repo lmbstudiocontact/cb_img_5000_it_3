@@ -1,0 +1,53 @@
+{
+  "english": "mineralogy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khoáng vật học",
+          "definition": "the scientific study of minerals",
+          "world_new": [
+            "scientific",
+            "study"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Department of Mineralogy at the University of Lausanne."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are also appendices containing determinative tables for handspecimen identification, determinative tables for optical mineralogy and a glossary.",
+    "Between these bands are coarser-grained material (1-2 mm grain size) with similar mineralogy, but a higher modal plagioclase content.",
+    "Based on the martian mineralogy and geochemistry a suite of possible reactants and products was created.",
+    "The lamprophyres may be classified as spessartites and minettes on the base of their mineralogy.",
+    "However, the methodology needs adapting to the mineralogy of a planet, the surface of which is dominated by volcanogenic detritus.",
+    "Major and trace elements showed a diversity of composition, controlled by the mineralogy.",
+    "While the cur rent volume is primarily aimed at materials sciences, the methods are equally applicable to problems in mineralogy and petrology.",
+    "Among the chapters are such aspects as precipitation mechanisms, classification, chemistry, mineralogy, stable isotopes, associated organisms, and depositional processes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mineral",
+    "mineral water",
+    "mineralogical",
+    "mineralogist",
+    "mineralogy",
+    "mingle",
+    "mingled",
+    "mini",
+    "miniature"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697654_a92b76ef3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697654_ab95b1ddfe_o.png",
+      "id_image": "mineralogy_6348288"
+    }
+  ]
+}

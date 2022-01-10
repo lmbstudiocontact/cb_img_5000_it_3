@@ -1,0 +1,113 @@
+{
+  "english": "rail",
+  "phat_am": "reil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tay vịn",
+          "definition": "a (usually horizontal) bar of metal, wood etc used in fences etc, or for hanging things on",
+          "world_new": [
+            "bar",
+            "metal",
+            "wood",
+            "hanging"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t lean over the rail",
+              "world_new": [
+                "lean"
+              ]
+            },
+            {
+              "ex_of_definition": "a curtain rail",
+              "world_new": [
+                "curtain"
+              ]
+            },
+            {
+              "ex_of_definition": "a towel rail.",
+              "world_new": [
+                "towel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh ray",
+          "definition": "a long bar of steel which forms the track on which trains etc run",
+          "world_new": [
+            "long",
+            "bar",
+            "steel",
+            "track",
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The accident occurred when the train came off the rails.",
+              "world_new": [
+                "accident",
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rào lại",
+          "definition": "(usually with inor off) to surround with a rail or rails",
+          "world_new": [
+            "surround"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll rail that bit of ground off to stop people walking on it.",
+              "world_new": [
+                "bit",
+                "ground",
+                "stop",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "railing",
+    "railroad",
+    "railway",
+    "by rail"
+  ],
+  "list_browse": [
+    "raging",
+    "rags",
+    "raid",
+    "raider",
+    "rail",
+    "railing",
+    "railroad",
+    "railway",
+    "rain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340476_b009914541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340476_2f51c28a65_o.png",
+      "id_image": "rail_1185491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077875_c84ef1e926_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077875_f123bd9b88_o.png",
+      "id_image": "rail_418309"
+    }
+  ]
+}

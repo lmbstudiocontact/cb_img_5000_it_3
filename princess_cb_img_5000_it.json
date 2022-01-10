@@ -1,0 +1,68 @@
+{
+  "english": "princess",
+  "phat_am": "prinˈses",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công nương",
+          "definition": "the wife or widow of a prince.",
+          "world_new": [
+            "wife",
+            "widow",
+            "prince"
+          ]
+        },
+        {
+          "mean_english": "công chúa",
+          "definition": "a woman of the same rank as a prince in her own right",
+          "world_new": [
+            "rank",
+            "prince",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Princess Anne."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The book was a story about a princess and pea.",
+    "Morley was a regular gift-giver of improving works to the princess.",
+    "The little girl envied the princess with the maid who was eating chocolates.",
+    "No doubt some are descended from those princesses.",
+    "Princes, princesses, nobles, courtiers and members of every other level of society were summoned as if they were known to him personally and were very much alive.",
+    "This frantic foot is an object so disconcerting that the young hero ultimately desists of its possession and allows it to join the footless ghost of an ancient princess.",
+    "The little girl envied the maid of the princess who was eating chocolate.",
+    "The little girl envied the maids of the princess who were eating chocolate."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "primness",
+    "primrose",
+    "prince",
+    "princely",
+    "princess",
+    "principal",
+    "principality",
+    "principally",
+    "principle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440393_e3237c5c51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440393_0f0cbd7ef9_o.png",
+      "id_image": "princess_4334221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680449_1f5662a8ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680449_5e2f0349c1_o.png",
+      "id_image": "princess_4681715"
+    }
+  ]
+}

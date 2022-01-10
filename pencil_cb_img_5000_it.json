@@ -1,0 +1,93 @@
+{
+  "english": "pencil",
+  "phat_am": "ˈpensl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bút chì",
+          "definition": "a long, thin instrument (usually of wood) containing a thin stick of graphite or some similar solid substance for writing or drawing",
+          "world_new": [
+            "long",
+            "thin",
+            "instrument",
+            "thin",
+            "stick",
+            "graphite",
+            "similar",
+            "solid",
+            "substance",
+            "drawing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This pencil needs sharpening / to be sharpened"
+            },
+            {
+              "ex_of_definition": "He wrote in pencil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "viết bằng bút chì",
+          "definition": "to write or draw with a pencil",
+          "world_new": [
+            "draw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pencilled an outline of the house.",
+              "world_new": [
+                "outline",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "None of these erasers were attached to pens or pencils.",
+    "The £30,000 that he has saved will be spent on more teaching and more books, pencils and rubbers.",
+    "In this scenario, our interactions with pencils are transformed as a result of the discovery of their animate nature.",
+    "They continue to relate to pencils as items designed to assist them in achieving their goals.",
+    "We give the child two pencils of equal length side-by-side, and he correctly judges them to be the\" same size\".",
+    "I am rather suspicious of the intentions of planners once they have their pencils working on a drawing board.",
+    "Well, we should take two pencils, one in each hand.",
+    "We ow restrict our attention to simple pencils, where symmetric or not."
+  ],
+  "list_see_also": [
+    "pencil case",
+    "pencil sharpener"
+  ],
+  "list_browse": [
+    "penal",
+    "penalize",
+    "penalty",
+    "penance",
+    "pencil",
+    "pencil case",
+    "pencil sharpener",
+    "pendant",
+    "pendulum"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322831_dc4d7f7a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322831_6cca8fe6d3_o.png",
+      "id_image": "pencil_124755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677939_2712578ecd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677939_5e052d93f8_o.png",
+      "id_image": "pencil_124839"
+    }
+  ]
+}

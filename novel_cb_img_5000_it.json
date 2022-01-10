@@ -1,0 +1,88 @@
+{
+  "english": "novel",
+  "phat_am": "ˈnovəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiểu thuyết",
+          "definition": "a book telling a long story in prose",
+          "world_new": [
+            "book",
+            "telling",
+            "long",
+            "story",
+            "prose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the novels of Charles Dickens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mới lạ",
+          "definition": "new and strange",
+          "world_new": [
+            "strange"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a novel idea.",
+              "world_new": [
+                "idea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some novel utterances may have been put together by combining individual words that have already been learned.",
+    "The development of targeted therapies has also created a need to develop novel methods of drug delivery.",
+    "Generalizing novel verbs to different structures : evidence for the importance of understanding meaning.",
+    "Thus, changes in known lexical representations may lead to changes in homonym learning but not novel word learning.",
+    "Second, training studies have manipulated exposure frequency on small sets of novel words.",
+    "The \"successful\" governess, it seems, manages her pupils into \"successful\" betrothals - just like the marriage plot novel.",
+    "In the current study, however, the children are trained on two very distinct novel word-object combinations.",
+    "Still, it may capture some novel aspects of structural technological change."
+  ],
+  "list_see_also": [
+    "novelist"
+  ],
+  "list_browse": [
+    "nourish",
+    "nourishing",
+    "nourishment",
+    "Nov",
+    "novel",
+    "novelist",
+    "novelty",
+    "November",
+    "novice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056780_1a4f2b6675_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056780_34ec654a08_o.png",
+      "id_image": "novel_3500653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364897_726603f73a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364897_8536c23ac6_o.png",
+      "id_image": "novel_4388506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435203_0db77a5970_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435203_4e38427c9b_o.png",
+      "id_image": "novel_5190722"
+    }
+  ]
+}

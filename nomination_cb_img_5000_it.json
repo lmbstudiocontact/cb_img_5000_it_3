@@ -1,0 +1,77 @@
+{
+  "english": "nomination",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bổ nhiệm",
+          "definition": "the act of nominating",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the nomination of a president.",
+              "world_new": [
+                "president"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề cử",
+          "definition": "a suggestion of a particular person for a post etc",
+          "world_new": [
+            "suggestion",
+            "particular",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve had four nominations for the job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Students whom teachers repor ted as more often experiencing fear showed greater fear attribution bias, and peer nominations of fear correlated positively with a \"no feeling\" attribution bias.",
+    "To keep the project in people's minds, nominations for the register were sought at regular intervals.",
+    "Teacher and peer nominations assessed school adjustment at the end of first grade.",
+    "The importance of blocking additional nominations in the district was exacerbated by the non-transferability of votes.",
+    "First used in 1876 to apportion delegates to party conventions, the system became law in 1917; all statewide offices and some legislative nominations were based on it. 180.",
+    "The frequencies of running as mavericks and open nominations are effective indicators to measure internal con-ict.",
+    "They did this in large part by changing the party statutes between 1988 and 2000 to gain greater decision-making power over nominations.",
+    "Almost all actors within the party, including the rank and file, the governors and the party bureaucracy, would benefit from less sectoral interference in nominations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nomadic",
+    "nomadically",
+    "nominal",
+    "nominate",
+    "nomination",
+    "nominee",
+    "non-",
+    "non-alcoholic",
+    "non-biodegradable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677019_c409dab1d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677019_4999a0c53b_o.png",
+      "id_image": "nomination_2473119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437078_f9fe20ecb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437078_f88099f039_o.png",
+      "id_image": "nomination_4033790"
+    }
+  ]
+}

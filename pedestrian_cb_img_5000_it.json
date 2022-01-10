@@ -1,0 +1,91 @@
+{
+  "english": "pedestrian",
+  "phat_am": "piˈdestriən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khách bộ hành",
+          "definition": "a person who travels on foot",
+          "world_new": [
+            "person",
+            "travels",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Three pedestrians were hit by the car.",
+              "world_new": [
+                "hit",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tẻ nhạt",
+          "definition": "ordinary; rather boring or unexciting",
+          "world_new": [
+            "rather",
+            "boring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pedestrian account.",
+              "world_new": [
+                "account"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Children in these accidents were mainly pedestrians and cyclists.",
+    "The city announced that some of the traf®c restrictions and parking limits would be abandoned and the measures for pedestrians and cyclists would be postponed.",
+    "The effect of age, gender and driver status on pedestrians' intentions to cross the road in risky situations.",
+    "Many expressed concern also at the potential danger of accidents and general hazards to pedestrians and other road users.",
+    "As a result, grants for subways, guard rails and overhead bridges were introduced in the late 1930s to train and direct pedestrians.",
+    "If, as we all hope, cycling becomes increasingly popular in the years to come, interaction with pedestrians will increase further.",
+    "I think it is most important that white clothing for pedestrians should be enforced.",
+    "The proposed diagonal route creates the shared surface east/west link which will bring pedestrians and cyclists across the site."
+  ],
+  "list_see_also": [
+    "pedestrian crossing"
+  ],
+  "list_browse": [
+    "pedantically",
+    "pedantry",
+    "peddle",
+    "pedestal",
+    "pedestrian",
+    "pedestrian crossing",
+    "pedestrian precinct",
+    "pedigree",
+    "pedlar"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439048_7739250009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439048_df12f92eca_o.png",
+      "id_image": "pedestrian_1056246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679099_70006f63a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679099_2d421fb35b_o.png",
+      "id_image": "pedestrian_1138114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324016_836e2e8fdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324016_2deaafa71f_o.png",
+      "id_image": "pedestrian_631700"
+    }
+  ]
+}

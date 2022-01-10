@@ -1,0 +1,67 @@
+{
+  "english": "profitable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có lợi; sinh lãi",
+          "definition": "(opposite unprofitable) giving profit",
+          "world_new": [
+            "profit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The deal was quite profitable",
+              "world_new": [
+                "deal",
+                "quite"
+              ]
+            },
+            {
+              "ex_of_definition": "a profitable experience.",
+              "world_new": [
+                "experience"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Egalitarian wage restraint means passing up opportunities to raise wages in highly profitable firms and sectors.",
+    "Sharp and his wife also kept a grocery shop for several years, but did not find it profitable.",
+    "The combination encouraged efficiency and produced reasonably profitable pastoral farming.",
+    "There is mounting evidence that this approach is neither profitable for producers nor good for the environment2.",
+    "Local finance is too expensive under structural adjustment to make agricultural marketing profitable.",
+    "As with any investment, the returns must exceed the actors' discount rates and be more profitable than alternative available uses of the resources.",
+    "Farming practices that are economically profitable in the short-run usually attract farmers' interest and are therefore more likely to be adopted.",
+    "Only in 1798 did they decide to farm it themselves, partly to access more profitable markets."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "proficient",
+    "proficiently",
+    "profile",
+    "profit",
+    "profitable",
+    "profitably",
+    "profound",
+    "profoundly",
+    "profundity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676324_5c511e59e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676324_312273fc33_o.png",
+      "id_image": "profitable_4133603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366192_9c154af113_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366192_6b30dbe2ea_o.png",
+      "id_image": "profitable_6397021"
+    }
+  ]
+}

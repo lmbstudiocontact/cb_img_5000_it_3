@@ -1,0 +1,134 @@
+{
+  "english": "rain",
+  "phat_am": "rein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn mưa",
+          "definition": "water falling from the clouds in liquid drops",
+          "world_new": [
+            "water",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve had a lot of rain today"
+            },
+            {
+              "ex_of_definition": "They were caught in the rain without an umbrella",
+              "world_new": [
+                "umbrella"
+              ]
+            },
+            {
+              "ex_of_definition": "We had flooding because of last week’s heavy rains.",
+              "world_new": [
+                "flooding",
+                "heavy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "như cơn mưa",
+          "definition": "a great number of things falling like rain",
+          "world_new": [
+            "great",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rain of arrows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đổ mưa",
+          "definition": "(only with itas subject) to cause rain to fall",
+          "world_new": [
+            "cause",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think it will rain today.",
+              "world_new": [
+                "I",
+                "think"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều như mưa",
+          "definition": "to (cause to) fall like rain",
+          "world_new": [
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Arrows rained down on the soldiers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The reserve includes 640 ha of lowland tropical rain forest surrounded by a mosaic of disturbed habitats and secondary forest.",
+    "The role of specialization in nutrient-use efficiency as a mechanism driving species diversity in a tropical rain forest.",
+    "But this time the climate was not stable - rain, then dryness - so people really couldn't tell if the wells were drying.",
+    "In late 1914 the rains failed to develop, for the third year in succession.",
+    "However, there have been few studies on the environmental triggers of leaf flushing in tropical rain-forest trees under normal conditions of high rainfall.",
+    "Factors limiting tropical rain forest regeneration in abandoned pasture: seed rain, seed germination, m icroclimate, and soil.",
+    "Each drop of rain changes the form; even the wind and the air itself, invisible to our eyes, etches its presence.",
+    "Factors limiting tropical rain forest regeneration in abandoned pasture: seed rain, seed germination, microclimate, and soil."
+  ],
+  "list_see_also": [
+    "rainy",
+    "raininess",
+    "rainbow",
+    "rain check: take a rain check",
+    "raincoat",
+    "raindrop",
+    "rainfall",
+    "rain forest",
+    "rain gauge",
+    "rain storm",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "rail",
+    "railing",
+    "railroad",
+    "railway",
+    "rain",
+    "rain cats and dogs",
+    "rain check: take a rain check",
+    "rain forest",
+    "rain gauge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340016_0bae60a291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340016_952129e12d_o.png",
+      "id_image": "rain_1123385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695269_53f8fb83e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695269_28bb229e20_o.png",
+      "id_image": "rain_826906"
+    }
+  ]
+}

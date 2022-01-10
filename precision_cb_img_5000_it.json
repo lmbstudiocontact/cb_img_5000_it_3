@@ -1,0 +1,67 @@
+{
+  "english": "precision",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đúng đắn",
+          "definition": "exactness; accuracy",
+          "world_new": [
+            "accuracy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spoke with great precision",
+              "world_new": [
+                "spoke",
+                "great"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) precision tools (=tools used for obtaining very accurate results).",
+              "world_new": [
+                "accurate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I also have some technical corrections and precisions to make.",
+    "Equivalently, a given increase in public information will improve the irrigation efficiency of higher efficiency application systems more than those with lower precision.",
+    "Whilst this instrument would not indicate the absolute velocity with any precision it did indicate deviations from the mean which were ?",
+    "With increasing sample sizes, both methods improve their accuracy and precision, as expected.",
+    "Contemporary social scientists struggle with the problem of being precise about that which defies precision : the cloudiness of our own lives.",
+    "Near-zero discounting plays a big role in stimulating the collection of information signals and stimulating research on increasing the precision of these signals.",
+    "The precision of the results is severely restricted due to weak empirical evidence on fundamental functional relations and parametric values.",
+    "As expected, the estimation precision of the additive effects is better than that of the interaction effect."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "précis",
+    "precise",
+    "precisely",
+    "preciseness",
+    "precision",
+    "predator",
+    "predatory",
+    "predecessor",
+    "predicament"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685124_cba494d4c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685124_ff3ac6f8f3_o.png",
+      "id_image": "precision_1692908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066865_1fae4d8273_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066865_2f48433eca_o.png",
+      "id_image": "precision_1791938"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "english": "rap",
+  "phat_am": "rӕp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng gõ",
+          "definition": "a quick, brief knock or tap",
+          "world_new": [
+            "quick",
+            "brief",
+            "knock",
+            "tap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He heard a rap on the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhạp rap",
+          "definition": "a style of popular music in which a singer rapidly speaks rhymes over a heavy beat.",
+          "world_new": [
+            "style",
+            "popular",
+            "music",
+            "singer",
+            "rapidly",
+            "heavy",
+            "beat"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gõ",
+          "definition": "to hit or knock quickly and briefly",
+          "world_new": [
+            "hit",
+            "knock",
+            "quickly",
+            "briefly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teacher rapped the child’s fingers with a ruler",
+              "world_new": [
+                "teacher",
+                "ruler"
+              ]
+            },
+            {
+              "ex_of_definition": "He rapped on the table and called for silence.",
+              "world_new": [
+                "table",
+                "silence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hát nhạc rap",
+          "definition": "to sing rap music.",
+          "world_new": [
+            "sing",
+            "music"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rapper",
+    "rap out"
+  ],
+  "list_browse": [
+    "rankness",
+    "ransack",
+    "ransom",
+    "rant",
+    "rap",
+    "rap out",
+    "rapacious",
+    "rapaciously",
+    "rapaciousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453688_e119213d7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453688_d221590d0d_o.png",
+      "id_image": "rap_122845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453668_bf0fe56e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453668_9077bcea44_o.png",
+      "id_image": "rap_1804741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075665_31aa6e51ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075665_60641432e4_o.png",
+      "id_image": "rap_5294840"
+    }
+  ]
+}

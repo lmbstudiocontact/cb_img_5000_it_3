@@ -1,0 +1,132 @@
+{
+  "english": "office",
+  "phat_am": "ˈofis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "văn phòng",
+          "definition": "the room or building in which the business of a firm is done",
+          "world_new": [
+            "room",
+            "building",
+            "business",
+            "firm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The firm’s head offices are in New York",
+              "world_new": [
+                "head"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) office furniture.",
+              "world_new": [
+                "furniture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phòng làm việc",
+          "definition": "the room in which a particular person works",
+          "world_new": [
+            "room",
+            "particular",
+            "person",
+            "works"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the bank manager’s office.",
+              "world_new": [
+                "bank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phòng chuyên dụng",
+          "definition": "a room or building used for a particular purpose",
+          "world_new": [
+            "room",
+            "building",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Train tickets are bought at the ticket-office."
+            }
+          ]
+        },
+        {
+          "mean_english": "cơ quan",
+          "definition": "a position of authority, especially in or as a government",
+          "world_new": [
+            "position",
+            "authority",
+            "government"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our party has not been in office for years",
+              "world_new": [
+                "party"
+              ]
+            },
+            {
+              "ex_of_definition": "the office of mayor.",
+              "world_new": [
+                "mayor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, the outcomes of the organization's and ethics office's activities are also accountable.",
+    "It is possible many elective appointments were to offices for which a canvass had never been held.",
+    "Put another way, a state in which only bad politicians run for and are elected to office may be a self-enforcing equilibrium.",
+    "The office authorized him to exercise the power of management over the local shoe market on the office's behalf.",
+    "She just yelled through the open door that separated the reception area from his office.",
+    "There must also be a party for which they can vote that promises to translate their fears into remedial government policy if elected to office.",
+    "This may imply that the cost of attempting to remain in office outweighs the benefit.",
+    "Some benefit is obtained from 'spill-air' from the air-conditioned courtrooms and offices, which escapes into the atrium from the balconies."
+  ],
+  "list_see_also": [
+    "officer"
+  ],
+  "list_browse": [
+    "offering",
+    "offhand",
+    "offhandedly",
+    "offhandedness",
+    "office",
+    "office-bearer",
+    "officer",
+    "official",
+    "officially"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703124_bcff3f79df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703124_a741d7c412_o.png",
+      "id_image": "office_203872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703074_442c429fd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703074_3d29846cac_o.png",
+      "id_image": "office_2832727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393287_c4a3f8c1df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393287_60ac9636d7_o.png",
+      "id_image": "office_875282"
+    }
+  ]
+}

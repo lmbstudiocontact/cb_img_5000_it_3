@@ -1,0 +1,67 @@
+{
+  "english": "piano",
+  "phat_am": "piˈӕnəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn pianô",
+          "definition": "a large musical instrument played by pressing keys which make hammers strike stretched wires",
+          "world_new": [
+            "large",
+            "musical",
+            "instrument",
+            "pressing",
+            "strike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She plays the piano very well"
+            },
+            {
+              "ex_of_definition": "(also adjective) piano music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another advantage is that with group lessons there is less pressure on the children than in a one-to-one relationship with a piano teacher.",
+    "More than half of them had taken piano lessons, for example, and all but one had given up.",
+    "In this example, recognition of the source is important to separate the identity of the object from the resonance of the piano.",
+    "Readers should also know that some of the examples do not conform to the piano-vocal scores.",
+    "It is certainly an asset to be able to play the piano, but this ability is devalued if the teacher is afraid to sing.",
+    "The book is aimed at early level, new or returning adult piano students.",
+    "However, there are some things pianos do not do.",
+    "Those who could read music usually attributed what skill they had to a previous more formal experience, often their piano lessons."
+  ],
+  "list_see_also": [
+    "pianist",
+    "piano-accordion",
+    "pianoforte",
+    "grand piano"
+  ],
+  "list_browse": [
+    "physique",
+    "phytoplankton",
+    "phytotoxin",
+    "pianist",
+    "piano",
+    "piano-accordion",
+    "pianoforte",
+    "picaresque",
+    "piccolo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348646_f4ce9c3796_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348646_12ef2929db_o.png",
+      "id_image": "piano_1238802"
+    }
+  ]
+}

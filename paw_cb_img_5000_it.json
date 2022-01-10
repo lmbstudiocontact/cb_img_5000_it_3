@@ -1,0 +1,96 @@
+{
+  "english": "paw",
+  "phat_am": "poː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chân",
+          "definition": "the foot of an animal with claws or nails",
+          "world_new": [
+            "foot",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog had a thorn in its paw.",
+              "world_new": [
+                "dog",
+                "thorn",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cào",
+          "definition": "(of an animal) to touch, hit etc (usually several times) with a paw or paws",
+          "world_new": [
+            "touch",
+            "hit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cat was pawing (at) the dead mouse.",
+              "world_new": [
+                "cat",
+                "dead",
+                "mouse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gõ chân xuống đất",
+          "definition": "(of an animal) to hit (the ground, usually several times) with a hoof, usually a front hoof",
+          "world_new": [
+            "hit",
+            "ground",
+            "hoof",
+            "front",
+            "hoof"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse pawed (at) the ground.",
+              "world_new": [
+                "horse",
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pave",
+    "pavement",
+    "pavilion",
+    "paving stone",
+    "paw",
+    "pawn",
+    "pawnbroker",
+    "pawnshop",
+    "pay"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371337_2e856b47c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371337_5c150acee0_o.png",
+      "id_image": "paw_4966345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326556_cc0f1202da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326556_39a987bc49_o.png",
+      "id_image": "paw_5584155"
+    }
+  ]
+}

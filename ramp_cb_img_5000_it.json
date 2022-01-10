@@ -1,0 +1,68 @@
+{
+  "english": "ramp",
+  "phat_am": "rӕmp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đoạn đường dốc",
+          "definition": "a sloping surface between places, objects etc which are at different levels",
+          "world_new": [
+            "sloping",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car drove up the ramp from the quay to the ship.",
+              "world_new": [
+                "car",
+                "quay",
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These parameters are the ramp angle, ramp surface friction, hip mass and size of the flat feet.",
+    "It is linked by ramps to the gallery building.",
+    "The gentle ramp case displays a higher fast-particle yield than the steep ramp case.",
+    "The longer implosion time allows the current to ramp up more slowly, thereby reducing the voltage and power requirements on the generator.",
+    "A long window runs along the whole length of the ramp's outer wall, and is interrupted only at a mid-point.",
+    "The step periods do not change significantly with respect to the ramp angles.",
+    "The ramp is inserted between a series of masonry columns and a large wood and glass curtain wall.",
+    "In order to escape the water maze, the mice needed to see the escape ramp."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rambler",
+    "rambling",
+    "rambutan",
+    "ramification",
+    "ramp",
+    "rampage",
+    "rampant",
+    "rampart",
+    "ramshackle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454163_ecfdde2aec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454163_db0820a2c1_o.png",
+      "id_image": "ramp_1413103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454128_3b1563fa24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454128_75007e4f17_o.png",
+      "id_image": "ramp_5612956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076285_76a32bdf60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076285_2e83401078_o.png",
+      "id_image": "ramp_6245887"
+    }
+  ]
+}

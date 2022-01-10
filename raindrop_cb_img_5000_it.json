@@ -1,0 +1,62 @@
+{
+  "english": "raindrop",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạt mưa",
+          "definition": "a single drop of rain",
+          "world_new": [
+            "single",
+            "drop",
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Raindrops were streaming down the window.",
+              "world_new": [
+                "window"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They have predicted a new age in which we would know where every sunbeam would alight and where every raindrop would fall.",
+    "The role of vegetation is in interception of the raindrops so that the kinetic energy is dissipated by the plants rather than imparted to the soil.",
+    "Impressions made by bubbles, raindrops and other agencies.",
+    "But what we contribute is rather like a raindrop in the desert.",
+    "A second example, which corresponds more closely to a typical raindrop at terminal velocity, is illustrated in figure 11.",
+    "Rivers are made out of raindrops, so let us not worry about the number of enterprise agencies.",
+    "The movements of clock hands and raindrops and electric trains, for example, can be understood in terms of causal relations that have no consciousness or will at all.",
+    "Images traditionally generated from reflectivity radar are two-dimensional cross sections that are color-coded to graph the concentration of raindrops at every point in the cross section of the storm."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rain gauge",
+    "rain storm",
+    "rainbow",
+    "raincoat",
+    "raindrop",
+    "rainfall",
+    "raininess",
+    "rainwater",
+    "rainy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454773_87b10efc3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454773_9cdd12efa3_o.png",
+      "id_image": "raindrop_2036074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454763_48954a9259_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454763_0351088a2b_o.png",
+      "id_image": "raindrop_3104564"
+    }
+  ]
+}

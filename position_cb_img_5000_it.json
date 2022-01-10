@@ -1,0 +1,140 @@
+{
+  "english": "position",
+  "phat_am": "əˈziʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tư thế",
+          "definition": "a way of standing, sitting etc",
+          "world_new": [
+            "standing",
+            "sitting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lay in an uncomfortable position.",
+              "world_new": [
+                "lay",
+                "uncomfortable"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vị trí",
+          "definition": "a place or situation",
+          "world_new": [
+            "place",
+            "situation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house is in a beautiful position.",
+              "world_new": [
+                "house",
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "địa vị",
+          "definition": "a job; a post",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a good position with a local bank.",
+              "world_new": [
+                "local",
+                "bank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quan điểm",
+          "definition": "a point of view",
+          "world_new": [
+            "point",
+            "view"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let me explain my position on capital punishment.",
+              "world_new": [
+                "explain",
+                "my",
+                "capital",
+                "punishment"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt",
+          "definition": "to put or place",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He positioned the lamp in the middle of the table.",
+              "world_new": [
+                "lamp",
+                "middle",
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In these cases, the maximum penetration distance of the thermal was observed and the equilibrium position and vertical spread were determined experimentally.",
+    "This provides smooth and reliable global motion paths which avoid local obstacles from the current position to the goal destination.",
+    "High valence parties will contest the electoral centre, but will not, in fact, position themselves at the electoral mean.",
+    "However, this is the case only when the dial is positioned below or to the right of the vertical display.",
+    "For each of these three secular philosophical positions, the project of a history of science revealed a basic paradox.",
+    "Politics contributes to frequent turnover within these positions, and some appointees are frustrated because they lack training in government and health systems.",
+    "These were replaced by the next highest reading time for that subject in that condition and at that position.",
+    "In both cases the historical actor becomes a subject, his conceptual world derives from his position in a structural relationship only."
+  ],
+  "list_see_also": [
+    "be in/out of position"
+  ],
+  "list_browse": [
+    "portray",
+    "portrayal",
+    "pose",
+    "posh",
+    "position",
+    "positive",
+    "positively",
+    "positiveness",
+    "posse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689199_e66c6cf192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689199_fbfaac673c_o.png",
+      "id_image": "position_1284363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379017_d15f55d87d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379017_ebe0547205_o.png",
+      "id_image": "position_169487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334101_6da49c94cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334101_19aafb30a7_o.png",
+      "id_image": "position_4463713"
+    }
+  ]
+}

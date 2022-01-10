@@ -1,0 +1,145 @@
+{
+  "english": "native",
+  "phat_am": "ˈneitiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quê hương",
+          "definition": "where one was born",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "my native land.",
+              "world_new": [
+                "my",
+                "land"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc địa phương",
+          "definition": "belonging to that place; local",
+          "world_new": [
+            "local"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the native customs/art of Brazil"
+            },
+            {
+              "ex_of_definition": "This animal/plant is native to Australia."
+            }
+          ]
+        },
+        {
+          "mean_english": "gốc gác",
+          "definition": "belonging by race to a country",
+          "world_new": [
+            "race",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a native Englishman.",
+              "world_new": [
+                "Englishman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bẩm sinh",
+          "definition": "belonging to a person naturally",
+          "world_new": [
+            "person",
+            "naturally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "native intelligence.",
+              "world_new": [
+                "intelligence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người sống ở",
+          "definition": "a person born in a certain place",
+          "world_new": [
+            "person",
+            "certain",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a native of Scotland"
+            },
+            {
+              "ex_of_definition": "a native of London."
+            }
+          ]
+        },
+        {
+          "mean_english": "có nguồn gốc",
+          "definition": "one of the original inhabitants of a country eg before the arrival of explorers, immigrants etc",
+          "world_new": [
+            "original",
+            "country",
+            "arrival"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Columbus thought the natives of America were Indians.",
+              "world_new": [
+                "thought"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "Native American",
+    "native language",
+    "native speaker",
+    "native to",
+    "the Nativity"
+  ],
+  "list_browse": [
+    "nationalization",
+    "nationalize",
+    "nationally",
+    "nationwide",
+    "native",
+    "Native American",
+    "native language",
+    "native speaker",
+    "native to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442953_ab23d709b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442953_52c5a21857_o.png",
+      "id_image": "native_2396765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372607_02d6fdf0ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372607_302ce09da8_o.png",
+      "id_image": "native_3429448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327846_1348c6fc9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327846_eee4b09db2_o.png",
+      "id_image": "native_3563876"
+    }
+  ]
+}

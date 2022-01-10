@@ -1,0 +1,160 @@
+{
+  "english": "pool",
+  "phat_am": "puːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vũng nước",
+          "definition": "a small area of still water",
+          "world_new": [
+            "small",
+            "area",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rain left pools of water in the road.",
+              "world_new": [
+                "rain",
+                "left",
+                "water",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vũng",
+          "definition": "a similar area of any liquid",
+          "world_new": [
+            "similar",
+            "area",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pool of blood/oil."
+            }
+          ]
+        },
+        {
+          "mean_english": "vực",
+          "definition": "a deep part of a stream or river",
+          "world_new": [
+            "deep",
+            "part",
+            "stream",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was fishing (in) a pool near the river-bank.",
+              "world_new": [
+                "fishing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bể bơi",
+          "definition": "a swimming pool",
+          "world_new": [
+            "swimming"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They spent the day at the pool.",
+              "world_new": [
+                "spent",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vốn chung",
+          "definition": "a stock or supply",
+          "world_new": [
+            "stock",
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We put our money into a general pool.",
+              "world_new": [
+                "our",
+                "money",
+                "general"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "góp vốn chung",
+          "definition": "to put together for general use",
+          "world_new": [
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We pooled our money and bought a caravan that we could all use.",
+              "world_new": [
+                "our",
+                "money",
+                "caravan"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although variation existed between sites, prevalence data were pooled to describe the general pattern of transmission in the highveld and lowveld areas.",
+    "The table presents the unstandardized regression coefficients for all the nations in a region pooled together.",
+    "In the multivariate analyses the occurrence of life events were pooled over 24 months.",
+    "Firstly, public swimming pools are an important potential source of large numbers of cryptosporidiosis cases.",
+    "There is an urgent need to reconsider the popular tendency to convert chlorinated swimming pools into nature-like swimming ponds.",
+    "Instead of having complete connectivity among all pools, the slots are only connected to the header and vice versa.",
+    "To answer this, a repeated measures logistic regression analysis was performed with the two sets of data pooled together.",
+    "In addition, shared water filtration systems may allow spread of oocysts between pools within a swimming complex."
+  ],
+  "list_see_also": [
+    "(football) pools"
+  ],
+  "list_browse": [
+    "pony",
+    "pony-trekking",
+    "ponytail",
+    "poodle",
+    "pool",
+    "poor",
+    "poorly",
+    "poorness",
+    "pop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072920_51d96d38dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072920_804a5393d5_o.png",
+      "id_image": "pool_1403345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072895_deaf72d681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072895_7c50a8782b_o.png",
+      "id_image": "pool_4052543"
+    }
+  ]
+}

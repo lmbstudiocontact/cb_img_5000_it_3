@@ -1,0 +1,105 @@
+{
+  "english": "recover",
+  "phat_am": "rəˈkavə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hồi phục",
+          "definition": "to become well again; to return to good health etc",
+          "world_new": [
+            "become",
+            "return",
+            "health"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is recovering from a serious illness",
+              "world_new": [
+                "serious",
+                "illness"
+              ]
+            },
+            {
+              "ex_of_definition": "The country is recovering from an economic crisis.",
+              "world_new": [
+                "country",
+                "economic",
+                "crisis"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tìm lại được",
+          "definition": "to get back",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police have recovered the stolen jewels",
+              "world_new": [
+                "police"
+              ]
+            },
+            {
+              "ex_of_definition": "He will recover the cost of the repairs through the insurance.",
+              "world_new": [
+                "cost",
+                "insurance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiểm soát được",
+          "definition": "to get control of (one’s actions, emotions etc) again",
+          "world_new": [
+            "control"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The actor almost fell over, but quickly recovered (his balance).",
+              "world_new": [
+                "actor",
+                "almost",
+                "fell",
+                "quickly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, we recovered other embryos after storage of up to 18 months in liquid nitrogen to provide information on mutation during storage.",
+    "Despite the large numbers of anurans examined from the various locations in these zones (table 1), no polystomatids were recovered from these hosts.",
+    "During the performance, he recovers and begins to enjoy himself, though he collapses again directly afterward.",
+    "The losses are ones that cannot be recovered in the natural world.",
+    "In contrast, distinct vitelline follicles were present in 6-week-old flukes recovered from the bile duct.",
+    "The author suggested that this animal might have recovered normal eye alignment.",
+    "Upon backtracking, it is possible that heap space can be recovered in the aging space and even in the old generation through instant reclaiming.",
+    "After 4 weeks, the follicles that had grown to the antral stage were recovered."
+  ],
+  "list_see_also": [
+    "recovery"
+  ],
+  "list_browse": [
+    "recorder",
+    "recording",
+    "recount",
+    "recoup",
+    "recover",
+    "recovery",
+    "recreate",
+    "recreation",
+    "recreation ground"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449168_ebe0547205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449168_e37e0302a2_o.png",
+      "id_image": "recover_1973118"
+    }
+  ]
+}

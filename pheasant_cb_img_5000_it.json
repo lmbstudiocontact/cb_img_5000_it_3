@@ -1,0 +1,81 @@
+{
+  "english": "pheasant",
+  "phat_am": "ˈfeznt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chim trĩ",
+          "definition": "a type of long-tailed bird, the male of which has brightly-coloured/-colored feathers and certain types of which are often shot for sport",
+          "world_new": [
+            "type",
+            "bird",
+            "male",
+            "certain",
+            "shot",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a brace of pheasant(s)",
+              "world_new": [
+                "brace"
+              ]
+            },
+            {
+              "ex_of_definition": "two pheasants."
+            }
+          ]
+        },
+        {
+          "mean_english": "thịt gà lôi",
+          "definition": "(the flesh of) the bird as food",
+          "world_new": [
+            "flesh",
+            "bird",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had roast pheasant for dinner.",
+              "world_new": [
+                "roast",
+                "dinner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The causes of death of radiotagged pheasants are shown in table 1, most cases being attributed to foxes.",
+    "Three pheasants appeared dead without signs of predation, almost emaciated and with signs of severe enteritis.",
+    "We hypothesize that: (i) pheasant releases may have low effectiveness; and (ii) parasitized pheasants will survive less than non-parasitized ones.",
+    "All pheasants were acquired from the main breeding facility in the region, placed 15 km away from the release site.",
+    "No significant relationship was found between parasite excretion abundance and pheasant survival.",
+    "Acting simultaneously, the result would be a reduction in worm burden in the pheasant, as observed in the pilot study.",
+    "In the present study, no apparent relationship between parasite burdens and survival or cause of death of the pheasants was found.",
+    "Do helminths increase the vulnerability of released pheasants to fox predation?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pharmacy",
+    "pharynx",
+    "phase",
+    "PhD",
+    "pheasant",
+    "phenomenal",
+    "phenomenally",
+    "phenomenon",
+    "phenotype"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087430_cf065e9309_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087430_19f444c724_o.png",
+      "id_image": "pheasant_1018385"
+    }
+  ]
+}

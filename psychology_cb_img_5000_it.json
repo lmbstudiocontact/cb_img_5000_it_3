@@ -1,0 +1,83 @@
+{
+  "english": "psychology",
+  "phat_am": "saiˈkolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tâm lý học",
+          "definition": "the study or science of the human mind",
+          "world_new": [
+            "study",
+            "science",
+            "human",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffers from various psychological problems.",
+              "world_new": [
+                "various",
+                "psychological"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Neither do we neglect the impact of differing psychologies.",
+    "Recent developments suggest we may soon see a new era of collaboration between linguistics and psychology that, one hopes, will be more enduring.",
+    "Phrenology was supposed to be part of democratic politics; it was to provide a psychology equally applicable to everyone.",
+    "It therefore offers no panacea to evolutionary psychology, where inferences of genetically based behavioral attributes are problematic, particularly as applied to extinct hominids.",
+    "Understandings from neuropsychology, cognitive psychology and learning theory are combined within a rehabilitation framework that takes account of the personal context and surrounding social system.",
+    "Yet, from the perspective of cultural psychology, protocols can still be useful research tools.",
+    "It is most welcome that the journal again receives substantial papers in psychology, and that applied economists submit their work.",
+    "The practical implications for investigation of mental illness of the differences and commonalities between psychopathology and psychology, for example, could be tremendous."
+  ],
+  "list_see_also": [
+    "psychological",
+    "psychologically",
+    "psychologist"
+  ],
+  "list_browse": [
+    "psychoanalyze",
+    "psychological",
+    "psychologically",
+    "psychologist",
+    "psychology",
+    "psychopath",
+    "psychopathic",
+    "psychosis",
+    "psychotherapist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703764_feb1d5bf7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703764_67e52ce4d5_o.png",
+      "id_image": "psychology_2201606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348976_ae42dc0ea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348976_750c4a6179_o.png",
+      "id_image": "psychology_4305261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393882_8f2b504d5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393882_4ca069a3b8_o.png",
+      "id_image": "psychology_552407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349081_7cd4988232_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349081_8f187b7285_o.png",
+      "id_image": "psychology_552436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393827_69554c6539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393827_0d08843f12_o.png",
+      "id_image": "psychology_555695"
+    }
+  ]
+}

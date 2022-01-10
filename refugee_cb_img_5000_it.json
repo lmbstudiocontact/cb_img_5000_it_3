@@ -1,0 +1,67 @@
+{
+  "english": "refugee",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người tị nạn",
+          "definition": "a person who seeks shelter especially in another country, from war, disaster, or persecution",
+          "world_new": [
+            "person",
+            "shelter",
+            "country",
+            "war",
+            "disaster",
+            "persecution"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Refugees were pouring across the frontier",
+              "world_new": [
+                "across",
+                "frontier"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a refugee camp.",
+              "world_new": [
+                "camp"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "refrigeration",
+    "refrigerator",
+    "refuel",
+    "refuge",
+    "refugee",
+    "refund",
+    "refusal",
+    "refuse",
+    "refuse collector"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330281_fff51b887d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330281_5166ae78b4_o.png",
+      "id_image": "refugee_3061734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067140_9e6c6db464_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067140_efc93863d1_o.png",
+      "id_image": "refugee_3061979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445188_c81b142323_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445188_59c5a6d300_o.png",
+      "id_image": "refugee_4244674"
+    }
+  ]
+}

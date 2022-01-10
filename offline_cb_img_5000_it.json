@@ -1,0 +1,85 @@
+{
+  "english": "offline",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chế độ offline",
+          "definition": "using a computer, but not connected to the Internet",
+          "world_new": [
+            "computer",
+            "Internet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I read the email offline.",
+              "world_new": [
+                "I",
+                "read"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không kết nối",
+          "definition": "(of computer equipment) not connected directly to a computer",
+          "world_new": [
+            "computer",
+            "directly",
+            "computer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The printer is currently offline.",
+              "world_new": [
+                "printer",
+                "currently"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, computing all these probabilities offline is inefficient, and will result in a very large model.",
+    "When offline, it is driven by the activity of its own units and the motor inputs.",
+    "Data were visually edited offline for motor artifacts, eye blinks, and eye movements.",
+    "This was also observed with regard to participants' daily offline activities.",
+    "This was available for real-time analysis during the experiment and was saved for offline analysis.",
+    "In an offline gender assignment task an effect of transparency was measured during assignment to nonwords.",
+    "Since the n-gram model technique provides both offline and incremental (online) learning, the implemented system bears three functioning modes.",
+    "Note that the selectable unit patterns are calculated offline and kept in the computer memory."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "officiate",
+    "officious",
+    "officiously",
+    "officiousness",
+    "offline",
+    "offshore",
+    "offside",
+    "offspring",
+    "often"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348081_e5a0a480a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348081_d7d5868434_o.png",
+      "id_image": "offline_2037202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702779_9276e74e28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702779_056dccbf9e_o.png",
+      "id_image": "offline_2800155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348031_6d2bf0e400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348031_f7c1943e10_o.png",
+      "id_image": "offline_4378565"
+    }
+  ]
+}

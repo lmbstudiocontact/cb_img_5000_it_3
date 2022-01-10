@@ -1,0 +1,72 @@
+{
+  "english": "motorbike",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe mô tô",
+          "definition": "any of several types of usually heavy bicycle moved by a motor",
+          "world_new": [
+            "heavy",
+            "bicycle",
+            "motor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a motorcycle helmet.",
+              "world_new": [
+                "helmet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cars, motorbikes and scooters were set on fire.",
+    "Rather, the utterance is a relative clause (' 'the motorbike that you bought' ') being used to specify a particular toy.",
+    "It is a matter of using small cars, bicycles and motorbikes.",
+    "My noble friend has given us the terrifying figures of the loss of life and loss of limbs that occur among motorbike riders.",
+    "One could see the motorbike coming and this would be of very good assistance.",
+    "The alternative to a motorbike is a pushbike, for which one does not need a licence.",
+    "That is the toll of the motorbike, of pot-holing, of mountaineering and other causes of violent death.",
+    "In our view, that excludes bicycles but includes motorbikes, cars and other motor vehicles and trailers such as caravans."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "motive",
+    "motor",
+    "motor car",
+    "motor vehicle",
+    "motorbike",
+    "motorboat",
+    "motorcade",
+    "motorcyclist",
+    "motoring"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449788_3c4a23df98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449788_02b76f3a70_o.png",
+      "id_image": "motorbike_1433442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334831_b775fe5040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334831_f1feb0ba11_o.png",
+      "id_image": "motorbike_390835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449883_95ebb77f4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449883_8b89863164_o.png",
+      "id_image": "motorbike_494702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379767_ecb71da5d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379767_ce2f0789c0_o.png",
+      "id_image": "motorbike_698597"
+    }
+  ]
+}

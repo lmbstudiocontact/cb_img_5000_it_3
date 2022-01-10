@@ -1,0 +1,62 @@
+{
+  "english": "retina",
+  "phat_am": "ˈretinə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "võng mạc",
+          "definition": "the part of the back of the eye that receives the image of what is seen",
+          "world_new": [
+            "part",
+            "eye",
+            "image"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a detached retina.",
+              "world_new": [
+                "detached"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The injection site in the peripheral retina can be seen at the lower left corner.",
+    "In addition, all seven were in the peripheral half of our patch of retina.",
+    "This displaced amacrine cell type is most frequently observed in the peripheral retina.",
+    "We tested this idea by stimulating surrounds with large spots of light in the flat-mount preparation of the mouse retina.",
+    "Quinoxalines block the mechanism of directional selectivity in ganglion cells of the rabbit retina.",
+    "Of significance to this review are observations of local growth modulation that imply that the neural retina itself must be the source of growth-regulating signals.",
+    "A comparison of receptive field and tracer coupling size of horizontal cells in the rabbit retina.",
+    "From the peripheral retina, where there is little fasciculation, axons converge on the optic disc."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "retention",
+    "retentive",
+    "reticence",
+    "reticent",
+    "retina",
+    "retinue",
+    "retire",
+    "retired",
+    "retirement"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394082_cb39b10196_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394082_7f6e74546c_o.png",
+      "id_image": "retina_3253349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463968_5a0f7ca5cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463968_2a6feaf3aa_o.png",
+      "id_image": "retina_4198505"
+    }
+  ]
+}

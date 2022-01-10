@@ -1,0 +1,133 @@
+{
+  "english": "original",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nguyên bản",
+          "definition": "existing at the beginning; first",
+          "world_new": [
+            "existing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This part of the house is new, but the rest is original.",
+              "world_new": [
+                "part",
+                "house",
+                "rest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độc đáo",
+          "definition": "(able to produce ideas which are) new, fresh or not thought of before",
+          "world_new": [
+            "produce",
+            "fresh",
+            "thought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "original ideas"
+            },
+            {
+              "ex_of_definition": "He has a very original mind.",
+              "world_new": [
+                "mind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gốc",
+          "definition": "(of a painting etc) by the artist etc, from which copies may be made",
+          "world_new": [
+            "painting",
+            "artist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The original painting is in the museum, but there are hundreds of copies.",
+              "world_new": [
+                "painting",
+                "museum"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản gốc",
+          "definition": "the earliest version",
+          "world_new": [
+            "version"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is the original – all the others are copies."
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyên bản",
+          "definition": "a model from which a painting etc is made",
+          "world_new": [
+            "model",
+            "painting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is the original of the famous portrait.",
+              "world_new": [
+                "famous",
+                "portrait"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "From an algorithmic point of view, dictionary based text rewriting is complicated by the fact that occurrences of originals in a text may overlap.",
+    "She does this by immediately modifying the term with an elaborate multi-modal depiction involving her originals.",
+    "13) - to refer to her originals ostensively.",
+    "Dictionarybased text rewriting simply means to replace occurrences of originals in an input text by their corresponding substitutes.",
+    "Customers provide some of the raw materials, the \"originals,\" and specify the services to be performed on them.",
+    "The results should have the same semantics as the originals.",
+    "In both these volumes the majority of texts used for the edition were such manuscript copies as most of the originals have been lost.",
+    "One way to give them more natural lives is to give them lives that are more similar to the lives of their earthly originals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "oriental",
+    "orientate",
+    "orientation",
+    "origin",
+    "original",
+    "originality",
+    "originally",
+    "originate",
+    "origins"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808427357_929529c209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808427357_21087b8d0e_o.png",
+      "id_image": "original_5110929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496678_d027c3625f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496678_1db216b626_o.png",
+      "id_image": "original_5278643"
+    }
+  ]
+}

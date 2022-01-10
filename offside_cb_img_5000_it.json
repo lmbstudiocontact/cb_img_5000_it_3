@@ -1,0 +1,88 @@
+{
+  "english": "offside",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "việt vị",
+          "definition": "(in football/soccer, hockey etc) in a position (not allowed by the rules) between the ball and the opponents’ goal",
+          "world_new": [
+            "hockey",
+            "position",
+            "ball",
+            "goal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The referee disallowed the goal because one of the players had moved offside",
+              "world_new": [
+                "referee",
+                "goal"
+              ]
+            },
+            {
+              "ex_of_definition": "also adjective He was in an offside position.",
+              "world_new": [
+                "position"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bên phải",
+          "definition": "(of a vehicle etc) on the side nearest to the centre/center of the road",
+          "world_new": [
+            "vehicle",
+            "side",
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the front offside wheel.",
+              "world_new": [
+                "front",
+                "wheel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Existing signs direct drivers into the offside lanes if they wish to remain on the motorway, and into the nearside lane if they wish to leave it.",
+    "There were a total of six offsides calls, split evenly between the two teams.",
+    "As he fairly pointed out, it is not always possible to generalise on whether it is right to turn from the offside or the nearside.",
+    "We are trying to keep the goalposts where they were, but in this case the interpretation of the offside rule has been a complication.",
+    "Is it not possible to devise some form of guard which would prevent that wave going out on the offside?",
+    "Offsides is penalized by a 30-second penalty.",
+    "There is no other penalties in the game, making offsides and roughing the quarterback into workable strategies.",
+    "The match had a total of 22 fouls and 6 offsides, both statistics split evenly between the two teams."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "officiously",
+    "officiousness",
+    "offline",
+    "offshore",
+    "offside",
+    "offspring",
+    "often",
+    "ogre",
+    "oh"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462668_82ed1bd67b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462668_47466b8519_o.png",
+      "id_image": "offside_1540536"
+    }
+  ]
+}

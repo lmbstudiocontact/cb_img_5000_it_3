@@ -1,0 +1,193 @@
+{
+  "english": "pipe",
+  "phat_am": "paip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống dẫn",
+          "definition": "a tube, usually made of metal, earthenware etc, through which water, gas etc can flow",
+          "world_new": [
+            "tube",
+            "metal",
+            "earthenware",
+            "water",
+            "gas",
+            "flow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a water pipe",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "a drainpipe.",
+              "world_new": [
+                "drainpipe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tẩu thuốc",
+          "definition": "a small tube with a bowl at one end, in which tobacco is smoked",
+          "world_new": [
+            "small",
+            "tube",
+            "bowl",
+            "tobacco",
+            "smoked"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He smokes a pipe"
+            },
+            {
+              "ex_of_definition": "(also adjective) pipe tobacco.",
+              "world_new": [
+                "tobacco"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ống sáo",
+          "definition": "a musical instrument consisting of a hollow wooden, metal etc tube through which the player blows or causes air to be blown in order to make a sound",
+          "world_new": [
+            "musical",
+            "instrument",
+            "hollow",
+            "wooden",
+            "metal",
+            "tube",
+            "player",
+            "air",
+            "order",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He played a tune on a bamboo pipe",
+              "world_new": [
+                "tune",
+                "bamboo"
+              ]
+            },
+            {
+              "ex_of_definition": "an organ pipe.",
+              "world_new": [
+                "organ"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dẫn bằng ống",
+          "definition": "to convey gas, water etc by a pipe",
+          "world_new": [
+            "convey",
+            "gas",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Water is piped to the town from the reservoir.",
+              "world_new": [
+                "town",
+                "reservoir"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thổi sáo",
+          "definition": "to play (music) on a pipe or pipes",
+          "world_new": [
+            "play",
+            "pipes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He piped a tune.",
+              "world_new": [
+                "tune"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lanh lảnh",
+          "definition": "to speak in a high voice, make a high-pitched sound",
+          "world_new": [
+            "speak",
+            "voice",
+            "high-pitched",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Hallo,’ the little girl piped.",
+              "world_new": [
+                "girl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Perforated pipes at the bottom of the pile serve for collection of leachate and for aeration.",
+    "In combination with titanium surfaces, for pipes, medical instruments, wet metal surfaces, etc., doped diamond produces excellent disinfectants directly in the biofilm.",
+    "In addition, there are in several places the remaining steam pipes, now unused, with the original manual valves in place.",
+    "The small amount of refuse present at the time of sampling included gas cylinders, pipes, metal fragments, cans, glass, vehicle batteries, and empty fuel drums.",
+    "The water pipelines were located in the same trench as the sewage pipes.",
+    "Massive overhead ducting no longer provided any ventilation; pipes with equally obsolete functions snaked up and down the walls.",
+    "The suburb had been under the national building code since 1885, but most buildings were still not in any condition to have service pipes installed.",
+    "In addition, corrosion products on iron pipes were found to interfere with free chlorine disinfection."
+  ],
+  "list_see_also": [
+    "piper",
+    "pipes",
+    "piping",
+    "pipe dream",
+    "pipeline",
+    "piping hot"
+  ],
+  "list_browse": [
+    "pioneer",
+    "pious",
+    "piously",
+    "pip",
+    "pipe",
+    "pipe dream",
+    "pipeline",
+    "piper",
+    "pipes"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345576_cc798765a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345576_c39f32b591_o.png",
+      "id_image": "pipe_252554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345551_f7881dcf35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345551_340f27b9b8_o.png",
+      "id_image": "pipe_448320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460298_2a6b3b8af7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460298_e354c8ba83_o.png",
+      "id_image": "pipe_5672218"
+    }
+  ]
+}

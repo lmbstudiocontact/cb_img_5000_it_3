@@ -1,0 +1,116 @@
+{
+  "english": "mime",
+  "phat_am": "maim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kịch câm",
+          "definition": "the art of using movement to perform the function of speech, especially in drama",
+          "world_new": [
+            "art",
+            "movement",
+            "perform",
+            "function",
+            "speech",
+            "drama"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is studying mime."
+            }
+          ]
+        },
+        {
+          "mean_english": "vở kịch câm",
+          "definition": "a play in which no words are spoken and the actions tell the story",
+          "world_new": [
+            "play",
+            "spoken",
+            "tell",
+            "story"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children performed a mime."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghệ sĩ kịch câm",
+          "definition": "an actor in such a play; someone who practises this art",
+          "world_new": [
+            "actor",
+            "art"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Marcel Marceau was a famous mime.",
+              "world_new": [
+                "famous"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "diễn kịch câm",
+          "definition": "to act, eg in such a play, using movements rather than words",
+          "world_new": [
+            "act",
+            "play",
+            "rather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He mimed his love for her by holding his hands over his heart.",
+              "world_new": [
+                "love",
+                "heart"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Street theater often featured mimes who did a mechanical man or puppet style illusion, without music.",
+    "The children always contributed to school shows, most often in mimed sketches.",
+    "Teenage girls are also seen miming her vocals, while reminiscing in the whole duration of the video.",
+    "Inspired by artificial intelligence techniques, symbolic reasoning was commonly chosen to behavior mime.",
+    "She was, therefore, encouraged to use mime and gestures, as when trying to describe an aspect of her son's life.",
+    "He composed the score and also played the violin and guitar pieces which were mimed by the actor and actress playing the young lovers.",
+    "Her recovery, which entailed much physical and speech therapy, was aided by her miming to her old records.",
+    "Finally, a monstrous crawling shape emerges, and eats the mimes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "millionth",
+    "millipede",
+    "millstone",
+    "millwheel",
+    "mime",
+    "mimic",
+    "mimicry",
+    "mimosa",
+    "min"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387902_ebab78430e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387902_6d093764c2_o.png",
+      "id_image": "mime_3530999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342956_69d6bf557e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342956_cb999408ec_o.png",
+      "id_image": "mime_773391"
+    }
+  ]
+}

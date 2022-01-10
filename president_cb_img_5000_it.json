@@ -1,0 +1,77 @@
+{
+  "english": "president",
+  "phat_am": "ˈprezidənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ tịch",
+          "definition": "the leading member of a club, association etc",
+          "world_new": [
+            "member",
+            "club",
+            "association"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was elected president of the Music Society."
+            }
+          ]
+        },
+        {
+          "mean_english": "tổng thống",
+          "definition": "the leader of a republic",
+          "world_new": [
+            "leader",
+            "republic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the President of the United States."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The answer is simple: the president's bargaining power.",
+    "Of the 273 executive appointments, 182 (or 66.7 percent) went to lame-duck members of the president's party.",
+    "A necessity for successful leadership is the president's ability to define the public's understanding of the issues.",
+    "The president's partial and strong role, combined with some implicit and explicit pressures towards uniformity, further decreased potential challenges.",
+    "Relying on realignment theory, some scholars imply that presidents seek to shape judicial interpretation primarily for reasons of partisanship.",
+    "The names of kings, generals, and presidents have a prominent status and size within the inscriptions.",
+    "Overall, there were thirteen extra sessions during this period, called by eight different presidents.",
+    "Is it true that when no coalitions are formed, presidents are legislatively unsuccessful?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "preservative",
+    "preserve",
+    "preside",
+    "presidency",
+    "president",
+    "presidential",
+    "press",
+    "press conference",
+    "press cutting"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064350_bfdd21f0da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064350_1dd63c4c53_o.png",
+      "id_image": "president_2456264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327616_8a9afd0dfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327616_68beedf5a2_o.png",
+      "id_image": "president_3429542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442598_98dbd51fc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442598_2f14f7e7c9_o.png",
+      "id_image": "president_5291861"
+    }
+  ]
+}

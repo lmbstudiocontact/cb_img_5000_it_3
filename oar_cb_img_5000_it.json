@@ -1,0 +1,65 @@
+{
+  "english": "oar",
+  "phat_am": "oː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mái chèo",
+          "definition": "a long piece of wood with a flat end for rowing a boat",
+          "world_new": [
+            "long",
+            "piece",
+            "wood",
+            "flat",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The small dinghy had two oars.",
+              "world_new": [
+                "small",
+                "dinghy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What about equipment which will be standard fittings as part of the boats—oars, rescue ropes, lifebelts and things of that kind?",
+    "Unfortunately, this determination of the posse size is not quite as definite as finding only two oars in a boat, nor is it an easy number to select.",
+    "He can rightly feel that the can rest on his oars.",
+    "One is when the people think they have achieved economic security and rest on their oars, while the world passes them by.",
+    "I should like to press that we put in our oar on this matter.",
+    "But none of us can afford to be complacent or to rest on our oars.",
+    "Sadly, he will remain chained to his oar until the ship finally sinks beneath the surface.",
+    "I held my breath and crept forward, dragging the oars at each 'step'."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "oaf",
+    "oafish",
+    "oak",
+    "OAP",
+    "oar",
+    "oasis",
+    "oath",
+    "oatmeal",
+    "oats"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674214_5a3eb58cee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674214_e0e98b66c4_o.png",
+      "id_image": "oar_193639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055885_f575fcc5f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055885_d73574e53d_o.png",
+      "id_image": "oar_280071"
+    }
+  ]
+}

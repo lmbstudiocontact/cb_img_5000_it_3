@@ -1,0 +1,85 @@
+{
+  "english": "proposal",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đề xuất",
+          "definition": "something proposed or suggested; a plan",
+          "world_new": [
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "proposals for peace.",
+              "world_new": [
+                "peace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời cầu hôn",
+          "definition": "an offer of marriage",
+          "world_new": [
+            "offer",
+            "marriage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She received three proposals."
+            }
+          ]
+        },
+        {
+          "mean_english": "đề xuất",
+          "definition": "the act of proposing.",
+          "world_new": [
+            "act"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Recent pension reform proposals would simplify nondiscrimination rules, reducing administrative and compliance costs and potentially leading to more employers offering pension benefits.",
+    "To this extent the proposals do facilitate choice and are broadly value neutral.",
+    "Initially the article explores proposals for changing the culture and behaviour of people prior to retirement.",
+    "Numerous testimonials describe the difficult transportation conditions of the antebellum era and project proposals were often long-standing.",
+    "His proposals to establish a national bank, encourage domestic manufactures and create an efficient federal bond market were an integral part of the vision.",
+    "Another shortcoming was that few research proposals included examining the social, ethical, and legal implications of technology.",
+    "In a sense, however, these proposals are limited in scope.",
+    "They make some proposals to improve the policy environment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "proportional",
+    "proportionally",
+    "proportionate",
+    "proportionately",
+    "proposal",
+    "propose",
+    "proposition",
+    "proprietor",
+    "propriety"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350676_6d07dd933a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350676_7cae3a25bd_o.png",
+      "id_image": "proposal_1482408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395422_ed9a1cb3c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395422_00e84de180_o.png",
+      "id_image": "proposal_6418139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465278_57ed96299c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465278_752416ec97_o.png",
+      "id_image": "proposal_918496"
+    }
+  ]
+}

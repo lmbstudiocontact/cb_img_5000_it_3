@@ -1,0 +1,155 @@
+{
+  "english": "project",
+  "phat_am": "ˈprodʒekt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dự án",
+          "definition": "a plan or scheme",
+          "world_new": [
+            "plan",
+            "scheme"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a building project.",
+              "world_new": [
+                "building"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ án",
+          "definition": "a piece of study or research",
+          "world_new": [
+            "piece",
+            "study",
+            "research"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I am doing a project on Italian art.",
+              "world_new": [
+                "I",
+                "art"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "phóng",
+          "definition": "to throw outwards, forwards or upwards",
+          "world_new": [
+            "throw",
+            "outwards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The missile was projected into space.",
+              "world_new": [
+                "missile",
+                "space"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhô lên",
+          "definition": "to stick out",
+          "world_new": [
+            "stick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A sharp rock projected from the sea.",
+              "world_new": [
+                "sharp",
+                "rock",
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dự kiến",
+          "definition": "to plan or propose",
+          "world_new": [
+            "plan",
+            "propose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re projecting to start construction next year.",
+              "world_new": [
+                "start",
+                "construction",
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trình chiếu",
+          "definition": "to make a picture or a film appear on a screen.",
+          "world_new": [
+            "picture",
+            "film",
+            "appear",
+            "screen"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The processes and successes of two farmer research projects were studied.",
+    "At 25 minutes' duration and requiring 25 players, it is one of the most substantial works ever to come out of the project.",
+    "After it was disbanded, he took the lead in a number of other projects together with some of the other board members.",
+    "Within the uncertain category, projects could then be ranked by level of uncertainty.",
+    "Then we obtain a facet-defining inequality of the projected polyhedron.",
+    "For each of these three secular philosophical positions, the project of a history of science revealed a basic paradox.",
+    "All of them shed a direct or oblique light on the main themes of this project.",
+    "They are also told to be very careful in defining the project/policy which is the subject of their analysis."
+  ],
+  "list_see_also": [
+    "projectile",
+    "projection",
+    "projector"
+  ],
+  "list_browse": [
+    "progressively",
+    "progressiveness",
+    "prohibit",
+    "prohibition",
+    "project",
+    "projectile",
+    "projection",
+    "projector",
+    "prologue"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706294_61a6572f98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706294_9ed3f0454c_o.png",
+      "id_image": "project_1285367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396547_0cac0de6e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396547_80c3601918_o.png",
+      "id_image": "project_4698464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396507_a88f7b445f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396507_964cac7dd6_o.png",
+      "id_image": "project_4698487"
+    }
+  ]
+}

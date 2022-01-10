@@ -1,0 +1,77 @@
+{
+  "english": "mosquito",
+  "phat_am": "məˈskiːtou",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con muỗi",
+          "definition": "any of several types of small insect, which suck blood from animals and people and in this way transmit diseases such as malaria",
+          "world_new": [
+            "small",
+            "insect",
+            "suck",
+            "blood",
+            "people",
+            "transmit",
+            "malaria"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a mosquito bite",
+              "world_new": [
+                "bite"
+              ]
+            },
+            {
+              "ex_of_definition": "a mosquito net.",
+              "world_new": [
+                "net"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Also, if mosquitoes had been a major vector, the pattern of spread would have been expected to be random across the sites.",
+    "The use of mosquito nets by inhabitants of those houses was monitored by the collectors.",
+    "Coltiviruses have been isolated from several mammalian species (including humans) and from ticks and also mosquitoes.",
+    "Thus, viruses entering the tick midgut are exposed to different environmental conditions compared with those existing in, for example, the mosquito midgut.",
+    "In the field, densities of larger dytiscids will probably never be high enough to significantly reduce levels of mosquito populations.",
+    "Workers lacked mosquito nets and even blankets to protect themselves from nights of exposure in remote corners of the forest.",
+    "However, among the 94 oocysts typed from 28 mosquitoes in which no heterozygous oocysts were recovered, there were 20 non-amplifying oocysts.",
+    "The time frames cover the warm and rainy season, when peaks of mosquito abundance are more likely to occur in the area."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mortifying",
+    "mortuary",
+    "mosaic",
+    "mosque",
+    "mosquito",
+    "moss",
+    "mossy",
+    "most",
+    "mostly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690954_d3c2f6f687_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690954_131e155dbf_o.png",
+      "id_image": "mosquito_2688315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380797_fe3d3fcbaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380797_c00494d1b0_o.png",
+      "id_image": "mosquito_311585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072615_2c64730325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072615_ece22bc737_o.png",
+      "id_image": "mosquito_3154460"
+    }
+  ]
+}

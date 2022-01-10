@@ -1,0 +1,80 @@
+{
+  "english": "overdue",
+  "phat_am": "əuvəˈdjuː",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quá chậm",
+          "definition": "late",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The train is overdue.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá hạn",
+          "definition": "(of bills, work etc) not yet paid, done, delivered etc, although the date for doing this has passed",
+          "world_new": [
+            "work",
+            "yet",
+            "although",
+            "date"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "overdue library books.",
+              "world_new": [
+                "library"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A popular book on language death has been long overdue.",
+    "Such efforts are most welcome, if perhaps somewhat overdue.",
+    "By the 1980s and 1990s, with post-structuralism on the march throughout the historical world, a more encompassing analysis of anti-communism was overdue.",
+    "For some soils, a review of the justification for all operations in preparing soils is overdue.",
+    "This formal acknowledgement of informal carers as principal providers of support was seen as a recognition that was somewhat overdue.",
+    "Given the burgeoning knowledge of these ecosystems provided by advances in techniques and increased accessibility to ice-covered seas, such a treatment is long overdue.",
+    "However, a reassessment of how and why this came to be so is overdue.",
+    "The appearance of this long overdue book will significantly improve the situation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "overdo",
+    "overdose",
+    "overdraft",
+    "overdrawn",
+    "overdue",
+    "overestimate",
+    "overflow",
+    "overgrown",
+    "overhaul"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455343_2f1d543cb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455343_a96bfe7b91_o.png",
+      "id_image": "overdue_4334537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695724_300ac96c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695724_921695a14c_o.png",
+      "id_image": "overdue_5359748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455288_77e28b58c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455288_a4a572e7a5_o.png",
+      "id_image": "overdue_6381386"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "prince",
+  "phat_am": "prins",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoàng tử",
+          "definition": "a male member of a royal family, especially the son of a king or queen",
+          "world_new": [
+            "male",
+            "member",
+            "royal",
+            "family",
+            "son",
+            "king",
+            "queen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Prince Charles."
+            }
+          ]
+        },
+        {
+          "mean_english": "ông hoàng",
+          "definition": "the ruler of some states or countries",
+          "world_new": [
+            "ruler"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Prince Rainier of Monaco."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A semblance of conformity with the imperial constitution also eased the task of rallying princes to his project.",
+    "Democratic princes can energetically pursue public policies-whether in security, trade, technology, or welfare-because they feel, and to a degree are, mandated so to do.",
+    "As the manuscripts were formerly part of the crown prince's collection, they must have been assembled before his tragically early death in 1731.",
+    "There is some evidence that this movement was manipulated by the princes of the royal house, who were disgruntled at their loss of privileges after 1891.",
+    "The violent death of princes was not now an unfamiliar occurrence.",
+    "The banished princes left as traders on a ship laden with rich merchandise.",
+    "Most men of rank at court enjoyed varying degrees of automony by virtue of their service to higher lords as princes, generals, retainers, or ministers.",
+    "However, \"put not your trust in princes, \" or in any authority of that sort."
+  ],
+  "list_see_also": [
+    "princely",
+    "princess",
+    "principality"
+  ],
+  "list_browse": [
+    "primitive",
+    "primly",
+    "primness",
+    "primrose",
+    "prince",
+    "princely",
+    "princess",
+    "principal",
+    "principality"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325471_fa9ed07b4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325471_6a7045dc09_o.png",
+      "id_image": "prince_4072224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680504_e24db32afe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680504_891e580192_o.png",
+      "id_image": "prince_4133571"
+    }
+  ]
+}

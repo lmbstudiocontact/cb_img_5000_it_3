@@ -1,0 +1,66 @@
+{
+  "english": "noose",
+  "phat_am": "nuːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thòng lọng",
+          "definition": "a loop in rope, wire etc that becomes tighter when pulled",
+          "world_new": [
+            "loop",
+            "rope",
+            "wire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a noose to fasten the rope to the post.",
+              "world_new": [
+                "fasten",
+                "rope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thòng lọng",
+          "definition": "such a loop in a rope used for hanging a person",
+          "world_new": [
+            "loop",
+            "rope",
+            "hanging",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The noose was placed around the condemned man’s neck.",
+              "world_new": [
+                "neck"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nonsensical",
+    "noodle",
+    "nook",
+    "noon",
+    "noose",
+    "nope",
+    "nor",
+    "normal",
+    "normality"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058310_bfb648f1be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058310_8bdcb0e89a_o.png",
+      "id_image": "noose_2851862"
+    }
+  ]
+}

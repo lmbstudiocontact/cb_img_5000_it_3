@@ -1,0 +1,92 @@
+{
+  "english": "performance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thực hiện",
+          "definition": "the doing of something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is very conscientious in the performance of his duties.",
+              "world_new": [
+                "conscientious"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thực hiện",
+          "definition": "the way in which something or someone performs",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His performance in the exams was not very good."
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc biểu diễn",
+          "definition": "something done on stage etc",
+          "world_new": [
+            "stage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The company gave a performance of ‘Othello’",
+              "world_new": [
+                "company"
+              ]
+            },
+            {
+              "ex_of_definition": "His last three performances have been excellent.",
+              "world_new": [
+                "excellent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A number of decisions were taken with a view to 'improving' and regulating performers, performances and audiences.",
+    "The basic experimental paradigm was that of the comparison of individual performances when isolated and when in the presence of other people.",
+    "The performances of an ideal wrist would be constant and independent of its configuration.",
+    "Thus, as one would expect, performances were generally poorest in the poor encoders.",
+    "There can be little doubt that performances were in the college hall; evidence, however, is lacking.",
+    "Scores for context sensitive vowels and consonants were significantly interrelated even when performances at the phonemic and word-specific levels were controlled.",
+    "Conversely, a disproportionately small percentage of students from these groups achieve sufficiently high test performances to become placed in classes for talented and gifted students.",
+    "We have information about the participants in one of the first performances and who attended the theatre."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "perforate",
+    "perforated",
+    "perforation",
+    "perform",
+    "performance",
+    "performance assessment",
+    "performer",
+    "perfume",
+    "perfumery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057610_600cb72a24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057610_3881b8f978_o.png",
+      "id_image": "performance_1624387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057590_b718a3c2c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057590_d795d697c9_o.png",
+      "id_image": "performance_1945765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435968_d59d6c9dba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435968_6ce337c212_o.png",
+      "id_image": "performance_2617907"
+    }
+  ]
+}

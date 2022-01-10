@@ -1,0 +1,127 @@
+{
+  "english": "port",
+  "phat_am": "poːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bến cảng",
+          "definition": "(usually without aor the) a harbour/harbor",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship came into port",
+              "world_new": [
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "We reached port next morning.",
+              "world_new": [
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành phố cảng",
+          "definition": "a town with a harbour/harbor",
+          "world_new": [
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the port of Hull."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mạn trái, cánh trái",
+          "definition": "the left side of a ship or aircraft",
+          "world_new": [
+            "left",
+            "side",
+            "ship",
+            "aircraft"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The helmsman steered the ship to port",
+              "world_new": [
+                "helmsman",
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the port wing.",
+              "world_new": [
+                "wing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu van ỏ Bồ Đào Nha",
+          "definition": "a strong, dark-red, sweet wine originally from Portugal",
+          "world_new": [
+            "strong",
+            "sweet",
+            "wine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a glass of port",
+              "world_new": [
+                "glass"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Since we are considering non-dependent nets, we will assume that the types corresponding to ports in input partitions are input types.",
+    "Non-dependent interaction nets: if every agent has only negative ports in input partitions.",
+    "634 ported by the labeled neuron without significant fading, and should be tagged for efficient and sensitive detection.",
+    "Finally, the assembly has ports 1 and 6 that can be connected externally.",
+    "Joint modules are connected to the link through connecting ports.",
+    "The problem, of course, is that ports can be so different from each other.",
+    "The most obvious porting target of our design is to functional languages featuring first order continuations and threads.",
+    "The word expert approach appears easily ported to new domains."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pornography",
+    "porous",
+    "porpoise",
+    "porridge",
+    "port",
+    "portable",
+    "portable computer",
+    "portent",
+    "porter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380067_8215608a5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380067_40bac66471_o.png",
+      "id_image": "port_1201819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335046_7e83aaf521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335046_607c11c015_o.png",
+      "id_image": "port_403165"
+    }
+  ]
+}

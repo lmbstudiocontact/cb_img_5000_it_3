@@ -1,0 +1,104 @@
+{
+  "english": "rib",
+  "phat_am": "rib",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xương sườn",
+          "definition": "any one of the bones which curve round and forward from the backbone, enclosing the heart and lungs",
+          "world_new": [
+            "curve",
+            "forward",
+            "backbone",
+            "heart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffered a broken rib in the accident.",
+              "world_new": [
+                "broken",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tấm ván",
+          "definition": "one of the curved pieces of wood which are joined to the keel to form the framework of a boat.",
+          "world_new": [
+            "curved",
+            "wood",
+            "keel",
+            "form",
+            "framework",
+            "boat"
+          ]
+        },
+        {
+          "mean_english": "sườn",
+          "definition": "a vertical raised strip in eg knitted material, or the pattern formed by a row of these.",
+          "world_new": [
+            "vertical",
+            "strip",
+            "material",
+            "pattern",
+            "row"
+          ]
+        },
+        {
+          "mean_english": "gọng",
+          "definition": "any of a number of things similar in shape, use etc to a rib, eg one of the supports for the fabric of an aeroplane wing or of an umbrella.",
+          "world_new": [
+            "number",
+            "similar",
+            "shape",
+            "fabric",
+            "aeroplane",
+            "wing",
+            "umbrella"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Six fused vertebrae are present, and the first would originally have borne a free rib.",
+    "It should be noted that the data for cylinders with ribs or with pyramidal roughness as well as with spherical roughness show similar trends qualitatively.",
+    "The same procedure was followed with bone, which was collected from a rib.",
+    "Following these, there are nine pairs of thin and slender ribs, of which the six posteriormost attach on the haemal arches and spines.",
+    "The analysis of ribbing necessarily starts from a mathematical description of the unperturbed base state, a steady, two-dimensional viscous freesurface flow.",
+    "They are seen at the scapula, ribs, pelvis, proximal part of the inner margin of the femur and the proximal ulna.",
+    "Among other findings that may also be pertinent to ribbing in film-splitting, there are three main points.",
+    "Large, elliptical fenestrae are present between the sacral ribs in dorsal view."
+  ],
+  "list_see_also": [
+    "ribbed",
+    "ribbing",
+    "rib cage"
+  ],
+  "list_browse": [
+    "rhyme",
+    "rhythm",
+    "rhythmic",
+    "rhythmically",
+    "rib",
+    "rib cage",
+    "ribbed",
+    "ribbing",
+    "ribbon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084930_023aa14910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084930_0b9b906bd0_o.png",
+      "id_image": "rib_2540955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702344_ae8864b45f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702344_aaf4066c7c_o.png",
+      "id_image": "rib_4829181"
+    }
+  ]
+}

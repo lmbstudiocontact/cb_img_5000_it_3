@@ -1,0 +1,89 @@
+{
+  "english": "portion",
+  "phat_am": "ˈpoːʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phần",
+          "definition": "a part",
+          "world_new": [
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Read this portion of the book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cổ phần",
+          "definition": "a share",
+          "world_new": [
+            "share"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her portion of the money amounted to $200.",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khẩu phần ăn",
+          "definition": "an amount of food usually for one person",
+          "world_new": [
+            "amount",
+            "food",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a portion of salad.",
+              "world_new": [
+                "salad"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "First, only fully intelligible utterances were coded; all utterances with unintelligible portions were excluded.",
+    "Utterances containing unintelligible portions were omitted from analyses.",
+    "Additionally, if prestige accrues from distributing shares, then recipients of shares from initial distributions who later redistribute portions to other have-nots gain additional status.",
+    "Imported frozen chicken portions (n=150) from different bags and generally different shipments were collected.",
+    "The two portions communicated via a small superior opening.",
+    "Where parents had died, other kin were usually called upon to act as guardians and executors in the paying out of inheritance portions.",
+    "An inter-uterine duct apparently functions for a short time only (i. u. d.), the portions nearest to the uterus being most readily made out.",
+    "With this information, the remaining portions of the integral curves are easily deduced."
+  ],
+  "list_see_also": [
+    "portion out"
+  ],
+  "list_browse": [
+    "porter",
+    "portfolio",
+    "porthole",
+    "portico",
+    "portion",
+    "portion out",
+    "portrait",
+    "portray",
+    "portrayal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689634_cb00caa8da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689634_25cbb2b5d9_o.png",
+      "id_image": "portion_5222974"
+    }
+  ]
+}

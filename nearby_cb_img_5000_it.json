@@ -1,0 +1,66 @@
+{
+  "english": "nearby",
+  "phat_am": "niəˈbai",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "ở vị trí gần",
+          "definition": "close to here or the place mentioned",
+          "world_new": [
+            "close",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives nearby"
+            },
+            {
+              "ex_of_definition": "a cottage with a stream running nearby.",
+              "world_new": [
+                "cottage",
+                "stream",
+                "running"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Places for overnight stay might therefore have been chosen with relation to nearby raw materials sources.",
+    "Soil from an undisturbed site nearby was sampled for comparison.",
+    "This lengthening of the growing season provides more opportunities for pathogenic relationships and greater potential for affecting other nearby crops.",
+    "The assignment analysis suggested a tendency for immigrants to have originated substantially from nearby regions.",
+    "These were dismissed as stolen property or wages received from nearby (but archaeologically undocumented) pastoralists.",
+    "Each soliton moves with nearby sound speed and also interacts with other solutions.",
+    "Predators of vertebrates are absent and densities of pollinators and seed dispersers are substantially reduced in comparison to the nearby mainland.",
+    "In particular, gathering plays a major role only in villages without rich fish stocks or upland nearby as alternative insurance."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "NCO",
+    "NE",
+    "near",
+    "near-sighted",
+    "nearby",
+    "nearly",
+    "nearness",
+    "nearside",
+    "neat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371467_bf8002c05e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371467_b47a94e7df_o.png",
+      "id_image": "nearby_5509695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063605_a345cda076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063605_c6b47dbf8b_o.png",
+      "id_image": "nearby_6010142"
+    }
+  ]
+}

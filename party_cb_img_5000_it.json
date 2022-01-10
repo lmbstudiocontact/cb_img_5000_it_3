@@ -1,0 +1,133 @@
+{
+  "english": "party",
+  "phat_am": "ˈpaːti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bữa tiệc",
+          "definition": "a meeting of guests for entertainment, celebration etc",
+          "world_new": [
+            "meeting",
+            "entertainment",
+            "celebration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a birthday party",
+              "world_new": [
+                "birthday"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s giving/having a party tonight",
+              "world_new": [
+                "tonight"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a party dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm",
+          "definition": "a group of people with a particular purpose",
+          "world_new": [
+            "group",
+            "people",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a party of tourists."
+            }
+          ]
+        },
+        {
+          "mean_english": "đảng",
+          "definition": "a group of people with the same ideas and purposes, especially political",
+          "world_new": [
+            "group",
+            "people",
+            "political"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a political party.",
+              "world_new": [
+                "political"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiệc tùng",
+          "definition": "to enjoy yourself by eating, drinking, dancing etc with other people",
+          "world_new": [
+            "enjoy",
+            "dancing",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was out all night partying again.",
+              "world_new": [
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The nature and magnitude of the problem-determined through a systematic risk assessment process-needs to be determined and openly communicated to all relevant parties.",
+    "Indeed, the wish to avoid such veto power may both contribute to surplus coalitions and to grand coalitions between major parties.",
+    "High valence parties will contest the electoral centre, but will not, in fact, position themselves at the electoral mean.",
+    "The basic assumption being made in this study is that parties have a major rôle to play in democratic governance.",
+    "Only interested parties who have a large material stake in it need to pretend that it is one indivisible entity.",
+    "With 36 per cent of the manual workers' vote in 1987 the party's share of the working-class vote was the highest for any post-war election.",
+    "The net impact concerns the effect on parties.",
+    "Furthermore, the effectiveness of a local campaign is not just a matter of local parties being rich in resources."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "partition",
+    "partly",
+    "partner",
+    "partnership",
+    "party",
+    "pass",
+    "pass (something or someone) off as",
+    "pass as/for",
+    "pass away"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067375_b0f2e2605f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067375_3449cba6de_o.png",
+      "id_image": "party_1712012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067335_8a8a7f75dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067335_93634606a6_o.png",
+      "id_image": "party_1809880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685534_ff6f643856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685534_cd233c04c7_o.png",
+      "id_image": "party_2640240"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "peaceful",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thanh bình",
+          "definition": "quiet; calm; without worry or disturbance",
+          "world_new": [
+            "worry",
+            "disturbance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s very peaceful in the country.",
+              "world_new": [
+                "country"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The study was conducted between 1996 and 2000 during a relatively peaceful period in the region.",
+    "Rather, political change would be the work of elites who broke with the ruling party and negotiated a peaceful transition with their former colleagues.",
+    "Neither envy nor misfortune creeps into our peaceful valley; our cares are our work.",
+    "The cradle, reliably peaceful, is the focal point of the play's final tableau, which depicts the family group.",
+    "Landscapes are peaceful and unscarred, animals roam free, children never grow up and work is virtually non-existent.",
+    "The president later defended in public the right of civil society to peaceful protest.",
+    "Pluralism is a modern political concept of organising peaceful interaction between different groups, a very different process from the actual historical one.",
+    "Critically, it was a peaceful process, remarkable in light of the tensions surrounding ethnicity and language in the country."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "peace of mind",
+    "peace-offering",
+    "peaceable",
+    "peaceably",
+    "peaceful",
+    "peacefully",
+    "peacefulness",
+    "peacemaker",
+    "peacetime"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062225_1bcfb978e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062225_cc069da561_o.png",
+      "id_image": "peaceful_2529696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062165_2f70a7790c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062165_b8f536b4f4_o.png",
+      "id_image": "peaceful_4601210"
+    }
+  ]
+}

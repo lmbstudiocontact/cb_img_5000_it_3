@@ -1,0 +1,83 @@
+{
+  "english": "retort",
+  "phat_am": "rəˈtoːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trả miếng",
+          "definition": "to make a quick and clever or angry reply",
+          "world_new": [
+            "quick",
+            "clever",
+            "angry",
+            "reply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘You’re too old’, she said. ‘You’re not so young yourself,’ he retorted.",
+              "world_new": [
+                "young"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trả miếng",
+          "definition": "such a reply",
+          "world_new": [
+            "reply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an angry retort.",
+              "world_new": [
+                "angry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Reiko retorts that one can give a soul to a puppet by breathing into its mouth.",
+    "We know that retorting machinery can be produced quickly and would be a short-term business.",
+    "When contacted, the firework company that had made the delivery retorted that, as far as they were concerned, the purchaser could have had 20 tonnes had he so wanted.",
+    "The fumes from the present retorts and gas holders are very bad indeed and an overhead travelling grab rattles and whirrs with its load of glowing cinders all night.",
+    "His remarks about fatuity were wrong and unjust and could be retorted on his own comments on the matter.",
+    "I do not really understand why, in this game of slinging the same retorts all the time, you never believe the authorities of a partner state.",
+    "Limestone was baked in retorts as part of the process to make slaked lime.",
+    "As a general rule, vertical retorts process lumps using a gas heat carrier, while horizontal retorts process fines using solid heat carrier."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "retire",
+    "retired",
+    "retirement",
+    "retiring",
+    "retort",
+    "retrace",
+    "retract",
+    "retractable",
+    "retraction"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086485_5f24011c3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086485_a68669b98b_o.png",
+      "id_image": "retort_2050382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463873_6021c1ee3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463873_d364d7a928_o.png",
+      "id_image": "retort_5332582"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "english": "nurse",
+  "phat_am": "nəːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "y tá",
+          "definition": "a person who looks after sick or injured people in hospital",
+          "world_new": [
+            "person",
+            "looks",
+            "sick",
+            "injured",
+            "people",
+            "hospital"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a qualified nurse.",
+              "world_new": [
+                "qualified"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cô bảo mẫu",
+          "definition": "a person, usually a woman, who looks after small children",
+          "world_new": [
+            "person",
+            "looks",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children have gone out with their nurse.",
+              "world_new": [
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chăm sóc",
+          "definition": "to look after sick or injured people, especially in a hospital",
+          "world_new": [
+            "look",
+            "sick",
+            "injured",
+            "people",
+            "hospital"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was nursed back to health.",
+              "world_new": [
+                "health"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho bú",
+          "definition": "to give (a baby) milk from the breast.",
+          "world_new": [
+            "milk",
+            "breast"
+          ]
+        },
+        {
+          "mean_english": "chăm chút",
+          "definition": "to hold with care",
+          "world_new": [
+            "hold",
+            "care"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was nursing a kitten.",
+              "world_new": [
+                "nursing",
+                "kitten"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ấp ủ",
+          "definition": "to have or encourage (feelings eg of anger or hope) in oneself",
+          "world_new": [
+            "encourage",
+            "anger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She nursed a faint hope that he would mend his ways.",
+              "world_new": [
+                "faint",
+                "hope",
+                "mend"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Diagnostic reasoning strategies of nurses and nursing students.",
+    "As a consequence, some chapters lack the specificity to be of real value to nurses facing the challenges of practice in this area.",
+    "Several carers received support from district or agency nurses, or social services in this process.",
+    "One of these physicians suggested that the nurses contact the ethicist.",
+    "Senior staff nurses from each area identified essential knowledge and skills content, determined staff criteria and developed the tools for competency assessment.",
+    "Despite the title's focus on nursing older people, the text is relevant to practitioners from all disciplines working in a wide range of care settings.",
+    "In some situations, asthma-trained nurses may have had a more current asthma knowledge than their medical colleagues.",
+    "Towards the end of the century the number of wet-nurses decreased, although the system did not cease until 1937, as we have seen."
+  ],
+  "list_see_also": [
+    "nursery",
+    "nursing",
+    "nursemaid",
+    "nurseryman",
+    "nursery rhyme",
+    "nursery school",
+    "nursing home"
+  ],
+  "list_browse": [
+    "numerous",
+    "nun",
+    "nunnery",
+    "nuptial",
+    "nurse",
+    "nursemaid",
+    "nursery",
+    "nursery rhyme",
+    "nursery school"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319616_8a5f7e0644_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319616_5101915ab0_o.png",
+      "id_image": "nurse_203108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434688_330506ca29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434688_7f8412ab92_o.png",
+      "id_image": "nurse_822111"
+    }
+  ]
+}

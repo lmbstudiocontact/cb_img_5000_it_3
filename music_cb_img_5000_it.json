@@ -1,0 +1,92 @@
+{
+  "english": "music",
+  "phat_am": "ˈmjuːzik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "âm nhạc",
+          "definition": "the art of arranging and combining sounds able to be produced by the human voice or by instruments",
+          "world_new": [
+            "art",
+            "human",
+            "voice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She prefers classical music to pop music",
+              "world_new": [
+                "classical",
+                "pop"
+              ]
+            },
+            {
+              "ex_of_definition": "She is studying music"
+            },
+            {
+              "ex_of_definition": "(also adjective) a music lesson.",
+              "world_new": [
+                "lesson"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản nhạc",
+          "definition": "the written form in which such tones etc are set down",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pianist has forgotten to bring her music.",
+              "world_new": [
+                "pianist",
+                "bring"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this work we see again music's role as an 'educative' medium, albeit typically working insidiously.",
+    "One must ask if there is more tokenism than substance in the inclusion of world musics in curricula in both schools and in higher education.",
+    "Could this form of 'spatialisation' be ignored as inessential to the music's true identity?",
+    "More readily apparent than the fundamental line is the music's constitution from layers of orchestral 'texture'.",
+    "If we describe musical activity from the angle of music's functions, we avoid the trap of elitism and keep a more open mind.",
+    "More recently, it has developed perspectives that highlight music's 'active' properties in relation to social action, emotion and cognition.",
+    "Such an example could be of use to teachers working out their own ways of teaching musics from around the world.",
+    "We will investigate how electroacoustic music's areas fit in."
+  ],
+  "list_see_also": [
+    "musical",
+    "musically",
+    "musician"
+  ],
+  "list_browse": [
+    "museum",
+    "mush",
+    "mushroom",
+    "mushy",
+    "music",
+    "musical",
+    "musically",
+    "musician",
+    "musket"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445838_a89da6ebb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445838_ffec26e0ec_o.png",
+      "id_image": "music_183605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685859_f975a5068c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685859_5414d0c211_o.png",
+      "id_image": "music_439532"
+    }
+  ]
+}

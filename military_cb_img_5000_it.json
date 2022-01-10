@@ -1,0 +1,67 @@
+{
+  "english": "military",
+  "phat_am": "ˈmilitəri",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quân sự",
+          "definition": "of soldiers or armed forces generally, or war",
+          "world_new": [
+            "armed",
+            "forces",
+            "generally",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "military supplies/discipline/power."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, the failure of the military's coup attempt in 1991 and the attempt to wrest power in 1992 meant that new avenues for political legitimacy had to be found.",
+    "Perhaps most importantly, the level of political and military disruption was a crucial determinant of economic health in both macroregions.",
+    "Political intrusion compounded the military's woes.",
+    "The para-militaries also had a lot to do with it.",
+    "In the pirates' case, their assets included military expertise and integration into long-distance commercial networks.",
+    "Her assessment of the growing tensions with the army, especially around the military's control and misuse of international assistance following the earthquake of 1976 is also informative.",
+    "Their manpower was limited and their military equipment negligible.",
+    "Their response to criticism of the military's record on human rights is to point to the improved openness and transparency."
+  ],
+  "list_see_also": [
+    "the military"
+  ],
+  "list_browse": [
+    "milestone",
+    "militancy",
+    "militant",
+    "militantly",
+    "military",
+    "milk",
+    "milk tooth",
+    "milkiness",
+    "milkmaid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458478_fcc21b3618_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458478_17921e9d88_o.png",
+      "id_image": "military_3191044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081130_b283f75d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081130_359ab80b54_o.png",
+      "id_image": "military_6250548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698984_7351555aed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698984_7f37736d61_o.png",
+      "id_image": "military_771344"
+    }
+  ]
+}

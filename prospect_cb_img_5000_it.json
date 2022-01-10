@@ -1,0 +1,114 @@
+{
+  "english": "prospect",
+  "phat_am": "ˈprospekt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "triển vọng",
+          "definition": "an outlook for the future; a view of what one may expect to happen",
+          "world_new": [
+            "outlook",
+            "view",
+            "expect",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He didn’t like the prospect of going abroad",
+              "world_new": [
+                "abroad"
+              ]
+            },
+            {
+              "ex_of_definition": "a job with good prospects.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phong cảnh",
+          "definition": "a view or scene",
+          "world_new": [
+            "view",
+            "scene"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fine prospect.",
+              "world_new": [
+                "fine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "thăm dò",
+          "definition": "to make a search (for gold etc)",
+          "world_new": [
+            "search",
+            "gold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is prospecting for gold.",
+              "world_new": [
+                "gold"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The prospect of eight levels of attainment in the revised curriculum of 2000 held out little hope for a more reasonable approach.",
+    "I also do not think that the only future for museums that do want to become more popular is a 'gloomy prospect of complete commodification'.",
+    "A third, more challenging, prospect would be the creation of a new model of assessment of creative music making.",
+    "Furthermore, even for scholars who are dubious about the prospects for generalization or uninterested in its pursuit, theoretical explorations of historical causation remain important.",
+    "In so doing, it is salutary to measure the performance of the parties against their assessments of the prospects.",
+    "In peri-urban areas, land holds out the prospect of higher returns from realestate development than from farming.",
+    "In prospect theory, loss delivers this exaggerated sting because losses are measured against the actor's reference point, not the actor's net asset position.",
+    "Within the bureaucracy of the multi-tiered health service, there was little prospect of them exercising any real user influence."
+  ],
+  "list_see_also": [
+    "prospector",
+    "prospectus"
+  ],
+  "list_browse": [
+    "prose",
+    "prosecute",
+    "prosecution",
+    "prosecutor",
+    "prospect",
+    "prospector",
+    "prospectus",
+    "prosper",
+    "prosperity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350501_918d5d1ee4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350501_97681ed83f_o.png",
+      "id_image": "prospect_2464345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705039_6f89b4e2e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705039_47cc18ed9d_o.png",
+      "id_image": "prospect_2471430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395267_5bcefb7c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395267_555fdc518e_o.png",
+      "id_image": "prospect_4497223"
+    }
+  ]
+}

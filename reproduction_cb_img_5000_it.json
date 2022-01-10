@@ -1,0 +1,72 @@
+{
+  "english": "reproduction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tái tạot; sự sinh sản",
+          "definition": "the act or process of reproducing",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying reproduction in rabbits."
+            }
+          ]
+        },
+        {
+          "mean_english": "bản sao",
+          "definition": "a copy (of a work of art etc)",
+          "world_new": [
+            "copy",
+            "work",
+            "art"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These paintings are all reproductions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Is assisted reproduction a process ripe for regulation?",
+    "The first effect which all the media of mechanical reproduction have upon musical culture is that of a multiplier.",
+    "Species that depend on large, and/or permanent, aquatic sites for reproduction simply go extinct as is reflected in species composition and turnover patterns.",
+    "Houses are both locales for capitalist production and arenas of social reproduction.",
+    "This phenotypic change is then transmitted somehow to the genetic material so that it is passed on in reproduction.",
+    "At the same time, deformation of the skeleton and unfavourable changes in host reproduction are unlikely to occur.",
+    "Resources allocated to reproduction will, therefore, be diminished.",
+    "The physico-chemistry of affinities and of fermentation, which concerns respiration, chyliation, glandular secretion, reproduction, etc., does not modify the givens of the problem."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reproach",
+    "reproachful",
+    "reproachfully",
+    "reproduce",
+    "reproduction",
+    "reproductive",
+    "reproductive system",
+    "reproof",
+    "reprove"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437718_0026509705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437718_e6b367bb4e_o.png",
+      "id_image": "reproduction_1373948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677514_c602fe5479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677514_d13a325517_o.png",
+      "id_image": "reproduction_2597692"
+    }
+  ]
+}

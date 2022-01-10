@@ -1,0 +1,75 @@
+{
+  "english": "papacy",
+  "phat_am": "ˈpeipəsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chức giáo hoàng",
+          "definition": "the position or power of the pope",
+          "world_new": [
+            "position",
+            "power",
+            "pope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The papacy is the central authority of the Roman Catholic church.",
+              "world_new": [
+                "central",
+                "authority",
+                "Roman",
+                "church"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chế độ giáo hoàng",
+          "definition": "government by popes",
+          "world_new": [
+            "government"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the history of the papacy.",
+              "world_new": [
+                "history"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the fierce controversies between empire and papacy, he sided unambiguously with the latter.",
+    "In contrast to the speed with which the theses were distributed, the response of the papacy was painstakingly slow.",
+    "This is more than a study of the lives of four popes, or of the changes in the institution of the papacy.",
+    "The papacy right through the thirteenth century maintained its position that a central bureaucracy had to be paid for.",
+    "Foliot also developed the novel legal filing of \"ad cautelam\", which was an appeal to the papacy against any future action by the archbishop.",
+    "With how the papacy goes back for centuries, flashbacks often mention popes of past times and places.",
+    "This situation prompted the papacy to support the bishopric more actively.",
+    "It is not surprising that the papacy also took great interest in this case."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pantry",
+    "pants",
+    "pantyhose",
+    "papa",
+    "papacy",
+    "papal",
+    "paparazzo",
+    "papaya",
+    "paper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449433_afc03ff806_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449433_1fe692afed_o.png",
+      "id_image": "papacy_280016"
+    }
+  ]
+}

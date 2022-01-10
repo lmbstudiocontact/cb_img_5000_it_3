@@ -1,0 +1,100 @@
+{
+  "english": "pour",
+  "phat_am": "poː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đổ",
+          "definition": "to (cause to) flow in a stream",
+          "world_new": [
+            "flow",
+            "stream"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She poured the milk into a bowl",
+              "world_new": [
+                "milk",
+                "bowl"
+              ]
+            },
+            {
+              "ex_of_definition": "Water poured down the wall",
+              "world_new": [
+                "wall"
+              ]
+            },
+            {
+              "ex_of_definition": "People were pouring out of the factory.",
+              "world_new": [
+                "factory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mưa như trút",
+          "definition": "(only with itas subject) to rain heavily",
+          "world_new": [
+            "rain",
+            "heavily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was pouring this morning.",
+              "world_new": [
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The fluid was squeezed from the swab into the stomacher bag or poured into a sterile test tube.",
+    "A very small volume of fixative (methanol 3 : acetic acid 1) was poured into the hypotonic solution.",
+    "She pours herself into the music in a manner reminiscent of many seventeenth- and eighteenth-century virtuosos; it was compelling then and remains so now.",
+    "All these are familiar stories, based upon narratives and journals long poured over by historians, yet they are re-told here with welcome freshness.",
+    "The idea behind model cities (1966) was to create a demonstration program pouring massive federal funds into a handful of trouble cities.",
+    "Another 0.5 ml of the collagen mixture was poured over them.",
+    "Money should not be poured into short-lived welfare schemes where the process of ageing is less well charted.",
+    "Sieved soil was then poured back into the burrows and spread to cover as much of the lower surface as possible."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "poultry",
+    "pounce",
+    "pounce on",
+    "pound",
+    "pour",
+    "pout",
+    "poverty",
+    "POW",
+    "powder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376372_2357db34c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376372_77b724b542_o.png",
+      "id_image": "pour_1143124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068335_ddc21bc1c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068335_414363375f_o.png",
+      "id_image": "pour_2954807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376432_bb181cda90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376432_abc213dceb_o.png",
+      "id_image": "pour_310105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376317_8a89d5015f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376317_feaa5693c0_o.png",
+      "id_image": "pour_6193063"
+    }
+  ]
+}

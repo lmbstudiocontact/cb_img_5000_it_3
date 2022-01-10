@@ -1,0 +1,113 @@
+{
+  "english": "protest",
+  "phat_am": "prəˈtest",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phản đối",
+          "definition": "to express a strong objection",
+          "world_new": [
+            "express",
+            "strong",
+            "objection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are protesting against the new law.",
+              "world_new": [
+                "law"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cam đoan",
+          "definition": "to state or declare definitely, especially in denying something",
+          "world_new": [
+            "state",
+            "declare",
+            "definitely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She protested that she was innocent.",
+              "world_new": [
+                "innocent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự phản đối",
+          "definition": "a strong statement or demonstration of objection or disapproval",
+          "world_new": [
+            "strong",
+            "statement",
+            "demonstration",
+            "objection",
+            "disapproval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made no protest"
+            },
+            {
+              "ex_of_definition": "(also adjective) a protest march.",
+              "world_new": [
+                "march"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, rather than addressing the protests directly, the cabinet continued to focus on raising funds in an attempt to meet the program's commitments.",
+    "The official students' representation protested against the presence in the course, without formal permission, of many nonstudents.",
+    "Generally, the protests are characterised by non-violence and little destruction.",
+    "The majority of enclosure protests concerned claims to the exercise of use-rights on pasture, wastes, commons or woodland.",
+    "Were the parish priests sincere in their protests or were they trying to emphasise their misery in order to avoid paying up?",
+    "They responded by opening fire on groups of workers, and frequently called upon the police to contain workers' protests.",
+    "The impression was that the texts ' ' protested too much ' ' and were produced with a view to disproving the popular prejudices wielded against them.",
+    "While all these new policies and programs effectively promoted socio-economic transformation, they also provided tools and created opportunities for popular protests."
+  ],
+  "list_see_also": [
+    "protester"
+  ],
+  "list_browse": [
+    "protection",
+    "protective",
+    "protector",
+    "protein",
+    "protest",
+    "Protestant",
+    "Protestantism",
+    "protester",
+    "protocol"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394482_04929305f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394482_28a0272a6c_o.png",
+      "id_image": "protest_2388939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704354_0aaab0a64a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704354_30071445d9_o.png",
+      "id_image": "protest_2925803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349661_dee3680265_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349661_1886ed347e_o.png",
+      "id_image": "protest_4144575"
+    }
+  ]
+}

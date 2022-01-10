@@ -1,0 +1,99 @@
+{
+  "english": "pause",
+  "phat_am": "poːz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tạm nghỉ",
+          "definition": "a short stop, break or interval (while doing something)",
+          "world_new": [
+            "short",
+            "stop",
+            "break",
+            "interval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a pause in the conversation.",
+              "world_new": [
+                "conversation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu lặng",
+          "definition": "the act of making a musical note or rest slightly longer than normal, or a mark showing that this is to be done.",
+          "world_new": [
+            "act",
+            "musical",
+            "note",
+            "rest",
+            "slightly",
+            "normal",
+            "mark"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tạm nghỉ",
+          "definition": "to stop talking, working etc for a short time",
+          "world_new": [
+            "stop",
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They paused for a cup of tea.",
+              "world_new": [
+                "cup",
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Perceptible pauses were marked in the transciptions, but were not measured individually in milliseconds.",
+    "He stopped walking and the creature paused and turned.",
+    "She pauses more often than in the other oral version and creates more lines than the written version.",
+    "In particular, word boundaries do not correspond at all consistently to pauses in production.",
+    "Here he paused, but he wanted to go on.",
+    "She looked at me, paused for a moment, and then continued.",
+    "Nonwords were presented individually, pausing the tape in between each nonword to allow the participant unlimited time to attempt to repeat the item.",
+    "An utterance was defined as a statement bound by pauses containing one verb."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "patterned",
+    "paunch",
+    "paunchy",
+    "pauper",
+    "pause",
+    "pave",
+    "pavement",
+    "pavilion",
+    "paving stone"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682069_63d262dcbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682069_524d2d21b4_o.png",
+      "id_image": "pause_5072269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371602_433bdb0a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371602_ce3b3b5eee_o.png",
+      "id_image": "pause_5496834"
+    }
+  ]
+}

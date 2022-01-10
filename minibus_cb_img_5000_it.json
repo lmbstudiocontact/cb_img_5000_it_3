@@ -1,0 +1,68 @@
+{
+  "english": "minibus",
+  "phat_am": "ˈminibas",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe buýt nhỏ",
+          "definition": "a small bus, usually with only a dozen seats or so",
+          "world_new": [
+            "small",
+            "bus",
+            "dozen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The school choir hired a minibus.",
+              "world_new": [
+                "school",
+                "choir"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have already implemented, for petrol-engined staff cars, vans and minibuses, a policy of purchasing vehicles capable of running on unleaded petrol.",
+    "Will he also confirm that tolls for motor cars will increase to £2·80, for minibuses to £5·60 and for lorries to £8·40?",
+    "In the meantime, he proposes to recognise an ordinary driving licence for a motor car as proof of competence to drive a minibus.",
+    "Meals on wheels were delivered to 8%, 8% used transportation services (minibus taxi service, available by subscription), and 6% were away for recuperation.",
+    "We are reviewing the full technical and cost implications of seat belts in minibuses and coaches.",
+    "Gribaudi joined one of these minibuses, and talked at length with the women and the caporale who drove the bus and controlled a small segment of the labour market.",
+    "I tell her to take a taxi, but no, she gets on a bus or minibus.",
+    "These will provide new scope for the use of minibuses and taxis, which will be able to boost local bus services."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mini",
+    "miniature",
+    "miniaturization",
+    "miniaturize",
+    "minibus",
+    "minicab",
+    "minim",
+    "minimal",
+    "minimize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342256_76f7afcc6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342256_9af0aa22f6_o.png",
+      "id_image": "minibus_1850810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697414_68feb48a35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697414_fd340ef14e_o.png",
+      "id_image": "minibus_2290104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697384_7f568f4f32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697384_49109f7ae9_o.png",
+      "id_image": "minibus_2882152"
+    }
+  ]
+}

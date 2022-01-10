@@ -1,0 +1,83 @@
+{
+  "english": "musician",
+  "phat_am": "mjuˈziʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà soạn nhạc; nhạc sĩ",
+          "definition": "a person who is skilled in music",
+          "world_new": [
+            "person",
+            "skilled",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The conductor of this orchestra is a fine musician.",
+              "world_new": [
+                "conductor",
+                "orchestra",
+                "fine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhạc công",
+          "definition": "a person who plays a musical instrument",
+          "world_new": [
+            "person",
+            "musical",
+            "instrument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This show has ten singers, twenty dancers and fifty musicians."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the years circa 1400 its ranks included a number of leading musicians.",
+    "Green looked at the way in which popular musicians learned to play outside formal instrument tuition.",
+    "Do musicians really communicate with one another and with their audience?",
+    "The study found most musicians to be wholly or partly self-employed, and to work in a variety of often interdependent roles throughout their careers.",
+    "This provided them with broad understanding of musicians' language, contexts and the kinds of tasks they were likely to discuss.",
+    "This means that the programme producers are in the same relationship to the television market as the musicians who are the subjects of their programmes.",
+    "Probably unknown to the arrangers, adjustments in subtle nuances (bowing, articulation, timbre) appropriate for string writing were made by the veteran string musicians.",
+    "Consider how few musicians enjoy practising with a metronome; fewer still like performing with one."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mushy",
+    "music",
+    "musical",
+    "musically",
+    "musician",
+    "musket",
+    "musketeer",
+    "Muslim",
+    "muslin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445603_b61f66ccae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445603_0b1ae77635_o.png",
+      "id_image": "musician_2637951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375297_59d3169f79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375297_72d94682bc_o.png",
+      "id_image": "musician_3044072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445538_49c4834d38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445538_73b4857018_o.png",
+      "id_image": "musician_4125075"
+    }
+  ]
+}

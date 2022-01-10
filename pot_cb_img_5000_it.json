@@ -1,0 +1,101 @@
+{
+  "english": "pot",
+  "phat_am": "pot",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ấm; bình",
+          "definition": "any one of many kinds of deep container used in cooking, for holding food, liquids etc or for growing plants",
+          "world_new": [
+            "deep",
+            "container",
+            "cooking",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cooking pot",
+              "world_new": [
+                "cooking"
+              ]
+            },
+            {
+              "ex_of_definition": "a plant pot",
+              "world_new": [
+                "plant"
+              ]
+            },
+            {
+              "ex_of_definition": "a jam-pot"
+            },
+            {
+              "ex_of_definition": "The waiter brought her a pot of tea.",
+              "world_new": [
+                "waiter",
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trồng trong bình",
+          "definition": "to plant in a pot",
+          "world_new": [
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Once you’ve potted the plants, don’t forget to water them.",
+              "world_new": [
+                "potted",
+                "forget",
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "potted",
+    "pothole",
+    "pot-shot",
+    "take pot luck"
+  ],
+  "list_browse": [
+    "postscript",
+    "posture",
+    "postwar",
+    "posy",
+    "pot",
+    "pot-shot",
+    "potassium",
+    "potato",
+    "potato crisp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688024_6969c8da7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688024_aba2bc86e8_o.png",
+      "id_image": "pot_1027082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448118_6d4fdcb4f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448118_6a54847223_o.png",
+      "id_image": "pot_259186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377852_f0617b6862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377852_a6d2497643_o.png",
+      "id_image": "pot_5833307"
+    }
+  ]
+}

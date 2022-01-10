@@ -1,0 +1,83 @@
+{
+  "english": "pray",
+  "phat_am": "prei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cầu nguyện",
+          "definition": "to speak reverently to God or a god in order to express thanks, make a request etc",
+          "world_new": [
+            "speak",
+            "reverently",
+            "God",
+            "order",
+            "express",
+            "thanks",
+            "request"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let us pray"
+            },
+            {
+              "ex_of_definition": "She prayed to God to help her.",
+              "world_new": [
+                "God",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cầu xin",
+          "definition": "to hope earnestly",
+          "world_new": [
+            "hope",
+            "earnestly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Everybody is praying for rain.",
+              "world_new": [
+                "rain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "prayer"
+  ],
+  "list_browse": [
+    "prance",
+    "prank",
+    "prattle",
+    "prawn",
+    "pray",
+    "prayer",
+    "pre-",
+    "preach",
+    "preacher"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067340_9a9113053e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067340_676b224e4b_o.png",
+      "id_image": "pray_1396575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067405_5b167f0d69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067405_3a656d6373_o.png",
+      "id_image": "pray_509931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330521_bc0bca16fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330521_c86e598452_o.png",
+      "id_image": "pray_734889"
+    }
+  ]
+}

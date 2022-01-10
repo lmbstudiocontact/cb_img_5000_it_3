@@ -1,0 +1,101 @@
+{
+  "english": "ray",
+  "phat_am": "rei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tia",
+          "definition": "a narrow beam (of light, heat etc)",
+          "world_new": [
+            "narrow",
+            "beam",
+            "light",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the sun’s rays"
+            },
+            {
+              "ex_of_definition": "X-rays",
+              "world_new": [
+                "X-rays"
+              ]
+            },
+            {
+              "ex_of_definition": "heat-rays"
+            },
+            {
+              "ex_of_definition": "a ray of light.",
+              "world_new": [
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chút ít",
+          "definition": "a slight amount (of hope etc)",
+          "world_new": [
+            "slight",
+            "amount",
+            "hope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was still a ray of hope that the missing boy would be found alive.",
+              "world_new": [
+                "hope",
+                "missing",
+                "boy",
+                "found",
+                "alive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Besides these conservation laws, an equation is required to describe the coupling between the cosmic rays and the thermal plasma.",
+    "This is not to say that the visual ray account really does reduce spatial perception to immediacy.",
+    "When cosmic rays encounter hydromagnetic waves or irregularities, they are scattered by the waves.",
+    "These techniques, especially ray-tracing, are very close to ray-tracing in visual rendering.",
+    "Consider the rays from the center point to each exterior point.",
+    "The model comprises a thermal plasma and cosmic rays.",
+    "In control buds, larvae fed on disc florets and destroyed the developing ovules of most ray florets.",
+    "However, unlike the ray trace method, it cannot deal with lines that are self-reversed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ravishingly",
+    "raw",
+    "raw material",
+    "rawness",
+    "ray",
+    "rayon",
+    "raze",
+    "razor",
+    "razor-sharp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382372_61decd2e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382372_0db53fe914_o.png",
+      "id_image": "ray_1620443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692644_8e4611edc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692644_782f4dd820_o.png",
+      "id_image": "ray_1970229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382322_47085aa4fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382322_de8d05a85f_o.png",
+      "id_image": "ray_4717864"
+    }
+  ]
+}

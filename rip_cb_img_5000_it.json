@@ -1,0 +1,120 @@
+{
+  "english": "rip",
+  "phat_am": "rip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xé toạc",
+          "definition": "to make or get a hole or tear in by pulling, tearing etc",
+          "world_new": [
+            "hole",
+            "tear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ripped his shirt on a branch",
+              "world_new": [
+                "shirt",
+                "branch"
+              ]
+            },
+            {
+              "ex_of_definition": "His shirt ripped.",
+              "world_new": [
+                "shirt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xé rách",
+          "definition": "to pull (off, up etc) by breaking or tearing",
+          "world_new": [
+            "pull"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The roof of the car was ripped off in the crash",
+              "world_new": [
+                "roof",
+                "car",
+                "crash"
+              ]
+            },
+            {
+              "ex_of_definition": "to rip up floorboards"
+            },
+            {
+              "ex_of_definition": "He ripped open the envelope.",
+              "world_new": [
+                "open",
+                "envelope"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lỗ thủng",
+          "definition": "a tear or hole",
+          "world_new": [
+            "tear",
+            "hole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rip in my shirt.",
+              "world_new": [
+                "my",
+                "shirt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During the first slow phase the cloud expands gradually as electrons are ripped off by the electric field of the laser pulse.",
+    "His own interest had been kindled by a recent exchange in which he, indeed, felt \"ripped off\" by one of his publishers.",
+    "Apparently, part of the tube has been ripped off.",
+    "Lower bedding planes are erosional, planar or scouring and show erosional features; tool marks, flute casts, gutter casts, load casts, and rip-up clasts.",
+    "For those who follow this trail of rip-offs and unapologetic merchants of self-aggrandisement, there is nothing original here.",
+    "It was subsequently ripped out of the front of the book, almost certainly as a result of his conviction for treason in early 1601.",
+    "He was up in the tree when the boy on the bicycle ripped off the uh the pears.",
+    "Lawbreakers were essentially those who left the public highways and trespassed or ripped wood from the roadside hedges and fences."
+  ],
+  "list_see_also": [
+    "rip off",
+    "rip-off"
+  ],
+  "list_browse": [
+    "rioter",
+    "riotous",
+    "riotously",
+    "riotousness",
+    "rip",
+    "rip off",
+    "ripe",
+    "ripe (old) age",
+    "ripen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460703_91e2de6990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460703_f3fc760247_o.png",
+      "id_image": "rip_4966467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083355_0c5f1d5c72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083355_8cf978d3f4_o.png",
+      "id_image": "rip_5664161"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "english": "plug",
+  "phat_am": "plaɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phích cắm",
+          "definition": "a device for putting into a mains socket in order to allow an electric current to flow through the appliance to which it is attached by cable",
+          "world_new": [
+            "device",
+            "socket",
+            "order",
+            "allow",
+            "electric",
+            "current",
+            "flow",
+            "appliance",
+            "attached",
+            "cable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She changed the plug on the electric kettle.",
+              "world_new": [
+                "electric",
+                "kettle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái nút",
+          "definition": "an object shaped for fitting into the hole in a bath or sink to prevent the water from running away, or a piece of material for blocking any hole",
+          "world_new": [
+            "object",
+            "shaped",
+            "fitting",
+            "hole",
+            "bath",
+            "sink",
+            "prevent",
+            "water",
+            "running",
+            "piece",
+            "material",
+            "hole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bath plug in our hotel room was missing.",
+              "world_new": [
+                "bath",
+                "our",
+                "hotel",
+                "room",
+                "missing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nút lại",
+          "definition": "to block (a hole) by putting a plug in it",
+          "world_new": [
+            "block"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plugged the hole in the window with a piece of newspaper.",
+              "world_new": [
+                "hole",
+                "window",
+                "piece",
+                "newspaper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "plughole",
+    "plug in"
+  ],
+  "list_browse": [
+    "pluck up (the) courage/energy etc",
+    "pluckily",
+    "pluckiness",
+    "plucky",
+    "plug",
+    "plug in",
+    "plughole",
+    "plum",
+    "plum cake"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077280_b418c46308_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077280_e0a0740e82_o.png",
+      "id_image": "plug_191957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340011_63a3dd072e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340011_61abcf8468_o.png",
+      "id_image": "plug_403024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695184_ca47ccc6ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695184_11f78ffee1_o.png",
+      "id_image": "plug_403182"
+    }
+  ]
+}

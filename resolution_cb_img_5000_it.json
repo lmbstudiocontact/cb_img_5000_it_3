@@ -1,0 +1,112 @@
+{
+  "english": "resolution",
+  "phat_am": "rezəˈluːʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyết tâm",
+          "definition": "a firm decision (to do something)",
+          "world_new": [
+            "firm",
+            "decision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a resolution to get up early."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghị quyết",
+          "definition": "an opinion or decision formally expressed by a group of people, eg at a public meeting",
+          "world_new": [
+            "opinion",
+            "decision",
+            "formally",
+            "group",
+            "people",
+            "public",
+            "meeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The meeting passed a resolution in favour/favor of allowing women to join the society.",
+              "world_new": [
+                "meeting",
+                "join",
+                "society"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cương quyết",
+          "definition": "resoluteness.",
+          "world_new": [
+            "resoluteness"
+          ]
+        },
+        {
+          "mean_english": "hành động cương quyết",
+          "definition": "the act of resolving (a problem etc).",
+          "world_new": [
+            "act",
+            "problem"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Intimately related to the previous points is the question of the impact of the ombudsman's resolutions.",
+    "The latter might then have only the resolutions fixed in legal texts - eliminating most evidence of contestation and negotiation.",
+    "No vote was to be taken on any resolutions or on the recommendations of the council themselves.",
+    "Each trial site had a community advisory board, considered essential to identify local ethical issues and any possible resolutions to them.",
+    "Several sets of resolutions are tested for the aforementioned illustrative case.",
+    "The identification of the ' chief inhabitants ' who drew up the resolutions is problematic, not least because the document itself is unsigned.",
+    "Two spatial resolutions were used, of 121 x 61 and 201 x 121 points.",
+    "The resolutions are then discussed and voted on."
+  ],
+  "list_see_also": [
+    "resolute",
+    "resolutely",
+    "resoluteness",
+    "resolve",
+    "resolved"
+  ],
+  "list_browse": [
+    "resistor",
+    "resolute",
+    "resolutely",
+    "resoluteness",
+    "resolution",
+    "resolve",
+    "resolved",
+    "resonance",
+    "resonant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396262_37e81cf0eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396262_70e72e853c_o.png",
+      "id_image": "resolution_1344591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466093_f533e6e1d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466093_9c01801e26_o.png",
+      "id_image": "resolution_3999857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351611_28749deb0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351611_496f584dc2_o.png",
+      "id_image": "resolution_4144642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396172_97ea0a5102_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396172_896f9c7ef6_o.png",
+      "id_image": "resolution_6315672"
+    }
+  ]
+}

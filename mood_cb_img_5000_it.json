@@ -1,0 +1,79 @@
+{
+  "english": "mood",
+  "phat_am": "muːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tâm trạng",
+          "definition": "the state of a person’s feelings, temper, mind etc at a particular time",
+          "world_new": [
+            "state",
+            "temper",
+            "mind",
+            "particular",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What kind of mood is she in?",
+              "world_new": [
+                "kind"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m in a bad mood today.",
+              "world_new": [
+                "bad"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Further research and testing might suggest adding more moods to the basic inventory.",
+    "Certainly, aspects of tempo and dynamic range, as well as instrumentation, are extremely influential in people's preferences, at least when in specific moods.",
+    "We need to examine the role of other moods such as anger\\hostility, confusion\\bewilderment and fatigue as well as anxiety and depression.",
+    "Friends can sense each other's moods, listen and be flexible.",
+    "Sadness is one of the most infectious moods.",
+    "There were psalms for all moods and occasions.",
+    "In this they differ from the expression of other moods.",
+    "Such an assumption over-simplifies, since to accept it would imply that diatonic, stable tonality inescapably expresses decisive, positive moods."
+  ],
+  "list_see_also": [
+    "moody",
+    "moodily",
+    "moodiness"
+  ],
+  "list_browse": [
+    "monument",
+    "monumental",
+    "moo",
+    "mooch",
+    "mood",
+    "moodily",
+    "moodiness",
+    "moody",
+    "moon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336876_e6bd62385f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336876_47eb034549_o.png",
+      "id_image": "mood_4516967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073895_906d626347_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073895_e81bded2e7_o.png",
+      "id_image": "mood_5266110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451718_7e2cbb7cc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451718_2692d7b3d1_o.png",
+      "id_image": "mood_6134059"
+    }
+  ]
+}

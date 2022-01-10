@@ -1,0 +1,130 @@
+{
+  "english": "representative",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tiêu biểu",
+          "definition": "being a good example (of something); typical",
+          "world_new": [
+            "example",
+            "typical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We need opinions from a representative sample of people",
+              "world_new": [
+                "sample",
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "Is this poem representative of his work?",
+              "world_new": [
+                "poem",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đại diện",
+          "definition": "carried on by elected people",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "representative government.",
+              "world_new": [
+                "government"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đại diện của doanh nghiệp",
+          "definition": "(also reprep) a person who represents a business; a travelling salesman",
+          "world_new": [
+            "person",
+            "salesman"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our representative will call on you this afternoon.",
+              "world_new": [
+                "call",
+                "afternoon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người đại diện cho một nhóm người",
+          "definition": "a person who represents a person or group of people",
+          "world_new": [
+            "person",
+            "person",
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A Member of Parliament is the representative of the people in his constituency.",
+              "world_new": [
+                "people",
+                "constituency"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In brute terms of power politics, of course, there is little reason for representatives to do either.",
+    "Therefore, when republics increase in size, the proportion of representatives to constituents must decrease.",
+    "All par ticipants were also cross-examined by representatives from the other side.",
+    "Indeed, the categorical equality defines an equivalence relation on proofs such that transitions are cut-free representatives of equivalence classes.",
+    "Chiefs are the representatives of the orchestra; managers are in charge of management of the orchestra.",
+    "Firstly, trustee representatives in retail funds are typically employees of the retail sponsor group.",
+    "The health authority's representatives again sought to establish a sense of purpose and to embody this in a method of working.",
+    "Part of the challenge has to do with an understanding of the role of community representatives."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reprehensible",
+    "reprehensibly",
+    "represent",
+    "representation",
+    "representative",
+    "repress",
+    "repression",
+    "repressive",
+    "repressiveness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322531_d7588843e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322531_c763c72923_o.png",
+      "id_image": "representative_1534926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322501_baac266455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322501_c5d344f0c5_o.png",
+      "id_image": "representative_2720587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677599_c2fbe33754_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677599_4c4b483caf_o.png",
+      "id_image": "representative_3965805"
+    }
+  ]
+}

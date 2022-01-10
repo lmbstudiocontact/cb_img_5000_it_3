@@ -1,0 +1,64 @@
+{
+  "english": "output",
+  "phat_am": "ˈautput",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sản lượng",
+          "definition": "the quantity of goods, amount of work produced",
+          "world_new": [
+            "quantity",
+            "goods",
+            "amount",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The output of the factory has increased by 20%",
+              "world_new": [
+                "factory"
+              ]
+            },
+            {
+              "ex_of_definition": "His output is poor.",
+              "world_new": [
+                "poor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In other words, backward-reconstruct paths of zeros that lead to the output of the computation.",
+    "Ultimately, the output neurons that fire will be those with the closest original firing regions to the input vector.",
+    "It learns from child-directed speech, and produces output that consists of actual utterances that can be directly compared to children's speech.",
+    "Qualitative results do not change much, even if we do not impose the equal output-sharing rule from the beginning.",
+    "The \"second-stage filter\" has a larger receptive field than the \"first-stage filters,\" and sums the nonlinearly transformed outputs of the first-stage filters.",
+    "The weights associated with output connections are, however, re-estimated after a new hidden unit is recruited.",
+    "In the simulations we presented, the decision nodes are effectively the output representations.",
+    "Its decline would give a much-needed boost to output and to technical progress."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "outlook",
+    "outlying",
+    "outnumber",
+    "outpost",
+    "output",
+    "outrage",
+    "outrageous",
+    "outrageously",
+    "outrageousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078680_9f343770c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078680_4dd0511262_o.png",
+      "id_image": "output_338107"
+    }
+  ]
+}

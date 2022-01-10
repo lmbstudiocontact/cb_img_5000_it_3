@@ -1,0 +1,72 @@
+{
+  "english": "prescription",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đơn thuốc",
+          "definition": "a doctor’s (usually written) instructions for the preparing and taking of a medicine",
+          "world_new": [
+            "medicine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me a prescription to give to the chemist.",
+              "world_new": [
+                "chemist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc kê đơn thuốc",
+          "definition": "the act of prescribing.",
+          "world_new": [
+            "act"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are of course many people, including language scholars of great probity, who are watchful about prescription and hostile to 'prescriptivism'.",
+    "These included difficulty in obtaining prescription pads, lack of electronic prescribing, pharmacists not being aware of supplementary prescribing, and the restrictions on antibiotic prescribing.",
+    "No one could recall any problems other than administrative ones resulting from uncollected prescriptions.",
+    "In either case, the proposals constitute provisional specifications, not prescriptions, regarding what might work in the classroom.",
+    "They felt willing to take responsibility for asking for a prescription but were not con dent that prescribing practices were serving their patients well.",
+    "The omission is especially evident in institutional prescriptions for the reduction of ethnic conflict in severely divided societies.",
+    "In the meantime, together with the cantons, the federal government has introduced a model decree for isolation prescriptions.",
+    "Critics might charge that the insertion of a \"reasonableness\" clause is problematic because it leaves the prescriptions of genetic justice largely indeterminate."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "preposterously",
+    "prerequisite",
+    "prerogative",
+    "prescribe",
+    "prescription",
+    "presence",
+    "presence of mind",
+    "present",
+    "present arms"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443478_e890dd9f8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443478_d922c372dc_o.png",
+      "id_image": "prescription_3595957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065270_be8f934434_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065270_49ecc9efa6_o.png",
+      "id_image": "prescription_4435570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443423_c115ed2d86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443423_7661760fd9_o.png",
+      "id_image": "prescription_5570871"
+    }
+  ]
+}

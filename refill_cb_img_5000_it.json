@@ -1,0 +1,87 @@
+{
+  "english": "refill",
+  "phat_am": "ˈriːfil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái dự trữ",
+          "definition": "the amount (usually in a container) of some material needed to fill up some object which becomes empty through use",
+          "world_new": [
+            "amount",
+            "material",
+            "fill",
+            "object",
+            "empty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I must go and buy some refills for my pen.",
+              "world_new": [
+                "I",
+                "buy",
+                "my",
+                "pen"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "thay thế; đổ đầy",
+          "definition": "to fill up again",
+          "world_new": [
+            "fill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He refilled his pipe.",
+              "world_new": [
+                "pipe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We did see a quantity of old, small arm ammunition which was being refilled, but there was no evidence of any other intervention.",
+    "The pool has been emptied recently so that a leak could he repaired and it will be refilled and restocked with fish shortly.",
+    "Have the shelves been refilled?",
+    "The excavation was refilled but not resurfaced in order to allow the traffic to consolidate the foundation, as is the usual practice.",
+    "We know that it is extended to hair sprays and butane refills.",
+    "In any case apparently his post became vacant some years ago, and has not subsequently been refilled.",
+    "After refilling and restoration there is a colossal waste of money in going to that site to obtain another coal measure from it.",
+    "I am sure that we have all witnessed the spectacle of the same road being endlessly dug up and refilled by a succession of utility companies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reference",
+    "reference book",
+    "reference library",
+    "referendum",
+    "refill",
+    "refine",
+    "refined",
+    "refinement",
+    "refinery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376882_48e1105667_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376882_46e7ba82be_o.png",
+      "id_image": "refill_2621876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068755_0ae9b95f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068755_e653342242_o.png",
+      "id_image": "refill_4413666"
+    }
+  ]
+}

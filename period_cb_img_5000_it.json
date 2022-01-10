@@ -1,0 +1,126 @@
+{
+  "english": "period",
+  "phat_am": "ˈpiəriəd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giai đoạn",
+          "definition": "any length of time",
+          "world_new": [
+            "length",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a period of three days"
+            },
+            {
+              "ex_of_definition": "a period of waiting."
+            }
+          ]
+        },
+        {
+          "mean_english": "kỷ",
+          "definition": "a stage in the Earth’s development, an artist’s development, in history etc",
+          "world_new": [
+            "stage",
+            "development",
+            "development",
+            "history"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Pleistocene period"
+            },
+            {
+              "ex_of_definition": "the modern period.",
+              "world_new": [
+                "modern"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu chấm",
+          "definition": "the punctuation mark (.), put at the end of a sentence; a full stop.",
+          "world_new": [
+            "punctuation",
+            "mark",
+            "full",
+            "stop"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cổ/ lâu",
+          "definition": "(of furniture, costumes etc) of or from the same or appropriate time in history; antique or very old",
+          "world_new": [
+            "furniture",
+            "appropriate",
+            "time",
+            "antique",
+            "old"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "period costumes"
+            },
+            {
+              "ex_of_definition": "His house is full of period furniture (=antique furniture).",
+              "world_new": [
+                "house",
+                "full",
+                "furniture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The changes that took place in this period are beyond the scope of this article.",
+    "Respondents reported retrospectively on experience of 17 premenstrual symptoms ' just before the start of your period ' over the previous 12 months.",
+    "A 3-min period of dark adaptation was followed by a 1-min period of light adaptation to the two surrounds.",
+    "In general, little is known about those living on the margins of society during this period, especially in the rural regions.",
+    "Fifteen infants survived but one baby died in the neonatal period.",
+    "Beetles were removed from the three traps and baits replaced each week for the three-week period following pat placement.",
+    "The decline in residence with children was most rapid during the period from 1940 to 1980, when more than half the total change took place.",
+    "During the 7-month study period, 448 requests for admission to the unit were made for 381 patients."
+  ],
+  "list_see_also": [
+    "periodic",
+    "periodically",
+    "periodical",
+    "periodic table"
+  ],
+  "list_browse": [
+    "perilous",
+    "perilously",
+    "perilousness",
+    "perimeter",
+    "period",
+    "periodic",
+    "periodic table",
+    "periodical",
+    "periodically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365462_7befbcc5d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365462_35189b1220_o.png",
+      "id_image": "period_4277930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320491_4ce173a9f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320491_f40f3c2820_o.png",
+      "id_image": "period_5746612"
+    }
+  ]
+}

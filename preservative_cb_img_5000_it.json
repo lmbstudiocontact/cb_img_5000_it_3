@@ -1,0 +1,61 @@
+{
+  "english": "preservative",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất bảo quản",
+          "definition": "something that preserves, especially that prevents food etc from going bad",
+          "world_new": [
+            "food",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chemical preservative.",
+              "world_new": [
+                "chemical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The question of preservatives in other articles, notably in milk, had been mentioned.",
+    "With regard to preservatives and synthetic additives, the human body has excellent mechanisms for disposing of substances for which it can find no use.",
+    "I know that it has been suggested that the condition might have been caused by the treatment of his house with wood preservatives.",
+    "They must either prohibit these chemicals whether under the name of preservatives or substitutes, or else admit them freely without any restriction whatever.",
+    "We must see to it that none of these processes or preservatives is such as is likely to cause illness.",
+    "I express no view here on the safety or otherwise of food additives, colourings and preservatives.",
+    "The toxicity can come from the food we eat, nine-tenths of which contains colouring, flavouring, preservatives and other additives.",
+    "We are talking here about insecticides, disinfectants, preservatives and products used to protect materials, to mention but a few."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "presentation",
+    "presenter",
+    "presently",
+    "preservation",
+    "preservative",
+    "preserve",
+    "preside",
+    "presidency",
+    "president"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682969_98757fdfee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682969_bb9f0b9aa8_o.png",
+      "id_image": "preservative_1497103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442903_c045abef13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442903_3310621ddc_o.png",
+      "id_image": "preservative_3637224"
+    }
+  ]
+}

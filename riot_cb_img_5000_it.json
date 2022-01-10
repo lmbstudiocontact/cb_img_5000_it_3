@@ -1,0 +1,87 @@
+{
+  "english": "riot",
+  "phat_am": "ˈraiət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc bạo loạn",
+          "definition": "a noisy disturbance created by a usually large group of people",
+          "world_new": [
+            "noisy",
+            "disturbance",
+            "large",
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The protest march developed into a riot.",
+              "world_new": [
+                "protest",
+                "march"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nổi loạn",
+          "definition": "to form or take part in a riot",
+          "world_new": [
+            "form",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The protesters were rioting in the street.",
+              "world_new": [
+                "street"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rioter",
+    "riotous",
+    "riotously",
+    "riotousness",
+    "run riot"
+  ],
+  "list_browse": [
+    "ringlet",
+    "ringmaster",
+    "rink",
+    "rinse",
+    "riot",
+    "rioter",
+    "riotous",
+    "riotously",
+    "riotousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390962_ae713b7b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390962_c647a46820_o.png",
+      "id_image": "riot_2529735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390907_2ac9c3ca2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390907_1bc5622e76_o.png",
+      "id_image": "riot_2529770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345941_0db2a36a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345941_73c8be9f8f_o.png",
+      "id_image": "riot_6009698"
+    }
+  ]
+}

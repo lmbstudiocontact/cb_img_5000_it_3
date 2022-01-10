@@ -1,0 +1,75 @@
+{
+  "english": "radar",
+  "phat_am": "ˈreidaː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hệ thống ra-đa",
+          "definition": "a method of showing the direction and distance of an object by means of radio waves which bounce off the object and return to their source",
+          "world_new": [
+            "method",
+            "direction",
+            "distance",
+            "object",
+            "means",
+            "radio",
+            "bounce",
+            "object",
+            "return",
+            "their",
+            "source"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a radar screen.",
+              "world_new": [
+                "screen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One considerable advance in the technique of fighter defence is that we have re-equipped our early warning system round our coast with new types of radars.",
+    "Does that mean that new radars would be provided in the event that such provision were required?",
+    "In addition, there are plans to set up decoy radars and passive electronic sensors around the country.",
+    "The people manning their radars have been extremely reluctant to switch them on except for very short periods of time.",
+    "Modernisation of existing early warning radars is not prohibited by the treaty.",
+    "The people who pick it up on their radars believe that it will be used.",
+    "All radars will be brought up to the full technical standard, beginning next year.",
+    "However, the maintenance, engineering support and operation of the radars and associated equipment has been carried out under contract since 1964."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "racist",
+    "rack",
+    "racket",
+    "racy",
+    "radar",
+    "radiance",
+    "radiant",
+    "radiantly",
+    "radiate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386647_8e45d6b2c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386647_85f87b66f6_o.png",
+      "id_image": "radar_167344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078960_8e8c6dae05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078960_972b45d737_o.png",
+      "id_image": "radar_224765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386562_aa2406f18e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386562_907d8ae299_o.png",
+      "id_image": "radar_3413102"
+    }
+  ]
+}

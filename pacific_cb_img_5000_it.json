@@ -1,0 +1,56 @@
+{
+  "english": "pacific",
+  "phat_am": "pəˈsifik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "yên bình",
+          "definition": "peaceful or calm",
+          "world_new": [
+            "peaceful",
+            "calm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pacific lake/river."
+            }
+          ]
+        },
+        {
+          "mean_english": "vì hòa bình",
+          "definition": "wanting peace; conciliatory",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The emperor ordered the Avar prisoners returned as a pacific gesture.",
+              "world_new": [
+                "emperor",
+                "gesture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "PA",
+    "pace",
+    "pace out",
+    "pacemaker",
+    "pacific",
+    "pacification",
+    "pacifier",
+    "pacifism",
+    "pacifist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693994_b2d96879c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693994_71289192e2_o.png",
+      "id_image": "pacific_2243616"
+    }
+  ]
+}

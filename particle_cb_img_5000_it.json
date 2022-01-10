@@ -1,0 +1,56 @@
+{
+  "english": "particle",
+  "phat_am": "ˈpaːtikl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạt",
+          "definition": "a very small piece",
+          "world_new": [
+            "small",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a particle of dust.",
+              "world_new": [
+                "dust"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When the pools dry, the rotifers turn into minute particles of dust, wrinkled and desiccated, awaiting the next rainfall.",
+    "Let us now calculate the interaction force of two non-absorbing dust particles with surface temperature different from the gas temperature.",
+    "In the same way that football games involve the movement of physical particles, mental events involve neural activities.",
+    "Progress was a matter not just of heritable particles or innate instincts, but also of culture, nurture and history.",
+    "However, these heavier, less responsive particles form streaks with a smaller angle of inclination in the braids.",
+    "All estimates assume that particles are causally associated with health effects, and that all components have the same toxicity.",
+    "The particle's boundary is a thin spherical membrane, of diameter 2 4 and of constant thickness h in its stress-free configuration.",
+    "The motion of charged particles across the field tends to be reduced, and changed in direction."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "participant",
+    "participate",
+    "participation",
+    "participle",
+    "particle",
+    "particular",
+    "particularly",
+    "particulars",
+    "parting"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067950_6f855a16fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067950_45f5fc5cc1_o.png",
+      "id_image": "particle_1280969"
+    }
+  ]
+}

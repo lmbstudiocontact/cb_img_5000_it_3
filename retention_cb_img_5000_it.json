@@ -1,0 +1,62 @@
+{
+  "english": "retention",
+  "phat_am": "rəˈtenʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giữ lại",
+          "definition": "the act of retaining",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the retention of information.",
+              "world_new": [
+                "information"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There was also no support for hypothesis (3): any method for creating meaningful associations will help vocabulary retention.",
+    "This suggests that youngsters engaged in a longstanding antisocial behavioral trajectory will be less affected by school failure and its concomitant, grade retention.",
+    "Moreover, retention rates in the eight chambers in states without the ballot reform are not statistically different from those that adopted the reform.",
+    "Problems in recruitment and retention are exacerbated by reports of low morale throughout the profession.",
+    "The specific hypothesis tested was that words that occur more often before vowels, an environment that phonetically favors retention, would exhibit less deletion overall.",
+    "Studies on delayed dream recall and long-term retention of pre-sleep stimuli indicate that sleep may have a positive role in the consolidation of information.",
+    "These include: (1) interference with water uptake; (2) mechanical constraints; (3) interference with gas exchange; (4) retention of inhibitors; and (5) inhibitor production.",
+    "The results also revealed a sustained negative impact on later disruptive behavior that persisted long after the occurrence of grade retention."
+  ],
+  "list_see_also": [
+    "retentive"
+  ],
+  "list_browse": [
+    "retaliation",
+    "retard",
+    "retardation",
+    "retarded",
+    "retention",
+    "retentive",
+    "reticence",
+    "reticent",
+    "retina"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349466_2c4135e5b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349466_78a9c76033_o.png",
+      "id_image": "retention_1753715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394212_0f166109ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394212_a91cbdbb3b_o.png",
+      "id_image": "retention_2654575"
+    }
+  ]
+}

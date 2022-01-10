@@ -1,0 +1,106 @@
+{
+  "english": "patrol",
+  "phat_am": "pəˈtrəul",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tuần tra",
+          "definition": "to watch or protect (an area) by moving continually around or through it",
+          "world_new": [
+            "watch",
+            "protect",
+            "moving",
+            "continually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Soldiers patrolled the streets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đội tuần tra",
+          "definition": "a group of people etc who patrol an area",
+          "world_new": [
+            "group",
+            "people",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They came across several army patrols in the hills.",
+              "world_new": [
+                "across",
+                "army"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuần tra",
+          "definition": "the act of watching or guarding by patrolling",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers went out on patrol"
+            },
+            {
+              "ex_of_definition": "(also adjective) patrol duty.",
+              "world_new": [
+                "duty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They guarded private school premises, undertook city centre street patrols on behalf of a number of businesses and guarded certain municipal properties.",
+    "The patrols did resurface in late 1937 but seem to have lapsed thereafter.",
+    "Differences between rural and urban patrols are also explored.",
+    "The seas at that period were little patrolled, and the means of knowing what was going on was very slight.",
+    "They might spend much time, therefore, patrolling their school and its classrooms, talking with children and offering comment to teachers.",
+    "Mechanisms have evolved to ensure that the liver is patrolled by populations of lymphocytes that can respond rapidly upon detection of foreign antigen.",
+    "The \"merit of patrols\" every day was recommended, as was the holding of a \"meeting to exchange tablets\" in order to rotate the guards once a month.",
+    "Tax patrols were infrequent and could be evaded relatively easily, enabling people to resist tax pressure for some time."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "patriot",
+    "patriotic",
+    "patriotically",
+    "patriotism",
+    "patrol",
+    "patron",
+    "patron saint",
+    "patronage",
+    "patronize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442468_da9ff03f25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442468_c90421c95b_o.png",
+      "id_image": "patrol_2400198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682544_8342f2f652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682544_1a68305796_o.png",
+      "id_image": "patrol_4413025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372077_6609274b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372077_358955b71d_o.png",
+      "id_image": "patrol_4413263"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "nice",
+  "phat_am": "nais",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tốt",
+          "definition": "pleasant; agreeable",
+          "world_new": [
+            "agreeable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "nice weather",
+              "world_new": [
+                "weather"
+              ]
+            },
+            {
+              "ex_of_definition": "a nice person.",
+              "world_new": [
+                "person"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hay ho",
+          "definition": "used jokingly",
+          "world_new": [
+            "jokingly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re in a nice mess now.",
+              "world_new": [
+                "mess"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính xác",
+          "definition": "exact; precise",
+          "world_new": [
+            "precise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nice sense of timing.",
+              "world_new": [
+                "sense",
+                "timing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "From my point of view, it would be nice to have a somewhat broader set of reviews that contextualises ritual performances in particular societies.",
+    "Intuitively, we may take this as a hint that this calculus with names does not really enjoy nice confluence features.",
+    "A nice idea in the eighteenth century was implausible in the nineteenth, failing to produce coherent and compelling narratives.",
+    "Not only that, but inescapeable processes of globalization, a nice buzz word now in academe, make such objective pretensions increasingly anachronistic.",
+    "That alone is a pretty nice contribution, although inevitably depressing.",
+    "Then it sounds really nice, then you hear all the sounds, you hear the space.",
+    "They said they enjoyed pleasant views and areas in which to take ' nice walks ' as well as the sense of belonging to a community.",
+    "So, here we have a nice test of the relationship between color contrast and color constancy."
+  ],
+  "list_see_also": [
+    "nicely",
+    "nicety",
+    "to a nicety"
+  ],
+  "list_browse": [
+    "next to",
+    "next to nothing",
+    "nib",
+    "nibble",
+    "nice",
+    "nicely",
+    "nicety",
+    "niche",
+    "Nichrome"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322956_9357d30a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322956_64f1bac896_o.png",
+      "id_image": "nice_3159075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438063_4a9d841acc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438063_f3f1b22dfa_o.png",
+      "id_image": "nice_3770792"
+    }
+  ]
+}

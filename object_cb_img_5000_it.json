@@ -1,0 +1,126 @@
+{
+  "english": "object",
+  "phat_am": "ˈobdʒikt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ vật",
+          "definition": "a thing that can be seen or felt",
+          "world_new": [
+            "felt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were various objects on the table.",
+              "world_new": [
+                "various",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mục tiêu",
+          "definition": "an aim or intention",
+          "world_new": [
+            "aim",
+            "intention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His main object in life was to become rich.",
+              "world_new": [
+                "main",
+                "life",
+                "become",
+                "rich"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bổ ngữ",
+          "definition": "the word or words in a sentence or phrase which represent(s) the person or thing affected by the action of the verb",
+          "world_new": [
+            "sentence",
+            "person",
+            "affected",
+            "action",
+            "verb"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phản đối",
+          "definition": "(often with to) to feel or express dislike or disapproval",
+          "world_new": [
+            "feel",
+            "express",
+            "dislike",
+            "disapproval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wanted us to travel on foot, but I objected (to that).",
+              "world_new": [
+                "wanted",
+                "travel",
+                "foot",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "While the character was absent, another character removed the object from the location, and replaced it with a different object.",
+    "As a result, returning refugees introduced new power objects that they carried with them from the localities where they had found refuge.",
+    "Here we study color scaling using photographs of natural fruit objects.",
+    "He creates no sense of surrounding context or natural perspective but represents each object in the same intensity and detail.",
+    "Through this envelop, it is ensured that object is first surrounded by the robots before making the form closure grasp.",
+    "It holds that it is never permitted to pay for an object x, if x could have been obtained for free.",
+    "But the current study shows that infant pointing in this context does not involve requesting valence information about an object.",
+    "On a third turn, the third object was requested."
+  ],
+  "list_see_also": [
+    "objection",
+    "objectionable",
+    "objectionably"
+  ],
+  "list_browse": [
+    "obese",
+    "obesity",
+    "obey",
+    "obituary",
+    "object",
+    "objection",
+    "objectionable",
+    "objectionably",
+    "objective"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394662_d15c290ee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394662_dec28bf558_o.png",
+      "id_image": "object_1690980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704469_80467fdba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704469_765203aaa5_o.png",
+      "id_image": "object_2181355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464468_41e54374fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464468_3d726d8f64_o.png",
+      "id_image": "object_4882941"
+    }
+  ]
+}

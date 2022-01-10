@@ -1,0 +1,93 @@
+{
+  "english": "partition",
+  "phat_am": "pəˈtiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bức vách ngăn",
+          "definition": "something that divides, eg a light, often temporary, wall between rooms",
+          "world_new": [
+            "light",
+            "temporary",
+            "wall",
+            "rooms"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The office was divided in two by a wooden partition.",
+              "world_new": [
+                "office",
+                "wooden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự phân chia",
+          "definition": "the act of dividing; the state of being divided",
+          "world_new": [
+            "act",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the partition of India."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phân chia",
+          "definition": "to divide",
+          "world_new": [
+            "divide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They partitioned the room (off) with a curtain.",
+              "world_new": [
+                "room",
+                "curtain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The lab had twenty computer terminals separated by partitions which limited subjects' ability to see each other.",
+    "Further, we have clearly partitioned the sub-controllers (function groups) and bestowed data awareness on them.",
+    "The remaining active sets are partitioned into pairs.",
+    "Almost all nutrients are partitioned within the body into different pools which exist in some form of equilibrium.",
+    "We apply the multiset partitioning algorithm to find all equivalence classes amongst these.",
+    "Constraints from partitioning experiments on the composition of subduction-zone fluids.",
+    "We can create new partitions from old by conflating blocks.",
+    "Users can select up to seven partitions of the phylogenetic tree, or choose any set of nodes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "particularly",
+    "particulars",
+    "parting",
+    "partisan",
+    "partition",
+    "partly",
+    "partner",
+    "partnership",
+    "party"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446188_0605920acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446188_47c1bbfe7e_o.png",
+      "id_image": "partition_360129"
+    }
+  ]
+}

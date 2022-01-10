@@ -1,0 +1,115 @@
+{
+  "english": "permit",
+  "phat_am": "pəˈmit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho phép",
+          "definition": "to agree to (another person’s action); to allow or let (someone do something)",
+          "world_new": [
+            "agree",
+            "allow",
+            "let"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Permit me to answer your question",
+              "world_new": [
+                "answer",
+                "your",
+                "question"
+              ]
+            },
+            {
+              "ex_of_definition": "Smoking is not permitted."
+            }
+          ]
+        },
+        {
+          "mean_english": "cho phép",
+          "definition": "to make possible",
+          "world_new": [
+            "possible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My aunt’s legacy permitted me to go to America.",
+              "world_new": [
+                "legacy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "giấy phép",
+          "definition": "a written order allowing a person to do something",
+          "world_new": [
+            "order",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have a permit to export our product.",
+              "world_new": [
+                "export",
+                "our",
+                "product"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Variables within time points were permitted to correlate; however, these relations are not shown to simplify presentation.",
+    "A genome-wide amplification, coupled with the incorporation of modified nucleotides, permits measurement of every transcript in the sample.",
+    "The same procedure that led to (17)permits us to integrate this equation.",
+    "In the new situation, the outside world (government, developer, contractor) will be dependent on archaeologists for obtaining necessary permits.",
+    "Plucking is not permitted below the table height.",
+    "A key issue in the book is an analysis of the experience with the application of economic instruments, such as charges and tradable discharge permits.",
+    "The analysis was permitted to continue for 114 generations and this took approximately 24 hr in total.",
+    "Although establishing new schools is not permitted, there is always a loophole that can be exploited."
+  ],
+  "list_see_also": [
+    "permissible",
+    "permission",
+    "permissive",
+    "permissiveness"
+  ],
+  "list_browse": [
+    "permissible",
+    "permission",
+    "permissive",
+    "permissiveness",
+    "permit",
+    "permutation",
+    "pernicious",
+    "perniciously",
+    "perpendicular"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057140_4cc62c6070_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057140_50cc94faaa_o.png",
+      "id_image": "permit_2904496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057125_1dacfa0af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057125_67a954e930_o.png",
+      "id_image": "permit_3965937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675344_1d9ed4b594_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675344_4d3cfb5b84_o.png",
+      "id_image": "permit_5965877"
+    }
+  ]
+}

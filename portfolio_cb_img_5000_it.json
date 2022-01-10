@@ -1,0 +1,84 @@
+{
+  "english": "portfolio",
+  "phat_am": "poːtˈfəuliəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cặp giấy",
+          "definition": "a case for carrying papers, drawings etc.",
+          "world_new": [
+            "case"
+          ]
+        },
+        {
+          "mean_english": "chức vụ bộ trưởng",
+          "definition": "the post or job of a government minister",
+          "world_new": [
+            "job",
+            "government",
+            "minister"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a minister without portfolio.",
+              "world_new": [
+                "minister"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Needless to say, this consideration potentially undercuts any empirical conclusions reached about portfolio payoffs.",
+    "All good protagonists require a formidable foe, and the foe of modern portfolio theory is behavioral finance.",
+    "The government guarantees that this standardized portfolio will produce a benefit equal to $15.",
+    "For out-of-equilibrium governments, key portfolios may be monopolized by one party or shared between parties.",
+    "The second position is that the liquidity of bank portfolios is what they desire, since otherwise they would be changed.",
+    "Previous measures of what we have called portfolio experience have counted changes within a government during a particular time period.",
+    "In assessing the nature of portfolio payoffs, we must take account of quality as well as quantity.",
+    "Nevertheless, the central manager must deal with the task of combining delegated portfolio subsets into an efficient centralized portfolio."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "portable",
+    "portable computer",
+    "portent",
+    "porter",
+    "portfolio",
+    "porthole",
+    "portico",
+    "portion",
+    "portion out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334681_b6467c064e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334681_0fd12dd83e_o.png",
+      "id_image": "portfolio_1096152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449648_604f385aac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449648_bd34fe1b29_o.png",
+      "id_image": "portfolio_1907425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071600_1c69dc574c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071600_0932943ced_o.png",
+      "id_image": "portfolio_2345295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689684_97172481be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689684_2644e9f7e6_o.png",
+      "id_image": "portfolio_3365880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379662_d6c2877c3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379662_832329b292_o.png",
+      "id_image": "portfolio_683511"
+    }
+  ]
+}

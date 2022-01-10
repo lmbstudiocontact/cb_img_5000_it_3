@@ -1,0 +1,111 @@
+{
+  "english": "referee",
+  "phat_am": "refəˈriː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trọng tài",
+          "definition": "a person who controls boxing, football etc matches, makes sure that the rules are not broken etc",
+          "world_new": [
+            "person",
+            "boxing",
+            "football",
+            "sure",
+            "broken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The referee sent two of the players off the field.",
+              "world_new": [
+                "field"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người chứng nhận",
+          "definition": "a person who is willing to provide a note about one’s character, ability etc, eg when one applies for new job",
+          "world_new": [
+            "person",
+            "willing",
+            "provide",
+            "note",
+            "character",
+            "ability",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please provide the names of two referees, together with your application form and a CV.",
+              "world_new": [
+                "provide",
+                "your",
+                "application",
+                "form",
+                "CV"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm trọng tài",
+          "definition": "to act as a referee for a match",
+          "world_new": [
+            "act",
+            "match"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve been asked to referee (a football match) on Saturday.",
+              "world_new": [
+                "football",
+                "Saturday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The authors are grateful to two anonymous referees for helpful comments on an earlier version of this paper.",
+    "The comments and suggestions of two anonymous referees were also invaluable and greatly improved this paper.",
+    "Likewise, two anonymous referees are acknowledged for encouragement and helpful comments.",
+    "I would also like to thank the two anonymous referees for their useful comments.",
+    "We also wish to thank two anonymous referees for their suggestions to improve the article.",
+    "The authors also wish to thank the anonymous referees for their very helpful comments.",
+    "Likewise, two anonymous referees are acknowledged for encouragement and useful suggestions.",
+    "I also indebted to two anonymous referees for their helpful comments."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reel off",
+    "ref",
+    "refectory",
+    "refer",
+    "referee",
+    "reference",
+    "reference book",
+    "reference library",
+    "referendum"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447263_c3712d97ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447263_2fcd205dc1_o.png",
+      "id_image": "referee_3116364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687189_53dd2b4872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687189_16959c341b_o.png",
+      "id_image": "referee_6036797"
+    }
+  ]
+}

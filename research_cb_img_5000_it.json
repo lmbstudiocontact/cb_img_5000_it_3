@@ -1,0 +1,105 @@
+{
+  "english": "research",
+  "phat_am": "riˈsəːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc nghiên cứu",
+          "definition": "a close and careful study to find out (new) facts or information",
+          "world_new": [
+            "close",
+            "careful",
+            "study",
+            "find",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is engaged in cancer research",
+              "world_new": [
+                "engaged",
+                "cancer"
+              ]
+            },
+            {
+              "ex_of_definition": "His researches resulted in some amazing discoveries",
+              "world_new": [
+                "amazing"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a research student.",
+              "world_new": [
+                "student"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "nghiên cứu",
+          "definition": "to carry out such a study",
+          "world_new": [
+            "carry",
+            "study"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s researching (into) Thai poetry.",
+              "world_new": [
+                "poetry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Given the nature of our research questions, we needed to target organic shoppers.",
+    "Research into semantic skills focuses less on the qualitative aspects of linguistic competence than does research into phonological and morphosyntactic skills.",
+    "His research aims at understanding consciousness as a natural biological phenomenon and at fruitful interaction between philosophical and empirical research in the study of consciousness.",
+    "With a background in philosophical logic and metaphysics, his current research interests focus on the theoretical basis of bioethical inquiry.",
+    "Without a better understanding of popular terminology and establishment of clear philosophical goals, it will be impossible to design and conduct relevant crop/livestock research.",
+    "Future research needs to consider the role of fathers or male caregivers in the emotional development of physically maltreated children.",
+    "Research should also examine the way that child gender may influence the development and use of emotion regulation strategies in physically maltreated children.",
+    "It is theory tested by many individual research findings that permits the generation of predictions about program outcomes under different conditions."
+  ],
+  "list_see_also": [
+    "researcher"
+  ],
+  "list_browse": [
+    "require",
+    "requirement",
+    "rescue",
+    "rescuer",
+    "research",
+    "researcher",
+    "resemblance",
+    "resemble",
+    "resent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058965_bc6ab21ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058965_9fb76804c6_o.png",
+      "id_image": "research_1032124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437383_8914f3fe7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437383_3fa00531a8_o.png",
+      "id_image": "research_1671644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058970_202ee9321f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058970_3cd90b83a7_o.png",
+      "id_image": "research_901046"
+    }
+  ]
+}

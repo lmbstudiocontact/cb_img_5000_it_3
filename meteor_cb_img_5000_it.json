@@ -1,0 +1,74 @@
+{
+  "english": "meteor",
+  "phat_am": "ˈmiːtiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sao băng",
+          "definition": "(also shooting star) a small mass or body travelling very quickly through space which appears very bright after entering the earth’s atmosphere",
+          "world_new": [
+            "small",
+            "mass",
+            "body",
+            "quickly",
+            "space",
+            "bright",
+            "atmosphere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a meteor shower.",
+              "world_new": [
+                "shower"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A single observer would find it impossible to distinguish the meteor as being far from the realm of the stars.",
+    "Maybe the report of a meteor airburst event just before the falls of red rain is not purely coincidental.",
+    "Other teams using the standard model were either unsuccessful, or had to use fitting to past meteor storms to empirically set their prediction parameters.",
+    "These will be the last meteor storms visible in our lifetime.",
+    "Then instead of a star over some variable glyph, the actual logograph was meant to depict a star in motion-a meteor.",
+    "Shouldn't the term be applied to students of meteors and other heavenly bodies?",
+    "Most reports of red rain are reported as isolated instances and have no association with comets or meteors.",
+    "Since they do occur fairly regularly, one could conceivably attempt a correlation of the major yearly meteor showers with the timing of warfare."
+  ],
+  "list_see_also": [
+    "meteoric",
+    "meteorite"
+  ],
+  "list_browse": [
+    "metaphoric",
+    "metaphorically",
+    "metaphysical",
+    "metaphysics",
+    "meteor",
+    "meteoric",
+    "meteorite",
+    "meteorological",
+    "meteorologist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700554_86d8518b9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700554_20174af866_o.png",
+      "id_image": "meteor_257139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082815_9e36e0b100_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082815_09d95e5d66_o.png",
+      "id_image": "meteor_433874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700494_23132abf09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700494_fec71e0ed3_o.png",
+      "id_image": "meteor_5539555"
+    }
+  ]
+}

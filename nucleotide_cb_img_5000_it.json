@@ -1,0 +1,72 @@
+{
+  "english": "nucleotide",
+  "phat_am": "(British) ˈniuːkliəˌtaid; (American) ˈnuːkliːəˌtaid, ˈniuːkliːəˌtaid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "các nucleotide",
+          "definition": "any of various organic compounds that consist of a nucleoside (= a compound consisting of a sugar and a nitrogen base) linked to a phosphate group, and which is one of the basic structural units of nucleic acids such as DNA",
+          "world_new": [
+            "various",
+            "organic",
+            "consist",
+            "compound",
+            "sugar",
+            "nitrogen",
+            "group",
+            "basic",
+            "structural",
+            "DNA"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Determining the order of the nucleotides within a gene is known as DNA sequencing.",
+              "world_new": [
+                "order",
+                "gene",
+                "DNA",
+                "sequencing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The nucleotide sequence of the amplicon from the water was identical to those determined from the three stool specimens for which sequencing was performed.",
+    "Differences among nucleotide sequences were due to insertions/deletions of 1- 6 nucleotides and substitution events.",
+    "The enzyme was purified and its ability to be activated by cyclic nucleotides was examined.",
+    "Linkage disequilibrium between two segregating nucleotide sites under steady flux of mutations in a finite population.",
+    "Given the similarity of the sequences analysed, the nucleotide alignments are obvious and are not shown here.",
+    "Genetic mapping will be further simplified by the generation of additional microsatellite markers and the development of markers based on single nucleotide polymorphisms.",
+    "Finally, one amino acid looks like an afterthought : the pathway to histidine is an extension of nucleotide synthesis and takes 26 steps in all.",
+    "The nucleotide binding site is located in a pocket between the two domains."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nuclear disarmament",
+    "nuclear energy",
+    "nuclear reactor",
+    "nucleic acid",
+    "nucleotide",
+    "nucleus",
+    "nude",
+    "nudge",
+    "nudism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364562_8104258937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364562_ed59164674_o.png",
+      "id_image": "nucleotide_2547733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434988_bac1ea4ede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434988_70256c9374_o.png",
+      "id_image": "nucleotide_5904128"
+    }
+  ]
+}

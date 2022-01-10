@@ -1,0 +1,45 @@
+{
+  "english": "pope",
+  "phat_am": "pəup",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giáo hoàng",
+          "definition": "the bishop of Rome, head of the Roman Catholic church",
+          "world_new": [
+            "bishop",
+            "head",
+            "Roman",
+            "church"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A new Pope has been elected."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pop",
+    "pop up",
+    "pop-gun",
+    "popcorn",
+    "pope",
+    "poppy",
+    "populace",
+    "popular",
+    "popularity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380732_123de242f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380732_b14e10c49c_o.png",
+      "id_image": "pope_2545645"
+    }
+  ]
+}

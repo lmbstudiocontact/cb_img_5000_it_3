@@ -1,0 +1,153 @@
+{
+  "english": "mop",
+  "phat_am": "mop",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giẻ lau sàn",
+          "definition": "a pad of sponge, or a bunch of pieces of coarse string or yarn etc, fixed on a handle, for washing floors, dishes etc",
+          "world_new": [
+            "pad",
+            "sponge",
+            "bunch",
+            "coarse",
+            "string",
+            "yarn",
+            "fixed",
+            "handle",
+            "washing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mop and bucket",
+              "world_new": [
+                "bucket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "búi tóc",
+          "definition": "a thick mass of hair",
+          "world_new": [
+            "thick",
+            "mass",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mop of dark hair.",
+              "world_new": [
+                "dark",
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lau, chùi",
+          "definition": "an act of mopping",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave the floor a quick mop.",
+              "world_new": [
+                "floor",
+                "quick"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lau chùi",
+          "definition": "to rub or wipe with a mop",
+          "world_new": [
+            "rub",
+            "wipe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She mopped the kitchen floor.",
+              "world_new": [
+                "kitchen",
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dọn sạch",
+          "definition": "to wipe or clean (eg a face covered with sweat)",
+          "world_new": [
+            "wipe",
+            "clean",
+            "face"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He mopped his brow.",
+              "world_new": [
+                "brow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the picture condition, children were shown pictures of the two words cat and mop to reduce the need to hold them in working memory while they heard the problem.",
+    "Buildings were vacuumed and mopped and air filters changed.",
+    "But this will quickly be mopped up, and there will be no further office space available thereafter.",
+    "Not only do these corridors of concrete mop up the older terraced property; they take delightful specimens of semi-detached houses in their train as well.",
+    "We were told of the lack of basic hygiene in cleaning practices, such as the cleaning of mops, dishcloths and so on.",
+    "But during the war period, war-time industry mopped up a large part of this pool of unemployment.",
+    "A few ' mopping up ' comments may be permitted.",
+    "One is told that any surplus money there may be is mopped up in taxation."
+  ],
+  "list_see_also": [
+    "mop up"
+  ],
+  "list_browse": [
+    "mooring",
+    "moorings",
+    "moorland",
+    "moose",
+    "mop",
+    "mop up",
+    "mope",
+    "moped",
+    "moral"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381652_2289069243_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381652_d9fe62ee40_o.png",
+      "id_image": "mop_3216129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451528_5985a85558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451528_02eebaee18_o.png",
+      "id_image": "mop_3553659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336571_dfeeb8777c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336571_fc221a58f7_o.png",
+      "id_image": "mop_4352908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336536_f3eb0e4ea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336536_75c7d12d12_o.png",
+      "id_image": "mop_5234131"
+    }
+  ]
+}

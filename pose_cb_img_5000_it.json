@@ -1,0 +1,150 @@
+{
+  "english": "pose",
+  "phat_am": "pəuz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tư thế",
+          "definition": "a position or attitude of the body",
+          "world_new": [
+            "position",
+            "attitude",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a relaxed pose.",
+              "world_new": [
+                "relaxed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điệu bộ giả tạo",
+          "definition": "a false manner or way of behaving assumed in order to impress others; pretence",
+          "world_new": [
+            "false",
+            "manner",
+            "assumed",
+            "order",
+            "impress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His indignation was only a pose.",
+              "world_new": [
+                "indignation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tạo dáng",
+          "definition": "to position oneself eg for a photograph to be taken",
+          "world_new": [
+            "position",
+            "photograph"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She posed in the doorway.",
+              "world_new": [
+                "doorway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm ra vẻ",
+          "definition": "(with as) to pretend to be",
+          "world_new": [
+            "pretend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He posed as a doctor.",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đưa ra câu hỏi",
+          "definition": "to set or offer (a question or problem) for answering or solving",
+          "world_new": [
+            "offer",
+            "question"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He posed a difficult question",
+              "world_new": [
+                "difficult",
+                "question"
+              ]
+            },
+            {
+              "ex_of_definition": "This poses a problem.",
+              "world_new": [
+                "problem"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such diseases may pose significant problems for perennial wheat, characterized by low disturbance and stand persistence over multiple growing seasons.",
+    "However, even if the velar fricatives were phonemic, this would pose no problem.",
+    "The castor wheels have pure rolling movement during steering, which makes the microrobot chassis keep its pose.",
+    "As trophies, they will later assemble to pose for photographs for others to see.",
+    "Consider a real-life case that seems to pose problems for the interest theory of value.",
+    "Indeed, is it even meaningful to pose the question concerning ' transfer ' at all in the form indicated ?",
+    "In such a scenario, the robot has to be able to detect and recognize objects as well as estimate their pose.",
+    "From the pose error the linear and angular velocities are computed and provide the motion control level."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "portion out",
+    "portrait",
+    "portray",
+    "portrayal",
+    "pose",
+    "posh",
+    "position",
+    "positive",
+    "positively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379272_141548d9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379272_6438601ac7_o.png",
+      "id_image": "pose_4968211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449373_48596307d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449373_35e6de36a8_o.png",
+      "id_image": "pose_4968222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334271_38e2c0e249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334271_8bed333175_o.png",
+      "id_image": "pose_4968231"
+    }
+  ]
+}

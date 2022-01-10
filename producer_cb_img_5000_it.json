@@ -1,0 +1,68 @@
+{
+  "english": "producer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà sản xuất",
+          "definition": "a person who produces a play, film, etc, but is usually not responsible for instructing the actors",
+          "world_new": [
+            "person",
+            "play",
+            "film",
+            "responsible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a film producer.",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, livestock producers are becoming more geographically concentrated, located in clusters near processing and infrastructure services20.",
+    "We examined how external economic drivers shape the type of agricultural systems that producers adopt.",
+    "In the past, the norms ascribed to members of the community depended on their capacity as producers.",
+    "However, the interaction between users and producers in the manufacturing sector, including medical device manufacturing processes, may not be always as expected (12).",
+    "First, because the producers are few in number, coordination and marketing need not fall upon the state.",
+    "At the same time, corporatist arrangements offered producers access and influence in the creation of policies that affected them directly.",
+    "As expected, both groups of producers earned most of their income from agriculture.",
+    "They are governed by their roles as food producers for the home and often also for the market."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prodigality",
+    "prodigally",
+    "prodigy",
+    "produce",
+    "producer",
+    "product",
+    "production",
+    "productive",
+    "productivity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059170_32505ce7be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059170_3026a7dbc3_o.png",
+      "id_image": "producer_1902013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322331_ce69d0ebcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322331_da4a5dbcd9_o.png",
+      "id_image": "producer_6348159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437553_8f6af86f0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437553_6f716b1959_o.png",
+      "id_image": "producer_6348171"
+    }
+  ]
+}

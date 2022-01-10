@@ -1,0 +1,70 @@
+{
+  "english": "reflector",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gương phản xạ",
+          "definition": "something, especially of glass or metal, that reflects light, heat etc",
+          "world_new": [
+            "glass",
+            "metal",
+            "light",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Having reflectors makes cyclists much more visible to car drivers in the dark.",
+              "world_new": [
+                "visible",
+                "car",
+                "dark"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many motorists know them; they are indeed most effective as reflectors.",
+    "There is one good reason why we should do something about these road reflectors now.",
+    "Are we to understand that no tests of these reflectors are carried out?",
+    "Whether we switch off the light or turn down the reflectors so that they do not shine in people's eyes makes a real difference.",
+    "People are to receive a fixed penalty for a lighting offence or for lack of reflectors which are required by law.",
+    "He says that he feels that the vehicles should be a light colour at the back and that reflectors should always be fitted.",
+    "The old type of lamp had dipping reflectors; with the new type it is the filament which goes out.",
+    "Certainly where a system of street lighting exists it would be very much better to have the signs illuminated at night, instead of using reflectors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reflecting",
+    "reflection",
+    "reflective",
+    "reflectively",
+    "reflector",
+    "reflex",
+    "reflexive",
+    "reforestation",
+    "reform"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376197_465e36dffb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376197_16772ed15b_o.png",
+      "id_image": "reflector_1339240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446428_1bbb993f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446428_521d81ae6b_o.png",
+      "id_image": "reflector_1902053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331361_984b06a794_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331361_6c420f835f_o.png",
+      "id_image": "reflector_2005039"
+    }
+  ]
+}

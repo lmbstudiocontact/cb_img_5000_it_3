@@ -1,0 +1,141 @@
+{
+  "english": "pound",
+  "phat_am": "paund",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng bảng",
+          "definition": "(also pound sterling"
+        },
+        {
+          "mean_english": "đơn vị cân nặng pound = 0,454 kilograms",
+          "definition": "(usually abbreviated to lb(s)when written with a number) a measure of weight (0.454 kilograms).",
+          "world_new": [
+            "measure",
+            "weight"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ nhốt súc vật đi lạc",
+          "definition": "an enclosure or pen into which stray animals are put",
+          "world_new": [
+            "enclosure",
+            "pen",
+            "stray"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dog pound.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh mạnh",
+          "definition": "to hit or strike heavily; to thump",
+          "world_new": [
+            "hit",
+            "strike",
+            "thump"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pounded at the door",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "The children were pounding on the piano.",
+              "world_new": [
+                "piano"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy rầm rập",
+          "definition": "to walk or run heavily",
+          "world_new": [
+            "walk",
+            "run",
+            "heavily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pounded down the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giã",
+          "definition": "to break up (a substance) into powder or liquid",
+          "world_new": [
+            "break",
+            "powder",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She pounded the dried herbs.",
+              "world_new": [
+                "dried"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "So what is the problem as to dollars and pounds?",
+    "Upfront we have the names of various production companies who put up the money which, eventually, was about three and a half million pounds.",
+    "A pound in one colony was not worth the same as a pound in another and accordingly exchanged with sterling at different rates.",
+    "For attending hevening parties now we generally get one pound and our refreshments.",
+    "They had been advised to eat one pound of red meat per day and avoid carbohydrate-rich food.",
+    "Liming alone might involve 100- 160 loads per acre at a shilling per load - between five and eight pounds.",
+    "After peaking at $2.00/pound in late 1997, the international price fell to $1.00 in 1999 and then halved again during the next two years.",
+    "Only a weight gain or loss of 3 pounds or more was considered."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "poulterer",
+    "poultry",
+    "pounce",
+    "pounce on",
+    "pound",
+    "pour",
+    "pout",
+    "poverty",
+    "POW"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446793_bbc568cb65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446793_cf6cd8d0e9_o.png",
+      "id_image": "pound_2349360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686829_77ced42d1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686829_30bdc612a6_o.png",
+      "id_image": "pound_506129"
+    }
+  ]
+}

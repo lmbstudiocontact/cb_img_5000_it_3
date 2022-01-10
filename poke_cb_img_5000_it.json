@@ -1,0 +1,143 @@
+{
+  "english": "poke",
+  "phat_am": "pəuk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đẩy; chọc",
+          "definition": "to push something into; to prod",
+          "world_new": [
+            "push",
+            "prod"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He poked a stick into the hole",
+              "world_new": [
+                "stick",
+                "hole"
+              ]
+            },
+            {
+              "ex_of_definition": "He poked her in the ribs with his elbow.",
+              "world_new": [
+                "elbow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chọc thành lỗ",
+          "definition": "to make (a hole) by doing this",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She poked a hole in the sand with her finger.",
+              "world_new": [
+                "hole",
+                "sand",
+                "finger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thò ra",
+          "definition": "to (cause to) protrude or project",
+          "world_new": [
+            "protrude",
+            "project"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She poked her head in at the window",
+              "world_new": [
+                "head",
+                "window"
+              ]
+            },
+            {
+              "ex_of_definition": "His foot was poking out of the blankets.",
+              "world_new": [
+                "foot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đẩy; cú chọc",
+          "definition": "an act of poking; a prod or nudge",
+          "world_new": [
+            "act",
+            "prod",
+            "nudge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me a poke in the arm.",
+              "world_new": [
+                "arm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All kinds of gibes could no doubt be poked at us.",
+    "He poked some fun at it and, if he had had unlimited time, he could have poked much more fun at it.",
+    "Members find it hard to resist poking fun at my continued idealism in raising the game of politics.",
+    "I claim to represent the public interest, which is always a good alibi when you are poking your nose into other people's business.",
+    "A lot of fun was poked at the examination.",
+    "They were literally sitting in a corner of a room with a young man in front of them, poking his finger at them and demanding to know their salaries.",
+    "I deny, however, that they have a right to go poking about and messing about with public officers of a public corporation to find out information, as was exposed yesterday.",
+    "There is also concern that when poking about in structures that may be many hundreds of years old an awful lot of problems may be found."
+  ],
+  "list_see_also": [
+    "poker",
+    "poky",
+    "poke about",
+    "poke fun at",
+    "poke one’s nose into"
+  ],
+  "list_browse": [
+    "poisoner",
+    "poisoning",
+    "poisonous",
+    "poisonously",
+    "poke",
+    "poke about",
+    "poke fun at",
+    "poke one’s nose into",
+    "poker"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338046_df05f1e7d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338046_1b3a3da102_o.png",
+      "id_image": "poke_4647359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452923_c41bbe0cc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452923_6d49456a08_o.png",
+      "id_image": "poke_5507904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075025_8845aa4efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075025_8ded8d216c_o.png",
+      "id_image": "poke_5507925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337961_b4de4cbd5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337961_703226f305_o.png",
+      "id_image": "poke_6159105"
+    }
+  ]
+}

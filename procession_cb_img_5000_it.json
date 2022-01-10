@@ -1,0 +1,51 @@
+{
+  "english": "procession",
+  "phat_am": "prəˈseʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đám diễu hành",
+          "definition": "a line of people, vehicles etc moving forward in order, especially for a ceremonial purpose",
+          "world_new": [
+            "line",
+            "people",
+            "moving",
+            "forward",
+            "order",
+            "ceremonial",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The procession moved slowly through the streets.",
+              "world_new": [
+                "slowly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "proceedings",
+    "proceeds",
+    "process",
+    "processed",
+    "procession",
+    "processor",
+    "proclaim",
+    "proclamation",
+    "procrastinate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438013_a43eeae1e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438013_46f9e5a055_o.png",
+      "id_image": "procession_6000883"
+    }
+  ]
+}

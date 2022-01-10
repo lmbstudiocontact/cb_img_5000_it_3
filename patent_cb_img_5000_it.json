@@ -1,0 +1,98 @@
+{
+  "english": "patent",
+  "phat_am": "ˈpeitənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bằng sáng chế",
+          "definition": "an official licence/license from the government giving one person or business the right to make and sell a particular article and to prevent others from doing the same",
+          "world_new": [
+            "official",
+            "government",
+            "person",
+            "business",
+            "right",
+            "sell",
+            "particular",
+            "article",
+            "prevent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She took out a patent on her design",
+              "world_new": [
+                "design"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a patent process.",
+              "world_new": [
+                "process"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "được cấp bằng sáng chế",
+          "definition": "to obtain a patent for; He patented his new invention.",
+          "world_new": [
+            "obtain"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For pharmaceutical innovations, the existing patent system provides 20 years of patent protection.",
+    "He shared his father's desperation, the desperation of a small man who watched big producers monopolize the state patents and premiums that eluded him.",
+    "Thus, it is generally accepted that patents should continue just long enough so that monopoly profits can repay the costs of development of the invention.",
+    "For each problem, the original patent document was used to determine the per formance the invention was supposed to achieve.",
+    "Exclusivity is limited to the 20 years from the date a patent application is filed.",
+    "One tiny residual shunt is still patent (4 weeks follow-up).",
+    "It is important to note that complete closure was achieved in all patients with patent oval foramen after presumed paradoxical embolism.",
+    "For diseases specific to developing nations, the incentives conferred by patents would remain to encourage research."
+  ],
+  "list_see_also": [
+    "patent leather shoes"
+  ],
+  "list_browse": [
+    "patchwork",
+    "patchy",
+    "pâté",
+    "patella",
+    "patent",
+    "patent leather shoes",
+    "paternal",
+    "paternity",
+    "path"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443448_366b4f5595_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443448_c48f975101_o.png",
+      "id_image": "patent_2361734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683514_db16729635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683514_1726d83d0d_o.png",
+      "id_image": "patent_3528898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065165_be5b91806e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065165_3112fc1125_o.png",
+      "id_image": "patent_4391616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373097_9b14797f59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373097_e7108d70fd_o.png",
+      "id_image": "patent_5352130"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "pulp",
+  "phat_am": "palp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cùi trái cây",
+          "definition": "the soft, fleshy part of a fruit.",
+          "world_new": [
+            "soft",
+            "fleshy",
+            "part",
+            "fruit"
+          ]
+        },
+        {
+          "mean_english": "bột giấy",
+          "definition": "a soft mass of other matter, eg of wood pulp from which paper is made",
+          "world_new": [
+            "soft",
+            "mass",
+            "matter",
+            "wood",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "wood pulp.",
+              "world_new": [
+                "wood"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nghiền nhão; lấy phần ruột",
+          "definition": "to make into pulp",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fruit was pulped and bottled.",
+              "world_new": [
+                "fruit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The sweet fillings are made with sweetened fruit pulps.",
+    "Despite this critical success neither book was promoted properly and both volumes ended up being pulped.",
+    "They are at present used for pitprops and, to a limited extent, for pulping; the greater proportion of our supplies of pitwood, pulpwood and woodpulp however, still comes from abroad.",
+    "We could plant, brash and thin and develop that 90,000 acres and then go on to pulping and processing and the rest of it.",
+    "A good many collection authorities either collect waste paper separately or separate it for recovery and then bale it and sell it to the paper pulping industry.",
+    "There are paper making materials—wood pulps.",
+    "About 350 tons of surplus publications are to be pulped.",
+    "He became one of the million-word-a-year men in the pulps by virtue of his tremendous output."
+  ],
+  "list_see_also": [
+    "pulpy"
+  ],
+  "list_browse": [
+    "pull up",
+    "pulley",
+    "pullover",
+    "pulmonary",
+    "pulp",
+    "pulpit",
+    "pulpy",
+    "pulsate",
+    "pulsation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085270_d1d812e11d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085270_3d9e83501b_o.png",
+      "id_image": "pulp_2015256"
+    }
+  ]
+}

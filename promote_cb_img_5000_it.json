@@ -1,0 +1,112 @@
+{
+  "english": "promote",
+  "phat_am": "prəˈməut",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thăng chức",
+          "definition": "to raise (to a higher rank or position)",
+          "world_new": [
+            "raise",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was promoted to head teacher.",
+              "world_new": [
+                "head",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xúc tiến",
+          "definition": "to encourage, organize, or help the progress of",
+          "world_new": [
+            "encourage",
+            "organize",
+            "help",
+            "progress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He worked hard to promote peace / this scheme.",
+              "world_new": [
+                "peace",
+                "scheme"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quảng cáo",
+          "definition": "to encourage the buying of; to advertise",
+          "world_new": [
+            "encourage",
+            "advertise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are promoting a new brand of soap powder.",
+              "world_new": [
+                "brand",
+                "soap",
+                "powder"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The results strongly suggest that practice with printed words with a specific focus on the semantic characteristics effectively promotes the attainment of reading fluency.",
+    "By the end of the eighteenth century, mining ceased to be the force promoting economic growth.",
+    "However, the main campaign issue was on promoting economic development and reducing the high unemployment rate.",
+    "Adhesion is then promoted by compressive states of stresses, which leads to the closure of the cavities.",
+    "Some of the principal roles of taxonomies are to facilitate human understanding, impart structure on an ontology and promote tenable integration.",
+    "Our ultimate goal is to promote healthy growth and development.",
+    "In this capacity, its basic task is to combat error and thereby to promote truth.",
+    "Interviewers and observers were thoroughly trained prior to collecting data, and ongoing recalibration meetings were held to promote measurement fidelity and reliability."
+  ],
+  "list_see_also": [
+    "promoter",
+    "promotion"
+  ],
+  "list_browse": [
+    "prominently",
+    "promise",
+    "promising",
+    "promontory",
+    "promote",
+    "promoter",
+    "promotion",
+    "prompt",
+    "prompter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088600_1b0bb0f602_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088600_7ef8c4fc17_o.png",
+      "id_image": "promote_1610441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351506_255bc2b2ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351506_82d339aeec_o.png",
+      "id_image": "promote_2311674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705864_1b91a4d264_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705864_92ebd1f690_o.png",
+      "id_image": "promote_4047866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396037_da41fcb9f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396037_73606218e9_o.png",
+      "id_image": "promote_5265031"
+    }
+  ]
+}

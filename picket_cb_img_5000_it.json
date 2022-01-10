@@ -1,0 +1,160 @@
+{
+  "english": "picket",
+  "phat_am": "ˈpikit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhóm người đứng gác không cho ai vào làm khi đình công",
+          "definition": "(any one of) a number of people employed at a factory etc who are on strike and who try to persuade workers not to go to work there, not to deliver goods there etc",
+          "world_new": [
+            "number",
+            "people",
+            "employed",
+            "factory",
+            "strike",
+            "try",
+            "persuade",
+            "work",
+            "deliver",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The men set up a picket to stop lorries/trucks getting into the factory",
+              "world_new": [
+                "stop",
+                "factory"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a picket line.",
+              "world_new": [
+                "line"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm cảnh sát làm nhiệm vụ",
+          "definition": "a soldier or a small group of soldiers on special duty, usually to guard against a sudden attack by the enemy",
+          "world_new": [
+            "soldier",
+            "small",
+            "group",
+            "special",
+            "duty",
+            "guard",
+            "sudden",
+            "attack",
+            "enemy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The commander placed pickets at various points round the camp",
+              "world_new": [
+                "commander",
+                "various",
+                "points",
+                "camp"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) picket duty.",
+              "world_new": [
+                "duty"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gác",
+          "definition": "to act as a picket (at)",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In this country, strikers have the legal right to picket",
+              "world_new": [
+                "country",
+                "legal",
+                "right"
+              ]
+            },
+            {
+              "ex_of_definition": "The soldiers picketed the camp.",
+              "world_new": [
+                "camp"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chặn gác",
+          "definition": "to place a group of soldiers, strikers etc somewhere as a picket",
+          "world_new": [
+            "place",
+            "group",
+            "somewhere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The strikers’ leaders decided to picket the factory",
+              "world_new": [
+                "factory"
+              ]
+            },
+            {
+              "ex_of_definition": "The commander picketed the camp.",
+              "world_new": [
+                "commander",
+                "camp"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In so far as a guideline of six pickets is given, that is a commonsense guideline to anyone who may contemplate taking part in picketing.",
+    "We must brace ourselves and be much tougher in implementing the law concerning pickets.",
+    "Special coaches and buses are conveying the flying pickets to their destinations.",
+    "The ordinary hours of the civil guard, which have not been changed, are much shorter than those of the pickets.",
+    "Pickets are in attendance throughout the coalfields in an attempt to deter those seeking to go to work.",
+    "We have heard much about intimidation on the part of the pickets.",
+    "We were asked how many pickets were going to each place.",
+    "Of course, if pickets go beyond that and break the law, then that is a matter for the police in the pat titular circumstances prevailing."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pick someone’s brains",
+    "pick someone’s pocket",
+    "pick up speed",
+    "pick-up",
+    "picket",
+    "pickle",
+    "pickpocket",
+    "picnic",
+    "pictorial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085695_101e2d5125_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085695_212478fbbe_o.png",
+      "id_image": "picket_351802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463208_814e880c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463208_6a4fc6145a_o.png",
+      "id_image": "picket_422069"
+    }
+  ]
+}

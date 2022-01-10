@@ -1,0 +1,61 @@
+{
+  "english": "prisoner",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tù nhân",
+          "definition": "anyone who has been captured and is held against his will as a criminal, in a war etc",
+          "world_new": [
+            "criminal",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The prisoners escaped from jail.",
+              "world_new": [
+                "jail"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The mortality rate among prisoners was at times very high.",
+    "Even though other encounters brought more prisoners, only four men were condemned to death, one to the galleys, and one to banishment.",
+    "Our results show prisoners who injected drugs outside of prison continue to inject in prison but in a less safe manner.",
+    "The centre asked the provinces to take back their prisoners, starting with the ill, infirm and incorrigible.",
+    "Often, when we are waiting in traffic, we are prisoners, immobilized, forced to stop and wait.",
+    "They include propensities to cooperate in individual or multiparty prisoner's dilemmas when the strictly dominant strategy is to defect.",
+    "The church provided spiritual welfare and offered postal services to prisoners of war.",
+    "The 'super-max ' model is based on physical containment of prisoners in isolation cells and remote management of the environment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prise",
+    "prism",
+    "prismatic",
+    "prison",
+    "prisoner",
+    "prisoner of war",
+    "privacy",
+    "private",
+    "private enterprise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679279_20d6abc1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679279_2f67359b62_o.png",
+      "id_image": "prisoner_1396588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324091_ffd9943a4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324091_e804dfef20_o.png",
+      "id_image": "prisoner_372300"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "english": "mount",
+  "phat_am": "maunt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "leo",
+          "definition": "to get or climb up (on or on to)",
+          "world_new": [
+            "climb"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He mounted the platform",
+              "world_new": [
+                "mounted",
+                "platform"
+              ]
+            },
+            {
+              "ex_of_definition": "She mounted (the horse) and rode off.",
+              "world_new": [
+                "mounted"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trèo le",
+          "definition": "to rise in level",
+          "world_new": [
+            "rise",
+            "level"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Prices are mounting steeply.",
+              "world_new": [
+                "steeply"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đóng khung",
+          "definition": "to put (a picture etc) into a frame, or stick it on to card etc",
+          "world_new": [
+            "picture",
+            "frame",
+            "stick",
+            "card"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We should mount some of these photographs."
+            }
+          ]
+        },
+        {
+          "mean_english": "treo",
+          "definition": "to hang or put up on a stand, support etc",
+          "world_new": [
+            "hang",
+            "stand",
+            "support"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He mounted the tiger’s head on the wall.",
+              "world_new": [
+                "mounted",
+                "head",
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được trang bị",
+          "definition": "to organize",
+          "world_new": [
+            "organize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The army mounted an attack",
+              "world_new": [
+                "army",
+                "mounted",
+                "attack"
+              ]
+            },
+            {
+              "ex_of_definition": "They’re planning to mount an exhibition of paintings by local artists.",
+              "world_new": [
+                "planning",
+                "exhibition",
+                "local"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngựa cưỡi",
+          "definition": "a thing or animal that one rides, especially a horse.",
+          "world_new": [
+            "animal",
+            "horse"
+          ]
+        },
+        {
+          "mean_english": "khung",
+          "definition": "a support or backing on which anything is placed for display",
+          "world_new": [
+            "support",
+            "display"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would this picture look better on a red mount or a black one?",
+              "world_new": [
+                "picture",
+                "look",
+                "better",
+                "red",
+                "black"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đỉnh núi",
+          "definition": "a mountain",
+          "world_new": [
+            "mountain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mount Everest."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each group of parasites was classified to the species level where possible using permanent whole mounts.",
+    "The antennae are almost parallel-sided, and twice as long as their diameter, mounted on small papillae within clear, circular areas of cuticle.",
+    "He then lifted him onto his own mount and took him to an inn and looked after him.",
+    "There are two motors mounted on the right and left wheels, thereby providing differential driving motion.",
+    "That said, the stele, a piece of black granite, about 4 high and 2 across, mounted on a 2 high square base, was unveiled.",
+    "The specimen is rather damaged and as one wing was badly broken it was removed and mounted for pinning below the insect.",
+    "This developing sense of self increasingly helps the child to mount an organized response to stimuli, especially challenging stimuli.",
+    "At times the camera was mounted on moving surfaces, such as trains, trams, ships, or even the subway."
+  ],
+  "list_see_also": [
+    "mounted",
+    "Mountie"
+  ],
+  "list_browse": [
+    "mouldiness",
+    "mouldy",
+    "moult",
+    "mound",
+    "mount",
+    "mountain",
+    "mountain bike",
+    "mountain birch",
+    "mountain range"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071345_2db770ba3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071345_616a59b5e5_o.png",
+      "id_image": "mount_306730"
+    }
+  ]
+}

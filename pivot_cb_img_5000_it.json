@@ -1,0 +1,80 @@
+{
+  "english": "pivot",
+  "phat_am": "ˈpivət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trục đứng",
+          "definition": "the pin or centre on which anything balances and turns.",
+          "world_new": [
+            "pin",
+            "centre"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xoay quanh trục",
+          "definition": "(with on) to turn (on)",
+          "world_new": [
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The door pivoted on a central hinge.",
+              "world_new": [
+                "door",
+                "central",
+                "hinge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The pivots are to ensure free turning of the resonator and minimise losses.",
+    "In this operation a reconstructive surgeon uses skin from the forehead above the eyebrow and pivots it vertically to replace missing nasal tissue.",
+    "The semantic verification is made by tools associated with the pivot language.",
+    "There were two under repair, two had the pivots of their cylinders cracked, one had a boiler burst, and one had some other defect in the machinery.",
+    "The bridge is like a forearm and pivots, as it were, from an elbow and it is at the elbow that the bed plates are worn.",
+    "There were solid plates between the pivots and the channel bottom.",
+    "Only relatively uncommon frame designs with single pivots that are concentric with the bottom bracket allow the use of more desirable static chain tensioners.",
+    "Figure 4 presents the use of the refinement and proof correctness process applied to the unified specification in the pivot language."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pitter-patter",
+    "pituitary",
+    "pity",
+    "pityingly",
+    "pivot",
+    "pixel",
+    "pixy",
+    "pizza",
+    "pizzeria"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389422_c02fff1295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389422_ab0d975088_o.png",
+      "id_image": "pivot_1070262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344441_ac8176d70f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344441_731c5d04ea_o.png",
+      "id_image": "pivot_2240461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699514_29fd4b89d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699514_1191a16c0d_o.png",
+      "id_image": "pivot_4234486"
+    }
+  ]
+}

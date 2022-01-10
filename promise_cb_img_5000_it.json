@@ -1,0 +1,139 @@
+{
+  "english": "promise",
+  "phat_am": "ˈpromis",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hứa",
+          "definition": "to say, or give one’s word (that one will, or will not, do something etc)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I promise (that) I won’t be late",
+              "world_new": [
+                "I",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I promise not to be late",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I won’t be late, I promise (you)!",
+              "world_new": [
+                "I",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đảm bảo",
+          "definition": "to say or give one’s assurance that one will give",
+          "world_new": [
+            "assurance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He promised me a new dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "báo hiệu",
+          "definition": "to show signs of future events or developments",
+          "world_new": [
+            "future"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This situation promises well for the future.",
+              "world_new": [
+                "situation",
+                "future"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời hứa",
+          "definition": "something promised",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a promise"
+            },
+            {
+              "ex_of_definition": "I’ll go with you – that’s a promise!"
+            }
+          ]
+        },
+        {
+          "mean_english": "triển vọng",
+          "definition": "a sign of future success",
+          "world_new": [
+            "sign",
+            "future",
+            "success"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She shows great promise in her work.",
+              "world_new": [
+                "great",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Instead, it promises to support and sustain the evolution of the very idea of 'music'.",
+    "Due to the long-term nature of promised pension benefits, pension funds are able to follow a long-horizon investment policy.",
+    "The application of individual psychology to history promised a means to approach the interaction of ideas and personality.",
+    "Clear examples of such rights are moral rights to promises being kept.",
+    "A sense, rightly or not, that the promises of the postwar world were unfulfilled.",
+    "Thus, the study of bilingual discourse markers promises to make contributions to theories of bilingualism, contact linguistics, and language change.",
+    "Still, despite these defects, the regime promises to provide more import and export (depending, of course, on the electricity market conditions) than before.",
+    "Based on this analysis, we propose a method to select promising index terms from among various types of index terms in the second-phase retrieval."
+  ],
+  "list_see_also": [
+    "promising"
+  ],
+  "list_browse": [
+    "promenade",
+    "prominence",
+    "prominent",
+    "prominently",
+    "promise",
+    "promising",
+    "promontory",
+    "promote",
+    "promoter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351581_e387432d6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351581_8e3baa9924_o.png",
+      "id_image": "promise_1925214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351566_ef61b71d6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351566_de1a025abe_o.png",
+      "id_image": "promise_2121079"
+    }
+  ]
+}

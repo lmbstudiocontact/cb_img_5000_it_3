@@ -1,0 +1,119 @@
+{
+  "english": "pressure",
+  "phat_am": "ˈpreʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lực; áp suất",
+          "definition": "(the amount of force exerted by) the action of pressing",
+          "world_new": [
+            "amount",
+            "force",
+            "action",
+            "pressing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Apply pressure to the cut in order to stop it bleeding",
+              "world_new": [
+                "cut",
+                "order",
+                "stop",
+                "bleeding"
+              ]
+            },
+            {
+              "ex_of_definition": "A barometer measures atmospheric pressure.",
+              "world_new": [
+                "barometer",
+                "atmospheric"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áp lực",
+          "definition": "(a) strain or stress",
+          "world_new": [
+            "strain",
+            "stress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pressures of her work are sometimes too much for her.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sức ép",
+          "definition": "strong persuasion; compulsion or force",
+          "world_new": [
+            "strong",
+            "compulsion",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He agreed under pressure.",
+              "world_new": [
+                "agreed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For instance, over-blowing on a wind instrument can cause an octave rise, which holds as the pressure is reduced.",
+    "The duct was then replaced and the oscillating pressure measured in similar conditions.",
+    "Since the key issue is the psychological pressure that law can exert on every individual mind, the law must be clear, well diffused, and foreseeable.",
+    "The turbulence energy balance is examined, including the separate effects of vertical diffusion of pressure and local kinetic energy.",
+    "Injection volumes were estimated by measurement of the displacement of cytoplasm after an injection at a controlled pressure.",
+    "The right ventricular systolic pressure tends to decrease with age.",
+    "The tendency to bring particles back to equilibrium is therefore much smaller a t the lower pressure and the fluctuations will be less damped.",
+    "Once again, a major challenge ahead is exploration of the adjustment of tactic choice that may have been selected by varying selection pressures."
+  ],
+  "list_see_also": [
+    "pressurize",
+    "pressure cooker"
+  ],
+  "list_browse": [
+    "press cutting",
+    "press for",
+    "press forward",
+    "pressing",
+    "pressure",
+    "pressure cooker",
+    "pressurize",
+    "prestige",
+    "prestigious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064035_0d64c59888_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064035_ce8252b9bf_o.png",
+      "id_image": "pressure_1743678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327121_7012a79522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327121_0382421003_o.png",
+      "id_image": "pressure_3233076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371797_4c03229a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371797_67f9197fdb_o.png",
+      "id_image": "pressure_4593052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064065_7a225fc8b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064065_304d4bd89f_o.png",
+      "id_image": "pressure_560666"
+    }
+  ]
+}

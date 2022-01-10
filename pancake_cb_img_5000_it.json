@@ -1,0 +1,64 @@
+{
+  "english": "pancake",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh kếp",
+          "definition": "a thin cake usually made of milk, flour and eggs and fried in a pan etc",
+          "world_new": [
+            "thin",
+            "cake",
+            "milk",
+            "flour",
+            "fried"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a savoury pancake.",
+              "world_new": [
+                "savoury"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another situation is possible if the bottle is held closer to the pancake and moved relatively faster.",
+    "Resembling small, fluffy pancakes, they are made with yeast and buckwheat flour.",
+    "Various foods made of sorghum can also be found in the province such as \"susu jijim\" (sorghum pancakes).",
+    "Chremslach are small thick pancakes or fritters made of matza meal.",
+    "Instead of pasta; pastry sheets / pancakes made with flour, egg, oil and water are used.",
+    "Like pancakes, they are often served with maple syrup, honey, or other sweet toppings.",
+    "Downstairs the twin has messed up the kitchen to make pancakes.",
+    "As the panfry, stir-fry and stir are all achieved by the pancake turner."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pamper",
+    "pamphlet",
+    "pan-",
+    "panama",
+    "pancake",
+    "pancreas",
+    "panda",
+    "pandemonium",
+    "pander"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690794_80570160fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690794_88b17413a0_o.png",
+      "id_image": "pancake_590710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335551_2fd97aae2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335551_0db701fa0f_o.png",
+      "id_image": "pancake_619504"
+    }
+  ]
+}

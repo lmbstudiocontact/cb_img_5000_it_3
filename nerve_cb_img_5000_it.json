@@ -1,0 +1,122 @@
+{
+  "english": "nerve",
+  "phat_am": "nəːv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây thần kinh",
+          "definition": "one of the cords which carry messages between all parts of the body and the brain",
+          "world_new": [
+            "carry",
+            "body",
+            "brain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the optic nerve."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự can đảm",
+          "definition": "courage",
+          "world_new": [
+            "courage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He must have needed a lot of nerve to do that"
+            },
+            {
+              "ex_of_definition": "He lost his nerve.",
+              "world_new": [
+                "lost"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "táo tợn",
+          "definition": "rudeness",
+          "world_new": [
+            "rudeness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What a nerve!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "truyền can đảm",
+          "definition": "to force (oneself) to have enough courage (to do something)",
+          "world_new": [
+            "force",
+            "courage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He nerved himself to climb the high tower.",
+              "world_new": [
+                "climb",
+                "tower"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The effect of chronically elevated intraocular pressure on the rat optic nerve head extracellular matrix.",
+    "The nerve injury-induced spinal cord microglia and astrocyte activation is reduced in the toll-like receptor 2 knockout mice.",
+    "Analysis of the wave forms allows information to be obtained about the middle ear, the cochlea, the eighth nerve and the central auditory connections.",
+    "These peripheral nerves are used as a route to the spinal cord.",
+    "Each micrograph in a pair is taken from the same eccentricity of the intact and nerve-transected retinas.",
+    "The distance of the cell to the center of the optic nerve head was measured and taken as the cell's eccentricity.",
+    "Damage to peripheral nerves following either trauma or disease has several consequences including the development of neuropathic pain.",
+    "From there, efferent impulses are carried by the vagus and phrenic nerves to the stomach and abdominal musculature, resulting in vomiting."
+  ],
+  "list_see_also": [
+    "nerves",
+    "nervous",
+    "nervously",
+    "nervousness",
+    "nervy",
+    "nerviness",
+    "nerve-racking",
+    "nervous breakdown",
+    "nervous system",
+    "get on someone’s nerves"
+  ],
+  "list_browse": [
+    "neo-",
+    "neon",
+    "nephew",
+    "Neptune",
+    "nerve",
+    "nerve-racking",
+    "nerves",
+    "nerviness",
+    "nervous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369612_81bdff6a6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369612_c36863d631_o.png",
+      "id_image": "nerve_5730174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061655_8b19bf15cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061655_856c6f40e7_o.png",
+      "id_image": "nerve_5746696"
+    }
+  ]
+}

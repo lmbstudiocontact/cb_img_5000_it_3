@@ -1,0 +1,72 @@
+{
+  "english": "questionnaire",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản câu hỏi điều tra",
+          "definition": "a written list of questions to be answered by a large number of people to provide information for a survey or report",
+          "world_new": [
+            "list",
+            "large",
+            "number",
+            "people",
+            "provide",
+            "information",
+            "survey",
+            "report"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were asked to complete a questionnaire.",
+              "world_new": [
+                "complete"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two hundred and ninety-seven people took part in the validity and reliability tests of the questionnaire.",
+    "An epidemiological investigation was conducted to determine the source of infection and mode of transmission using a structured questionnaire.",
+    "This is a large professional group in primary care and was not adequately represented in the questionnaire survey.",
+    "Questionnaire on priority assessment of patients referred to orthopedic surgeons showed great differences between reviewers.",
+    "Seventy-two controls were enrolled in the study, only one patient refused to answer the questionnaire.",
+    "This questionnaire had nine symptoms, each scored on a scale of 1-4.",
+    "The cases were sent a questionnaire enquiring about symptoms, usage of the pool, activities undertaken in the swimming pool and use of the inflatable.",
+    "This may mean booking a private room for them to complete a questionnaire, offering refreshments, or reducing other factors of burden such as parking."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "question-master",
+    "questionable",
+    "questionableness",
+    "questionably",
+    "questionnaire",
+    "queue",
+    "queue up",
+    "quiche",
+    "quick"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343981_032e942052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343981_1521ed0215_o.png",
+      "id_image": "questionnaire_1643825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081280_e02bdc08d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081280_6a5c0084fd_o.png",
+      "id_image": "questionnaire_1792388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458588_efc06cf5ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458588_87864a167b_o.png",
+      "id_image": "questionnaire_2820228"
+    }
+  ]
+}

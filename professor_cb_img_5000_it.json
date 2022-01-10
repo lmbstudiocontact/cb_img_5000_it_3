@@ -1,0 +1,82 @@
+{
+  "english": "professor",
+  "phat_am": "prəˈfesə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giáo sư",
+          "definition": "a university teacher who is the head of a department",
+          "world_new": [
+            "university",
+            "teacher",
+            "head",
+            "department"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a professor of English at Leeds",
+              "world_new": [
+                "English"
+              ]
+            },
+            {
+              "ex_of_definition": "Professor Jones."
+            }
+          ]
+        },
+        {
+          "mean_english": "giảng viên",
+          "definition": "a university teacher.",
+          "world_new": [
+            "university",
+            "teacher"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Within the context of such a complex debate, what can evolutionary analysis add for law professors?",
+    "Table 4 shows that male and female professors spent similar proportions of time performing during the first five years after completing their studies.",
+    "He was elected to the position of assistant professor in 1980, associate professor in 1989 and professor in 1993.",
+    "Policymakers, pundits, and professors have long debated the merits and demerits of such a proposal.",
+    "Useless professors and their useless sciences needed policing.",
+    "These institutes have large, well-equipped laboratories, and are run by professors who also hold university positions.",
+    "Finally, only 20 days before the vote, they settled on a college professor from the 4th district as their candidate for the next general election.",
+    "Many professors run their graduate 'masters' classes as offices in which the students work on their projects."
+  ],
+  "list_see_also": [
+    "professorial",
+    "professorship"
+  ],
+  "list_browse": [
+    "profess",
+    "profession",
+    "professional",
+    "professionally",
+    "professor",
+    "professorial",
+    "professorship",
+    "proficiency",
+    "proficient"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321366_93302894b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321366_d21f1765ba_o.png",
+      "id_image": "professor_4061233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436623_e9d555aa18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436623_4ac565417c_o.png",
+      "id_image": "professor_4135781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366272_48a2bef2c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366272_9ed6e89722_o.png",
+      "id_image": "professor_6032237"
+    }
+  ]
+}

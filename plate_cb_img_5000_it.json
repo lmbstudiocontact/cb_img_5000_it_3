@@ -1,0 +1,160 @@
+{
+  "english": "plate",
+  "phat_am": "pleit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái đĩa",
+          "definition": "a shallow dish for holding food etc",
+          "world_new": [
+            "shallow",
+            "dish",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "china plates.",
+              "world_new": [
+                "china"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tấm",
+          "definition": "a sheet of metal etc",
+          "world_new": [
+            "sheet",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship was built of steel plates.",
+              "world_new": [
+                "ship",
+                "steel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ mạ",
+          "definition": "articles made of, or plated with, usually gold or silver",
+          "world_new": [
+            "plated",
+            "gold",
+            "silver"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a collection of gold plate.",
+              "world_new": [
+                "collection",
+                "gold"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biển/ bảng",
+          "definition": "a flat piece of metal inscribed with eg a name, for fixing to a door, or with a design etc, for use in printing.",
+          "world_new": [
+            "flat",
+            "piece",
+            "metal",
+            "name",
+            "door",
+            "design",
+            "printing"
+          ]
+        },
+        {
+          "mean_english": "ảnh minh họa",
+          "definition": "an illustration in a book, usually on glossy paper",
+          "world_new": [
+            "illustration",
+            "book",
+            "glossy",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book has ten full-colour plates.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hàm răng giả",
+          "definition": "(also dental plate) a piece of plastic that fits in the mouth with false teeth attached to it.",
+          "world_new": [
+            "piece",
+            "plastic",
+            "mouth",
+            "false",
+            "attached"
+          ]
+        },
+        {
+          "mean_english": "tấm kính ảnh",
+          "definition": "a sheet of glass etc coated with a sensitive film, used in photography.",
+          "world_new": [
+            "sheet",
+            "glass",
+            "sensitive",
+            "film",
+            "photography"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What they meant by this is indicated by plates 17-20.",
+    "There are 29 colour plates, 44 line drawings, all in at least two colours, 13 tables and a good bibliography.",
+    "All the plates had a thickness of 1.2 cm, large enough to avoid flexion at the pressures we used.",
+    "There would be matching plates and cups and saucers and a cake on a glass stand.",
+    "The numbers afterwards are issued in volumes each containing four numbers and amounting to between 400 and 500 pages, with plates and figures.",
+    "The test fluid is contained between the plates, and the two components of the tangential force on one of the plates are measured.",
+    "The ilmenite grains generally form dendritic plates (arrowed) in contrast to the euhedral orthopyroxene grains.",
+    "The plates were then inoculated with respective phages using a multipoint inoculator."
+  ],
+  "list_see_also": [
+    "plated",
+    "plateful",
+    "plating",
+    "plate glass"
+  ],
+  "list_browse": [
+    "plastic",
+    "plastic surgery",
+    "plastic wrap",
+    "Plasticine",
+    "plate",
+    "plate glass",
+    "plateau",
+    "plated",
+    "plateful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697119_573741e3cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697119_503fa6e90d_o.png",
+      "id_image": "plate_3534510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386897_242b00e7c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386897_0cf0134d6a_o.png",
+      "id_image": "plate_6150146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697144_139c24e2b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697144_f8f1e47d31_o.png",
+      "id_image": "plate_883743"
+    }
+  ]
+}

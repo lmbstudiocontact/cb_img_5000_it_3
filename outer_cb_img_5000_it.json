@@ -1,0 +1,55 @@
+{
+  "english": "outer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bên ngoài",
+          "definition": "outside; far from (the centre/center of) something",
+          "world_new": [
+            "far"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "outer space.",
+              "world_new": [
+                "space"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The inner and outer nozzle pressures were adjusted to achieve various radial distributions over a range of implosion times.",
+    "The 13-cm radius outer wall is permitted to emit electrons where the plasma is in contact.",
+    "Where the plasma is in contact with the outer wall, electron space-chargelimited emission is permitted.",
+    "Huge sections of the outer walls had collapsed and other parts were in very poor shape.",
+    "The peripheral, or outer, membrane encloses the entire contents of the mitochondrion.",
+    "The numerical simulations allow for a complete investigation of the finite deformation of both the outer drop and the encapsulated particle.",
+    "At the outer edges of the plume, however, the production and destruction terms rapidly approach zero and advection and transport balance each other.",
+    "A three-dimensional model of serial cross sections of the coronary arteries shows the inner surface three-dimensionally through the outer surface."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "outcry",
+    "outdo",
+    "outdoor",
+    "outdoors",
+    "outer",
+    "outermost",
+    "outfit",
+    "outgoing",
+    "outgrow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386622_259a25d7d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386622_4b4f7f591f_o.png",
+      "id_image": "outer_1994810"
+    }
+  ]
+}

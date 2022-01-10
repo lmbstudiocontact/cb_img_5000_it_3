@@ -1,0 +1,135 @@
+{
+  "english": "ram",
+  "phat_am": "rӕm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cừu đực",
+          "definition": "a male sheep.",
+          "world_new": [
+            "male",
+            "sheep"
+          ]
+        },
+        {
+          "mean_english": "búa đóng cọc",
+          "definition": "something heavy, especially a part of a machine, used for ramming.",
+          "world_new": [
+            "heavy",
+            "part",
+            "machine"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đâm vào",
+          "definition": "(of ships, cars etc) to run into, and cause damage to",
+          "world_new": [
+            "run",
+            "cause",
+            "damage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The destroyer rammed the submarine",
+              "world_new": [
+                "destroyer",
+                "submarine"
+              ]
+            },
+            {
+              "ex_of_definition": "His car rammed into/against the car in front of it.",
+              "world_new": [
+                "car",
+                "car",
+                "front"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đâm đổ",
+          "definition": "to push down, into, on to etc with great force",
+          "world_new": [
+            "push",
+            "great",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We rammed the fence-posts into the ground.",
+              "world_new": [
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "abbreviation",
+      "list_definition": [
+        {
+          "mean_english": "bộ nhớ truy xuất ngẫu nhiên",
+          "definition": "short for Random Access Memory; computer memory that is used as a temporary store of data that may be changed or deleted",
+          "world_new": [
+            "short",
+            "computer",
+            "memory",
+            "temporary",
+            "store",
+            "data"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This computer has 100 gigabytes of RAM.",
+              "world_new": [
+                "computer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Testing involved making coal thickness measurements in the area between the horizontal push rams of adjacent roof supports.",
+    "For example, purebred lowland flocks produce rams, which are, in turn, demanded as terminal sires by lowland finishing flocks.",
+    "Proposed improvements in bank regulatory oversight, stalled before the crisis, were now rammed through.",
+    "A method for chromosome analysis of ram spermatozoa using zona-free hamster oocytes.",
+    "Where is the ram that could be used as a substitute for the critical mode of reasoning?",
+    "The term 'ram wing' has been applied to the earliest vehicles which were designed to utilize the ground effect principle.",
+    "Survival of ram spermatozoa at high dilution: protective effect of simple constituents of culture media as compared with seminal plasma.",
+    "Spines rammed by table legs busting the strings of ukuleles curling into black lumps."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rake through",
+    "rake up",
+    "rally",
+    "rally round",
+    "ram",
+    "Ramadan",
+    "ramble",
+    "ramble on",
+    "rambler"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076420_3f8b112694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076420_e398d768fe_o.png",
+      "id_image": "ram_2164987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076485_1210d50546_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076485_2589c25291_o.png",
+      "id_image": "ram_616716"
+    }
+  ]
+}

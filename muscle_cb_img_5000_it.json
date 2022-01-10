@@ -1,0 +1,73 @@
+{
+  "english": "muscle",
+  "phat_am": "ˈmasl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơ bắp",
+          "definition": "any of the bundles of fibres/fibers in the body which, by contracting or relaxing, cause movement of the body",
+          "world_new": [
+            "body",
+            "relaxing",
+            "cause",
+            "movement",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has well-developed muscles in his arms.",
+              "world_new": [
+                "arms"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In both species the excretory atrium was surrounded by welldeveloped muscles which were easily seen under the light microscope.",
+    "In this case, elastic fibers did not appear through the smooth muscle cells which were surrounding the recanalized vessels.",
+    "A few patients may show male-pattern balding and mild facial and hand muscle weakness.",
+    "In the upper extremities, wrist and finger extensors and deltoids were the most affected muscles.",
+    "The section on anatomy is par ticularly useful for understanding how the nerves and muscles work.",
+    "Function of gastrointestinal smooth muscle: from signaling to contractile proteins.",
+    "If for example, the growth of a bone is delayed, so too will be that of the associated muscles and tendons.",
+    "Stationary and drifting spiral waves of excitation in isolated cardiac muscle."
+  ],
+  "list_see_also": [
+    "muscular",
+    "musculature",
+    "muscle in"
+  ],
+  "list_browse": [
+    "murderous",
+    "murderously",
+    "murmur",
+    "murmuring",
+    "muscle",
+    "muscle in",
+    "muscular",
+    "musculature",
+    "muse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068175_5624664a06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068175_12c8e8c8be_o.png",
+      "id_image": "muscle_425835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376162_e125263056_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376162_66dd00c314_o.png",
+      "id_image": "muscle_5601299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376087_863d71e02a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376087_30a4babea3_o.png",
+      "id_image": "muscle_5730228"
+    }
+  ]
+}

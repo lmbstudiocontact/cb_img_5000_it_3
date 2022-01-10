@@ -1,0 +1,91 @@
+{
+  "english": "navy",
+  "phat_am": "ˈneivi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hải quân",
+          "definition": "a country’s warships and the people who work in and with them",
+          "world_new": [
+            "people",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Russia has one of the largest navies in the world",
+              "world_new": [
+                "world"
+              ]
+            },
+            {
+              "ex_of_definition": "I joined the navy fifteen years ago.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xanh nước biển",
+          "definition": "(also adjective) (also navy blue) (of) a dark blue colour/color",
+          "world_new": [
+            "dark",
+            "blue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a navy (blue) jersey",
+              "world_new": [
+                "jersey"
+              ]
+            },
+            {
+              "ex_of_definition": "These sweatshirts come in white or navy (blue).",
+              "world_new": [
+                "white"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At another level, two other figures appeared to provide the strategic and political rationale for the new navy.",
+    "Furthermore, the navies of the world have an increasing rôle to play in the growing electronic battle of intelligence and counter-intelligence.",
+    "You see there is a pretense this is just a naval station and you never know which is the pretense: spaceship or navy.",
+    "The experience and expertise that we have acquired have been put at the disposal of the navies of other countries in the past.",
+    "Without going into the motives of other nations, the hard fact remains that other navies do exist in the world.",
+    "Meanwhile, the gap between the two navies widens and the balance goes more and more against us.",
+    "Also, an expanding navy would require coaling stations and bases in distant lands.",
+    "The first is a fight between the two navies."
+  ],
+  "list_see_also": [
+    "naval"
+  ],
+  "list_browse": [
+    "navigable",
+    "navigate",
+    "navigation",
+    "navigator",
+    "navy",
+    "NCO",
+    "NE",
+    "near",
+    "near-sighted"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441913_3177ba75a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441913_5231de5cb0_o.png",
+      "id_image": "navy_2642269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326841_8a9419cff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326841_90bed23845_o.png",
+      "id_image": "navy_3856868"
+    }
+  ]
+}

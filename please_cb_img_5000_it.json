@@ -1,0 +1,127 @@
+{
+  "english": "please",
+  "phat_am": "pliːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm hài lòng",
+          "definition": "to do what is wanted by (a person); to give pleasure or satisfaction to",
+          "world_new": [
+            "wanted",
+            "pleasure",
+            "satisfaction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can’t please everyone all the time",
+              "world_new": [
+                "time"
+              ]
+            },
+            {
+              "ex_of_definition": "It pleases me to read poetry.",
+              "world_new": [
+                "read",
+                "poetry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phù hợp",
+          "definition": "to choose, want, like",
+          "world_new": [
+            "choose",
+            "want"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He does as he pleases."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "xin/ hãy",
+          "definition": "a word added to an order or request in order to be polite",
+          "world_new": [
+            "added",
+            "order",
+            "request",
+            "order",
+            "polite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please open the window",
+              "world_new": [
+                "open",
+                "window"
+              ]
+            },
+            {
+              "ex_of_definition": "Close the door, please",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "Will you please come with me?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A vocal delivery that might seem haughty or conceited, too mellifluous or elegant, excessively 'musical', or calculated to please others must be avoided.",
+    "To please the experimenter, children might have produced labels about which they were uncertain.",
+    "Please indicate how much you agree or disagree with each statement.",
+    "In other words, husbands were not expected to simply dispose of their wives as they pleased.",
+    "If anyone knows where these materials are to be found, please let the author or this reviewer know.",
+    "In initial position the accentual status of please is somewhat controversial.",
+    "The result is a well-balanced selection that will probably please political, social, economic, and military historians alike.",
+    "Please provide at least two contexts in which the child used each word."
+  ],
+  "list_see_also": [
+    "pleased",
+    "pleasing",
+    "pleasingly",
+    "if you please",
+    "please yourself"
+  ],
+  "list_browse": [
+    "plead",
+    "pleasant",
+    "pleasantly",
+    "pleasantness",
+    "please",
+    "please yourself",
+    "pleased",
+    "pleasing",
+    "pleasingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077885_ee75668387_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077885_a79fc583fe_o.png",
+      "id_image": "please_5849437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695894_eb85cd02bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695894_628b9b0551_o.png",
+      "id_image": "please_599536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455438_7f68c9a5a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455438_2dfd962452_o.png",
+      "id_image": "please_6171972"
+    }
+  ]
+}

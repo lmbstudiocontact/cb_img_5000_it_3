@@ -1,0 +1,95 @@
+{
+  "english": "mirror",
+  "phat_am": "ˈmirə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gương",
+          "definition": "a piece of glass or metal having a surface that reflects an image",
+          "world_new": [
+            "piece",
+            "glass",
+            "metal",
+            "surface",
+            "image"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shaving mirror"
+            },
+            {
+              "ex_of_definition": "She spends a lot of time looking in the mirror.",
+              "world_new": [
+                "time"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "soi gương",
+          "definition": "to reflect as a mirror does",
+          "world_new": [
+            "reflect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The smooth surface of the lake mirrored the surrounding mountains.",
+              "world_new": [
+                "smooth",
+                "surface",
+                "lake",
+                "surrounding"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Second, at ultrasonic frequencies, most objects in ordinary environments are acoustically hard and reflect sound in the same way as mirrors reflect light.",
+    "The mechanism could be observed only imperfectly with the aid of mirrors and reflected sunlight ; much improvement came in 1957 with light-conducting fibrescopes.",
+    "The total experience is not alienating or frightening, as it may be in a hall of mirrors.",
+    "Nonetheless, trends found between high- and low-light growth rates in the shadehouse seedlings were mirrored in forest-grown seedlings.",
+    "The value creation is mirrored by the difference between the gross policy return and the minimum required return.",
+    "The saga of the family's rise and fall mirrors its success and failures in implementing the techniques of politica de familia.",
+    "The object-level relationship between content language expressions and the objects they denote is also mirrored at the model level.",
+    "The radiographers from the other departments mirrored these thoughts."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "miracle",
+    "miraculous",
+    "miraculously",
+    "mirage",
+    "mirror",
+    "mirth",
+    "mis-",
+    "misadventure",
+    "misapprehension"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696589_4b4452f9d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696589_55c6a96b2e_o.png",
+      "id_image": "mirror_1043200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696564_90dccf46c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696564_709925f72b_o.png",
+      "id_image": "mirror_1202537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341411_a2739a032e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341411_dd52222163_o.png",
+      "id_image": "mirror_699316"
+    }
+  ]
+}

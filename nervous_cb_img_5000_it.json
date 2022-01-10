@@ -1,0 +1,98 @@
+{
+  "english": "nervous",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "về dây thần kinh",
+          "definition": "of the nerves",
+          "world_new": [
+            "nerves"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the nervous system.",
+              "world_new": [
+                "system"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sợ hãi",
+          "definition": "rather afraid",
+          "world_new": [
+            "rather",
+            "afraid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was nervous about travelling by air",
+              "world_new": [
+                "air"
+              ]
+            },
+            {
+              "ex_of_definition": "a nervous old lady.",
+              "world_new": [
+                "old",
+                "lady"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Despite the established role of gcm genes during fly gliogenesis, the role of vertebrate orthologs in nervous system is debated.",
+    "Signals and signs in the nervous system: the dynamic anatomy of electrical activity is probably information rich.",
+    "During nervous system development many neurons are destroyed through apoptosis as a means of reducing neuronal cell numbers.",
+    "Parasympathetic and sympathetic nervous system activity has been associated with two frequency bands.",
+    "The market was nervous, and panic broke out the next day.",
+    "Microglia are resident immune cells in the brain that become activated in response to diverse central nervous system injuries.",
+    "Although vertebrate fringe genes are prevalent in the developing nervous system, little is known about their function.",
+    "Five per cent of those questioned feared they would become more restless, irritable and ' exited\\nervous\\flustered ' again."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nerve",
+    "nerve-racking",
+    "nerves",
+    "nerviness",
+    "nervous",
+    "nervous breakdown",
+    "nervous system",
+    "nervously",
+    "nervousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324516_e18dfda34e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324516_21f8fae700_o.png",
+      "id_image": "nervous_2341842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679664_ff6faf87de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679664_a688f7a3a8_o.png",
+      "id_image": "nervous_3561733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061355_538802899c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061355_3b9b570252_o.png",
+      "id_image": "nervous_3997730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439658_3107831fe8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439658_cc44ece8d5_o.png",
+      "id_image": "nervous_599623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439623_ee0a1cdc11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439623_685f164767_o.png",
+      "id_image": "nervous_599634"
+    }
+  ]
+}

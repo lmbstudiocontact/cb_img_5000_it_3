@@ -1,0 +1,65 @@
+{
+  "english": "panoramic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có tính toàn cảnh",
+          "definition": "of or like a panorama",
+          "world_new": [
+            "panorama"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a panoramic view.",
+              "world_new": [
+                "view"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Topographical beauty was represented in impressive panoramic townscapes, and cultural institutions were illustrated in small wood-engraved vignettes in guide books and directories.",
+    "From left to right: the panoramic visual system, polarized-light sensors, ambient-light sensors.",
+    "Nominally, the measurement cycle involves taking a panoramic survey and measurement of environmental parameters.",
+    "Some of the writers take a panoramic view, others focus in on specific texts in close readings.",
+    "The robot vehicle is powered by solar energy and fitted with two cameras with panoramic vision.",
+    "A panoramic perspective of history cannot emerge through a tracing of a course of events, however significant.",
+    "The landmarks are extracted and organised in a panoramic description called fresco.",
+    "This well-structured collection is panoramic, offering a wide range of contributions from an array of disciplines : historians, social scientists and lawyers among them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "panic",
+    "panicky",
+    "pannier",
+    "panorama",
+    "panoramic",
+    "pansy",
+    "pant",
+    "panther",
+    "pantomime"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379947_34736a735d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379947_02bc7a334e_o.png",
+      "id_image": "panoramic_1266646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334896_a694c96ef7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334896_85a3741e21_o.png",
+      "id_image": "panoramic_2005135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380007_f8c6d2a2c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380007_f9bbaec562_o.png",
+      "id_image": "panoramic_764506"
+    }
+  ]
+}

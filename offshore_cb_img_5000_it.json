@@ -1,0 +1,84 @@
+{
+  "english": "offshore",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ngoài khơi",
+          "definition": "in or on the sea, not far from the coast",
+          "world_new": [
+            "sea",
+            "far",
+            "coast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "offshore oil wells.",
+              "world_new": [
+                "oil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khỏi bờ",
+          "definition": "(of winds) blowing away from the coast, out to sea",
+          "world_new": [
+            "coast",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Strong offshore winds are forecast for this afternoon.",
+              "world_new": [
+                "forecast",
+                "afternoon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Seafloor geodesy can now expand geodetic positioning to off-shore environments.",
+    "They passed legislation allowing the creation of off-shore business.",
+    "The college provides education, training, consultancy and research to the international shipping and off-shore oil industries.",
+    "A sudden change of the weather could drive them off-shore.",
+    "Volume estimates for phonolitic pyroclastic deposits are hindered by erosion, burial, a concealed intracaldera record, and by considerable volumes of pyroclastic material dispersed offshore.",
+    "The beach has clean water and off-shore stacks of cement tetrapods to break the waves.",
+    "Later, the money was moved into off-shore bank accounts.",
+    "In this paper the profile of the streaming velocity is calculated for circular islands, with or without shoaling regions offshore."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "officious",
+    "officiously",
+    "officiousness",
+    "offline",
+    "offshore",
+    "offside",
+    "offspring",
+    "often",
+    "ogre"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392817_46d542f267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392817_80e0b90ea8_o.png",
+      "id_image": "offshore_1486217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347906_d243e3d9d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347906_ec31b5cb19_o.png",
+      "id_image": "offshore_2321487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085185_41afa433f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085185_9b615f3a47_o.png",
+      "id_image": "offshore_6315464"
+    }
+  ]
+}

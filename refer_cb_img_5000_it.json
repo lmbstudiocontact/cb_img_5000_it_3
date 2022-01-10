@@ -1,0 +1,129 @@
+{
+  "english": "refer",
+  "phat_am": "rəˈfəː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhắc tới",
+          "definition": "to talk or write (about something); to mention",
+          "world_new": [
+            "talk",
+            "mention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He doesn’t like anyone referring to his wooden leg",
+              "world_new": [
+                "wooden",
+                "leg"
+              ]
+            },
+            {
+              "ex_of_definition": "I referred to your theories in my last book.",
+              "world_new": [
+                "I",
+                "your",
+                "my",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liên quan tới",
+          "definition": "to relate to, concern, or apply to",
+          "world_new": [
+            "relate",
+            "concern",
+            "apply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My remarks refer to your last letter.",
+              "world_new": [
+                "your",
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển sang; giới thiệu",
+          "definition": "to send or pass on to someone else for discussion, information, a decision etc",
+          "world_new": [
+            "send",
+            "pass",
+            "else",
+            "discussion",
+            "information",
+            "decision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The case was referred to a higher law-court",
+              "world_new": [
+                "case"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll refer you to the managing director.",
+              "world_new": [
+                "director"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tra cứu",
+          "definition": "to look for information (in something)",
+          "world_new": [
+            "look",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If I’m not sure how to spell a word, I refer to a dictionary.",
+              "world_new": [
+                "sure",
+                "spell",
+                "I",
+                "dictionary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "referee",
+    "reference",
+    "reference book",
+    "reference library"
+  ],
+  "list_browse": [
+    "reel in",
+    "reel off",
+    "ref",
+    "refectory",
+    "refer",
+    "referee",
+    "reference",
+    "reference book",
+    "reference library"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687299_8d6357f3cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687299_55dc0fd566_o.png",
+      "id_image": "refer_5822077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447283_f375479ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447283_e4436f8b82_o.png",
+      "id_image": "refer_5860850"
+    }
+  ]
+}

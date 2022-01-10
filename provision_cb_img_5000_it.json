@@ -1,0 +1,100 @@
+{
+  "english": "provision",
+  "phat_am": "prəˈviʒən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cung cấp",
+          "definition": "the act of providing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government are responsible for the provision of education for all children.",
+              "world_new": [
+                "government",
+                "responsible",
+                "education"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản giao kèo",
+          "definition": "an agreed arrangement",
+          "world_new": [
+            "agreed",
+            "arrangement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the provisions of the contract.",
+              "world_new": [
+                "provisions",
+                "contract"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều khoản",
+          "definition": "a rule or condition.",
+          "world_new": [
+            "rule",
+            "condition"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cung cấp",
+          "definition": "to supply (especially an army) with food.",
+          "world_new": [
+            "supply",
+            "food"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Free-riding on the provision of collectively enjoyed goods (including a collectively provided minimum income) is incompatible with this basic norm of co-operation for mutual advantage.",
+    "The net result is reduced diversity in provision.",
+    "It will be valuable for staff working in the planning and provision of services to an ageing population of adults with a learning disability.",
+    "This intermediate set of outputs are highly uncertain and remote from the final outcome of efficiency of healthcare provision.",
+    "All participating pharmacists received training in the provision of pharmaceutical care.",
+    "English housing provision, therefore, relied on the market as well as central and local government hierarchies.",
+    "It follows that care provision by children, the financial support of children, poor housing conditions, and relatively low income are all predictors of co-residence.",
+    "Its generous pension programme contrasts with a virtual absence of state interest in health or care provision for elders."
+  ],
+  "list_see_also": [
+    "provisional",
+    "provisionally",
+    "provisions",
+    "make provision for"
+  ],
+  "list_browse": [
+    "provide",
+    "provided",
+    "province",
+    "provincial",
+    "provision",
+    "provisional",
+    "provisionally",
+    "provisions",
+    "provocation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703974_d2f9ce0e2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703974_fb31d68fa7_o.png",
+      "id_image": "provision_2104134"
+    }
+  ]
+}

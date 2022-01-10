@@ -1,0 +1,166 @@
+{
+  "english": "net",
+  "phat_am": "net",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lưới",
+          "definition": "(any of various devices for catching creatures, eg fish, or for any of a number of other purposes, consisting of) a loose open material made of knotted string, thread, wire etc",
+          "world_new": [
+            "various",
+            "catching",
+            "fish",
+            "number",
+            "loose",
+            "open",
+            "material",
+            "string",
+            "thread",
+            "wire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fishing net",
+              "world_new": [
+                "fishing"
+              ]
+            },
+            {
+              "ex_of_definition": "a hairnet"
+            },
+            {
+              "ex_of_definition": "a tennis net",
+              "world_new": [
+                "tennis"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a net curtain.",
+              "world_new": [
+                "curtain"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bọc lưới",
+          "definition": "to catch in a net",
+          "world_new": [
+            "catch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They netted several tons of fish.",
+              "world_new": [
+                "tons",
+                "fish"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lãi ròng",
+          "definition": "(of a profit etc) remaining after all expenses etc have been paid",
+          "world_new": [
+            "profit",
+            "expenses"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The net profit from the sale was $200.",
+              "world_new": [
+                "profit",
+                "sale"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tịnh",
+          "definition": "(of the weight of something) not including the packaging or container",
+          "world_new": [
+            "weight",
+            "including",
+            "packaging",
+            "container"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sugar has a net weight of 1 kilo",
+              "world_new": [
+                "sugar",
+                "weight"
+              ]
+            },
+            {
+              "ex_of_definition": "The sugar weighs one kilo net.",
+              "world_new": [
+                "sugar"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For the maize yield and net returns equations, the estimated coefficients of the farm size variables were statistically different between the adopters and non-adopters.",
+    "The constant represents the expected project yield in capital (per unit invested), net of monitoring costs.",
+    "But farm size does not appear to explain differences in yields and net returns when the technology is adopted.",
+    "The net free energy change then represents the difference between several large-value terms, and no single component can be said to dominate.",
+    "Such nets are valuable for the design of free-form surfaces.",
+    "Hence, to avoid the creation of cyclic causal dependencies in the resulting net, the induced causality will be required to be a strict partial order.",
+    "Humans are typically not very altruistic in situations where theory cannot find any long-term net benefits.",
+    "Rising levels of net disposable income allowed town-dwellers to climb the housing ladder, thereby reducing some at least of the ravages of infection."
+  ],
+  "list_see_also": [
+    "netting",
+    "netball",
+    "network"
+  ],
+  "list_browse": [
+    "nest",
+    "nest-egg",
+    "nestle",
+    "nestling",
+    "net",
+    "netball",
+    "netiquette",
+    "netting",
+    "nettle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324231_20c56766e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324231_e17d72ac77_o.png",
+      "id_image": "net_1861733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061160_10f402b8ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061160_6ff204c34b_o.png",
+      "id_image": "net_193685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439238_b115bc40b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439238_40b700361b_o.png",
+      "id_image": "net_4293751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369027_f16790020e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369027_2d27f0cb9d_o.png",
+      "id_image": "net_4437003"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "english": "plain",
+  "phat_am": "plein",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đơn sơ; giản dị",
+          "definition": "simple or ordinary; without ornament or decoration",
+          "world_new": [
+            "simple",
+            "ornament",
+            "decoration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "plain living",
+              "world_new": [
+                "living"
+              ]
+            },
+            {
+              "ex_of_definition": "good, plain food.",
+              "world_new": [
+                "food"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dễ hiểu",
+          "definition": "easy to understand; clear",
+          "world_new": [
+            "easy",
+            "clear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His words were quite plain.",
+              "world_new": [
+                "quite"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thật thà",
+          "definition": "absolutely open or honest, with no attempt to be tactful",
+          "world_new": [
+            "absolutely",
+            "open",
+            "honest",
+            "attempt",
+            "tactful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll be quite plain with you",
+              "world_new": [
+                "quite"
+              ]
+            },
+            {
+              "ex_of_definition": "plain speaking.",
+              "world_new": [
+                "speaking"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rõ ràng",
+          "definition": "obvious",
+          "world_new": [
+            "obvious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s plain (to see) you haven’t been practising your music.",
+              "world_new": [
+                "your",
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xấu",
+          "definition": "not pretty",
+          "world_new": [
+            "pretty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rather plain girl.",
+              "world_new": [
+                "rather",
+                "girl"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng bằng",
+          "definition": "a large flat level piece of land",
+          "world_new": [
+            "large",
+            "flat",
+            "level",
+            "piece",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the plains of central Canada.",
+              "world_new": [
+                "central"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mũi đan trơn",
+          "definition": "a kind of knitting stitch.",
+          "world_new": [
+            "kind",
+            "knitting",
+            "stitch"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cropping system influences on soil chemical properties and soil quality in the great plains.",
+    "However oblique the harmony, it is plainer than is the case with the madrigals.",
+    "On the tabanca level, the eldest man of the founding lineage has the power to allocate to each household unclaimed land on flood plains and at higher elevations.",
+    "The evolution of the martian hydrosphere : implications for the fate of a primordial ocean and the current state of the northern plains.",
+    "Local informants have not reported the existence of wells outside the city on karstic plains to the north, east, and south.",
+    "Throughout the country there is development of all sorts—residential houses, flats, factories, and so on—in the flood plains of rivers.",
+    "There are mountains and plains and very few communications.",
+    "A key role in the development of the alluvial plains was played by an indica-type red rice variety."
+  ],
+  "list_see_also": [
+    "plainly",
+    "plainness",
+    "plain chocolate",
+    "plain clothes",
+    "plain sailing",
+    "plain-spoken",
+    "in plain English"
+  ],
+  "list_browse": [
+    "plagiarism",
+    "plagiarize",
+    "plague",
+    "plaice",
+    "plain",
+    "plain chocolate",
+    "plain clothes",
+    "plain sailing",
+    "plain-spoken"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344016_f2c231b487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344016_7dc9e65afa_o.png",
+      "id_image": "plain_1076353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388887_5d8ddd232d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388887_1b9c76dbee_o.png",
+      "id_image": "plain_3788664"
+    }
+  ]
+}

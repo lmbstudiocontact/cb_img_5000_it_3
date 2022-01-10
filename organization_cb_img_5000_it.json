@@ -1,0 +1,103 @@
+{
+  "english": "organization",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơ quan",
+          "definition": "a group of people working together for a purpose",
+          "world_new": [
+            "group",
+            "people",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a business organization.",
+              "world_new": [
+                "business"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tổ chức",
+          "definition": "the act of organizing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Efficiency depends on the organization of one’s work.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng được tổ chức",
+          "definition": "the state of being organized",
+          "world_new": [
+            "state",
+            "organized"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This report lacks organization.",
+              "world_new": [
+                "report"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This was reinforced by the low priority given to public health work at all levels within the organization and by primary care team colleagues.",
+    "We now turn to a brief characterization of the three approaches - structural, functional, and dynamical - which inform our account of neural organization.",
+    "It does things to us, with us, and for us - and our organizations.",
+    "There may then be both conceptual distinctions and technical organizations that set correction apar t from repair.",
+    "We focused solely on the spatial organization of the receptive field.",
+    "This partially explains the organization of domestic architectural spaces that are close to each other and contain a multifunctional space surrounding a courtyard.",
+    "Left-adjunction is an operation typically used in the syntax for the organization of phrases.",
+    "At the same time, they centre on organizations that, like parties, are in direct competition with each other."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "organic compound",
+    "organically",
+    "organism",
+    "organist",
+    "organization",
+    "organize",
+    "organized",
+    "organizer",
+    "orgasm"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343566_2b747375bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343566_62e80ab8bb_o.png",
+      "id_image": "organization_171020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809381876_8e903abfcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809381876_d02c83f913_o.png",
+      "id_image": "organization_2654507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343461_176daa883a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343461_71a1481d8e_o.png",
+      "id_image": "organization_3985220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698739_442d6d8497_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698739_f83756aeea_o.png",
+      "id_image": "organization_943777"
+    }
+  ]
+}

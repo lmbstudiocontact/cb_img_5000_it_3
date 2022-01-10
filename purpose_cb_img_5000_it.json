@@ -1,0 +1,108 @@
+{
+  "english": "purpose",
+  "phat_am": "ˈpəːpəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mục đích",
+          "definition": "the reason for doing something; the aim to which an action etc is directed",
+          "world_new": [
+            "reason",
+            "aim",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the purpose of your visit?",
+              "world_new": [
+                "your",
+                "visit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chức năng",
+          "definition": "the use or function of an object",
+          "world_new": [
+            "function",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The purpose of this lever is to stop the machine in an emergency.",
+              "world_new": [
+                "lever",
+                "stop",
+                "machine",
+                "emergency"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quyết tâm",
+          "definition": "determination",
+          "world_new": [
+            "determination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a man of purpose."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The purpose of this paper is to study the original direction of the radiation excited by electron cyclotron maser instability or the beam-plasma instability.",
+    "The health authority's representatives again sought to establish a sense of purpose and to embody this in a method of working.",
+    "The purpose is to record things which have been important in the past, those still possible, as well as current activities.",
+    "And finally, what purposes (psychological, social, cultural) does such canon formation serve?",
+    "This evidence suggests that planning and control each serve a specialized purpose utilizing distinct visual representations.",
+    "For our present purpose it is enough to ask what quantity the numerical solution is supposed to approximate, at least to a first-order approximation.",
+    "An original paper should not include an extensive review of the literature, but only sufficient references to indicate the purpose and relevance of the investigation.",
+    "The purpose of students' talk is not to simulate activities in contexts of use, but to investigate, explore and analyze content."
+  ],
+  "list_see_also": [
+    "purposeful",
+    "purposefully",
+    "purposeless",
+    "purposely",
+    "purpose-built",
+    "on purpose",
+    "serve a purpose",
+    "to no purpose"
+  ],
+  "list_browse": [
+    "puritanical",
+    "purity",
+    "purl",
+    "purple",
+    "purpose",
+    "purpose-built",
+    "purposeful",
+    "purposefully",
+    "purposeless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701664_48aed85906_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701664_2be98af4ea_o.png",
+      "id_image": "purpose_1432068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461628_352dfbab81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461628_41928c4afe_o.png",
+      "id_image": "purpose_4185707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701729_8fcd575e47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701729_43dde94fc9_o.png",
+      "id_image": "purpose_992638"
+    }
+  ]
+}

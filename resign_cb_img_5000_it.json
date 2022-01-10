@@ -1,0 +1,87 @@
+{
+  "english": "resign",
+  "phat_am": "rəˈzain",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "từ chức",
+          "definition": "to leave a job etc",
+          "world_new": [
+            "leave",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If he criticizes my work again, I’ll resign",
+              "world_new": [
+                "my",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "He resigned (from) his post.",
+              "world_new": [
+                "resigned"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cam chịu",
+          "definition": "(with to) to make (oneself) accept (a situation, fact etc) with patience and calmness",
+          "world_new": [
+            "accept",
+            "situation",
+            "fact",
+            "patience",
+            "calmness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has resigned himself to the possibility that he may never walk again.",
+              "world_new": [
+                "resigned",
+                "possibility",
+                "walk"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In any case, he resigned his office because he was unable properly to carry out his duties.",
+    "An incumbent resigns and his successor is appointed.",
+    "I resigned but remained as a consultant.",
+    "He, therefore, called for his followers to keep away from state institutions by resigning if they were civil servants or by leaving school or university if they were still students.",
+    "Around the mid-1960s, however, he resigned.",
+    "She resigned herself to adoption and also resigned from her university course.",
+    "They resigned their seats and fought an election.",
+    "He worked for a marketing research organisation until 1942, when he resigned after being passed over for a promotion."
+  ],
+  "list_see_also": [
+    "resignation",
+    "resigned"
+  ],
+  "list_browse": [
+    "resident",
+    "residential",
+    "residual",
+    "residue",
+    "resign",
+    "resignation",
+    "resigned",
+    "resin",
+    "resinous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089245_097f5436b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089245_f160062998_o.png",
+      "id_image": "resign_1886833"
+    }
+  ]
+}

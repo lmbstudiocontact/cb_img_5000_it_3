@@ -1,0 +1,101 @@
+{
+  "english": "nut",
+  "phat_am": "nat",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả hạch",
+          "definition": "a fruit consisting of a single seed in a hard shell",
+          "world_new": [
+            "fruit",
+            "single",
+            "seed",
+            "shell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hazelnut",
+              "world_new": [
+                "hazelnut"
+              ]
+            },
+            {
+              "ex_of_definition": "a walnut.",
+              "world_new": [
+                "walnut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đai ốc",
+          "definition": "a small round piece of metal with a hole through it, for screwing on the end of a bolt to hold pieces of wood, metal etc together",
+          "world_new": [
+            "small",
+            "piece",
+            "metal",
+            "hole",
+            "bolt",
+            "hold",
+            "wood",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nut and bolt.",
+              "world_new": [
+                "bolt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "nutty",
+    "nutcracker",
+    "nutshell",
+    "in a nutshell"
+  ],
+  "list_browse": [
+    "nurseryman",
+    "nursing",
+    "nursing home",
+    "nurture",
+    "nut",
+    "nutcracker",
+    "nutmeg",
+    "nutrient",
+    "nutriment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056065_7680671086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056065_50a15d0f79_o.png",
+      "id_image": "nut_1120167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674404_1be577215e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674404_11e00f1233_o.png",
+      "id_image": "nut_1497102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056025_f078fa1514_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056025_7b93944958_o.png",
+      "id_image": "nut_2014966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056080_cd385691af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056080_e01213f1bc_o.png",
+      "id_image": "nut_464945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056020_0f3765d50a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056020_dc65daa4e3_o.png",
+      "id_image": "nut_6301315"
+    }
+  ]
+}

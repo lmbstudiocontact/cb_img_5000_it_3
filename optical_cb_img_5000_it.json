@@ -1,0 +1,78 @@
+{
+  "english": "optical",
+  "phat_am": "ˈoptikəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc thị giác",
+          "definition": "of or concerning sight or what one sees",
+          "world_new": [
+            "concerning",
+            "sight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two objects in the picture appear to be the same size, but this is just an optical illusion (= they are not actually the same size)",
+              "world_new": [
+                "picture",
+                "appear",
+                "size",
+                "illusion",
+                "actually"
+              ]
+            },
+            {
+              "ex_of_definition": "microscopes and other optical instruments."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Petrofabric analyses of quartz c-axis preferred orientation were carried out on one thin-section from each sample, using an optical microscope and universal stage.",
+    "Then optical filters are inserted before emission can reach the detectors in order to select the emitted wavelength for a specific acquisition channel.",
+    "The optical properties of the device can be altered by applying a field whose distorting influence on the liquid crystal opposes that of the surfaces.",
+    "Focused reflections can easily exceed the optical damage threshold unless the component positions are adjusted so as to avoid the most dangerous ghosts.",
+    "For detection of the result of the logic operation we choose a detector which gives an optical output.",
+    "However, using a low-density target material might significantly increase the diameter of the filaments and allow their detection by optical imaging.",
+    "The latter change leads also to the change of the laser-target interaction mode and to the conditions for the optical breakdown of laser produced vapors.",
+    "This variation in paddle rotational velocity is monitored by an optical encoder and used to infer wind direction and velocity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "oppressively",
+    "oppressiveness",
+    "oppressor",
+    "opt",
+    "optical",
+    "optical scanner",
+    "optician",
+    "optics",
+    "optimism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700484_58ea93d414_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700484_5295b120eb_o.png",
+      "id_image": "optical_286535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700444_84e7d926e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700444_3b023cfaf4_o.png",
+      "id_image": "optical_4106094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700389_ec979d1f8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700389_995f47d81a_o.png",
+      "id_image": "optical_4106327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082775_c1cf3dbf4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082775_25f6bed493_o.png",
+      "id_image": "optical_948492"
+    }
+  ]
+}

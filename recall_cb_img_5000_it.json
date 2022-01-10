@@ -1,0 +1,118 @@
+{
+  "english": "recall",
+  "phat_am": "riˈkoːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gọi lại",
+          "definition": "to order (a person etc) to return",
+          "world_new": [
+            "order",
+            "person",
+            "return"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had been recalled to his former post.",
+              "world_new": [
+                "former"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhớ lại",
+          "definition": "to remember",
+          "world_new": [
+            "remember"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t recall when I last saw him.",
+              "world_new": [
+                "I",
+                "I",
+                "saw"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự triệu hồi",
+          "definition": "an order to return",
+          "world_new": [
+            "order",
+            "return"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the recall of soldiers to duty.",
+              "world_new": [
+                "duty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả năng nhớ lại",
+          "definition": "ˈriːkoːl the ability to remember and repeat what one has seen, heard etc",
+          "world_new": [
+            "ability",
+            "remember",
+            "repeat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has total recall of the incident.",
+              "world_new": [
+                "total",
+                "incident"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "How the event is defined will determine how it is stored, organized, and recalled at a later date.",
+    "On the other hand their smooth, rounded external form may evoke meaning by recalling, perhaps, human crania.",
+    "The second memory task was a serial memory task in which patterns of lights were recalled.",
+    "Neither public memor ials nor eloquent public speeches recalling the heroism of the dead could fill the void.",
+    "Another wife, who recalled long-term marital conflict, had readily accepted formal help.",
+    "To this end, he recalled in a newspaper interview two strategies he employed for representing the pidgin dialogue.",
+    "He affectionately recalled using books in their bedtime devotions.",
+    "Finally, it is worth recalling a slightly earlier study."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reboot",
+    "rebound",
+    "rebuff",
+    "rebuke",
+    "recall",
+    "recapitulate",
+    "recapitulation",
+    "recapture",
+    "recede"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381427_754d0bf178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381427_d3b951bac8_o.png",
+      "id_image": "recall_5822121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451333_d90403cb70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451333_1c3972965f_o.png",
+      "id_image": "recall_5865159"
+    }
+  ]
+}

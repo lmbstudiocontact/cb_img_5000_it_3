@@ -1,0 +1,67 @@
+{
+  "english": "nasal",
+  "phat_am": "ˈneizəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về mũi",
+          "definition": "of the nose",
+          "world_new": [
+            "nose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nasal infection",
+              "world_new": [
+                "infection"
+              ]
+            },
+            {
+              "ex_of_definition": "nasal congestion.",
+              "world_new": [
+                "congestion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giọng mũi",
+          "definition": "sounding through the nose",
+          "world_new": [
+            "sounding",
+            "nose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nasal voice.",
+              "world_new": [
+                "voice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "narrow",
+    "narrow-minded",
+    "narrowly",
+    "narrows",
+    "nasal",
+    "nastily",
+    "nastiness",
+    "nasty",
+    "nation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683144_85aef67273_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683144_5b2c3abe32_o.png",
+      "id_image": "nasal_4118545"
+    }
+  ]
+}

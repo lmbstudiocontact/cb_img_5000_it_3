@@ -1,0 +1,67 @@
+{
+  "english": "razor",
+  "phat_am": "ˈreizə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dao cạo",
+          "definition": "an instrument for shaving, having a sharp cutting edge, blade (a razor-blade), or electrically-powered revolving cutters",
+          "world_new": [
+            "instrument",
+            "sharp",
+            "cutting",
+            "edge",
+            "blade",
+            "revolving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electric razor.",
+              "world_new": [
+                "electric"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Straight razors used for shaving must cut with minimal pressure, and thus must be very sharp with a small angle and often a hollow grind.",
+    "I believe that there is no place at all for a protective duty in regard in safety-razors.",
+    "If he had had time he would have been able to give us separately figures of perambulators, safety razors, combs and lighters.",
+    "Where this is insufficient, supplies of additional razors can be obtained from a direct call-off contract available to prisons.",
+    "Would you not first make sure that he had thrown away his old razors and taken to safety ones?",
+    "No personal hygiene, razors or haircuts were allowed.",
+    "We are using razors to chop fire-wood, when the minor details of nursing and surgery are done by the doctors.",
+    "He needs his alarum clocks, his shaving sets, cameras, electric razors and binoculars."
+  ],
+  "list_see_also": [
+    "razor-sharp"
+  ],
+  "list_browse": [
+    "rawness",
+    "ray",
+    "rayon",
+    "raze",
+    "razor",
+    "razor-sharp",
+    "Rd",
+    "re",
+    "re-cover"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452103_5dc14d2033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452103_a18639f83e_o.png",
+      "id_image": "razor_1900940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337261_961568dc99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337261_cb756462b9_o.png",
+      "id_image": "razor_2446363"
+    }
+  ]
+}

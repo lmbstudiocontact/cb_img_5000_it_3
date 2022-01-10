@@ -1,0 +1,99 @@
+{
+  "english": "quote",
+  "phat_am": "kwəut",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trích dẫn",
+          "definition": "to repeat the exact words of a person as they were said or written",
+          "world_new": [
+            "repeat",
+            "exact",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "to quote Shakespeare / Shakespeare’s words / from Shakespeare, ‘Is this a dagger which I see before me?’",
+              "world_new": [
+                "dagger",
+                "I",
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định giá",
+          "definition": "to name (a price)",
+          "world_new": [
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plumber quoted us a ridiculous price to fix the boiler.",
+              "world_new": [
+                "plumber",
+                "ridiculous",
+                "price",
+                "fix",
+                "boiler"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nêu ra để hỗ trợ cho một câu hỏi",
+          "definition": "to mention or state in support of an argument",
+          "world_new": [
+            "mention",
+            "state",
+            "support",
+            "argument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "to quote an example.",
+              "world_new": [
+                "example"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "quotation",
+    "quotation marks"
+  ],
+  "list_browse": [
+    "quorum",
+    "quota",
+    "quotation",
+    "quotation marks",
+    "quote",
+    "quotient",
+    "R",
+    "rabbi",
+    "rabbit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387537_abf7d4db59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387537_07bcf3b834_o.png",
+      "id_image": "quote_1484621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810118400_9a868ac631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810118400_0ac98a5b81_o.png",
+      "id_image": "quote_1484949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697674_f82257cc16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697674_d10a37fa85_o.png",
+      "id_image": "quote_1624547"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "relationship",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mối quan hệ",
+          "definition": "the friendship, contact, communications etc which exist between people",
+          "world_new": [
+            "friendship",
+            "contact",
+            "communications",
+            "exist",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He finds it very difficult to form lasting relationships.",
+              "world_new": [
+                "difficult",
+                "form",
+                "lasting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mối liên hệ",
+          "definition": "the fact that, or the way in which, facts, events etc are connected",
+          "world_new": [
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is there any relationship between crime and poverty?",
+              "world_new": [
+                "crime",
+                "poverty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mối quan hệ tình cảm",
+          "definition": "the state of being related by birth or because of marriage.",
+          "world_new": [
+            "state",
+            "related",
+            "birth",
+            "marriage"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "relapse",
+    "relate",
+    "related",
+    "relation",
+    "relationship",
+    "relative",
+    "relative clause",
+    "relative pronoun",
+    "relatively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064765_5b2c3abe32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064765_fe0b14d571_o.png",
+      "id_image": "relationship_1001208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683059_f2d4e7807e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683059_5226bc4fb5_o.png",
+      "id_image": "relationship_1924427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683019_b89135a398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683019_8c444db56d_o.png",
+      "id_image": "relationship_2753149"
+    }
+  ]
+}

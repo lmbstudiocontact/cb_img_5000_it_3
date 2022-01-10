@@ -1,0 +1,56 @@
+{
+  "english": "pilgrim",
+  "phat_am": "ˈpilɡrim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hành hương",
+          "definition": "a person who travels to a holy place",
+          "world_new": [
+            "person",
+            "travels",
+            "holy",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Every year thousands of pilgrims visit Jerusalem.",
+              "world_new": [
+                "year",
+                "visit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "pilgrimage"
+  ],
+  "list_browse": [
+    "pile-up",
+    "pilfer",
+    "pilferage",
+    "pilferer",
+    "pilgrim",
+    "pilgrimage",
+    "pill",
+    "pillar",
+    "pillar box"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084515_9b9ab89e01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084515_d35b5db5f5_o.png",
+      "id_image": "pilgrim_2052305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392047_7f97777e6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392047_5ec7308035_o.png",
+      "id_image": "pilgrim_2069379"
+    }
+  ]
+}

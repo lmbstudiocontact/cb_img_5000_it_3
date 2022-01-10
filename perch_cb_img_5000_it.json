@@ -1,0 +1,120 @@
+{
+  "english": "perch",
+  "phat_am": "pəːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ chim đậu",
+          "definition": "a branch etc on which a bird sits or stands",
+          "world_new": [
+            "branch",
+            "bird"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pigeon would not fly down from its perch.",
+              "world_new": [
+                "pigeon",
+                "fly",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vị trí cao",
+          "definition": "any high seat or position",
+          "world_new": [
+            "seat",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He looked down from his perch on the roof.",
+              "world_new": [
+                "roof"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đậu",
+          "definition": "(of birds) to go to (a perch); to sit or stand on (a perch)",
+          "world_new": [
+            "sit",
+            "stand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bird flew up and perched on the highest branch of the tree.",
+              "world_new": [
+                "bird",
+                "branch",
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt lên cao",
+          "definition": "to put, or be, in a high seat or position",
+          "world_new": [
+            "seat",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He perched the child on his shoulder",
+              "world_new": [
+                "child",
+                "shoulder"
+              ]
+            },
+            {
+              "ex_of_definition": "They perched on the fence.",
+              "world_new": [
+                "fence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In plain language, the man was sitting there as a passenger carrying the perches on which the hens roost.",
+    "I see myself perched on her pink bedspread, earnestly listening to a story about two birds.",
+    "Of course perches, litter, baths and nestboxes are an improvement, but are we not once again encouraging producers to invest money which will very soon prove to have been wasted?",
+    "Individuals of these species arrived on an infested tree and perched on the upper branches.",
+    "Raptors were seen soaring above the roost, perching on trees close to roosting animals, chasing the bats on the wing and diving into the roosting trees.",
+    "At one side of the cave, but perched up on the top of the mountain it has pierced, are the ruins of a small ancient fort.",
+    "Traps were protected from perching birds by inserting nails around the frame.",
+    "Now the man is perched precariously on the top of his chimney - the only bit of his house above the raging torrent."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "perception",
+    "perceptive",
+    "perceptively",
+    "perceptiveness",
+    "perch",
+    "percussion",
+    "percussionist",
+    "perennial",
+    "perfect"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057835_cc9eafdec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057835_190ac1c09c_o.png",
+      "id_image": "perch_311600"
+    }
+  ]
+}

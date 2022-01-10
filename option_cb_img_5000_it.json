@@ -1,0 +1,72 @@
+{
+  "english": "option",
+  "phat_am": "ˈopʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lựa chọn",
+          "definition": "choice",
+          "world_new": [
+            "choice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have no option but to obey him.",
+              "world_new": [
+                "obey"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Alternative options, such as implantation of stents, need to be evaluated.",
+    "The multiple-choice questions were contextualized from the passage and had limited options to select from so that the question itself was a memory aid.",
+    "Of note, only 10% of patients in each group did not require intervention during their study participation, suggesting that more effective treatment options are needed.",
+    "Conceptual and technical advances have brought many additional options.",
+    "The measure consists of 20 items with four response options ranging from generally false to generally true.",
+    "Previous papers have applied different models of the real options approach to forestry operations.",
+    "The attributes were allowed to vary across three chosen levels (representing an improvement to or an equivalence to the status quo) across the options.",
+    "In this paper, however, we argue that many other policy options exist."
+  ],
+  "list_see_also": [
+    "optional"
+  ],
+  "list_browse": [
+    "optimistic",
+    "optimistically",
+    "optimize",
+    "optimum",
+    "option",
+    "optional",
+    "opulence",
+    "opulent",
+    "opulently"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344971_70e60124b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344971_14b9eec8bf_o.png",
+      "id_image": "option_1179102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496783_e805b120c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496783_1487af84ba_o.png",
+      "id_image": "option_1589510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344906_cb0dd3fa2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344906_2ceb877980_o.png",
+      "id_image": "option_5116333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389792_a6de5ba301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389792_1f8e0d388a_o.png",
+      "id_image": "option_6388845"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "quadrant",
+  "phat_am": "ˈkwodrənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một phần tư",
+          "definition": "a quarter of a circle or a quarter of the circumference of a circle",
+          "world_new": [
+            "quarter",
+            "circle",
+            "quarter",
+            "circumference",
+            "circle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Find the area of a quadrant of the circle whose diameter is 22.4 cm.",
+              "world_new": [
+                "area",
+                "circle",
+                "diameter",
+                "cm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thước đo độ",
+          "definition": "an instrument which was formerly used in astronomy and navigation for measuring the altitudes of stars",
+          "world_new": [
+            "instrument",
+            "formerly",
+            "astronomy",
+            "navigation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John Cabot would have used a quadrant to find his way across the Atlantic Ocean to discover Canada.",
+              "world_new": [
+                "find",
+                "across",
+                "discover"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Multiple defects were found in the mid-septal, apical and anterior quadrants in 5, 5 and 2 neonates, respectively.",
+    "He was to become a well-known maker of quadrants and compasses.",
+    "The storm's wind radii increased in all quadrants as the storm grew in both intensity and size.",
+    "We made what we called 'spiroid sectors', in four quadrants at the edge of the city, where a train could connect them in eight minutes.",
+    "The observer's task was to indicate in which of four quadrants the stimulus was detected by pressing one of four correspondingly arranged buttons.",
+    "Figure 1 shows the distribution around the origin with points in all four quadrants.",
+    "In a further refinement of this concept, a split-beam echosounder divides the transducer face into four quadrants, allowing the location of targets in three dimensions.",
+    "Currently, the northeast and southwest quadrants have farm houses on them, while the northwest and southeast quadrants are crop fields."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "python",
+    "Q",
+    "quack",
+    "quadrangle",
+    "quadrant",
+    "quadratic equation",
+    "quadriceps",
+    "quadrilateral",
+    "quadruped"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390682_1816069788_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390682_dfb2b7e856_o.png",
+      "id_image": "quadrant_1109387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083140_801f268c81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083140_9ee6bd0536_o.png",
+      "id_image": "quadrant_582585"
+    }
+  ]
+}

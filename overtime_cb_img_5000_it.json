@@ -1,0 +1,72 @@
+{
+  "english": "overtime",
+  "phat_am": "ˈəuvətaim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giờ làm thêm",
+          "definition": "time spent in working beyond one’s set number of hours etc",
+          "world_new": [
+            "time",
+            "spent",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He did five hours’ overtime this week.",
+              "world_new": [
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Overtime the success rate has varied around this overall average rate.",
+    "They lost all their overtime.",
+    "The law included minimum wage guarantees, maximum hours provisions, and stipulations regarding overtime pay. 32.",
+    "Late night work and overtime work by those with preschool children were prohibited in 1999 and 2002 respectively.",
+    "Overtime was paid at double the hourly rate.",
+    "In view of long commuting distances to work, the new car was often a relief which could only be financed by working overtime.",
+    "Financial costs of maintaining waiting time targets included payments of staff overtime, incentive payments for weekend working and agency staff rates.",
+    "The aim is to schedule the harvest of olives and the production of olive oil minimizing overtime cost and setup, storage, waiting and production cost."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "overt",
+    "overtake",
+    "overtax",
+    "overthrow",
+    "overtime",
+    "overtly",
+    "overtones",
+    "overture",
+    "overturn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384757_7d985d8ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384757_60f3ff093d_o.png",
+      "id_image": "overtime_410878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077040_31acecd712_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077040_7f72897e45_o.png",
+      "id_image": "overtime_4593070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339761_fbfbf84c76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339761_41d55a3fe1_o.png",
+      "id_image": "overtime_4593093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384672_a779052202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384672_f6f6b57323_o.png",
+      "id_image": "overtime_5260408"
+    }
+  ]
+}

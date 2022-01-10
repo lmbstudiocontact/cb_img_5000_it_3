@@ -1,0 +1,56 @@
+{
+  "english": "ranch",
+  "phat_am": "raːntʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nông trại",
+          "definition": "a farm, especially one in North America for rearing cattle or horses",
+          "world_new": [
+            "farm",
+            "cattle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cattle ranch.",
+              "world_new": [
+                "cattle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These include commercial maize production, horticulture, tree crops, dairy, and cattle ranching.",
+    "Logging generally is the initial mode of land development, followed by land clearing, cropping, and cattle ranching.",
+    "They are labeled as 'costs' due to the prevailing notion that ranching leads to negative environmental impacts.",
+    "Commercial livestock ranching systems (which replaced the wild herds and are barely a hundred years old) produce meat, hides and fiber.",
+    "But the development of individual ranches raised several concerns.",
+    "In-terms of vegetation, 80 per cent of the district can be classified as low savanna and arid/semi-arid (ranching zones).",
+    "Commercial livestock production, is prevalent on private and leasehold ranch land.",
+    "This part in essence retains the group ranch system."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rampage",
+    "rampant",
+    "rampart",
+    "ramshackle",
+    "ranch",
+    "rancid",
+    "rand",
+    "random",
+    "randomly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694224_79eb08a11a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694224_31167de5f1_o.png",
+      "id_image": "ranch_123637"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "pirate",
+  "phat_am": "ˈpaiərət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cướp biển",
+          "definition": "a person who attacks and robs ships at sea",
+          "world_new": [
+            "person",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their ship was attacked by pirates",
+              "world_new": [
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a pirate ship.",
+              "world_new": [
+                "ship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người xâm phạm tác quyền",
+          "definition": "a person who does something without legal right, eg publishes someone else’s work as his own or broadcasts without a licence",
+          "world_new": [
+            "person",
+            "legal",
+            "right",
+            "work",
+            "licence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pirate radio-station."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sao chép bất hợp pháp",
+          "definition": "to publish, broadcast etc without the legal right to do so",
+          "world_new": [
+            "publish",
+            "broadcast",
+            "legal",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The DVD was pirated.",
+              "world_new": [
+                "DVD"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "piracy"
+  ],
+  "list_browse": [
+    "piquantly",
+    "pique",
+    "piracy",
+    "piranha",
+    "pirate",
+    "pirouette",
+    "Pisces",
+    "pistachio",
+    "piste"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082495_e80505a930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082495_8b1e8b9cd1_o.png",
+      "id_image": "pirate_475430"
+    }
+  ]
+}

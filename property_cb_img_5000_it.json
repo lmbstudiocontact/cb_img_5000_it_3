@@ -1,0 +1,123 @@
+{
+  "english": "property",
+  "phat_am": "ˈpropəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài sản",
+          "definition": "something that a person owns",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These books are my property.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bất động sản",
+          "definition": "land or buildings that a person owns",
+          "world_new": [
+            "land",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has property in Scotland."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc tính",
+          "definition": "a quality (usually of a substance)",
+          "world_new": [
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hardness is a property of diamonds.",
+              "world_new": [
+                "diamonds"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ dùng biểu diễn",
+          "definition": "(usually abbreviated to propprop) a small piece of furniture or an article used by an actor in a play",
+          "world_new": [
+            "small",
+            "piece",
+            "furniture",
+            "article",
+            "actor",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the props department",
+              "world_new": [
+                "department"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We prove the property for all normalising pure type systems, and discuss the connection with typechecking.",
+    "We generalize the notion of reversible systems in symbolic dynamics, and investigate their properties.",
+    "Similarly, being a quasi-random graph is also a hereditary property.",
+    "Various special cases of equation (1.1) with unbounded lags have been already studied because of numerous interesting applications as well as the specific qualitative properties.",
+    "If such path exists, then we can say that the property is satisfied, thus is not satisfied in the model of the system.",
+    "To test the role of purely spatial global properties, the luminance distribution in each image was subjected to a spatial-frequency analysis.",
+    "They share, however, several properties that justify their grouping.",
+    "We conclude that a purely statistical analysis of the trend properties of economic time series is not sufficient."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "propelling pencil",
+    "proper",
+    "proper noun",
+    "properly",
+    "property",
+    "prophecy",
+    "prophesy",
+    "prophet",
+    "prophetic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465413_d3eaa63033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465413_e6e77f7741_o.png",
+      "id_image": "property_2590602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088000_f98df72b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088000_09ebf297aa_o.png",
+      "id_image": "property_4827587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705384_38392604ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705384_4855c7800e_o.png",
+      "id_image": "property_5928184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087950_d495859b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087950_4734a22c8c_o.png",
+      "id_image": "property_5928220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087920_531a7f790e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087920_6c22e78105_o.png",
+      "id_image": "property_5928283"
+    }
+  ]
+}

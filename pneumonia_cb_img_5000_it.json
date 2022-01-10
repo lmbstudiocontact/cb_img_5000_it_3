@@ -1,0 +1,64 @@
+{
+  "english": "pneumonia",
+  "phat_am": "njuˈməuniə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "viêm phổi",
+          "definition": "an illness in which the lungs become inflamed",
+          "world_new": [
+            "illness",
+            "become",
+            "inflamed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He died of pneumonia."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, the results for pneumonia, neoplasm, and pleural effusion without congestive heart failure were not as strong.",
+    "Calf losses rose temporarily to 50 % of all new-born calves, and diarrhoea and pneumonia were recorded in many cattle.",
+    "Postoperative complication rate was 24%-significant arrhythmia (3), recurred coronary arteriovenous fistulas (1), psychosis (1), pneumonia (1).",
+    "We found that 41 % of reported pneumonia cases required hospitalization.",
+    "The major outcome variable was a lifetime diagnosis of pneumonia.",
+    "About 50-80 % of pneumococcal pneumonia is thought to be associated with prior occurrence of some form of viral respiratory illness [36].",
+    "The sample size required to give 95 % confidence and 80 % power to detect a prevalence of 5 % of pneumonia in this population is 203.",
+    "Re-admissions after 2 days and within the first 10 days attributable to a pneumonia diagnosis occurred after 2.2 % of hospital discharges."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pm",
+    "PMS",
+    "pneumatic",
+    "pneumatically",
+    "pneumonia",
+    "PO Box",
+    "poach",
+    "poached",
+    "poacher"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076530_ded0c0a53c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076530_e47fe9704b_o.png",
+      "id_image": "pneumonia_2636734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339346_f6a7a05b96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339346_cbe315a4c6_o.png",
+      "id_image": "pneumonia_2713270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076480_de5ef95fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076480_5acdbdc310_o.png",
+      "id_image": "pneumonia_4171527"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "english": "painter",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ sơn",
+          "definition": "a person whose job is to put paint on things, especially walls, doors etc in houses",
+          "world_new": [
+            "person",
+            "job",
+            "paint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a painter and decorator.",
+              "world_new": [
+                "decorator"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoạ sĩ",
+          "definition": "an artist who makes pictures in paint",
+          "world_new": [
+            "artist",
+            "paint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an Impressionist painter"
+            },
+            {
+              "ex_of_definition": "Who was the painter of this portrait?",
+              "world_new": [
+                "portrait"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Indeed, the output of algorithms can be likened to a river's flow whose ever-changing waves inspire the painter, the poet or the musician.",
+    "With this book, the reader is offered poems by various famous poets and images in the styles of numerous important painters.",
+    "The work by painters tends to be unconvincing in its resolution of volume; the work by architects tends to neglect surface.",
+    "The bias has selected painters who achieved maturity, success and maybe greater longevity.",
+    "Through the ages, painters have experimented with paint (trying new pigments or oils, for instance) and with concepts such as perspective and light.",
+    "The most he would say is that he identified the painter as a kindred spirit, dealing in his own sphere with analogous creative problems.",
+    "They are mostly plants, a rare subject for either engraver or painter.",
+    "The advanced ' age scores ' of the painters in the 15th to 17th century portraits led us to crosscheck the data with the sample of sculptors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "painstaking",
+    "paint",
+    "paintbox",
+    "paintbrush",
+    "painter",
+    "painting",
+    "paintwork",
+    "pair",
+    "pal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381412_5736027de3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381412_efc012bc2d_o.png",
+      "id_image": "painter_1876789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451323_4190a718da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451323_7758b157d0_o.png",
+      "id_image": "painter_1902503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073440_cec29bebc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073440_a0be8c41f8_o.png",
+      "id_image": "painter_307956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336381_034daea170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336381_44b6dc69df_o.png",
+      "id_image": "painter_3527113"
+    }
+  ]
+}

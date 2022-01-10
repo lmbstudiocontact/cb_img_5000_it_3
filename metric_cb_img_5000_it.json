@@ -1,0 +1,56 @@
+{
+  "english": "metric",
+  "phat_am": "ˈmetrik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "theo mét",
+          "definition": "of the metre or metric system",
+          "world_new": [
+            "metre",
+            "system"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are these scales metric?",
+              "world_new": [
+                "scales"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Metric characteristics (absolute and relative length and cetromeric index) were calculated from measurements of ten best spreads.",
+    "This raises some intriguing issues, since in general (for arbitrary finite metric spaces) such enlargements are neither commutative nor associative.",
+    "In the classical way of looking at things, the kinetic energy metric is a symmetric positive-definite matrix-valued function of configuration.",
+    "But the presence of these maps and the retinotopic nature of their organization cannot in itself explain the metric quality of visual phenomenology.",
+    "One of the reasons is the connection between the metrics belonging to different generating sets.",
+    "The results indicate that the approach can effectively predict fluctuations in life-cycle metrics during component design synthesis.",
+    "Both the item-based and the content-boosted approaches require additional information regarding items as well as metrics to compute meaningful similarities among them.",
+    "For every word we computed its metrics exactly as in the previous experiment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "methodology",
+    "meticulous",
+    "meticulously",
+    "metre",
+    "metric",
+    "metrical",
+    "metronome",
+    "metropolis",
+    "metropolitan"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700024_50ee3a4316_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700024_8b9d67ed85_o.png",
+      "id_image": "metric_5488030"
+    }
+  ]
+}

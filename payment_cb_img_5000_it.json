@@ -1,0 +1,93 @@
+{
+  "english": "payment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thanh toán",
+          "definition": "money etc paid",
+          "world_new": [
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The TV can be paid for in ten weekly payments.",
+              "world_new": [
+                "TV",
+                "weekly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc trả công",
+          "definition": "the act of paying",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me a book in payment for my kindness.",
+              "world_new": [
+                "book",
+                "my",
+                "kindness"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Prices of alfalfa vary with production levels in local markets and are not eligible for government deficiency payments.",
+    "The system also allows for the emergence of various forms of risk management including sharecropping and temporary land loaning in exchange for cash payments.",
+    "In the first model, dividend payments are restricted.",
+    "However, settlement payments by the record company or publishing company are often in excess of £100,000, while the accountant's fees are measured in tens of thousands.",
+    "Personal evaluations occur bi-annually and are used to assess both changes in the basic wage and individual bonus payments.",
+    "Most of the earnings derived from transfer payments, either pensions or remittances from non-resident relations.",
+    "Additionally, farmers receiving relatively high payments might possibly be able to offer their products at lower prices.",
+    "We see that when contributions are higher than pensions, the government is not only rolling over payments, but also issuing new bonds."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "payable",
+    "payday",
+    "payee",
+    "payer",
+    "payment",
+    "payout",
+    "payroll",
+    "PC",
+    "PE"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440943_1eb5cf644a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440943_f308a27a31_o.png",
+      "id_image": "payment_1067382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440908_9981a122d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440908_faabd06ff5_o.png",
+      "id_image": "payment_1692606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325901_68a8cc1c22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325901_fcc21107d5_o.png",
+      "id_image": "payment_1692619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370867_5716c356f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370867_9b72515d2d_o.png",
+      "id_image": "payment_333759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062835_e04cf73960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062835_e3d608e202_o.png",
+      "id_image": "payment_997290"
+    }
+  ]
+}

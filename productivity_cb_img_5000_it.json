@@ -1,0 +1,71 @@
+{
+  "english": "productivity",
+  "phat_am": "prodəkˈtivəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hiệu suất",
+          "definition": "the rate or efficiency of work especially in industrial production",
+          "world_new": [
+            "rate",
+            "efficiency",
+            "work",
+            "industrial",
+            "production"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ways of increasing productivity."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Daily productivity is actually low due to low radiation levels and a cool growing season.",
+    "Due to technical difficulties in randomizing which factors receive a boost, simulations were run for a subset of possible combinations of productivity improvements.",
+    "Correlations of market productivity are often positive, but they are relatively low, and in most cases lower than those of output.",
+    "First, the accumulation of past idiosyncratic exogenous total factor productivity shocks enhances the labor-augmenting technology and has a positive permanent impact on labor efficiency.",
+    "In the dryer regions, no-till and crop rotations significantly improve yield and protect the productivity of the soil.",
+    "These factors include prices and production costs, crop yields, fish productivity and the suitability of land for agriculture or fish production.",
+    "In the context of the model sketch presented above, stock returns and returns to capital are direct measures of productivity.",
+    "The behavior of the labor-market variables also improves, with hours now being substantially less correlated with productivity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "producer",
+    "product",
+    "production",
+    "productive",
+    "productivity",
+    "Prof.",
+    "profess",
+    "profession",
+    "professional"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058645_524f775c7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058645_e16881a238_o.png",
+      "id_image": "productivity_4593135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437008_3a6d81b290_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437008_8c0d7d9ba9_o.png",
+      "id_image": "productivity_4638524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436963_67739c4487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436963_2c33e31d94_o.png",
+      "id_image": "productivity_5267744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436928_d6a662720d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436928_4dc3e0589c_o.png",
+      "id_image": "productivity_5965756"
+    }
+  ]
+}

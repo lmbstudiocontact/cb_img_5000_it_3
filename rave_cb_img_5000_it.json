@@ -1,0 +1,81 @@
+{
+  "english": "rave",
+  "phat_am": "reiv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nói sảng",
+          "definition": "to talk wildly because, or as if, one is mad",
+          "world_new": [
+            "talk",
+            "wildly",
+            "mad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What’s he ranting and raving on about now?",
+              "world_new": [
+                "raving"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói say mê",
+          "definition": "to talk very enthusiastically",
+          "world_new": [
+            "talk",
+            "enthusiastically"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s been raving about this new song he’s heard.",
+              "world_new": [
+                "raving",
+                "song"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the other hand, some rave organisers made the qualitative leap, and by commercialising themselves obtained full legal respectability.",
+    "Members of the panel attempted to dissolve the myths around rave culture, especially concerning the issues of drugs and violence.",
+    "The style of the music was dance/rave.",
+    "The 1990 rave legislation is also wrongly named.",
+    "Throughout the education campaign, the need to express the beauty and value of the rave community was a priority.",
+    "In its anti-materialist stance, rave attempts to provide an alternate (if somewhat flawed) challenge to capitalist commodity culture.",
+    "Structurally the self-interest of providers is not a motive force, given the high rave of state involvement.",
+    "However, the transient nature of rave, particularly in the early 1990s, also added a further element of defamiliarisation."
+  ],
+  "list_see_also": [
+    "raving"
+  ],
+  "list_browse": [
+    "raucous",
+    "raucously",
+    "raucousness",
+    "ravage",
+    "rave",
+    "raven",
+    "ravenous",
+    "ravenously",
+    "ravenousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074585_8b1b1471fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074585_9ddeb8a931_o.png",
+      "id_image": "rave_1809877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382542_dfbbe0e2b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382542_b713fe29ff_o.png",
+      "id_image": "rave_2132581"
+    }
+  ]
+}

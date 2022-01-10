@@ -1,0 +1,56 @@
+{
+  "english": "photographic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuật nhiếp ảnh",
+          "definition": "of photographs or photography",
+          "world_new": [
+            "photography"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a photographic record of his journey.",
+              "world_new": [
+                "record",
+                "journey"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The photographic illustrations, reproduced in black and white, are disappointing.",
+    "Photographic evidence revealed that increased roughness also led t o increased forward throw.",
+    "A photodigitizing machine and a modified photographic streak geometry were employed in the present experiments.",
+    "Then follow the five sections, each adhering to the same presentational structure: an essay on the thematic concept, and interpretative photographic essays.",
+    "An extremely beautiful photographic record of a row of vortices in the case of 8 = 75\" is shown in figure 15.",
+    "He worked with a number of photographic artists over the years.",
+    "They bring to the photographic milieu some of the energy that the live acts conjured directly.",
+    "The ground floor level contains photographic stores that have to be mechanically cooled whereas the upper levels accommodate the special passively controlled storerooms."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "photocopier",
+    "photocopy",
+    "photograph",
+    "photographer",
+    "photographic",
+    "photography",
+    "photometer",
+    "photon",
+    "photosphere"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704009_d78b7e54c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704009_f598ffb86b_o.png",
+      "id_image": "photographic_223235"
+    }
+  ]
+}

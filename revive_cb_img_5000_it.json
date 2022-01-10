@@ -1,0 +1,102 @@
+{
+  "english": "revive",
+  "phat_am": "rəˈvaiv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sống lại; tỉnh lại",
+          "definition": "to come, or bring, back to consciousness, strength, health etc",
+          "world_new": [
+            "bring",
+            "consciousness",
+            "strength",
+            "health"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They attempted to revive the woman who had fainted",
+              "world_new": [
+                "attempted"
+              ]
+            },
+            {
+              "ex_of_definition": "She soon revived",
+              "world_new": [
+                "soon"
+              ]
+            },
+            {
+              "ex_of_definition": "The flowers revived in water",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "His hopes of seeing her again were revived."
+            }
+          ]
+        },
+        {
+          "mean_english": "khôi phục lại",
+          "definition": "to come or bring back to use etc",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This old custom has recently (been) revived.",
+              "world_new": [
+                "old",
+                "custom",
+                "recently"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The rent dinners continued, but the harvest suppers that he had revived in 1909 appear to have been a casualty of this period.",
+    "Evidently, the events across the border were reviving dormant resentments throughout the western frontier lands.",
+    "Interest in the buildings revived in the 1960s.",
+    "It is much more feasible for a community to revive the symbolic functions of a language, without necessarily changing their language of communicative function.",
+    "In order to revive private renting, rents were deregulated on new tenancies.",
+    "The low success we had in reviving cryopreserved embryos certainly implies that the process could have been stressful to the survivors.",
+    "Animals were revived under a heat lamp and returned to home cages.",
+    "To achieve this end, they sometimes resorted to reviving bygone tribal identities or inventing new ones altogether."
+  ],
+  "list_see_also": [
+    "revival"
+  ],
+  "list_browse": [
+    "revise",
+    "revision",
+    "revisit",
+    "revival",
+    "revive",
+    "revocation",
+    "revoke",
+    "revolt",
+    "revolted"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393062_d0ccc14295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393062_2ca0f697c7_o.png",
+      "id_image": "revive_1409025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393087_5c759902cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393087_ae9303446f_o.png",
+      "id_image": "revive_188961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393012_377bbf88ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393012_c0837baf77_o.png",
+      "id_image": "revive_4334125"
+    }
+  ]
+}

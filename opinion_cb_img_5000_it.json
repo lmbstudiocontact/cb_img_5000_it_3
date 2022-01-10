@@ -1,0 +1,116 @@
+{
+  "english": "opinion",
+  "phat_am": "əˈpinjən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ý kiến",
+          "definition": "what a person thinks or believes",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My opinions about education have changed.",
+              "world_new": [
+                "education"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đánh giá",
+          "definition": "a (professional) judgement, usually of a doctor, lawyer etc",
+          "world_new": [
+            "judgement",
+            "doctor",
+            "lawyer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wanted a second opinion on his illness.",
+              "world_new": [
+                "wanted",
+                "illness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đánh giá cao",
+          "definition": "what one thinks of the worth or value of someone or something",
+          "world_new": [
+            "worth",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a very high opinion of his work.",
+              "world_new": [
+                "I",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This confirms our thesis that by varying the content of the plasma probabilistic ensemble one may advance diver se opinions regarding some physical phenomena.",
+    "The case for separability as a requirement of consequentialism is straightforward in my opinion.",
+    "Besides the standard section, in every wave some questions are added to poll the opinions surrounding hot topics.",
+    "Any differences of opinion were resolved by discussion.",
+    "Public opinion research is not an area that has received much attention from applied linguists.",
+    "Despite the widespread use of hypothermic arrest, opinion is not unanimous with regard to its safety.",
+    "The other set of opinions represented more extreme points of view that differed for students and for older people.",
+    "In the \"fourteen opinions\" the problem was resolved."
+  ],
+  "list_see_also": [
+    "opinionated",
+    "opinion poll",
+    "be of the opinion (that)",
+    "in my",
+    "a matter of opinion"
+  ],
+  "list_browse": [
+    "operational",
+    "operative",
+    "operator",
+    "opiate",
+    "opinion",
+    "opinion poll",
+    "opinionated",
+    "opium",
+    "opossum"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345731_a4eaeffba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345731_3f854ff797_o.png",
+      "id_image": "opinion_1162293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700809_8fea0941a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700809_6792939f63_o.png",
+      "id_image": "opinion_1396604"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083230_9e4894f2e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083230_6a0673a810_o.png",
+      "id_image": "opinion_171693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700789_95c603ca04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700789_11f3a97eac_o.png",
+      "id_image": "opinion_5226377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700764_b026f8b560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700764_92042b07e8_o.png",
+      "id_image": "opinion_5779045"
+    }
+  ]
+}

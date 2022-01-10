@@ -1,0 +1,142 @@
+{
+  "english": "pinch",
+  "phat_am": "pintʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "véo",
+          "definition": "to squeeze or press tightly (flesh), especially between the thumb and forefinger",
+          "world_new": [
+            "squeeze",
+            "press",
+            "thumb",
+            "forefinger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pinched her arm.",
+              "world_new": [
+                "pinched",
+                "arm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bó chặt",
+          "definition": "to hurt by being too small or tight",
+          "world_new": [
+            "hurt",
+            "small",
+            "tight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My new shoes are pinching (me)."
+            }
+          ]
+        },
+        {
+          "mean_english": "ăn cắp",
+          "definition": "to steal",
+          "world_new": [
+            "steal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who pinched my pen?",
+              "world_new": [
+                "pinched",
+                "my",
+                "pen"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái véo",
+          "definition": "an act of pinching; a squeeze or nip",
+          "world_new": [
+            "act",
+            "squeeze",
+            "nip"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave her a pinch on the cheek.",
+              "world_new": [
+                "cheek"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhúm",
+          "definition": "a very small amount; what can be held between the thumb and forefinger",
+          "world_new": [
+            "small",
+            "thumb",
+            "forefinger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pinch of salt.",
+              "world_new": [
+                "salt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The karyoplast fragment then pinches itself off and the egg recovers rapidly.",
+    "The mechanism of the instability remains that of capillary pinching even in the presence of a viscous gas and gravity.",
+    "A low-resistance, low-density plasma is created in which most of the current flows, and the plasma pinches nonuniformly along the wire.",
+    "In mammalian apoptotic cells, the cell membrane pinches outwards to form apoptotic bodies externally.",
+    "Investigation of fast z pinches and hot plasma points the anode moves with a higher velocity than that propagating toward the cathode.",
+    "The history of z pinches is also the history of the development of plasma physics.",
+    "Even so, the time eventually allotted for the task was pinched.",
+    "Moss-polster samples were collected by taking multiple pinches of mosses from a 20-m2 area every 50-100 m of descent."
+  ],
+  "list_see_also": [
+    "pinched",
+    "feel the pinch"
+  ],
+  "list_browse": [
+    "pin-up",
+    "pinafore",
+    "pinball",
+    "pincers",
+    "pinch",
+    "pinched",
+    "pincushion",
+    "pine",
+    "pineapple"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083670_b96c9fda93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083670_6c74a2e76f_o.png",
+      "id_image": "pinch_1151198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346176_0417f8da3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346176_fb6b352a69_o.png",
+      "id_image": "pinch_4151549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083585_56ee73483a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083585_500005dd22_o.png",
+      "id_image": "pinch_4660849"
+    }
+  ]
+}

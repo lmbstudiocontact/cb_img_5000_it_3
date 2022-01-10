@@ -1,0 +1,69 @@
+{
+  "english": "passport",
+  "phat_am": "ˈpaːspoːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hộ chiếu",
+          "definition": "a document of identification, necessary for foreign travel",
+          "world_new": [
+            "document",
+            "identification",
+            "necessary",
+            "foreign",
+            "travel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a British passport.",
+              "world_new": [
+                "British"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the present time we are not establishing a general system of passports, but we may have to do so.",
+    "The practice relating to the issue of passports to minors will be reviewed when the final form of the proposed legislation is known.",
+    "Control is also exercised in the issue of passports.",
+    "Besides controlling travel, passports and the like often served to identify political suspects.",
+    "We were told that if we wanted to stop people at our frontiers and look at their passports, we could do so.",
+    "However, a range of measures, including secure holding areas and early return of sponsors' passports, is being taken to improve performance.",
+    "We should move toward real-time verification of passports with issuing authorities.",
+    "Even so further initiatives are in place to improve the handling of passports."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "passively",
+    "passiveness",
+    "passivity",
+    "Passover",
+    "passport",
+    "password",
+    "past",
+    "past participle",
+    "past perfect"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684749_5475b50d8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684749_ee71691fe6_o.png",
+      "id_image": "passport_169452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444703_0d4acdda46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444703_e13292b2b6_o.png",
+      "id_image": "passport_495969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374327_df6e017fb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374327_ab6c508a79_o.png",
+      "id_image": "passport_807674"
+    }
+  ]
+}

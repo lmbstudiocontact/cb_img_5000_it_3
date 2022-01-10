@@ -1,0 +1,77 @@
+{
+  "english": "primitive",
+  "phat_am": "ˈprimətiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nguyên thuỷ",
+          "definition": "belonging to the earliest times",
+          "world_new": [
+            "times"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "primitive stone tools.",
+              "world_new": [
+                "stone"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thô sơ",
+          "definition": "simple or rough",
+          "world_new": [
+            "simple",
+            "rough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a primitive boat out of some pieces of wood.",
+              "world_new": [
+                "boat",
+                "wood"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prime number",
+    "prime time",
+    "primer",
+    "primeval",
+    "primitive",
+    "primly",
+    "primness",
+    "primrose",
+    "prince"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440663_d62f505d7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440663_b26f2d1b92_o.png",
+      "id_image": "primitive_2604879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680699_153526b0b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680699_0fd6f8cbcf_o.png",
+      "id_image": "primitive_2604886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440593_52f4901e0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440593_751049059b_o.png",
+      "id_image": "primitive_2604889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370347_3cf723d20d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370347_177b5ce744_o.png",
+      "id_image": "primitive_4744284"
+    }
+  ]
+}

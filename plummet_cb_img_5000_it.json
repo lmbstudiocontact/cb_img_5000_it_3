@@ -1,0 +1,74 @@
+{
+  "english": "plummet",
+  "phat_am": "ˈplamit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lao thẳng xuống",
+          "definition": "(of a heavy weight) to fall or drop swiftly",
+          "world_new": [
+            "heavy",
+            "fall",
+            "drop",
+            "swiftly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rock plummeted to the bottom of the cliff.",
+              "world_new": [
+                "rock",
+                "bottom",
+                "cliff"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây dọi",
+          "definition": "an indicator hung down to see if something is vertical.",
+          "world_new": [
+            "indicator",
+            "see",
+            "vertical"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is a deep matter, an abysmal one, which no plummet of ours will sound.",
+    "Following the recession in 1991-1993, sales of robots plummeted to about 55,000 units in 1993.",
+    "As a consequence, the economic status of priests plummeted, making entry into the clergy less attractive.",
+    "Unsurprisingly, prosecutions for poaching plummeted precisely in areas of the country where the late nineteenth-century revolution in food supply and diet was most evident.",
+    "At the same time, the rats give up eating and their body weights plummet.",
+    "Following the recession in 1991-1993, worldwide sales of industrial robots plummeted to about 54,000 units in 1993.",
+    "Following the recession of 1991 to 1993, sales of robots plummeted to about 55,000 units in 1993.",
+    "This trend accelerated in the 1990s, as the number of moderate and cross-pressured members plummeted."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plumage",
+    "plumber",
+    "plumbing",
+    "plume",
+    "plummet",
+    "plump",
+    "plump up",
+    "plumply",
+    "plumpness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694764_fafbfb2bff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694764_f72d723267_o.png",
+      "id_image": "plummet_1638523"
+    }
+  ]
+}

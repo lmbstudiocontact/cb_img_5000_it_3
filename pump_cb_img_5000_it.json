@@ -1,0 +1,119 @@
+{
+  "english": "pump",
+  "phat_am": "pamp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy bơm",
+          "definition": "a machine for making water pump rise from under the ground",
+          "world_new": [
+            "machine",
+            "water",
+            "rise",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Every village used to have a pump from which everyone drew their water.",
+              "world_new": [
+                "village",
+                "their",
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái bơm (xe)",
+          "definition": "a machine or device for forcing liquid or gas into, or out of, something",
+          "world_new": [
+            "machine",
+            "device",
+            "liquid",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bicycle pump (for forcing air into the tyres/tires).",
+              "world_new": [
+                "bicycle",
+                "air"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bơm",
+          "definition": "to raise or force with a pump",
+          "world_new": [
+            "raise",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Oil is being pumped out of the ground.",
+              "world_new": [
+                "ground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dò hỏi",
+          "definition": "to get information from by asking questions",
+          "world_new": [
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to pump me about the exam."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The pump sequence promotes amplification along the trajectory plasma- left mirror-plasma-right mirror-plasma.",
+    "It will be argued that, at least for sufficiently small pump fields, this model allows a stationary solution.",
+    "For example, a water pump will vibrate if its motor bearing is defective, if its shaft is misaligned, or if its mounting is somewhat loose.",
+    "The highest radiation efficiencies and energies are attained in chain lasers pumped by chain reactions.",
+    "One characteristic is represented by total investment in irrigation systems, comprised of the total investment costs of well digging, electric pumps, pipelines, and sprinkler systems.",
+    "The adequacy of the (hemoconcentrated) volume replaced from the pump via the arterial cannula is judged by monitoring the left atrial pressure continuously during ultrafiltration.",
+    "In the case of the pericardium, this can lead to compression of the heart pump.",
+    "Both causes are preventable with regular maintenance of the pump and by exercising care when applying the cup."
+  ],
+  "list_see_also": [
+    "pump up"
+  ],
+  "list_browse": [
+    "puma",
+    "pumice",
+    "pumice stone",
+    "pummel",
+    "pump",
+    "pump up",
+    "pumpkin",
+    "pun",
+    "Punch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462633_bbf9af311a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462633_224afdc993_o.png",
+      "id_image": "pump_1055052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347846_2381f9166f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347846_7500713067_o.png",
+      "id_image": "pump_923843"
+    }
+  ]
+}

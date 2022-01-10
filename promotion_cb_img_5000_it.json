@@ -1,0 +1,101 @@
+{
+  "english": "promotion",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thăng chức",
+          "definition": "the raising of a person to a higher rank or position",
+          "world_new": [
+            "person",
+            "rank",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has just been given (a) promotion."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự khuyến khích",
+          "definition": "encouragement (of a cause, charity etc)",
+          "world_new": [
+            "encouragement",
+            "cause",
+            "charity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the promotion of world peace.",
+              "world_new": [
+                "world",
+                "peace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự quảng cáo",
+          "definition": "the activity of advertising a product etc",
+          "world_new": [
+            "activity",
+            "advertising",
+            "product"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is against the promotion of cigarettes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I take the view that appointments and promotions have to be made on merit.",
+    "When people leave an employer there may be room for internal promotions or transfers to fill the immediate gap.",
+    "They promote the health of communities by providing health-related advice and promotions.",
+    "Gayacting men in homophobic workplaces are faced with hostility from their coworkers and denied promotions.",
+    "Through his friends, government appointments and promotions were also still to be worked for, even during a whig administration.",
+    "He must be responsible for honours, awards, and promotions at least of two star rank and above.",
+    "He attributed his many promotions to his adaptability and to his energy.",
+    "Can it be made easier for these medical officers to obtain short-service promotions?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "promising",
+    "promontory",
+    "promote",
+    "promoter",
+    "promotion",
+    "prompt",
+    "prompter",
+    "promptly",
+    "promptness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395782_7c1aa7afb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395782_f54e8bf385_o.png",
+      "id_image": "promotion_1077170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465598_c04e76b9d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465598_f78209931f_o.png",
+      "id_image": "promotion_2344653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465678_eb3fc7fe75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465678_8a35233680_o.png",
+      "id_image": "promotion_296909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705639_aa7af72b25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705639_d134a5de90_o.png",
+      "id_image": "promotion_562548"
+    }
+  ]
+}

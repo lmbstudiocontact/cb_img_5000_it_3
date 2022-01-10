@@ -1,0 +1,109 @@
+{
+  "english": "reaction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phản ứng",
+          "definition": "the act of reacting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What was his reaction to your remarks?",
+              "world_new": [
+                "your"
+              ]
+            },
+            {
+              "ex_of_definition": "He suffered a bad reaction from the drug",
+              "world_new": [
+                "bad",
+                "drug"
+              ]
+            },
+            {
+              "ex_of_definition": "I’d like to ask you for your reactions to these suggestions.",
+              "world_new": [
+                "ask",
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phản đối lại cái gì",
+          "definition": "a change of opinions, feelings etc (usually against someone or something)",
+          "world_new": [
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new government was popular at first, but then a reaction began.",
+              "world_new": [
+                "government",
+                "popular"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phản ứng hóa học",
+          "definition": "a process of change which occurs when two or more substances are put together",
+          "world_new": [
+            "process",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(a) nuclear reaction",
+              "world_new": [
+                "nuclear"
+              ]
+            },
+            {
+              "ex_of_definition": "a chemical reaction between iron and acid.",
+              "world_new": [
+                "chemical",
+                "iron",
+                "acid"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "re-entry",
+    "reach",
+    "react",
+    "reactant",
+    "reaction",
+    "reactionary",
+    "reactor",
+    "read",
+    "read between the lines"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337166_3c04284589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337166_8f9e1dbeeb_o.png",
+      "id_image": "reaction_2161483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382167_4cb716fa6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382167_1fe029cb77_o.png",
+      "id_image": "reaction_4143318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382137_7f1dfdc864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382137_50eafcc487_o.png",
+      "id_image": "reaction_5132587"
+    }
+  ]
+}

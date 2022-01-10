@@ -1,0 +1,122 @@
+{
+  "english": "prick",
+  "phat_am": "prik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chọc",
+          "definition": "to pierce slightly or stick a sharp point into",
+          "world_new": [
+            "pierce",
+            "slightly",
+            "stick",
+            "sharp",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She pricked her finger on a pin",
+              "world_new": [
+                "finger",
+                "pin"
+              ]
+            },
+            {
+              "ex_of_definition": "He pricked a hole in the paper.",
+              "world_new": [
+                "hole",
+                "paper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chọc",
+          "definition": "(a pain caused by) an act of pricking",
+          "world_new": [
+            "pain",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ll just feel a slight prick in your arm.",
+              "world_new": [
+                "feel",
+                "slight",
+                "your",
+                "arm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái lỗ",
+          "definition": "a tiny hole made by a sharp point",
+          "world_new": [
+            "tiny",
+            "hole",
+            "sharp",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pin prick.",
+              "world_new": [
+                "pin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dương vật",
+          "definition": "a penis.",
+          "world_new": [
+            "penis"
+          ]
+        },
+        {
+          "mean_english": "người ngu ngốc",
+          "definition": "a nasty or contemptible person",
+          "world_new": [
+            "nasty",
+            "contemptible",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is such a prick!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "prick (up) one’s ears"
+  ],
+  "list_browse": [
+    "prey on",
+    "price",
+    "priceless",
+    "pricey",
+    "prick",
+    "prick (up) one’s ears",
+    "prickle",
+    "prickliness",
+    "prickly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681199_3253620d20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681199_b5b3dfb50c_o.png",
+      "id_image": "prick_5154883"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "profile",
+  "phat_am": "ˈprəufail",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nét mặt nhìn nghiêng",
+          "definition": "the view of a face, head etc from the side; a side view",
+          "world_new": [
+            "view",
+            "face",
+            "head",
+            "side",
+            "view"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a beautiful profile.",
+              "world_new": [
+                "beautiful"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Only one study to date has examined the proposition that different profiles of behavior problems at home may have differential predictability for school adjustment.",
+    "Predictions of the numerical model are compared with experimental data and excellent agreement is found to exist between measured and predicted wavelengths and velocity profiles.",
+    "The shapes of the profiles during normal and shunting conditions are similar, with more negative values obtained in die posterior section.",
+    "A series of such profiles taken along the centreline of the survey plate disclosed that boundary layer similarity is definitely preserved.",
+    "The checklists and corresponding profiles are designed to assess children's problem behavior, school performance, and adaptive functioning.",
+    "Consistent with the experimental animal and epidemiologic human research summarized above, these individuals are hypothesized to develop heightened reactivity profiles.",
+    "What if some hazard profiles corresponding to different values of the predictor are not proportional to each other?",
+    "Statistical models of hazard express hypothesized population relationships between entire hazard profiles and predictors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "professorship",
+    "proficiency",
+    "proficient",
+    "proficiently",
+    "profile",
+    "profit",
+    "profitable",
+    "profitably",
+    "profound"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676434_73034633f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676434_4211f50182_o.png",
+      "id_image": "profile_1098778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058100_e084036ce3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058100_c9775b5334_o.png",
+      "id_image": "profile_2058243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366227_bf2390bbf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366227_6548fe0dde_o.png",
+      "id_image": "profile_4542145"
+    }
+  ]
+}

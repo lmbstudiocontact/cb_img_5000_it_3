@@ -1,0 +1,66 @@
+{
+  "english": "prescribe",
+  "phat_am": "prəˈskraib",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liệt kê",
+          "definition": "to advise or order (the use of)",
+          "world_new": [
+            "advise",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My doctor prescribed some pills for my cold",
+              "world_new": [
+                "doctor",
+                "my",
+                "cold"
+              ]
+            },
+            {
+              "ex_of_definition": "Here is a list of books prescribed by the examiners for the exam.",
+              "world_new": [
+                "list"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Indeed, patients were often reluctant to be prescribed a detoxification drug which had not led to them successfully achieving abstinence in the past.",
+    "Since the nominal motion is not prescribed, the main problem is the computation of the position error in the considered time instance.",
+    "In stating that these objects have value, we are not merely exclaiming over them or prescribing some action or attitude toward them.",
+    "Eleven patients were prescribed ' nothing ' at randomization, but nine of these actually received treatment during the following 8 months.",
+    "Realists emphasize new or continuing security concerns, and prescribe unilateral action and the deployment of traditional power politics in the pursuit of state interests.",
+    "In our series chemotherapy prescribed in one heavily pretreated patient was associated with long-term disease stabilisation.",
+    "Of the 43 respondents, two-thirds prescribed on average seven or more times a week, with only two prescribing less than once a week.",
+    "The structure of the generated shape need not be prescribed by the rule and ultimately the history of generation to that point."
+  ],
+  "list_see_also": [
+    "prescription"
+  ],
+  "list_browse": [
+    "preposterous",
+    "preposterously",
+    "prerequisite",
+    "prerogative",
+    "prescribe",
+    "prescription",
+    "presence",
+    "presence of mind",
+    "present"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443533_ed2ba95929_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443533_859a7f42e5_o.png",
+      "id_image": "prescribe_1407906"
+    }
+  ]
+}

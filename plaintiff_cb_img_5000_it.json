@@ -1,0 +1,63 @@
+{
+  "english": "plaintiff",
+  "phat_am": "ˈpleintif",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguyên đơn",
+          "definition": "a person who starts a legal case against another",
+          "world_new": [
+            "person",
+            "legal",
+            "case"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The jury ruled for the plaintiffs.",
+              "world_new": [
+                "jury",
+                "ruled"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our tort law's system of imposing liability on defendants if they have tortiously injured plaintiffs is essentially a system of corrective justice.",
+    "If plaintiffs lived in remote villages, they had to make overnight trips to the yamen courts in designated cities.",
+    "The authors note that this scenario presents an especially attractive target for class action lawyers (many similarly-situated plaintiffs and large dollar losses).",
+    "The plaintiff knew all about this car when he got into it.",
+    "Litigation was indeed very costly for both plaintiffs and defendants, and the above expenses were only the tip of the iceberg.",
+    "What settlement does is to make the one-in-thirteen ex ante chance of prevailing the determining factor for all plaintiffs.",
+    "All they need to resolve their dispute is the arbitrator's decision-appealing to the plaintiff's rule as an authoritative rule makes no additional difference to them.",
+    "In order for the plaintiff's rule to epistemically guide conduct, it must be capable of making a practical difference."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plain sailing",
+    "plain-spoken",
+    "plainly",
+    "plainness",
+    "plaintiff",
+    "plaintive",
+    "plaintively",
+    "plaintiveness",
+    "plait"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458703_b13e94e2ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458703_d5bf30a085_o.png",
+      "id_image": "plaintiff_1566626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388812_f3b3856375_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388812_a493f4d7f1_o.png",
+      "id_image": "plaintiff_1781238"
+    }
+  ]
+}

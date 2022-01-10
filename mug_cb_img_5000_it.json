@@ -1,0 +1,95 @@
+{
+  "english": "mug",
+  "phat_am": "maɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ca",
+          "definition": "a type of cup with usually tall, more or less vertical sides",
+          "world_new": [
+            "type",
+            "cup",
+            "tall",
+            "vertical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mug of coffee.",
+              "world_new": [
+                "coffee"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mặt",
+          "definition": "a slang word for the face.",
+          "world_new": [
+            "slang",
+            "face"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bóp cổ",
+          "definition": "to attack and usually rob",
+          "world_new": [
+            "attack",
+            "rob"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was mugged when coming home late at night.",
+              "world_new": [
+                "home",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "mugful"
+  ],
+  "list_browse": [
+    "muesli",
+    "muffin",
+    "muffle",
+    "muffler",
+    "mug",
+    "mugful",
+    "mugger",
+    "mulberry",
+    "mule"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687649_428ac65ef0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687649_903d538a32_o.png",
+      "id_image": "mug_263780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377422_fdb1ff5a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377422_8e5fa4577b_o.png",
+      "id_image": "mug_5507941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687574_5df3420a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687574_0d71991108_o.png",
+      "id_image": "mug_6255844"
+    }
+  ]
+}

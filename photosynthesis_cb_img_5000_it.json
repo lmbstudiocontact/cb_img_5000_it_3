@@ -1,0 +1,80 @@
+{
+  "english": "photosynthesis",
+  "phat_am": "ˌfoutouˈsinθəsis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quang hợp",
+          "definition": "the process by which green plants and some other organisms use energy from sunlight to synthesize nutrients from carbon dioxide and water, and generate excess oxygen as a by-product",
+          "world_new": [
+            "process",
+            "green",
+            "energy",
+            "sunlight",
+            "synthesize",
+            "carbon",
+            "dioxide",
+            "water",
+            "generate",
+            "excess",
+            "oxygen",
+            "by-product"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The primary reaction in photosynthesis depends on light.",
+              "world_new": [
+                "primary",
+                "reaction",
+                "light"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Photosynthetic induction strongly affects the light compensation point of net photosynthesis and coincidentally the apparent quantum yield.",
+    "It is difficult to determine whether the results reflect the history of photosynthesis.",
+    "Therefore, maximizing the proportion of leaves within the canopy will increase overall photosynthesis.",
+    "This then allows photosynthesis to operate effectively over a wide range of incident light-intensities.",
+    "After these immediate measurements, samples were then placed on ice and tested for active photosynthesis at various time intervals afterward.",
+    "Either the purple bacteria have acquired the photosynthesis genes recently by lateral gene transfer or selective pressure forced various species to retain these organizational patterns.",
+    "Understanding photosynthesis is important for understanding life, the development of the atmosphere on earth and possibly renewable hydrogen generation in the future.",
+    "The basis of photosynthesis is the trapping of light energy from the sun by chlorophyll."
+  ],
+  "list_see_also": [
+    "photosynthesize"
+  ],
+  "list_browse": [
+    "photon",
+    "photosphere",
+    "photospheric",
+    "Photostat",
+    "photosynthesis",
+    "photosynthesize",
+    "phototropic",
+    "phototropism",
+    "photovoltaic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349151_f18cc79857_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349151_56c317a699_o.png",
+      "id_image": "photosynthesis_1373958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349126_4064c1237f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349126_84bccb45bf_o.png",
+      "id_image": "photosynthesis_2176957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703849_5e8cc2f153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703849_4ceda6f963_o.png",
+      "id_image": "photosynthesis_4157643"
+    }
+  ]
+}

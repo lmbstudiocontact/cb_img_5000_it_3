@@ -1,0 +1,100 @@
+{
+  "english": "propose",
+  "phat_am": "prəˈpəuz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đề nghị",
+          "definition": "to offer for consideration; to suggest",
+          "world_new": [
+            "offer",
+            "suggest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I proposed my friend for the post",
+              "world_new": [
+                "I",
+                "my",
+                "friend"
+              ]
+            },
+            {
+              "ex_of_definition": "Who proposed this scheme?",
+              "world_new": [
+                "scheme"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề ra mục đích",
+          "definition": "to intend",
+          "world_new": [
+            "intend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He proposes to build a new house.",
+              "world_new": [
+                "build",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cầu hôn",
+          "definition": "to make an offer of marriage",
+          "world_new": [
+            "offer",
+            "marriage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He proposed (to me) last night and I accepted.",
+              "world_new": [
+                "night",
+                "I",
+                "accepted"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two possible signalling pathways involved in phytohormone-induced surface modification are proposed.",
+    "Two prevention strategies have been proposed: chemoprophylaxis and immunoprophylaxis.",
+    "Second, the authors propose that damage to visual/sensory features will simply make inaccessible the functional information associated with the visual representation.",
+    "So, permitted deceleration of the mobile robot is restricted by the proposed algorithm.",
+    "This proposed model transfers murine findings to the human orthologous chromosomal region.",
+    "Experimental results show that the performance of the proposed approach is high in terms of precision and computational cost.",
+    "Nevertheless, the new planning-control dichotomy he proposes, though a valuable advance, is itself an oversimplification of what must be a multi-channel system.",
+    "This definition was proposed with respect to the assumption that volumes of the task workspaces are the same."
+  ],
+  "list_see_also": [
+    "proposal"
+  ],
+  "list_browse": [
+    "proportionally",
+    "proportionate",
+    "proportionately",
+    "proposal",
+    "propose",
+    "proposition",
+    "proprietor",
+    "propriety",
+    "propulsion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705169_372ed09110_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705169_185baabcc8_o.png",
+      "id_image": "propose_1775689"
+    }
+  ]
+}

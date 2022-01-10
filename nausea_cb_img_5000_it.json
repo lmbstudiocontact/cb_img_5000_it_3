@@ -1,0 +1,63 @@
+{
+  "english": "nausea",
+  "phat_am": "ˈnoːziə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự buồn nôn",
+          "definition": "a feeling of sickness",
+          "world_new": [
+            "feeling",
+            "sickness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was suffering from nausea.",
+              "world_new": [
+                "suffering"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Her pain increased accompanied by worsening nausea and vomiting.",
+    "Some patients may suffer from severe abdominal cramps, fever, chills, headache and myalgia, nausea and malaise.",
+    "During days 0-3 general symptoms were noted : axillary temperature, severe headache, discomfort, fatigue, nausea and vomiting and others.",
+    "Gastro-intestinal problems such as nausea and heart-burn will in-uence the patient's adherence to therapy.",
+    "Nausea and vomiting occurred in a dose-dependent manner within the first 2-4 weeks and resolved spontaneously.",
+    "Among the laboratory-confirmed case-patients, the most commonly reported symptoms were diarrhoea (94.8 %), abdominal cramps (88.0%), and nausea (76.4 %).",
+    "Scales measured frequency and severity of both nausea and vomiting using simple prompts.",
+    "A nursing intervention to modify the distressing symptoms of pain and nausea in patients hospitalized with cancer."
+  ],
+  "list_see_also": [
+    "nauseate"
+  ],
+  "list_browse": [
+    "naught",
+    "naughtily",
+    "naughtiness",
+    "naughty",
+    "nausea",
+    "nauseate",
+    "nautical",
+    "naval",
+    "nave"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372032_13e2b5db51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372032_8e292dcaa8_o.png",
+      "id_image": "nausea_1805163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327281_6318714b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327281_d346bf5ccc_o.png",
+      "id_image": "nausea_6349870"
+    }
+  ]
+}

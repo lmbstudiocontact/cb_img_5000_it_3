@@ -1,0 +1,167 @@
+{
+  "english": "ride",
+  "phat_am": "raid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi; cưỡi",
+          "definition": "to travel or be carried (in a car, train etc or on a bicycle, horse etc)",
+          "world_new": [
+            "travel",
+            "car",
+            "train",
+            "bicycle",
+            "horse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He rides to work every day on an old bicycle",
+              "world_new": [
+                "work",
+                "day",
+                "old",
+                "bicycle"
+              ]
+            },
+            {
+              "ex_of_definition": "The horsemen rode past."
+            }
+          ]
+        },
+        {
+          "mean_english": "lái; đi",
+          "definition": "to (be able to) ride on and control (a horse, bicycle etc)",
+          "world_new": [
+            "control",
+            "horse",
+            "bicycle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you ride a bicycle?",
+              "world_new": [
+                "bicycle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tham gia",
+          "definition": "to take part (in a horse-race etc)",
+          "world_new": [
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s riding in the first race.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cưỡi ngựa",
+          "definition": "to go out regularly on horseback (eg as a hobby)",
+          "world_new": [
+            "regularly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My daughter rides every Saturday morning.",
+              "world_new": [
+                "daughter",
+                "Saturday",
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyến đi",
+          "definition": "a journey on horseback, on a bicycle etc",
+          "world_new": [
+            "journey",
+            "bicycle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He likes to go for a long ride on a Sunday afternoon.",
+              "world_new": [
+                "long",
+                "Sunday",
+                "afternoon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự lái",
+          "definition": "a usually short period of riding on or in something",
+          "world_new": [
+            "short",
+            "period"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I have a ride on your bike?",
+              "world_new": [
+                "I",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Second, the types of obscured generalisations that arise from concealed free rides turn out not to be classifiable as opaque according to the standard definition of opacity in (2).",
+    "However, children are frequently present in the village as people wait for the bus and other rides, and they may overhear such interactions as adults get on board.",
+    "While his achievements were crowned with many honours, they rode lightly on his shoulders.",
+    "A lot of its other activities are seasonal: the riding school and lessons are seasonal.",
+    "I ran a group providing riding for the disabled.",
+    "I do not believe that we are riding roughshod over our procedures.",
+    "Another remarkable aspect of concealed free rides is that they involve no overapplication or underapplication according to the standard definition of opacity in (2).",
+    "Even when a physician directed therapeutic horseback rides, it was usually the realignment of the animal spirits, rather than the enjoyable distractions of bucolic delights, which cured."
+  ],
+  "list_see_also": [
+    "rider",
+    "riding school"
+  ],
+  "list_browse": [
+    "ricochet",
+    "rid",
+    "-ridden",
+    "riddle",
+    "ride",
+    "rider",
+    "ridge",
+    "ridicule",
+    "ridiculous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391952_34cc6aab63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391952_2a613732f8_o.png",
+      "id_image": "ride_4559843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392017_8fa85e452c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392017_3529fbd9ba_o.png",
+      "id_image": "ride_540156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084380_ae4b0d784b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084380_27832532dd_o.png",
+      "id_image": "ride_950748"
+    }
+  ]
+}

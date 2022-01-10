@@ -1,0 +1,78 @@
+{
+  "english": "recommendation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giới thiệu; lời khuyên",
+          "definition": "the act of recommending",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I gave her the job on his recommendation.",
+              "world_new": [
+                "I",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời tiến cử; lời khuyên",
+          "definition": "something recommended",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The recommendations of the committee.",
+              "world_new": [
+                "committee"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The rationale for these recommendations reflected the situation that faces many healthcare systems.",
+    "There are multiple reasons behind the differing views on recommendations.",
+    "The other kinematic parameters, as well as dynamic ones, were identified on the basis of the biometric tables, recommendations, and empirical relations given in refs.",
+    "The results also indicate that these nursing interventions (advice and recommendations and/or information/education) when they were received, were highly valued by the patients.",
+    "Each rotation type was managed using either conventional management (pesticide and fertilizer applied according to standard recommendations) or organic management.",
+    "Only one respondent expressed the wish that recommendations should be made compulsory.",
+    "Most of these recommendations have now been implemented.",
+    "Finally, two recommendations on the introduction of technologies were impossible to appraise because of the influence of major external factors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "recoil",
+    "recollect",
+    "recollection",
+    "recommend",
+    "recommendation",
+    "recompense",
+    "reconcile",
+    "reconciliation",
+    "recondition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071840_af5c0f7f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071840_b0b74d8c78_o.png",
+      "id_image": "recommendation_5352142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071890_919eb8e542_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071890_93984a5446_o.png",
+      "id_image": "recommendation_709246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379882_762e0bc9d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379882_a2aa617ee2_o.png",
+      "id_image": "recommendation_709247"
+    }
+  ]
+}

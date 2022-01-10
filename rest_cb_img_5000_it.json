@@ -1,0 +1,318 @@
+{
+  "english": "rest",
+  "phat_am": "rest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nghỉ ngơi",
+          "definition": "a (usually short) period of not working etc after, or between periods of, effort; (a period of) freedom from worries etc",
+          "world_new": [
+            "period",
+            "period",
+            "freedom"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Digging the garden is hard work – let’s stop for a rest",
+              "world_new": [
+                "garden",
+                "work",
+                "stop"
+              ]
+            },
+            {
+              "ex_of_definition": "Let’s have/take a rest"
+            },
+            {
+              "ex_of_definition": "I need a rest from all these problems – I’m going to take a week’s holiday.",
+              "world_new": [
+                "I",
+                "holiday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giấc ngủ",
+          "definition": "sleep",
+          "world_new": [
+            "sleep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He needs a good night’s rest."
+            }
+          ]
+        },
+        {
+          "mean_english": "cái giá đỡ",
+          "definition": "something which holds or supports",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a book-rest"
+            },
+            {
+              "ex_of_definition": "a headrest on a car seat.",
+              "world_new": [
+                "headrest",
+                "car",
+                "seat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không hoạt động",
+          "definition": "a state of not moving",
+          "world_new": [
+            "state",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The machine is at rest.",
+              "world_new": [
+                "machine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nghỉ ngơi",
+          "definition": "to (allow to) stop working etc in order to get new strength or energy",
+          "world_new": [
+            "stop",
+            "order",
+            "strength",
+            "energy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve been walking for four hours – let’s stop and rest",
+              "world_new": [
+                "stop"
+              ]
+            },
+            {
+              "ex_of_definition": "Stop reading for a minute and rest your eyes",
+              "world_new": [
+                "reading",
+                "minute",
+                "your"
+              ]
+            },
+            {
+              "ex_of_definition": "Let’s rest our legs.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngủ",
+          "definition": "to sleep; to lie or sit quietly in order to get new strength or energy, or because one is tired",
+          "world_new": [
+            "lie",
+            "sit",
+            "quietly",
+            "order",
+            "strength",
+            "energy",
+            "tired"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mother is resting at the moment.",
+              "world_new": [
+                "moment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tựa vào",
+          "definition": "to (make or allow to) lean, lie, sit, remain etc on or against something",
+          "world_new": [
+            "allow",
+            "lean",
+            "lie",
+            "sit",
+            "remain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her head rested on his shoulder",
+              "world_new": [
+                "head",
+                "shoulder"
+              ]
+            },
+            {
+              "ex_of_definition": "He rested his hand on her arm",
+              "world_new": [
+                "hand",
+                "arm"
+              ]
+            },
+            {
+              "ex_of_definition": "Her gaze rested on the jewels.",
+              "world_new": [
+                "gaze"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "an tâm",
+          "definition": "to relax, be calm etc",
+          "world_new": [
+            "relax",
+            "calm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I will never rest until I know the murderer has been caught.",
+              "world_new": [
+                "I",
+                "I",
+                "know",
+                "murderer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trông đợi vào",
+          "definition": "to (allow to) depend on",
+          "world_new": [
+            "depend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our hopes now rest on him, since all else has failed.",
+              "world_new": [
+                "else"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc về",
+          "definition": "(with with) (of a duty etc) to belong to",
+          "world_new": [
+            "duty",
+            "belong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The choice rests with you.",
+              "world_new": [
+                "choice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thứ còn lại",
+          "definition": "what is left when part of something is taken away, finished etc",
+          "world_new": [
+            "left",
+            "part",
+            "finished"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the rest of the meal.",
+              "world_new": [
+                "meal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "những người/vật khác",
+          "definition": "all the other people, things etc",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Jack went home, but the rest of us went to the cinema.",
+              "world_new": [
+                "home",
+                "cinema"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We say that this approach is effector-based because it makes effector knowledge explicit, and separates it from the rest of the planning knowledge.",
+    "The rest of this paper is organized as follows.",
+    "Finally, our critique, though largely a demonstration of the inadequacy of their model, fundamentally rests on the undeniable existence, indeed primacy, of qualitative experience.",
+    "However, it also should serve as a useful reference book for the rest of us.",
+    "The rest (and they are many) are either discredited or dismissed.",
+    "Traditionally, there are three dimensions, but this rests on rather vague introspective intuitions.",
+    "On those the majority preferred single consonant spellings for the first, fourth and seventh, and double consonants for the rest.",
+    "Most were very specialized, and have suffered for it in the late twentieth century compared to the rest."
+  ],
+  "list_see_also": [
+    "restful",
+    "restfully",
+    "restfulness",
+    "restless",
+    "restlessly",
+    "restlessness",
+    "rest home",
+    "rest room",
+    "at rest",
+    "come to rest",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "responsibly",
+    "responsive",
+    "responsively",
+    "responsiveness",
+    "rest",
+    "rest assured",
+    "rest home",
+    "rest on one’s laurels",
+    "rest room"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087710_bb364d01fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087710_b61a1d65a7_o.png",
+      "id_image": "rest_2332059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350491_eb6cf8e979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350491_8bbd9216cb_o.png",
+      "id_image": "rest_2773120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705019_9e943f2a03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705019_1fbe3ea42c_o.png",
+      "id_image": "rest_5776062"
+    }
+  ]
+}

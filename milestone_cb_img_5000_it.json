@@ -1,0 +1,77 @@
+{
+  "english": "milestone",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cột cây số",
+          "definition": "a stone set up to show distances in miles to various places.",
+          "world_new": [
+            "stone",
+            "various"
+          ]
+        },
+        {
+          "mean_english": "điểm mốc lịch sử",
+          "definition": "a very important event",
+          "world_new": [
+            "important",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The discovery of penicillin was a milestone in medical history.",
+              "world_new": [
+                "discovery",
+                "penicillin",
+                "medical",
+                "history"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Their milestones were also similar to the established norms for monolingual children's first-word, first twoword combinations, and first 50 words.",
+    "Future research can determine what stages are also associated with specific milestones in phonological acquisition.",
+    "The timing of linguistic milestones in sign language acquisition : are first signs acquired earlier than first words ?",
+    "Delays in the achievement of early developmental milestones have also been associated with prenatal stress.",
+    "Thus, the ages at which the various milestones were achieved, as well as the factors found to predict these achievements, might not generalize to other populations.",
+    "Of course, the number of milestones varies from one company to another.",
+    "A subsequent booklet was sent out shortly before the twins' second birthday to assess various developmental milestones separately for each twin.",
+    "Typically, motor development appears as a sequence of postural milestones - sitting, crawling, and walking."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mild",
+    "mildly",
+    "mildness",
+    "mile",
+    "milestone",
+    "militancy",
+    "militant",
+    "militantly",
+    "military"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458653_852be419d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458653_a09f9de802_o.png",
+      "id_image": "milestone_2910923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343876_0c0e3a2e6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343876_4d7df2bb76_o.png",
+      "id_image": "milestone_5521113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343861_4742708479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343861_0cd1a6e79b_o.png",
+      "id_image": "milestone_5521174"
+    }
+  ]
+}

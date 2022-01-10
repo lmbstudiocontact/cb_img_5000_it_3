@@ -1,0 +1,73 @@
+{
+  "english": "ranger",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người bảo vệ rừng; bảo vệ công viên",
+          "definition": "a person who looks after a forest or park",
+          "world_new": [
+            "person",
+            "looks",
+            "forest",
+            "park"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a park ranger.",
+              "world_new": [
+                "park"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biệt kích",
+          "definition": "a soldier who is a member of a specially trained force; commando",
+          "world_new": [
+            "soldier",
+            "member",
+            "specially",
+            "trained"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On that basis, staff can be hired; rangers and conservation officers can be employed.",
+    "Can he tell us what sort of hours the rangers are allowed to work?",
+    "However, given that no alternative funding for wildlife protection is available outside the assisted areas, farmers in those areas could be hired as part-time rangers.",
+    "The issue of wardens and rangers was raised.",
+    "What will be the cost to local authorities for footpath upkeep and to provide rangers?",
+    "It relies on a large body of voluntary staff, including 200 rangers.",
+    "These flights, which we call \"lone ranger\" flights, are an invaluable exercise in flexibility.",
+    "Information on beach rangers is not collected centrally."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rand",
+    "random",
+    "randomly",
+    "range",
+    "ranger",
+    "rank",
+    "rankness",
+    "ransack",
+    "ransom"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338971_bae6693b00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338971_54fb952f94_o.png",
+      "id_image": "ranger_1909990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383852_0913b7a96b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383852_8e02d9381f_o.png",
+      "id_image": "ranger_6036767"
+    }
+  ]
+}

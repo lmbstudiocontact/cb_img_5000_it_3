@@ -1,0 +1,174 @@
+{
+  "english": "mix",
+  "phat_am": "miks",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "pha lẫn",
+          "definition": "to put or blend together to form one mass",
+          "world_new": [
+            "blend",
+            "form",
+            "mass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She mixed the butter and sugar together",
+              "world_new": [
+                "mixed",
+                "butter",
+                "sugar"
+              ]
+            },
+            {
+              "ex_of_definition": "He mixed the blue with the yellow to make green paint.",
+              "world_new": [
+                "mixed",
+                "blue",
+                "yellow",
+                "green",
+                "paint"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trộn",
+          "definition": "to prepare or make by doing this",
+          "world_new": [
+            "prepare"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She mixed the cement in a bucket.",
+              "world_new": [
+                "mixed",
+                "cement",
+                "bucket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoà nhập",
+          "definition": "to go together or blend successfully to form one mass",
+          "world_new": [
+            "blend",
+            "successfully",
+            "form",
+            "mass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Oil and water don’t mix.",
+              "world_new": [
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hòa hợp",
+          "definition": "to go together socially",
+          "world_new": [
+            "socially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People of different races were mixing together happily.",
+              "world_new": [
+                "happily"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hòa hợp",
+          "definition": "the result of mixing things or people together",
+          "world_new": [
+            "result",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "London has an interesting racial mix.",
+              "world_new": [
+                "interesting",
+                "racial"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hỗn hợp",
+          "definition": "a collection of ingredients used to make something",
+          "world_new": [
+            "collection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(a) cake mix.",
+              "world_new": [
+                "cake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have begun a systematic study of the stability of compressible mixing layers in which a diffusion flame is embedded.",
+    "The diversity of themes covered in the papers is the reason why this seemed to be such an eclectic mix.",
+    "We think that misunderstandings have arisen about our putative 'mix and match' or 'hybrid' approach.",
+    "However, we also construct maps which mix at various other slow speeds, with a more precise meaning of slow as given below.",
+    "Part of hospitals' revenues was then made dependent upon the number of patients treated and the patient mix.",
+    "It seems therefore that the epidemiology of rubella is more sensitive to differences in mixing patterns than mumps and measles.",
+    "Study of the membrane effect on turbulent mixing measurements in shock tubes.",
+    "The results of population-based studies, particularly in the elderly, have been mixed."
+  ],
+  "list_see_also": [
+    "mixed",
+    "mixer",
+    "mixture",
+    "mixed media",
+    "mix-up",
+    "be mixed up",
+    "mix up"
+  ],
+  "list_browse": [
+    "mite",
+    "mitosis",
+    "mitre",
+    "mitten",
+    "mix",
+    "mix-up",
+    "mixed",
+    "mixed media",
+    "mixer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385347_8b40deefdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385347_89cc1a20b1_o.png",
+      "id_image": "mixed_1214379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340426_b4786917d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340426_06aa7bd790_o.png",
+      "id_image": "mix_2289953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077720_1477f43738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077720_2ed8443dfe_o.png",
+      "id_image": "mix_5376878"
+    }
+  ]
+}

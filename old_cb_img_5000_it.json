@@ -1,0 +1,135 @@
+{
+  "english": "old",
+  "phat_am": "əuld",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "già",
+          "definition": "advanced in age",
+          "world_new": [
+            "advanced",
+            "age"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an old man"
+            },
+            {
+              "ex_of_definition": "He is too old to live alone.",
+              "world_new": [
+                "live",
+                "alone"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuổi",
+          "definition": "having a certain age",
+          "world_new": [
+            "certain",
+            "age"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is thirty years old."
+            }
+          ]
+        },
+        {
+          "mean_english": "già dặn",
+          "definition": "having existed for a long time",
+          "world_new": [
+            "long",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an old building",
+              "world_new": [
+                "building"
+              ]
+            },
+            {
+              "ex_of_definition": "Those trees are very old."
+            }
+          ]
+        },
+        {
+          "mean_english": "cũ kỹ",
+          "definition": "no longer useful",
+          "world_new": [
+            "useful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She threw away the old shoes."
+            }
+          ]
+        },
+        {
+          "mean_english": "ngày xưa",
+          "definition": "belonging to times long ago",
+          "world_new": [
+            "times",
+            "long"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "old civilizations like that of Greece."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Over the past five years older children have become unruly.",
+    "Whenever data in the nursery space survives a garbage collection, it is promoted to another space containing older data.",
+    "It is based on a one-year qualitative research project, which seeks to explore the experiences of social dance for older dancers.",
+    "A group of 27 older adults in inpatient rehabilitation were interviewed during the programme and after returning home.",
+    "Training should be multidisciplinary and multi-agency and involve older people and carers to develop a shared understanding of roles and needs.",
+    "This new policy contrasts clearly with the party's old policy, which rarely reflected the interests of consumers.",
+    "Specifically, the younger children might be expected to show greater phonetic sensitivity to the input than older children.",
+    "The unsatisfactory housing of these older people can be expected to have consequences for their physical and psychological well-being."
+  ],
+  "list_see_also": [
+    "old age",
+    "old age pensioner",
+    "old boy/girl",
+    "old-fashioned",
+    "old hand",
+    "old maid",
+    "the old"
+  ],
+  "list_browse": [
+    "oilfield",
+    "oils",
+    "oily",
+    "ointment",
+    "old",
+    "old age",
+    "old age pensioner",
+    "old boy/girl",
+    "old hand"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392417_84feb6a88a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392417_e33a35e19c_o.png",
+      "id_image": "old_1141117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808427502_4d5904bdcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808427502_c6ac3c503b_o.png",
+      "id_image": "old_1588867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347366_47f45c4258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347366_a55fc7a3e7_o.png",
+      "id_image": "old_2446919"
+    }
+  ]
+}

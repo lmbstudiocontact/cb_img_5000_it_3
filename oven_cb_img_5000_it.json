@@ -1,0 +1,70 @@
+{
+  "english": "oven",
+  "phat_am": "ˈavn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lò nướng",
+          "definition": "a closed box-like space, usually part of a cooker, which is heated for cooking food",
+          "world_new": [
+            "space",
+            "part",
+            "cooker",
+            "heated",
+            "cooking",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She put the cake into the oven.",
+              "world_new": [
+                "cake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, ovens and platforms, benches and basins of clay were unearthed in and between the building remains.",
+    "Some animals collected during the study were weighed fresh and after oven-drying to constant weight.",
+    "A subsample of 20 randomly chosen plants was partitioned into stem, leaf, petiole, peduncle and fruit components and oven dried.",
+    "Application of thermal oven is restricted to the materials of low melting points only.",
+    "We ran all analyses in duplicate and report average values on an oven-dry weight basis.",
+    "First, an accident, possibly with one of the ovens, may have resulted in the conflagration.",
+    "The total produce of maize cobs and pods of any intercrops from each plot were weighed and subsamples taken to determine oven-dry grain weight.",
+    "The amounts of dehydrogenase activity and microbial biomass were computed on an oven-dry basis."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "outwit",
+    "oval",
+    "ovary",
+    "ovation",
+    "oven",
+    "over",
+    "over again",
+    "over and done with",
+    "overall"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455743_100ea022f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455743_fc1e51e9be_o.png",
+      "id_image": "oven_3565393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341011_a0f7a97217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341011_a7cd908276_o.png",
+      "id_image": "oven_589792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385912_13ab4d49f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385912_308e57ecde_o.png",
+      "id_image": "oven_649207"
+    }
+  ]
+}

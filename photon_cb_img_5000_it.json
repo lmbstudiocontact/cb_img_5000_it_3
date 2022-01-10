@@ -1,0 +1,59 @@
+{
+  "english": "photon",
+  "phat_am": "ˈfouton",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phôton",
+          "definition": "a subatomic particle of light or other electromagnetic radiation that is used as a unit of electromagnetic energy",
+          "world_new": [
+            "particle",
+            "light",
+            "radiation",
+            "unit",
+            "energy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All light is made of photons.",
+              "world_new": [
+                "light"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Charged particles will attain relativistic energies close to the pulsar magnetic poles and radiate -ray photons.",
+    "One detection scheme presently in use requires optical band-pass filters appropriately designed to bin emitted fluorescence photons of desired target molecules.",
+    "This process is analogous to treating the photon or plasmon field as particles.",
+    "Processes such as the proposed catalytic reaction that occur without photons and that require collisions or non-radiative energy transfer are common.",
+    "We can see that the photon energy is enlarged greatly in the laboratory frame because of the relativistic effect.",
+    "The ridges have compressed enough to be somewhat opaque to backlighter photons.",
+    "The entrapment of radiation will make a photon be emitted and resonance-reabsorbed many times inside the laser material.",
+    "Suppression of the potential well prevents the free electrons from recombination and, thus, no high-energy photon can be emitted."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "photographer",
+    "photographic",
+    "photography",
+    "photometer",
+    "photon",
+    "photosphere",
+    "photospheric",
+    "Photostat",
+    "photosynthesis"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393962_aaa7f01834_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393962_43d4963a39_o.png",
+      "id_image": "photon_4647341"
+    }
+  ]
+}

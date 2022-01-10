@@ -1,0 +1,117 @@
+{
+  "english": "production",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự sản xuất",
+          "definition": "the act or process of producing something",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "car production",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "The production of the film cost a million dollars.",
+              "world_new": [
+                "film",
+                "cost"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sản lượng",
+          "definition": "the amount produced, especially of manufactured goods",
+          "world_new": [
+            "amount",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new methods increased production."
+            }
+          ]
+        },
+        {
+          "mean_english": "tác phẩm",
+          "definition": "a particular performance, or set of repeated performances, of a play etc",
+          "world_new": [
+            "particular",
+            "performance",
+            "repeated",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I prefer this production of ‘Hamlet’ to the one I saw two years ago.",
+              "world_new": [
+                "I",
+                "prefer",
+                "I",
+                "saw"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The second part of the book contains only two chapters, each dealing with more technical aspects of the production process.",
+    "As industrial production has fallen so have associated negative externalities, leading to reductions in air, water, soil, and noise pollution.",
+    "On-farm evaluation of the contribution of sole and mixed applications of organic matter and urea to maize grain production in the savanna.",
+    "A cost of production analysis of conventional versus integrated versus organic apple productions systems.",
+    "This study showed that phonetic forms of certain word-based productions were highly variable.",
+    "Their restriction to shallow marine environments suggests that photosynthesis was the primary means of organic matter production for these benthic communities.",
+    "Violation of this assumption will also affect the production frontier if the counties that define the frontier do not have sufficient standing timber.",
+    "Topical areas such as integrated fruit production and organic growing are also included."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prodigy",
+    "produce",
+    "producer",
+    "product",
+    "production",
+    "productive",
+    "productivity",
+    "Prof.",
+    "profess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437293_66a5f5b423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437293_06264ba899_o.png",
+      "id_image": "production_1610499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366982_80afdd9ebe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366982_8b2fd9c1f2_o.png",
+      "id_image": "production_2082214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437223_517f1fa3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437223_d2cb8f74d5_o.png",
+      "id_image": "production_4401445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677049_7c0c52e980_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677049_51c7bf76df_o.png",
+      "id_image": "production_6348185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058925_816020f729_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058925_f459810894_o.png",
+      "id_image": "production_875313"
+    }
+  ]
+}

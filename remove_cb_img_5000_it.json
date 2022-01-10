@@ -1,0 +1,114 @@
+{
+  "english": "remove",
+  "phat_am": "rəˈmuːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "di chuyển; dọn; cách chức",
+          "definition": "to take away",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will someone please remove all this rubbish!",
+              "world_new": [
+                "please",
+                "rubbish"
+              ]
+            },
+            {
+              "ex_of_definition": "He removed all the evidence of his crimes",
+              "world_new": [
+                "evidence"
+              ]
+            },
+            {
+              "ex_of_definition": "I can’t remove this stain from my shirt",
+              "world_new": [
+                "I",
+                "stain",
+                "my",
+                "shirt"
+              ]
+            },
+            {
+              "ex_of_definition": "He has been removed from the post of Minister of Education."
+            }
+          ]
+        },
+        {
+          "mean_english": "cởi",
+          "definition": "to take off (a piece of clothing)",
+          "world_new": [
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please remove your hat.",
+              "world_new": [
+                "your",
+                "hat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển đi",
+          "definition": "to move to a new house etc",
+          "world_new": [
+            "move",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has removed to London."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When she described being removed from a train by the police and pushed to the floor, one could sense the intensity of the personal insult.",
+    "In cases where superparasitism occurred, these eggs were removed from the experiment.",
+    "We hypothesize that a burial or an offering may have been removed from this trough.",
+    "After 24 h, the females were removed from the arena and the straws were placed inside individual 12 35 mm shell vials plugged with cotton.",
+    "The control variables that did not contribute to the explanation of loneliness (p .10) were removed.",
+    "Three independent branches can be seen: degeneracy has been removed by breaking symmetry through displacement of one of the jets.",
+    "However, this venue of hyper-abstraction leads to immunity and removes internalization from the empirical discourse.",
+    "Could it account for language acquisition and the ability to talk about things that are far removed in time and space?"
+  ],
+  "list_see_also": [
+    "removable",
+    "removal",
+    "remover"
+  ],
+  "list_browse": [
+    "remotely",
+    "remoteness",
+    "removable",
+    "removal",
+    "remove",
+    "remover",
+    "remunerate",
+    "remuneration",
+    "remunerative"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680604_a4a5b47c17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680604_a7b7cf3b44_o.png",
+      "id_image": "remove_316529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062295_f481d0b605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062295_b196f5d303_o.png",
+      "id_image": "remove_5511669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325481_1474ccb2a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325481_d970ef3107_o.png",
+      "id_image": "remove_6183125"
+    }
+  ]
+}

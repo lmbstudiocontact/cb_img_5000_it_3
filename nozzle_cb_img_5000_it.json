@@ -1,0 +1,69 @@
+{
+  "english": "nozzle",
+  "phat_am": "ˈnozl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miệng; vòi ấm",
+          "definition": "a narrow end-piece fitted to a pipe, tube etc",
+          "world_new": [
+            "narrow",
+            "pipe",
+            "tube"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fireman pointed the nozzle of the hosepipe at the fire.",
+              "world_new": [
+                "fireman",
+                "pointed",
+                "fire"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The initial turbulence was in all cases derived from nozzle wall roughness.",
+    "The turbulence associated with the nozzle makes an additional contribution t o the radiation field.",
+    "In order to study the effect of nozzles on different gas density configurations, different kind of brass nozzles in shape and size are machined.",
+    "These curves correspond to having the ablation target in the cluster source about 1.5 m from the exit of the supersonic nozzle.",
+    "These waves are generated near the nozzle lip.",
+    "The correct expansion for the jet was thus obtained, in a sense, automatically, enabling the single nozzle to be used for all jet speeds.",
+    "There are always 12 current return posts, but different nozzles have different bolt circle diameters for the posts.",
+    "Simple nozzle modifications were suggested that resulted in a substantial calculated yield increase."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "now then",
+    "nowadays",
+    "nowhere",
+    "nowhere near",
+    "nozzle",
+    "nr",
+    "nuclear",
+    "nuclear device",
+    "nuclear disarmament"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435143_01b40ae62e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435143_a132862c0a_o.png",
+      "id_image": "nozzle_4176747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056610_f8c4c16b46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056610_8a667dcbf3_o.png",
+      "id_image": "nozzle_5614127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056590_d13d94027c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056590_25c2f1e7db_o.png",
+      "id_image": "nozzle_6347081"
+    }
+  ]
+}

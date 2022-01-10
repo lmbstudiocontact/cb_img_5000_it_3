@@ -1,0 +1,96 @@
+{
+  "english": "patient",
+  "phat_am": "ˈpeiʃənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "kiên nhẫn",
+          "definition": "suffering delay, pain, irritation etc quietly and without complaining",
+          "world_new": [
+            "suffering",
+            "delay",
+            "pain",
+            "irritation",
+            "quietly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It will be your turn soon – you must just be patient!",
+              "world_new": [
+                "your",
+                "turn",
+                "soon"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh nhân",
+          "definition": "a person who is being treated by a doctor, dentist etc",
+          "world_new": [
+            "person",
+            "doctor",
+            "dentist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hospital had several hundred patients.",
+              "world_new": [
+                "hospital"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Only in a small proportion of cases were referrals made purely on grounds of existing illness in patient or family.",
+    "Second, physically speaking, patients are usually helped in any such transfer by a nurse, a doctor, or one of the patient's relatives.",
+    "It has disproved the notion that elderly patients cannot understand a philosophical concept such as existential well-being.",
+    "An additional patient-blaming tactic is to ascribe psychological causes as the source of pain.",
+    "This understanding is less accessible to ordinary patients, because it is obfuscated by the difficulty of medical science.",
+    "However, to have an authority figure require that a patient justify his or her plans comes perilously close to coercion.",
+    "For schizophrenia patients, treatment plans from the onset of illness should involve health promotion.",
+    "There was evidence that patients were exposed to the planned intervention."
+  ],
+  "list_see_also": [
+    "patiently",
+    "patience"
+  ],
+  "list_browse": [
+    "pathologist",
+    "pathology",
+    "pathway",
+    "patience",
+    "patient",
+    "patiently",
+    "patio",
+    "patois",
+    "patrial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064430_b63859716a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064430_1b294136de_o.png",
+      "id_image": "patient_2454801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442718_091eef64b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442718_fbfdfde391_o.png",
+      "id_image": "patient_5278459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372492_fe220b2452_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372492_36ced291b8_o.png",
+      "id_image": "patient_706192"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "english": "part",
+  "phat_am": "paːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một phần",
+          "definition": "something which, together with other things, makes a whole; a piece",
+          "world_new": [
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We spent part of the time at home and part at the seaside.",
+              "world_new": [
+                "spent",
+                "time",
+                "home",
+                "seaside"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần",
+          "definition": "an equal division",
+          "world_new": [
+            "equal",
+            "division"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He divided the cake into three parts.",
+              "world_new": [
+                "cake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vai diễn",
+          "definition": "a character in a play etc",
+          "world_new": [
+            "character",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She played the part of the queen.",
+              "world_new": [
+                "queen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời nói của vai kịch",
+          "definition": "the words, actions etc of a character in a play etc",
+          "world_new": [
+            "character",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He learned his part quickly.",
+              "world_new": [
+                "learned",
+                "quickly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bè",
+          "definition": "in music, the notes to be played or sung by a particular instrument or voice",
+          "world_new": [
+            "music",
+            "particular",
+            "instrument",
+            "voice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the violin part.",
+              "world_new": [
+                "violin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trách nhiệm",
+          "definition": "a person’s share, responsibility etc in doing something",
+          "world_new": [
+            "share",
+            "responsibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He played a great part in the company’s success.",
+              "world_new": [
+                "great",
+                "success"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chia; tách",
+          "definition": "to separate; to divide",
+          "world_new": [
+            "divide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They parted (from each other) at the gate.",
+              "world_new": [
+                "gate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For the most part, the returning soldiers were welcomed home warmly.",
+    "A person can be part of all four populations, or none, or one, or two, or three.",
+    "This realization on the part of the players materalizes in two ways.",
+    "Consumption was part of the ordinary life, still represented, albeit often precariously, by the home front.",
+    "Part of the answer lies in the phonetic redundancy of the signal itself, and the rest in the effects of that redundancy on auditory processing.",
+    "This article reports on the first and second parts of the project only.",
+    "The dotted line represents the part at the part mating frame in the robot workspace.",
+    "Paths permitting additional direct effects are also included as part of the model."
+  ],
+  "list_see_also": [
+    "parting",
+    "partly",
+    "part-time",
+    "in part",
+    "part company",
+    "part of speech",
+    "part with",
+    "take in good part",
+    "take someone’s part",
+    "take part in"
+  ],
+  "list_browse": [
+    "parsley",
+    "parsnip",
+    "parson",
+    "parsonage",
+    "part",
+    "part company",
+    "part company (with)",
+    "part of speech",
+    "part with"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068090_530cc2268c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068090_1a53409dda_o.png",
+      "id_image": "part_5605897"
+    }
+  ]
+}

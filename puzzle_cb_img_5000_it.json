@@ -1,0 +1,136 @@
+{
+  "english": "puzzle",
+  "phat_am": "ˈpazl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm bối rối",
+          "definition": "to perplex, baffle or bewilder",
+          "world_new": [
+            "perplex",
+            "baffle",
+            "bewilder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The question puzzled them",
+              "world_new": [
+                "question"
+              ]
+            },
+            {
+              "ex_of_definition": "What puzzles me is how he got here so soon.",
+              "world_new": [
+                "soon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "suy nghĩ kỹ lưỡng",
+          "definition": "to think long and carefully about a problem etc",
+          "world_new": [
+            "think",
+            "long",
+            "carefully",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I puzzled over the sum for hours.",
+              "world_new": [
+                "I",
+                "sum"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vấn đề khó xử",
+          "definition": "a problem that causes a lot of thought",
+          "world_new": [
+            "problem",
+            "thought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her behaviour was a puzzle to him.",
+              "world_new": [
+                "behaviour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "câu đố",
+          "definition": "a kind of game or toy to test one’s thinking, knowledge or skill",
+          "world_new": [
+            "kind",
+            "game",
+            "toy",
+            "test",
+            "knowledge",
+            "skill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a jigsaw puzzle"
+            },
+            {
+              "ex_of_definition": "a crossword puzzle."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I was initially puzzled to discover that songs to highland swidden deities had been incorporated into a regular lowland domestic rite.",
+    "For instance, the explanation of the equity premium puzzle is relatively satisfying: spectral results are as good as those obtained in the traditional approach.",
+    "This puzzle indicates the importance of treating action ascriptions among participants in joint acts differently from action ascription generally.",
+    "The puzzle is created by the reappearance of a familiar form, self-regulation.",
+    "Separate areas provided opportunities for housekeeping, blocks, puzzles, games, and precast and manipulative toy play activities, as well as an option for individual reading.",
+    "Indeterminacy and the sunspot do not increase these statistics and therefore do not alleviate the severity of the equity premium and other financial puzzles.",
+    "The argument points to major analytical advantages to studying governments' policy choices in intertemporal terms, for both the identification of comparative puzzles and their explanation.",
+    "Some points of the analysis are, however, puzzling and the coverage is somewhat spotty."
+  ],
+  "list_see_also": [
+    "puzzling",
+    "puzzle out"
+  ],
+  "list_browse": [
+    "putrid",
+    "putt",
+    "putter",
+    "putty",
+    "puzzle",
+    "puzzle out",
+    "puzzling",
+    "PVC",
+    "pygmy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391337_2058601417_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391337_7e7eeca983_o.png",
+      "id_image": "puzzle_296931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461138_2e6b424fbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461138_f44d5c95ab_o.png",
+      "id_image": "puzzle_515784"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461093_654b5361f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461093_d886dcd6ea_o.png",
+      "id_image": "puzzle_868648"
+    }
+  ]
+}

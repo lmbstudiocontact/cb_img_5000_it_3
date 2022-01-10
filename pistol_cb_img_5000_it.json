@@ -1,0 +1,47 @@
+{
+  "english": "pistol",
+  "phat_am": "ˈpistl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súng ngắn",
+          "definition": "a small gun, held in one hand when fired",
+          "world_new": [
+            "small",
+            "gun",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shot himself with a pistol.",
+              "world_new": [
+                "shot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Pisces",
+    "pistachio",
+    "piste",
+    "pistil",
+    "pistol",
+    "piston",
+    "pit",
+    "pitch",
+    "pitch-black"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699994_d96532fdb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699994_1dcd886b75_o.png",
+      "id_image": "pistol_3857421"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "money",
+  "phat_am": "ˈmani",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền",
+          "definition": "coins or banknotes used in trading",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you any money in your purse?",
+              "world_new": [
+                "your",
+                "purse"
+              ]
+            },
+            {
+              "ex_of_definition": "The desire for money is a cause of much unhappiness.",
+              "world_new": [
+                "desire",
+                "cause",
+                "unhappiness"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Yes, but there are obvious difficulties in the way of ensuring that such moneys are recoverable.",
+    "Can one have a separation of the social monies and the financial monies involved?",
+    "Local authorities are empowered to raise moneys by loan for the purpose of erecting technical school buildings.",
+    "We chose a cumulative figure to represent moneys gained over the 3-year project.",
+    "We should like an explanation of exactly where the moneys have gone.",
+    "As explained earlier, the use of bank deposits to supplement notes and coin is the final stage in money's development.",
+    "The distinction was between persons trading for private profit and persons applying public moneys for public uses.",
+    "Also, a life assurance company may pay into court moneys payable on a policy for which no sufficient discharge can otherwise be obtained."
+  ],
+  "list_see_also": [
+    "money-box",
+    "moneylender",
+    "lose/make money"
+  ],
+  "list_browse": [
+    "monastery",
+    "monastic",
+    "Monday",
+    "monetary",
+    "money",
+    "money-box",
+    "moneylender",
+    "mongrel",
+    "monitor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337836_f22b406f53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337836_f46de1b317_o.png",
+      "id_image": "money_144902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337806_b27cb4ae3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337806_bac0f880b1_o.png",
+      "id_image": "money_144904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382767_0022f0b68c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382767_85ba55de80_o.png",
+      "id_image": "money_171689"
+    }
+  ]
+}

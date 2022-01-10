@@ -1,0 +1,135 @@
+{
+  "english": "register",
+  "phat_am": "ˈredʒistə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "danh sách",
+          "definition": "(a book containing) a written list, record etc",
+          "world_new": [
+            "book",
+            "list",
+            "record"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a school attendance register",
+              "world_new": [
+                "school",
+                "attendance"
+              ]
+            },
+            {
+              "ex_of_definition": "a register of births, marriages and deaths."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghi sổ",
+          "definition": "to write or cause to be written in a register",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have to register the birth of a baby.",
+              "world_new": [
+                "birth",
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đăng ký",
+          "definition": "to write one’s name, or have one’s name written, in a register etc",
+          "world_new": [
+            "name",
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They arrived on Friday and registered at the Hilton Hotel.",
+              "world_new": [
+                "Friday",
+                "registered"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gửi bảo đảm",
+          "definition": "to insure (a parcel, letter etc) against loss in the post.",
+          "world_new": [
+            "insure",
+            "parcel",
+            "letter",
+            "loss"
+          ]
+        },
+        {
+          "mean_english": "chỉ (con số)",
+          "definition": "(of an instrument, dial etc) to show (a figure, amount etc)",
+          "world_new": [
+            "instrument",
+            "dial",
+            "figure",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thermometer registered 25C.",
+              "world_new": [
+                "thermometer",
+                "registered"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "registered",
+    "registrar",
+    "registration",
+    "registry",
+    "register office / registry office",
+    "registration number"
+  ],
+  "list_browse": [
+    "regimentation",
+    "region",
+    "regional",
+    "regionally",
+    "register",
+    "register office / registry office",
+    "registered",
+    "registrar",
+    "registration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066735_415d445d4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066735_d1f9bd9609_o.png",
+      "id_image": "register_2417841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066705_05c99cd96a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066705_999b1f63d5_o.png",
+      "id_image": "register_3410318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066665_ef74091450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066665_80d74f6d90_o.png",
+      "id_image": "register_5216779"
+    }
+  ]
+}

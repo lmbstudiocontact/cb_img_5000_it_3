@@ -1,0 +1,148 @@
+{
+  "english": "nose",
+  "phat_am": "nəuz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mũi",
+          "definition": "the part of the face by which people and animals smell and usually breathe",
+          "world_new": [
+            "part",
+            "face",
+            "people",
+            "smell",
+            "breathe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She held the flower to her nose",
+              "world_new": [
+                "flower"
+              ]
+            },
+            {
+              "ex_of_definition": "He punched the man on the nose."
+            }
+          ]
+        },
+        {
+          "mean_english": "khứu giác",
+          "definition": "the sense of smell",
+          "world_new": [
+            "sense",
+            "smell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Police dogs have good noses and can follow criminals’ trails.",
+              "world_new": [
+                "follow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mũi tàu, máy bay",
+          "definition": "the part of anything which is like a nose in shape or position",
+          "world_new": [
+            "part",
+            "shape",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the nose of an aeroplane.",
+              "world_new": [
+                "aeroplane"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiến chậm",
+          "definition": "to make a way by pushing carefully forward",
+          "world_new": [
+            "carefully",
+            "forward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship nosed (its way) through the ice.",
+              "world_new": [
+                "ship",
+                "ice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh hơi",
+          "definition": "to look or search as if by smelling",
+          "world_new": [
+            "look",
+            "search"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He nosed about (in) the cupboard.",
+              "world_new": [
+                "cupboard"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His counterexample to my definition is: touching your nose for 30 seconds (short activity) versus listening to a symphony (long activity).",
+    "Similarly, nose corrections have a wide range of severity and treatment options.",
+    "All 31 cases provided acute sera, 19 provided convalescent sera and 14 had viral throat/nose swabs taken.",
+    "Generally, the masks are not pierced at the eyes, nose, or mouth.",
+    "All disturbance components have their peaks in the region around the leading edge and decay quickly with increasing distance from the nose.",
+    "Yet nose-thumbing has been on the rise in the past two decades, even alarmingly so.",
+    "It is observed that the pressure drop in the cavity is approximately 50 yo greater for the hemispherical nose.",
+    "He kept walking, absentmindedly, until he hit a wall and broke his nose."
+  ],
+  "list_see_also": [
+    "-nosed",
+    "nosy",
+    "nosily",
+    "nosiness",
+    "nosebag",
+    "nosebleed",
+    "nosedive",
+    "nose job",
+    "follow one’s nose",
+    "lead by the nose",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "northern",
+    "northerner",
+    "northernmost",
+    "northward",
+    "nose",
+    "nose job",
+    "nose out",
+    "nosebag",
+    "nosebleed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436483_bdd909ebc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436483_5c33f44db4_o.png",
+      "id_image": "nose_6147559"
+    }
+  ]
+}

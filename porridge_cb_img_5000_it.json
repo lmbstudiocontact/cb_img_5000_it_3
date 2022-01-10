@@ -1,0 +1,58 @@
+{
+  "english": "porridge",
+  "phat_am": "ˈporidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cháo đặc",
+          "definition": "a food made from oatmeal boiled in water or milk",
+          "world_new": [
+            "food",
+            "oatmeal",
+            "water",
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bowl of porridge.",
+              "world_new": [
+                "bowl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pornographic",
+    "pornography",
+    "porous",
+    "porpoise",
+    "porridge",
+    "port",
+    "portable",
+    "portable computer",
+    "portent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072060_dd4cc602e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072060_d5670299e5_o.png",
+      "id_image": "porridge_1547935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380147_5393df9f88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380147_875ee1421a_o.png",
+      "id_image": "porridge_1691818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380187_52e40c2bfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380187_8b3782f00c_o.png",
+      "id_image": "porridge_325614"
+    }
+  ]
+}

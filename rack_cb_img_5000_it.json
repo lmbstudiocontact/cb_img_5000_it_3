@@ -1,0 +1,111 @@
+{
+  "english": "rack",
+  "phat_am": "rӕk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giá; gác",
+          "definition": "a frame or shelf in or on which objects (eg letters, plates, luggage etc) are put until they are wanted or needed",
+          "world_new": [
+            "frame",
+            "shelf",
+            "luggage",
+            "wanted"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put these tools back in the rack"
+            },
+            {
+              "ex_of_definition": "Put your bag in the luggage rack.",
+              "world_new": [
+                "your",
+                "bag",
+                "luggage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "suy nghĩ mông lung",
+          "definition": "to think desperately hard",
+          "world_new": [
+            "think",
+            "desperately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve been racking my brains to try and remember that actor’s name.",
+              "world_new": [
+                "my",
+                "try",
+                "remember",
+                "name"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiêu tan sự nghiệp",
+          "definition": "to get into a state of neglect and decay",
+          "world_new": [
+            "state",
+            "neglect",
+            "decay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The whole neighbourhood has gone to rack and ruin.",
+              "world_new": [
+                "whole",
+                "neighbourhood",
+                "ruin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "racing",
+    "racing car",
+    "racism",
+    "racist",
+    "rack",
+    "racket",
+    "racy",
+    "radar",
+    "radiance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456768_b9e8863930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456768_2f65b12d57_o.png",
+      "id_image": "rack_368038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456733_b2aed54089_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456733_866fcb22ba_o.png",
+      "id_image": "rack_577965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341811_2462ac7a17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341811_08b978fb58_o.png",
+      "id_image": "rack_638207"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "millstone",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đá cối xay",
+          "definition": "one of the two large, heavy stones used in an old-fashioned mill for grinding grain.",
+          "world_new": [
+            "large",
+            "heavy",
+            "old-fashioned",
+            "mill",
+            "grinding",
+            "grain"
+          ]
+        },
+        {
+          "mean_english": "gánh nặng",
+          "definition": "(usually with round one’s/the neck) something that is a heavy burden or responsibility, and prevents easy progress",
+          "world_new": [
+            "heavy",
+            "burden",
+            "responsibility",
+            "easy",
+            "progress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He regarded his brother as a millstone round his neck.",
+              "world_new": [
+                "brother",
+                "neck"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are rather like corn between the upper and nether millstones, and they often find that they are ground down.",
+    "Men and women are being caught between the upper and the nether millstones of these conditions.",
+    "In short, they amount to financial millstones which must be dealt with.",
+    "There were originally four pairs of millstones, of which two remain, driven by a system of belts and pulleys.",
+    "One of the daily tasks for the entire group was milling corn and wheat for bread on small millstones.",
+    "The flour mill had at its disposal two millstones with a running time of six months.",
+    "I hope that those debts will not be allowed to hang round their necks like millstones.",
+    "Even grist likes to have a fair deal, even when it is between the millstones."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "million",
+    "millionaire",
+    "millionth",
+    "millipede",
+    "millstone",
+    "millwheel",
+    "mime",
+    "mimic",
+    "mimicry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080450_9a9ff63163_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080450_fe1c1cf0ae_o.png",
+      "id_image": "millstone_3317637"
+    }
+  ]
+}

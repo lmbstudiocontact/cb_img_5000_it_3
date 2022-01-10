@@ -1,0 +1,147 @@
+{
+  "english": "pet",
+  "phat_am": "pet",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "động vật cảnh",
+          "definition": "a tame animal etc, usually kept in the home",
+          "world_new": [
+            "tame",
+            "animal",
+            "home"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She keeps a rabbit as a pet",
+              "world_new": [
+                "rabbit"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a pet rabbit/goldfish."
+            }
+          ]
+        },
+        {
+          "mean_english": "con cưng",
+          "definition": "(especially of children) a delightful or lovely person (used also as a term of affection)",
+          "world_new": [
+            "delightful",
+            "lovely",
+            "person",
+            "term"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Isn’t that baby a pet?",
+              "world_new": [
+                "baby"
+              ]
+            },
+            {
+              "ex_of_definition": "Would you like some ice-cream, pet?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhất",
+          "definition": "favourite/favorite; greatest",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is your pet ambition/hate?",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vuốt ve",
+          "definition": "to stroke or caress (an animal) in a loving way",
+          "world_new": [
+            "stroke",
+            "caress",
+            "loving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The old lady sat by the fire petting her dog.",
+              "world_new": [
+                "old",
+                "lady",
+                "fire",
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "âu yếm",
+          "definition": "to kiss, hug, and caress",
+          "world_new": [
+            "kiss",
+            "hug",
+            "caress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were petting (each other) in the back seat.",
+              "world_new": [
+                "seat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "pet name"
+  ],
+  "list_browse": [
+    "pester",
+    "pesticide",
+    "pestilence",
+    "pestle",
+    "pet",
+    "pet name",
+    "petal",
+    "peter",
+    "petite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705454_9e027c8eca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705454_e8b867c96b_o.png",
+      "id_image": "pet_2377405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350901_14af4b83cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350901_4fddbc46ee_o.png",
+      "id_image": "pet_2590819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705494_6edb4a275f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705494_797fcdf7fc_o.png",
+      "id_image": "pet_437494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705404_78f0cdddd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705404_d9df593244_o.png",
+      "id_image": "pet_5798376"
+    }
+  ]
+}

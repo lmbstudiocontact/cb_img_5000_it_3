@@ -1,0 +1,97 @@
+{
+  "english": "picnic",
+  "phat_am": "ˈpiknik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc đi chơi",
+          "definition": "a very informal meal eaten in the open air, usually as part of a trip, outing etc",
+          "world_new": [
+            "informal",
+            "meal",
+            "open",
+            "air",
+            "part",
+            "trip",
+            "outing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll go to the seaside and take a picnic",
+              "world_new": [
+                "seaside"
+              ]
+            },
+            {
+              "ex_of_definition": "Let’s go for a picnic!"
+            },
+            {
+              "ex_of_definition": "(also adjective) a picnic lunch.",
+              "world_new": [
+                "lunch"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi picnic",
+          "definition": "to have a picnic",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We picnicked on the beach.",
+              "world_new": [
+                "beach"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They sometimes eat picnics on the way, and it is often the continental custom to have a bottle of wine with lunch.",
+    "The practice of picnicking, with paper-wrapped sandwiches, etc.",
+    "They referred to short walks, long walks, picnicking, travelling to the coast, visiting a historic house and so forth.",
+    "The idea being that the big shelter could be reserved for larger functions, with the smaller one available simultaneously for family picnics or smaller events.",
+    "In addition, most service areas have take-away food counters and many of them have areas specially set aside for picnicking.",
+    "The relaxation was thorough and included carriage rides, sailing, bicycling and picnics along the shore.",
+    "Many of them like to congregate in large numbers in some of the more popular spots where they can have their picnics.",
+    "Many thousands turn up when there is no racing at all to enjoy picnicking or walking on the downs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pick-up",
+    "picket",
+    "pickle",
+    "pickpocket",
+    "picnic",
+    "pictorial",
+    "pictorially",
+    "picture",
+    "picturesque"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702814_ed3dc00d7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702814_d121907899_o.png",
+      "id_image": "picnic_1142694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348166_77257c817c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348166_ae8b894304_o.png",
+      "id_image": "picnic_769632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702864_d0c49d7197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702864_d5847c3ccd_o.png",
+      "id_image": "picnic_978391"
+    }
+  ]
+}

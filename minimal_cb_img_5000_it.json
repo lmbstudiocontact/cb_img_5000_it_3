@@ -1,0 +1,61 @@
+{
+  "english": "minimal",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rất nhỏ",
+          "definition": "very small indeed",
+          "world_new": [
+            "small",
+            "indeed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "minimal expense.",
+              "world_new": [
+                "expense"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This operation takes a minimal tree as input and returns the mirror image of that tree as output, preserving hierarchical relations.",
+    "The mean radius was calculated as the average of the maximal and minimal radius values.",
+    "When representing data, we must ensure that all relevant features needed for prediction are encoded; each case will require some minimal representation.",
+    "The first requirement ensures that the programme has no free variables, and that all environments are minimal.",
+    "For the standard method, half the value of the minimal screening dilution used was assumed to be an exact value.",
+    "First, non-finality simply cannot establish an iambic minimal word.",
+    "From the point of view of this constraint, the repair is thus minimal.",
+    "Also, an interface appears for the minimal solutions, whose asymptotic velocity is c*."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "miniaturize",
+    "minibus",
+    "minicab",
+    "minim",
+    "minimal",
+    "minimize",
+    "minimum",
+    "mining",
+    "minion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079575_4984f8c714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079575_3af4c170ff_o.png",
+      "id_image": "minimal_2571962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387122_9d18e065d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387122_6aca63c77d_o.png",
+      "id_image": "minimal_4660895"
+    }
+  ]
+}

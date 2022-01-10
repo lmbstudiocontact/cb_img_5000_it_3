@@ -1,0 +1,145 @@
+{
+  "english": "parade",
+  "phat_am": "pəˈreid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc diễu hành",
+          "definition": "a line of people, vehicles etc moving forward in order often as a celebration of some event",
+          "world_new": [
+            "line",
+            "people",
+            "moving",
+            "forward",
+            "order",
+            "celebration",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a circus parade.",
+              "world_new": [
+                "circus"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc duyệt binh",
+          "definition": "an arrangement of soldiers in a particular order",
+          "world_new": [
+            "arrangement",
+            "particular",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The troops are on parade.",
+              "world_new": [
+                "troops"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "diễu hành",
+          "definition": "to march in a line moving forward in order",
+          "world_new": [
+            "march",
+            "line",
+            "moving",
+            "forward",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They paraded through the town.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "duyệt binh",
+          "definition": "to arrange soldiers in order",
+          "world_new": [
+            "arrange",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The colonel paraded his soldiers.",
+              "world_new": [
+                "colonel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phô trương",
+          "definition": "to show or display in an obvious way",
+          "world_new": [
+            "display",
+            "obvious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She paraded her new clothes in front of her friends.",
+              "world_new": [
+                "clothes",
+                "front"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They paraded in the central squares.",
+    "Modelling includes both the act of showing something (like the fashion model parading with a new dress) and the process of copying and transfer.",
+    "The result was a stage, suitable for civil and military parades.",
+    "The argument that we are creating a new tier of government has been paraded.",
+    "I am shocked that large numbers of people have been placed on these parades and have been picked out as guilty persons.",
+    "The image of youth is paraded by totalitarian regimes to extol their innovativeness in comparison with the ageing liberal world.",
+    "Images of the goddess and other important statues from the temple are paraded through the city roads, accompanied by adepts in trance who receive offerings from the townspeople.",
+    "We are doing a great deal about the last two, particularly the pay parades, and we have altered our procedures in recent years."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "parable",
+    "paracetamol",
+    "parachute",
+    "parachutist",
+    "parade",
+    "paradigm",
+    "paradigmatic",
+    "paradise",
+    "paradox"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688519_cfa5f90d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688519_771885cd00_o.png",
+      "id_image": "parade_1054481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070300_61c7bc4bd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070300_36077f241c_o.png",
+      "id_image": "parade_2507888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333531_13a70ff7c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333531_36c575f432_o.png",
+      "id_image": "parade_352505"
+    }
+  ]
+}

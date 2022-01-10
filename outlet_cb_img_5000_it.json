@@ -1,0 +1,74 @@
+{
+  "english": "outlet",
+  "phat_am": "ˈautlit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ thoát nước",
+          "definition": "a way or passage outwards or for releasing",
+          "world_new": [
+            "passage",
+            "outwards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That pipe is an outlet from the main tank",
+              "world_new": [
+                "pipe",
+                "main",
+                "tank"
+              ]
+            },
+            {
+              "ex_of_definition": "an outlet for his energy.",
+              "world_new": [
+                "energy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A number of media outlets picked the story up and reported it.",
+    "Consequently, there is a high level of familiarity with these outlets.",
+    "Many media outlets have editors who specialize in deciding what will fly with the political overseers.",
+    "The goods are then distributed to the retail company's outlets throughout the country.",
+    "The reactor was positioned horizontally with the outlets clamped.",
+    "Such concerns, for example, were reflected in various media outlets.",
+    "Both large and small retail outlets sell certain products on\" special offer\".",
+    "How typical was this of other organisations, and most notably, other media outlets or public sectors ?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "outgrow",
+    "outing",
+    "outlaw",
+    "outlay",
+    "outlet",
+    "outline",
+    "outlook",
+    "outlying",
+    "outnumber"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456178_9e4cdf8ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456178_b35fd765ab_o.png",
+      "id_image": "outlet_1190296"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078755_b9f09afa7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078755_660c9b279b_o.png",
+      "id_image": "outlet_2823876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696549_5952980ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696549_13e8751fec_o.png",
+      "id_image": "outlet_3540135"
+    }
+  ]
+}

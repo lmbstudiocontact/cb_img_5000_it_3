@@ -1,0 +1,118 @@
+{
+  "english": "presentation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trình diễn; sự trưng bày",
+          "definition": "the act of presenting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the presentation of the prizes"
+            },
+            {
+              "ex_of_definition": "the presentation of a new play",
+              "world_new": [
+                "play"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a presentation ceremony",
+              "world_new": [
+                "ceremony"
+              ]
+            },
+            {
+              "ex_of_definition": "a presentation gold watch.",
+              "world_new": [
+                "gold",
+                "watch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách trình bày",
+          "definition": "the manner in which written work etc is presented or set out",
+          "world_new": [
+            "manner",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Try to improve the presentation of your work.",
+              "world_new": [
+                "improve",
+                "your",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự trình diễn",
+          "definition": "a performance, or set of repeated performances, of a play, opera etc",
+          "world_new": [
+            "performance",
+            "repeated",
+            "play",
+            "opera"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is the best presentation of ‘Macbeth’ that I’ve ever seen.",
+              "world_new": [
+                "best",
+                "ever"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There have been no previous presentations on this paper.",
+    "In order to illuminate presentations of autonomy in practice, focus group discussions with nurses and older people were used as part of the interpretative process.",
+    "From these a particular reader would be able to select only those presentations of interest to them.",
+    "Firstly, the task of distinguishing between diering presentations is made signi®cantly easier when the languages used to express the presentations diers.",
+    "Each child was presented with up to eight randomly ordered training trials, which included at least two presentations of the identical egg.",
+    "Peripheral presentations appeared at 1 of 24 positions around the central location.",
+    "There were 100 pairs of stimulus presentations, with 25 pairs at each difficulty level (13 same, 12 different).",
+    "A number of the presentations did address this question, giving value to this publication."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "present arms",
+    "present participle",
+    "present perfect",
+    "presentable",
+    "presentation",
+    "presenter",
+    "presently",
+    "preservation",
+    "preservative"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328231_b3aa01af1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328231_cc9a91f848_o.png",
+      "id_image": "presentation_287514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064975_b77a76342c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064975_f202d38995_o.png",
+      "id_image": "presentation_439299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328166_88fa768f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328166_573f7e031b_o.png",
+      "id_image": "presentation_562522"
+    }
+  ]
+}

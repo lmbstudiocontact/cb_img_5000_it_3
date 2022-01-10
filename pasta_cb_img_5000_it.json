@@ -1,0 +1,68 @@
+{
+  "english": "pasta",
+  "phat_am": "ˈpӕstə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mì ống",
+          "definition": "a dough used in Italian cooking for making spaghetti, macaroni etc",
+          "world_new": [
+            "dough",
+            "cooking",
+            "spaghetti",
+            "macaroni"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bowl of pasta.",
+              "world_new": [
+                "bowl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The electrode penetrations were matched in both data sets by utilizing the pasta probes, entry sites, and tissue damage.",
+    "Thin pastas have more surface area/volume than do thick pastas and thus more contact area/volume for digestive enzymes.",
+    "The pasta was made with raw eggs, flour, and water.",
+    "The pasta was made of flour, eggs, and water.",
+    "Pasta, rice and beans (haricot type) were eaten regularly.",
+    "Example 8 (pasta), where the weight loss was temporary, implied that expectations had no long-lasting effect on weight.",
+    "When the pasta is in the pot, he looks out the window, sees some boys playing soccer, and joins them.",
+    "He takes the time to score his goal and then returns to the kitchen, drains the pasta, adds some sauce, and serves it in the restaurant."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "past",
+    "past participle",
+    "past perfect",
+    "past/beyond redemption",
+    "pasta",
+    "paste",
+    "pastel",
+    "pasteurization",
+    "pasteurize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444378_6f9c519d32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444378_9a49c69b97_o.png",
+      "id_image": "pasta_4127288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329481_ca6fa9a3d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329481_8086f5efdc_o.png",
+      "id_image": "pasta_805320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444418_246cd7486d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444418_92b111b4fb_o.png",
+      "id_image": "pasta_872435"
+    }
+  ]
+}

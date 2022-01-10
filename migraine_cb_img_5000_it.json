@@ -1,0 +1,61 @@
+{
+  "english": "migraine",
+  "phat_am": "ˈmiːɡrein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chứng đau nửa đầu",
+          "definition": "(an attack of) a type of very severe headache, often accompanied by vomiting and difficulty in seeing",
+          "world_new": [
+            "attack",
+            "type",
+            "severe",
+            "headache",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffers from migraine."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "True noise in the brain is produced in connection with an aura of migraine for example.",
+    "Significant loss of motor function is unusual during the course of a migraine attack.",
+    "These fortification spectra reflect occipital lobe dysfunction and are pathognomonic of classical migraine.",
+    "Observations on 500 cases of migraine and allied vascular headache.",
+    "Treating early versus treating mild: timing of migraine prescription medications among patients with diagnosed migraine.",
+    "The potential adverse maternal and the fetal effects of migraine and its wider obstetric associations are examined together with the non-pharmacological and pharmacological treatment options.",
+    "It is important to remember that migraine attacks are self-limiting.",
+    "Fifty-nine women reported a concurrent chronic illness, such as thyrotoxicosis, migraine, high blood pressure, and nine women reported 'nerves'."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "might have",
+    "mightily",
+    "mightiness",
+    "mighty",
+    "migraine",
+    "migrant",
+    "migrate",
+    "migration",
+    "migratory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458853_9eca02daf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458853_46de011f92_o.png",
+      "id_image": "migraine_1546180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699234_69d8208240_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699234_2cf9a2e1ec_o.png",
+      "id_image": "migraine_3998088"
+    }
+  ]
+}

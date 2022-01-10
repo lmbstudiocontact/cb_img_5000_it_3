@@ -1,0 +1,106 @@
+{
+  "english": "resistance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kháng cự",
+          "definition": "the act of resisting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The army offered strong resistance to the enemy",
+              "world_new": [
+                "army",
+                "strong",
+                "enemy"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a resistance force.",
+              "world_new": [
+                "force"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có khả năng đề kháng",
+          "definition": "the ability or power to be unaffected or undamaged by something",
+          "world_new": [
+            "ability",
+            "power",
+            "unaffected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "resistance to disease.",
+              "world_new": [
+                "disease"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sức chịu đựng",
+          "definition": "the force that one object, substance etc exerts against the movement of another object etc.",
+          "world_new": [
+            "force",
+            "object",
+            "substance",
+            "movement",
+            "object"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cefalexin and chloramphenicol resistances were 10.7% and 3.6 % respectively and none was resistant to ceftriaxone.",
+    "Priorities, congestions, resistances, and rmax are all defined as before.",
+    "Consistent with previous reports, voltage clamp experiments revealed heterogeneity in the resting membrane potentials, input resistances, and voltage dependent membrane currents of hippocampal glial cells.",
+    "In general, disease-causing pathogens are more capable of overcoming single, major gene resistances than multi-gene, durable resistances32.",
+    "Since then most of the disease resistances have been overcome, but there may be a residual benefit of the translocation for yield potential.",
+    "Because the peak amplitude of the capacitative currents was attenuated by the limited sampling frequency of the recording system, the series resistances were overestimated.",
+    "Such improved surveillance will be necessary to analyse the mechanisms and modes of dissemination, and public health impact of both the emerging resistances and the pathogens themselves.",
+    "There are always resistances and gaps, and these today often focus on the self."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "resigned",
+    "resin",
+    "resinous",
+    "resist",
+    "resistance",
+    "resistant",
+    "resistor",
+    "resolute",
+    "resolutely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088955_f4a267a742_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088955_ae918a0c6e_o.png",
+      "id_image": "resistance_1772523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396502_7343f7a505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396502_b3051751c7_o.png",
+      "id_image": "resistance_1772526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088870_0d91703781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088870_505ba1534d_o.png",
+      "id_image": "resistance_2529744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706184_2c4f04dd12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706184_dc157ddd36_o.png",
+      "id_image": "resistance_6303517"
+    }
+  ]
+}

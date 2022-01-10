@@ -1,0 +1,72 @@
+{
+  "english": "ratio",
+  "phat_am": "ˈreiʃiəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tỷ lệ",
+          "definition": "the amount or proportion of one thing compared to another",
+          "world_new": [
+            "amount",
+            "proportion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a ratio of two girls to one boy in this class.",
+              "world_new": [
+                "boy",
+                "class"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The steepness of the crossover is determined by the signal-to-noise ratio.",
+    "One of the main targets of the optimization was to increase the contact ratio of the gear pair.",
+    "Thus, this ratio is a performance measure that indicates the value added by active management to the strategic policy.",
+    "It appears that language has somewhat more effect than order on the ratio of active to passive/ stative.",
+    "Nonetheless, ratios of post-harvest weights to pre-harvest weights reinforced the view that weight fluctuations were not uniformly large.",
+    "In order to understand the significance of the duration ratios just provided, it may prove instructive to introduce temporal information for other linguistic varieties.",
+    "Turnover measures may also be seen in terms of the ratio of familial to extra-familial transactions.",
+    "Understanding the ratio of precursor types in the population might be useful therapeutically."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rather",
+    "ratification",
+    "ratify",
+    "rating",
+    "ratio",
+    "ration",
+    "ration out",
+    "rational",
+    "rationality"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382772_13009c4fd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382772_2d5b7532a5_o.png",
+      "id_image": "ratio_1202574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074880_87d5776ab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074880_21c789c58c_o.png",
+      "id_image": "ratio_168630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452628_765805ce15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452628_94f177b033_o.png",
+      "id_image": "ratio_4327929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074835_d31c614610_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074835_325a885af7_o.png",
+      "id_image": "ratio_554661"
+    }
+  ]
+}

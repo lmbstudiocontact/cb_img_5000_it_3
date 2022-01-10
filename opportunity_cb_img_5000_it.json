@@ -1,0 +1,80 @@
+{
+  "english": "opportunity",
+  "phat_am": "opəˈtjuːnəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơ hội",
+          "definition": "a chance to do or a time for doing (something)",
+          "world_new": [
+            "chance",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an opportunity to go to Rome"
+            },
+            {
+              "ex_of_definition": "You’ve had several opportunities to ask him.",
+              "world_new": [
+                "ask"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We look forward to the opportunities thus granted to us.",
+    "But it could have been much more useful if the opportunity had been taken to prepare a new full edition.",
+    "What kinds of opportunities are there for developing symbolic competence?",
+    "Opportunity for increasing nitrogen use efficiency from improved lowland rice germplasm.",
+    "First, how do the opportunities for private gain differ in different electoral systems?",
+    "The cost of replacing carbon by growing trees is so high primarily because of the opportunity costs of foregoing agricultural production on prime cropland.",
+    "This makes for a clear and straightforward historical materialist account (drawing largely on previously published sources), but also leads to missed opportunities.",
+    "This restructuring provides the opportunity, as yet not fully achieved, of transferring resources between components of the healthcare system."
+  ],
+  "list_see_also": [
+    "opportune",
+    "opportunely",
+    "opportunism",
+    "opportuneness",
+    "opportunist"
+  ],
+  "list_browse": [
+    "opportunely",
+    "opportuneness",
+    "opportunism",
+    "opportunist",
+    "opportunity",
+    "oppose",
+    "opposing",
+    "opposite",
+    "opposition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345516_452e2c734e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345516_a5d718e3da_o.png",
+      "id_image": "opportunity_1900254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460253_823c6b2164_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460253_882d86a4e8_o.png",
+      "id_image": "opportunity_1900267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082885_3ebd973a26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082885_2165d0ca5d_o.png",
+      "id_image": "opportunity_3447933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700559_53a22d9bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700559_66366353be_o.png",
+      "id_image": "opportunity_6064806"
+    }
+  ]
+}

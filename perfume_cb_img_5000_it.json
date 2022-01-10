@@ -1,0 +1,115 @@
+{
+  "english": "perfume",
+  "phat_am": "ˈpəːfjuːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hương thơm",
+          "definition": "a sweet smell or fragrance",
+          "world_new": [
+            "sweet",
+            "smell",
+            "fragrance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the perfume of roses."
+            }
+          ]
+        },
+        {
+          "mean_english": "nước hoa",
+          "definition": "a liquid, cream etc which has a sweet smell when put on the skin, hair, clothes etc",
+          "world_new": [
+            "liquid",
+            "cream",
+            "sweet",
+            "smell",
+            "skin",
+            "hair",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She loves French perfume(s).",
+              "world_new": [
+                "French"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "xịt nước hoa",
+          "definition": "to put perfume on or in",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She perfumed her hair.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỏa hương",
+          "definition": "to give a sweet smell to",
+          "world_new": [
+            "sweet",
+            "smell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Flowers perfumed the air.",
+              "world_new": [
+                "air"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most, though, would agree that there is a sufficient choice of soaps, deodorants, perfumes, and lipsticks.",
+    "Varanasi grew as an important industrial centre, famous for its muslin and silk fabrics, perfumes, ivory works, and sculpture.",
+    "We have already noted the sense of smell in our examination of the effect of the subtle essences and perfumes which emanate from the trees and herbs at a site.",
+    "We can also get benzoic, road tar, pitch, creosote, disinfectants, paints, varnishes, dyes, perfumes, drugs and explosives from the same source.",
+    "Who is to define the manufacturing chemist or the manufacturer of perfumes?",
+    "The women were asked not to use perfumes at bedtime, but otherwise we did not interfere with their usual habits.",
+    "He smelt strongly of perfumed oil and carried with him a number of peacock feathers and a bundle of grubby charms.",
+    "French, on the other hand, was reserved for fashion, watches, food, and perfumes."
+  ],
+  "list_see_also": [
+    "perfumery"
+  ],
+  "list_browse": [
+    "perform",
+    "performance",
+    "performance assessment",
+    "performer",
+    "perfume",
+    "perfumery",
+    "perhaps",
+    "peril",
+    "perilous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057370_60a796e5b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057370_8ee4124688_o.png",
+      "id_image": "perfume_1660259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320646_6176db297c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320646_258c0e9731_o.png",
+      "id_image": "perfume_410448"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "english": "pitch",
+  "phat_am": "pitʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắm trại",
+          "definition": "to set up (a tent or camp)",
+          "world_new": [
+            "tent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They pitched their tent in the field.",
+              "world_new": [
+                "their",
+                "tent",
+                "field"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ném",
+          "definition": "to throw",
+          "world_new": [
+            "throw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pitched the stone into the river.",
+              "world_new": [
+                "stone",
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rơi mạnh xuống",
+          "definition": "to (cause to) fall heavily",
+          "world_new": [
+            "fall",
+            "heavily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pitched forward.",
+              "world_new": [
+                "forward"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhô lên hụp xuống",
+          "definition": "(of a ship) to rise and fall violently",
+          "world_new": [
+            "rise",
+            "fall",
+            "violently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat pitched up and down on the rough sea.",
+              "world_new": [
+                "boat",
+                "rough",
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xướng âm",
+          "definition": "to set (a note or tune) at a particular level",
+          "world_new": [
+            "note",
+            "particular",
+            "level"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pitched the tune too high for my voice.",
+              "world_new": [
+                "tune",
+                "my",
+                "voice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sân đấu",
+          "definition": "the field or ground for certain games",
+          "world_new": [
+            "field",
+            "ground",
+            "certain",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cricket pitch",
+              "world_new": [
+                "cricket"
+              ]
+            },
+            {
+              "ex_of_definition": "a football pitch.",
+              "world_new": [
+                "football"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độ cao thấp của nốt nhạc, giọng hát",
+          "definition": "the degree of highness or lowness of a musical note, voice etc.",
+          "world_new": [
+            "degree",
+            "highness",
+            "musical",
+            "note",
+            "voice"
+          ]
+        },
+        {
+          "mean_english": "mức độ",
+          "definition": "an extreme point or intensity",
+          "world_new": [
+            "extreme",
+            "point",
+            "intensity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His anger reached such a pitch that he hit her.",
+              "world_new": [
+                "anger",
+                "hit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ ngồi bán hàng rong",
+          "definition": "the part of a street etc where a street-seller or entertainer works",
+          "world_new": [
+            "part",
+            "street",
+            "entertainer",
+            "works"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a pitch on the High Street."
+            }
+          ]
+        },
+        {
+          "mean_english": "động tác ném bóng, đường ném bóng",
+          "definition": "the act of pitching or throwing or the distance something is pitched",
+          "world_new": [
+            "act",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That was a long pitch.",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nhồi sóng",
+          "definition": "(of a ship) the act of pitching.",
+          "world_new": [
+            "act"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dầu hắc ín",
+          "definition": "a thick black substance obtained from tar",
+          "world_new": [
+            "thick",
+            "black",
+            "substance",
+            "tar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "as black as pitch.",
+              "world_new": [
+                "black"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Segments that are sonorous, stressed, or realized with high pitch are said to be particularly salient.",
+    "A circle of constant radius should vary in timbre but remain constant in brightness and pitch.",
+    "Pitch-matching tasks require a child to echo individual pitches or short melodic patterns provided by an auditory stimulus.",
+    "However, since only pitch is involved, it is clear that the abstract accent is nothing but 'an indication of pitch'.",
+    "In the same way, the completeness of a row indicates that a specific source presents filled thirds of varying pitch.",
+    "The expressive usage of pitch, aspiration, labialization, and nasalization are peculiar to female speech.",
+    "That is, three downward harmonic pitches are available, plus four or more harmonics in each octave above the original pitch.",
+    "To replicate simultaneously individual pitches or short melodic patterns after an auditory stimulus involves fewer synthesis skills and requires less self-monitoring over time."
+  ],
+  "list_see_also": [
+    "-pitched",
+    "pitcher",
+    "pitched battle",
+    "pitchfork"
+  ],
+  "list_browse": [
+    "pistil",
+    "pistol",
+    "piston",
+    "pit",
+    "pitch",
+    "pitch-black",
+    "-pitched",
+    "pitched battle",
+    "pitcher"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344791_eac1b45e65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344791_398f6d82a8_o.png",
+      "id_image": "pitch_1031443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344741_d7120a1511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344741_714ea6ca40_o.png",
+      "id_image": "pitch_1529269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459533_af91040caa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459533_c58b12d2cc_o.png",
+      "id_image": "pitch_1999349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699814_57e4efa204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699814_3e51f82b77_o.png",
+      "id_image": "pitch_2132535"
+    }
+  ]
+}

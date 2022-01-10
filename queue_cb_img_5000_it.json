@@ -1,0 +1,104 @@
+{
+  "english": "queue",
+  "phat_am": "kjuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng; lối",
+          "definition": "a line of people waiting for something or to do something",
+          "world_new": [
+            "line",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a queue for the bus.",
+              "world_new": [
+                "bus"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xếp hàng",
+          "definition": "to stand in a queue",
+          "world_new": [
+            "stand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had to queue to get into the cinema",
+              "world_new": [
+                "cinema"
+              ]
+            },
+            {
+              "ex_of_definition": "We had to queue for the cinema.",
+              "world_new": [
+                "cinema"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Optimization models are being used increasingly in the design of a variety of systems where queuing phenomena arise.",
+    "The speed of the total process requires a large number of par ts to be queued between stages.",
+    "In networks, we often deal with sums of state variables, such as the sum of customers in several queues.",
+    "The study of such a model provides insights at the queue length (and thus the congestion of a junction) under a heavy load.",
+    "Such a queue can be easily implemented as a circular array of task pointers.",
+    "Since this is not a desirable behaviour, we will enhance our simple processor with a waiting queue for tasks.",
+    "Also, the presence of infection can very rapidly endanger the lives of those waiting faithfully in the queue for their treatment.",
+    "Several pharmacy users commented on the knowledge and training of the pharmacists, although most also remarked about the difficulties of being overheard in the queue."
+  ],
+  "list_see_also": [
+    "queue up"
+  ],
+  "list_browse": [
+    "questionable",
+    "questionableness",
+    "questionably",
+    "questionnaire",
+    "queue",
+    "queue up",
+    "quiche",
+    "quick",
+    "quick-tempered"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698844_89ed6656f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698844_e8fa3febec_o.png",
+      "id_image": "queue_1042110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698804_81a2fd2c67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698804_c0bb3f2469_o.png",
+      "id_image": "queue_2132503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388547_609c688613_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388547_e23c239925_o.png",
+      "id_image": "queue_2949719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388487_526c003b9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388487_5fa470c856_o.png",
+      "id_image": "queue_4223181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458413_0f5cb586ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458413_76a5fec704_o.png",
+      "id_image": "queue_659366"
+    }
+  ]
+}

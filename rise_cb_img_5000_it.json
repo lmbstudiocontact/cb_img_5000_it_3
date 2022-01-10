@@ -1,0 +1,370 @@
+{
+  "english": "rise",
+  "phat_am": "raiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tăng lên; mọc lên",
+          "definition": "to become greater, larger, higher etc; to increase",
+          "world_new": [
+            "become",
+            "increase"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Food prices are still rising",
+              "world_new": [
+                "rising"
+              ]
+            },
+            {
+              "ex_of_definition": "His temperature rose",
+              "world_new": [
+                "temperature"
+              ]
+            },
+            {
+              "ex_of_definition": "If the river rises much more, there will be a flood",
+              "world_new": [
+                "river",
+                "flood"
+              ]
+            },
+            {
+              "ex_of_definition": "Her voice rose to a scream",
+              "world_new": [
+                "voice",
+                "scream"
+              ]
+            },
+            {
+              "ex_of_definition": "Bread rises when it is baked",
+              "world_new": [
+                "baked"
+              ]
+            },
+            {
+              "ex_of_definition": "His spirits rose at the good news.",
+              "world_new": [
+                "spirits",
+                "news"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển động lên trên",
+          "definition": "to move upwards",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Smoke was rising from the chimney",
+              "world_new": [
+                "rising",
+                "chimney"
+              ]
+            },
+            {
+              "ex_of_definition": "The birds rose into the air",
+              "world_new": [
+                "air"
+              ]
+            },
+            {
+              "ex_of_definition": "The curtain rose to reveal an empty stage.",
+              "world_new": [
+                "curtain",
+                "reveal",
+                "empty",
+                "stage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thức dậy",
+          "definition": "to get up from bed",
+          "world_new": [
+            "bed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He rises every morning at six o’clock.",
+              "world_new": [
+                "morning",
+                "o’clock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đứng dậy",
+          "definition": "to stand up",
+          "world_new": [
+            "stand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children all rose when the headmaster came in.",
+              "world_new": [
+                "headmaster"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mọc (mặt trời)",
+          "definition": "(of the sun etc) to appear above the horizon",
+          "world_new": [
+            "sun",
+            "appear",
+            "horizon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sun rises in the east and sets in the west.",
+              "world_new": [
+                "sun",
+                "east",
+                "west"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trải dài lên phía trên",
+          "definition": "to slope upwards",
+          "world_new": [
+            "slope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hills rose in the distance",
+              "world_new": [
+                "distance"
+              ]
+            },
+            {
+              "ex_of_definition": "The ground rises at this point.",
+              "world_new": [
+                "ground",
+                "point"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nổi loạn",
+          "definition": "to rebel",
+          "world_new": [
+            "rebel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The people rose (up) in revolt against the dictator.",
+              "world_new": [
+                "people",
+                "revolt",
+                "dictator"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thăng chức",
+          "definition": "to move to a higher rank, a more important position etc",
+          "world_new": [
+            "move",
+            "rank",
+            "important",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He rose to the rank of colonel.",
+              "world_new": [
+                "rank",
+                "colonel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuất hiện",
+          "definition": "(of a river) to begin or appear",
+          "world_new": [
+            "begin",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Rhône rises in the Alps."
+            }
+          ]
+        },
+        {
+          "mean_english": "thổi mạnh",
+          "definition": "(of wind) to begin; to become stronger",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t go out in the boat – the wind has risen.",
+              "world_new": [
+                "boat",
+                "wind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đang được xây dựng",
+          "definition": "to be built",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Office blocks are rising all over the town.",
+              "world_new": [
+                "rising",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hồi sinh",
+          "definition": "to come back to life",
+          "world_new": [
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Jesus has risen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tăng lên",
+          "definition": "(the) act of rising",
+          "world_new": [
+            "act",
+            "rising"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had a rapid rise to fame",
+              "world_new": [
+                "rapid",
+                "fame"
+              ]
+            },
+            {
+              "ex_of_definition": "a rise in prices."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tăng lương",
+          "definition": "an increase in salary or wages",
+          "world_new": [
+            "increase",
+            "salary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She asked her boss for a rise.",
+              "world_new": [
+                "boss"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sườn dốc",
+          "definition": "a slope or hill",
+          "world_new": [
+            "slope",
+            "hill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house is just beyond the next rise.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nổi lên",
+          "definition": "the beginning and early development of something",
+          "world_new": [
+            "beginning",
+            "development"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the rise of the Roman Empire.",
+              "world_new": [
+                "Roman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He told participants how he failed his examination and how he rose again.",
+    "This construction gives rise to an environment in which the supposedly resumptive strategy is possible even in the absence of the requisite overt morphological agreement.",
+    "The effects of climate change (for example) include sea level rises, and increased frequencies of droughts, storms, and extreme temperatures.",
+    "When physical capital is complementary with human capital in production, returns on and the demand for skills rise with capital intensity.",
+    "The rise of labour militancy was perhaps the most important trend towards successful utilisation of non-violent action.",
+    "This application gives rise to a number of practical morphological and orthographic issues which we also discuss.",
+    "The schooling choices that the parents make give rise to a distribution of parents in the next generation.",
+    "We find that for zero or moderate surface tension the speed at which a drop or plume rises increases algebraically with time."
+  ],
+  "list_see_also": [
+    "rising",
+    "early/late riser",
+    "give rise to",
+    "rise to the occasion"
+  ],
+  "list_browse": [
+    "ripe (old) age",
+    "ripen",
+    "ripeness",
+    "ripple",
+    "rise",
+    "rise to the occasion",
+    "rising",
+    "risk",
+    "risky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390752_3d0a7bbd9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390752_2ae772fbfe_o.png",
+      "id_image": "rise_3805779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083160_2402741555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083160_f38937611e_o.png",
+      "id_image": "rise_4151600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700784_4a84fcc3e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700784_5d6692a7d8_o.png",
+      "id_image": "rise_5184252"
+    }
+  ]
+}

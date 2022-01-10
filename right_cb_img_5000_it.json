@@ -1,0 +1,407 @@
+{
+  "english": "right",
+  "phat_am": "rait",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bên phải",
+          "definition": "on or related to the side of the body which in most people has the more skilful hand, or to the side of a person or thing which is toward the east when that person or thing is facing north (opposite to left)",
+          "world_new": [
+            "related",
+            "side",
+            "body",
+            "people",
+            "skilful",
+            "hand",
+            "side",
+            "person",
+            "east",
+            "person",
+            "facing",
+            "north"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When I’m writing, I hold my pen in my right hand.",
+              "world_new": [
+                "I",
+                "hold",
+                "my",
+                "pen",
+                "my",
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính xác",
+          "definition": "correct",
+          "world_new": [
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put that book back in the right place",
+              "world_new": [
+                "book",
+                "place"
+              ]
+            },
+            {
+              "ex_of_definition": "Is that the right answer to the question?",
+              "world_new": [
+                "answer",
+                "question"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hợp đạo đức",
+          "definition": "morally correct; good",
+          "world_new": [
+            "morally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s not right to let thieves keep what they have stolen.",
+              "world_new": [
+                "let",
+                "keep"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thích hợp",
+          "definition": "suitable; appropriate",
+          "world_new": [
+            "appropriate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s not the right man for this job",
+              "world_new": [
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "When would be the right time to ask him?",
+              "world_new": [
+                "time",
+                "ask"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyền",
+          "definition": "something a person is, or ought to be, allowed to have, do etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Everyone has the right to a fair trial",
+              "world_new": [
+                "fair",
+                "trial"
+              ]
+            },
+            {
+              "ex_of_definition": "You must fight for your rights",
+              "world_new": [
+                "fight",
+                "your",
+                "rights"
+              ]
+            },
+            {
+              "ex_of_definition": "You have no right to say that."
+            }
+          ]
+        },
+        {
+          "mean_english": "đúng",
+          "definition": "that which is correct or good",
+          "world_new": [
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who’s in the right in this argument?",
+              "world_new": [
+                "argument"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phía bên phải",
+          "definition": "the right side, part or direction",
+          "world_new": [
+            "side",
+            "part",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Turn to the right"
+            },
+            {
+              "ex_of_definition": "Take the second road on the right.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cánh hữu",
+          "definition": "in politics, the people, group, party or parties holding the more traditional beliefs etc",
+          "world_new": [
+            "politics",
+            "people",
+            "group",
+            "party",
+            "traditional"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the extreme right.",
+              "world_new": [
+                "extreme"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "chính xác",
+          "definition": "exactly",
+          "world_new": [
+            "exactly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was standing right here.",
+              "world_new": [
+                "standing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngay lập tức",
+          "definition": "immediately",
+          "world_new": [
+            "immediately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll go right after lunch",
+              "world_new": [
+                "lunch"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll come right down."
+            }
+          ]
+        },
+        {
+          "mean_english": "gần",
+          "definition": "close",
+          "world_new": [
+            "close"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was standing right beside me.",
+              "world_new": [
+                "standing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngay; chính",
+          "definition": "completely; all the way",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bullet went right through his arm.",
+              "world_new": [
+                "bullet",
+                "arm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "về phía bên phải",
+          "definition": "to the right",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Turn right."
+            }
+          ]
+        },
+        {
+          "mean_english": "đchính xác",
+          "definition": "correctly",
+          "world_new": [
+            "correctly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have I done that right?",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t think this sum is going to turn out right.",
+              "world_new": [
+                "I",
+                "think",
+                "sum",
+                "turn"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lấy lại cho thẳng (hướng đi của ô tô, tàu thủy…)",
+          "definition": "to bring back to the correct, usually upright, position",
+          "world_new": [
+            "bring",
+            "correct",
+            "upright",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat tipped over, but righted itself again.",
+              "world_new": [
+                "boat",
+                "tipped"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đền bù",
+          "definition": "to put an end to and make up for something wrong that has been done",
+          "world_new": [
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s like a medieval knight, going about the country looking for wrongs to right.",
+              "world_new": [
+                "medieval",
+                "knight",
+                "country"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "đúng; hiểu",
+          "definition": "I understand; I’ll do what you say etc",
+          "world_new": [
+            "I"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘I want you to type some letters for me.’ ‘Right, I’ll do them now.’",
+              "world_new": [
+                "want",
+                "type"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "righteous",
+    "righteously",
+    "righteousness",
+    "rightful",
+    "rightfully",
+    "rightly",
+    "rightness",
+    "righto",
+    "rights",
+    "right angle",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "rig",
+    "rig out",
+    "rig up",
+    "rigging",
+    "right",
+    "right angle",
+    "right away",
+    "right now",
+    "right of way"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346751_0b5c32c6a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346751_9e358b49be_o.png",
+      "id_image": "right_3603600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701579_4ae7e476d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701579_280d3739d2_o.png",
+      "id_image": "right_4151501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461518_d25f954574_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461518_dc2be1d963_o.png",
+      "id_image": "right_5678244"
+    }
+  ]
+}

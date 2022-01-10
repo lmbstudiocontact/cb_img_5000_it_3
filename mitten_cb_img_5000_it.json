@@ -1,0 +1,72 @@
+{
+  "english": "mitten",
+  "phat_am": "ˈmitn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "găng đấu quyền anh",
+          "definition": "a kind of glove with two sections, one for the thumb and the other for the fingers",
+          "world_new": [
+            "kind",
+            "glove",
+            "thumb"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of mittens.",
+              "world_new": [
+                "pair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "găng tay hở ngón",
+          "definition": "a type of glove with separate sections for each finger, reaching only to halfway down the fingers.",
+          "world_new": [
+            "type",
+            "glove",
+            "separate",
+            "finger"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Infants at the age of 6 months are recommended to have a prosthetic mitten fitted; enabling them to get used to the prosthesis.",
+    "And the power of her imagination turns her mitten into a knitted puppy, which keeps the mitten red color and black spots on the back.",
+    "It is often referred to as the little finger of the mitten-shaped lower peninsula.",
+    "Mitten crabs have exhibited a remarkable ability to survive in highly modified aquatic habitats, including polluted waters.",
+    "Troops have already been issued with additional cold weather kit: boots, mittens and hats.",
+    "They bought groceries, dry goods, shoes, tobacco, kerosene, men's overalls and shirts, mittens, canned goods, shucking pegs, ammunition, and candy.",
+    "How long would it be before he could take off his mittens, and then his inner gloves?",
+    "In some, the tarpaulin is connected to the hammock's suspension line using a system of mitten hooks and plastic connectors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "misuse",
+    "mite",
+    "mitosis",
+    "mitre",
+    "mitten",
+    "mix",
+    "mix-up",
+    "mixed",
+    "mixed media"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385492_096f4a7cb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385492_ea8a28a820_o.png",
+      "id_image": "mitten_709403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385447_3df722fd4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385447_3d6f3dce28_o.png",
+      "id_image": "mitten_823206"
+    }
+  ]
+}

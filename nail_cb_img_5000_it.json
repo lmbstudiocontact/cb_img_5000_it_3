@@ -1,0 +1,111 @@
+{
+  "english": "nail",
+  "phat_am": "neil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "móng",
+          "definition": "a piece of horn-like substance which grows over the ends of the fingers and toes to protect them",
+          "world_new": [
+            "piece",
+            "substance",
+            "protect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve broken my nail",
+              "world_new": [
+                "broken",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "toenails"
+            },
+            {
+              "ex_of_definition": "Don’t bite your fingernails.",
+              "world_new": [
+                "bite",
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái đinh",
+          "definition": "a thin pointed piece of metal used to fasten pieces of wood etc together",
+          "world_new": [
+            "thin",
+            "pointed",
+            "piece",
+            "metal",
+            "fasten",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hammered a nail into the wall and hung a picture on it.",
+              "world_new": [
+                "wall",
+                "picture"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng đinh",
+          "definition": "to fasten with nails",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He nailed the picture to the wall.",
+              "world_new": [
+                "picture",
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "nailbrush",
+    "nail file",
+    "nail polish",
+    "nail scissors",
+    "hit the nail on the head"
+  ],
+  "list_browse": [
+    "N/A",
+    "nab",
+    "nag",
+    "nagging",
+    "nail",
+    "nail file",
+    "nail polish",
+    "nail scissors",
+    "nailbrush"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374022_40c03b67cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374022_07c93ef390_o.png",
+      "id_image": "nail_215254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444278_d9789ba76f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444278_9608137e47_o.png",
+      "id_image": "nail_280160"
+    }
+  ]
+}

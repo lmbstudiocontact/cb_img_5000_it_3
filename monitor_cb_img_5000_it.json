@@ -1,0 +1,113 @@
+{
+  "english": "monitor",
+  "phat_am": "ˈmonitə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lớp trưởng",
+          "definition": "a senior pupil who helps to see that school rules are kept.",
+          "world_new": [
+            "senior",
+            "pupil",
+            "see",
+            "school"
+          ]
+        },
+        {
+          "mean_english": "bộ kiểm tra",
+          "definition": "any of several kinds of instrument etc by means of which something can be constantly checked, especially a small screen in a television studio showing the picture which is being transmitted at any given time",
+          "world_new": [
+            "instrument",
+            "means",
+            "constantly",
+            "checked",
+            "small",
+            "screen",
+            "television",
+            "studio",
+            "picture",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a television monitor",
+              "world_new": [
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "a computer monitor.",
+              "world_new": [
+                "computer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giám sát",
+          "definition": "to act as, or to use, a monitor; to keep a careful check on",
+          "world_new": [
+            "act",
+            "keep",
+            "careful",
+            "check"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These machines/technicians monitor the results constantly.",
+              "world_new": [
+                "constantly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The eluent was monitored at a wavelength of 254 nm.",
+    "Farmers to be monitored are chosen to represent dierent situations of soil and water resource availability and socio-economic circumstances.",
+    "In addition, experiments were monitored as a function of phage progeny release rather than turbidity decline.",
+    "Individual survival was monitored three times a week.",
+    "External field supervision was carried out by three independent supervisors who monitored ongoing fieldwork logistics and data quality during the data collection period.",
+    "Migration of cells into denuded areas was monitored for up to 48 hours.",
+    "With the help of a semi-structured questionnaire, the far ms were monitored twice - two months and one year after planting.",
+    "All vaccine recipients were monitored for clinical signs and symptoms for s e v e n days after each inoculation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "money",
+    "money-box",
+    "moneylender",
+    "mongrel",
+    "monitor",
+    "monk",
+    "monkey",
+    "monkey business",
+    "mono"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382752_08daf6d720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382752_55ea8a91f9_o.png",
+      "id_image": "monitor_194345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337711_4832f6e418_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337711_ea2daa1e38_o.png",
+      "id_image": "monitor_194353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337681_737a11b5f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337681_ec0e8cd142_o.png",
+      "id_image": "monitor_294630"
+    }
+  ]
+}

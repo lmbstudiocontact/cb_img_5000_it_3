@@ -1,0 +1,87 @@
+{
+  "english": "receiver",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống nghe điện thoại",
+          "definition": "the part of a telephone which is held to one’s ear",
+          "world_new": [
+            "part",
+            "telephone",
+            "ear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She picked up the receiver."
+            }
+          ]
+        },
+        {
+          "mean_english": "máy thu",
+          "definition": "an apparatus for receiving radio or television signals.",
+          "world_new": [
+            "apparatus",
+            "radio",
+            "television"
+          ]
+        },
+        {
+          "mean_english": "người chứa chấp đồ trộm cắp",
+          "definition": "a person who receives stolen goods.",
+          "world_new": [
+            "person",
+            "goods"
+          ]
+        },
+        {
+          "mean_english": "người quản lý tài sản",
+          "definition": "a person who is appointed to take control of the business of someone who has gone bankrupt.",
+          "world_new": [
+            "person",
+            "appointed",
+            "control",
+            "business",
+            "bankrupt"
+          ]
+        },
+        {
+          "mean_english": "bộ khuếch đại trong rađiô",
+          "definition": "a stereo amplifier with a built-in radio.",
+          "world_new": [
+            "stereo",
+            "amplifier",
+            "built-in",
+            "radio"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "recapture",
+    "recede",
+    "receipt",
+    "receive",
+    "receiver",
+    "recent",
+    "recently",
+    "receptacle",
+    "reception"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073060_a30ccf3ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073060_a425a5b980_o.png",
+      "id_image": "receiver_2725197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451038_002ec107a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451038_2d47740803_o.png",
+      "id_image": "receiver_3069572"
+    }
+  ]
+}

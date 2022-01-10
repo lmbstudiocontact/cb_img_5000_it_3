@@ -1,0 +1,120 @@
+{
+  "english": "resist",
+  "phat_am": "rəˈzist",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chống lại",
+          "definition": "to fight against, usually successfully",
+          "world_new": [
+            "fight",
+            "successfully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers resisted the enemy attack",
+              "world_new": [
+                "enemy",
+                "attack"
+              ]
+            },
+            {
+              "ex_of_definition": "He tried to resist arrest",
+              "world_new": [
+                "arrest"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s hard to resist temptation.",
+              "world_new": [
+                "temptation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cưỡng lại",
+          "definition": "to be able to stop oneself doing, taking etc (something)",
+          "world_new": [
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I couldn’t resist kicking him when he bent down",
+              "world_new": [
+                "I",
+                "bent"
+              ]
+            },
+            {
+              "ex_of_definition": "I just can’t resist strawberries.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không bị tác động",
+          "definition": "to be unaffected or undamaged by",
+          "world_new": [
+            "unaffected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a metal that resists rust/acids.",
+              "world_new": [
+                "metal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Students considered it too hard, and many instructors resisted teaching a subject which they themselves had not mastered.",
+    "Adult participants resisted its effects in favour of recapturing childhood ways of being, especially manifest through dispositions for engagement.",
+    "The participant's muscular strength or weakness in resisting to this force informs the instructor as to the participant's predispositions.",
+    "As research shows here and elsewhere, children of the elite - envisaged by colonial authorities as future leaders of ' friendly ' (ex) colonies - often resisted attending school.",
+    "Since vzjal ' take ' is a highly transitive verb, it resists passivization by -sja.",
+    "There is other language usage in broadcasting which is resisted by listeners but permissible in informal speech.",
+    "The problem, of course, is that the ' orthodoxy ' being resisted varies so wildly as to make the term impossible.",
+    "Kenyans both supported and resisted the ban, aligning along generational, gender and class lines."
+  ],
+  "list_see_also": [
+    "resistance",
+    "resistant",
+    "resistor"
+  ],
+  "list_browse": [
+    "resignation",
+    "resigned",
+    "resin",
+    "resinous",
+    "resist",
+    "resistance",
+    "resistant",
+    "resistor",
+    "resolute"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088870_0d91703781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088870_505ba1534d_o.png",
+      "id_image": "resistance_2529744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351881_40b4a05a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351881_f7422550be_o.png",
+      "id_image": "resist_3100262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706299_95a07b355e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706299_5b7db16c46_o.png",
+      "id_image": "resist_3100321"
+    }
+  ]
+}

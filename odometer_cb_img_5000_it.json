@@ -1,0 +1,58 @@
+{
+  "english": "odometer",
+  "phat_am": "(British) ouˈdomitə; (American) ouˈdomitər",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công tơ mét",
+          "definition": "an instrument in a vehicle that measures the distance which it has travelled/traveled; milometer, mileometer British",
+          "world_new": [
+            "instrument",
+            "vehicle",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The odometer showed 55,193 miles at the time he purchased the truck.",
+              "world_new": [
+                "time",
+                "truck"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We also show how to use the triadic odometer augmented with plus and minus signs to track octagons.",
+    "If all of them are finite, then the system is an odometer and has only rational eigenvalues.",
+    "This can be done by: adding a landmark; using different nature and size landmarks in systems; using odometer data if they are not too much erroneous.",
+    "In fact, if one excludes the special cases of odometer systems (which are not expansive), it could be that the equal path-number property implies that the system is expansive.",
+    "It is a two-point extension of an odometer.",
+    "That is why, in a first step, information provided by an odometer is used; this implies small movements to restrict cumulative errors.",
+    "The factor measure on the odometer is non-singular but not necessarily invariant.",
+    "The interface has different robotic components, such as drive functions, sonar, laser, odometer, and camera."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ode",
+    "odious",
+    "odiously",
+    "odiousness",
+    "odometer",
+    "odour",
+    "odourless",
+    "oesophagus",
+    "oestrogen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703634_3772c96086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703634_c02ff376a2_o.png",
+      "id_image": "odometer_5235588"
+    }
+  ]
+}

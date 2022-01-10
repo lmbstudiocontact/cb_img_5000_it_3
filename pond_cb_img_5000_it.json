@@ -1,0 +1,72 @@
+{
+  "english": "pond",
+  "phat_am": "pond",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái ao",
+          "definition": "a small lake or pool",
+          "world_new": [
+            "small",
+            "lake",
+            "pool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the village pond.",
+              "world_new": [
+                "village"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The minor floral debris present in these sediments may have been derived from shallow zones of the ponds.",
+    "The potential sedimentation impacts of each option on the dam and water intake ponds in the catchments are calculated.",
+    "In this regard, the role of groundwater recharging structures, such as check dams, farm ponds, percolation tanks, and ravine reclamation structures, is crucial.",
+    "Long-term environmental monitoring in arctic lakes and ponds using diatoms and other biological indicators.",
+    "Many dytiscids moved along the bottom of the ponds, and the smallest dytiscids could have been missed when the ponds were visually inspected.",
+    "Features such as streams or ponds may be naturally present in a habitat, but after anthropogenic change most of them are destroyed.",
+    "Latrines were built far from the huts which they were meant to serve and too close for health to ponds and water tanks.",
+    "A number of small seasonal streams and ponds have not been scientifically described."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pompous",
+    "pompously",
+    "pompousness",
+    "poncho",
+    "pond",
+    "ponder",
+    "pong pong",
+    "pontiff",
+    "pontoon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451148_f7634c80d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451148_cf90f91a2d_o.png",
+      "id_image": "pond_1312012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073085_31584202e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073085_8b4e82dced_o.png",
+      "id_image": "pond_3038834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451103_2be50eb8fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451103_c1f715251d_o.png",
+      "id_image": "pond_4146240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451048_9081db9a6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451048_f92a33dc61_o.png",
+      "id_image": "pond_4251881"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "english": "pouch",
+  "phat_am": "pautʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "túi nhỏ",
+          "definition": "a small bag",
+          "world_new": [
+            "small",
+            "bag"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tobacco pouch.",
+              "world_new": [
+                "tobacco"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "túi",
+          "definition": "something bag-like",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This animal stores its food in two pouches under its chin.",
+              "world_new": [
+                "animal",
+                "its",
+                "food",
+                "its",
+                "chin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "túi của một số động vật",
+          "definition": "the pocket of skin in which the young of certain kinds of animal, eg the kangaroo, are reared.",
+          "world_new": [
+            "pocket",
+            "skin",
+            "young",
+            "certain",
+            "animal",
+            "kangaroo"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They might have had holes in their socks and empty ammunition pouches, but the band was playing and the flags were flying.",
+    "The pregnancy rate is high; 80% of two-year-old females were observed with newborns in their pouches during the mating season.",
+    "Nobody would take it up until at last a particular well-known tobacco manufacturer thought it would be useful for closing tobacco pouches.",
+    "The leather for their clothing, robes and pouches were created from the skin of buffalo, deer and elk.",
+    "Up to 91 % of original penetrants have been observed alive in. pouch tissue at 65 h post-exposure.",
+    "Both the golden-mantled ground squirrel and the chipmunk have cheek pouches for carrying food.",
+    "Brood pouches vary significantly among different species of pipefish, but all contain a small opening through which female eggs can be deposited.",
+    "They have elongated cheek pouches extending to their shoulders in which they carry food back to their burrows."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "potted",
+    "potter",
+    "pottery",
+    "potty",
+    "pouch",
+    "pouffe",
+    "poulterer",
+    "poultry",
+    "pounce"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447023_34aa62510a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447023_9a02395bf5_o.png",
+      "id_image": "pouch_1037916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376712_82e1519338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376712_4931705121_o.png",
+      "id_image": "pouch_5362148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331931_6d38db94c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331931_0aae3771c1_o.png",
+      "id_image": "pouch_5485741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376822_4357b8bedc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376822_b949bebbbb_o.png",
+      "id_image": "pouch_649073"
+    }
+  ]
+}

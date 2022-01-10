@@ -1,0 +1,103 @@
+{
+  "english": "plus",
+  "phat_am": "plas",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "cộng",
+          "definition": "used to show addition",
+          "world_new": [
+            "addition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two plus three equals five (2 + 3 = 5)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phép cộng; dấu dương",
+          "definition": "(also plus sign) a sign (+) used to show addition or positive quality.",
+          "world_new": [
+            "sign",
+            "addition",
+            "positive",
+            "quality"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dương",
+          "definition": "positive or more than zero",
+          "world_new": [
+            "positive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a plus quantity",
+              "world_new": [
+                "quantity"
+              ]
+            },
+            {
+              "ex_of_definition": "The temperature was plus fifteen degrees.",
+              "world_new": [
+                "temperature"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I must, in passing, say that at least there are some pluses.",
+    "There were no reliable differences in this regard between the onset plus duration and onset only conditions.",
+    "The intermediate level was defined as primary schooling plus vocational training or higher (secondary) school education but no higher education.",
+    "In addition, mitral plus either aortic or tricuspid lesions are usually secondary to rheumatic fever.",
+    "There are difficulties, but there are pluses.",
+    "When the pluses and minuses are taken into account, the net additional provision for this vote is some £4·8 million.",
+    "Bases of such changes include self-knowledge and self-critique of biases, stereotypes, and prejudices plus the virtues of openness and humility, as previously noted.",
+    "The present energy plus the dissipated energy equals the initial energy plus the work done by the external forces."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plunge",
+    "plunger",
+    "pluperfect",
+    "plural",
+    "plus",
+    "plush",
+    "Pluto",
+    "plutonium",
+    "pluviometer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454433_1b3c9c687d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454433_d25d7a6372_o.png",
+      "id_image": "plus_1484944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076660_472f2ef1b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076660_5c404dfbf6_o.png",
+      "id_image": "plus_4684730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076620_640d834b20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076620_f82bb3a94e_o.png",
+      "id_image": "plus_5982800"
+    }
+  ]
+}

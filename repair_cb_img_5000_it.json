@@ -1,0 +1,148 @@
+{
+  "english": "repair",
+  "phat_am": "riˈpeə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sửa",
+          "definition": "to mend; to make (something) that is damaged or has broken down work again; to restore to good condition",
+          "world_new": [
+            "damaged",
+            "broken",
+            "work",
+            "restore",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s repairing a broken lock / torn jacket.",
+              "world_new": [
+                "broken",
+                "lock",
+                "jacket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bù đắp",
+          "definition": "to put right or make up for",
+          "world_new": [
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Nothing can repair the harm done by your foolish remarks.",
+              "world_new": [
+                "harm",
+                "your",
+                "foolish"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự sửa chữa",
+          "definition": "the act of repairing something damaged or broken down",
+          "world_new": [
+            "act",
+            "damaged",
+            "broken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I put my car into the garage for repairs",
+              "world_new": [
+                "I",
+                "my",
+                "car",
+                "garage"
+              ]
+            },
+            {
+              "ex_of_definition": "The bridge is under repair.",
+              "world_new": [
+                "bridge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng",
+          "definition": "a condition or state",
+          "world_new": [
+            "condition",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road is in bad repair",
+              "world_new": [
+                "road",
+                "bad"
+              ]
+            },
+            {
+              "ex_of_definition": "The house is in a good state of repair.",
+              "world_new": [
+                "house",
+                "state"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Earlier methods relied on sutures to repair the hernia under tension, whereas newer methods involved placing a synthetic mesh over the defect without tension.",
+    "Such technical arbitrariness may prove difficult someday when repairs must be made.",
+    "Consider the uptake of the verb measure by a child aged 2;2 from an embedded repair, illustrated in ex.",
+    "We speculate that, earlier during development, the aorta was damaged, became inflamed and was repaired, with fibrosis obliterating the elastic tissue.",
+    "The ascending aorta was bulbous, but narrowed at the transverse arch and at the site of repair of the aortic coarctation.",
+    "Rather than simply closing the septal defect, relieving the pulmonary stenosis, and performing an atrial switch, univentricular repair was preferred in these patients.",
+    "In four patients, it was placed through the brachiocephalic artery permitting selective perfusion of the brain during repair of the aortic arch.",
+    "Those with descending aortic aneurysm underwent conduit placement, and those with valve disease underwent repair or replacement."
+  ],
+  "list_see_also": [
+    "repairable",
+    "reparable",
+    "reparation",
+    "repairman"
+  ],
+  "list_browse": [
+    "rental",
+    "renunciation",
+    "reorganization",
+    "reorganize",
+    "repair",
+    "repairable",
+    "repairman",
+    "reparable",
+    "reparation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439278_21d42c39d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439278_dfcfc5fb8b_o.png",
+      "id_image": "repair_1207155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061075_4891d171f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061075_744d1516a0_o.png",
+      "id_image": "repair_4772180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061040_3e7af205f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061040_3e9a55c1af_o.png",
+      "id_image": "repair_5060384"
+    }
+  ]
+}

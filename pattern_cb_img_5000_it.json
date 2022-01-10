@@ -1,0 +1,111 @@
+{
+  "english": "pattern",
+  "phat_am": "ˈpӕtən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoa văn",
+          "definition": "a repeated decoration or design on material etc",
+          "world_new": [
+            "repeated",
+            "decoration",
+            "design",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dress is nice, but I don’t like the pattern.",
+              "world_new": [
+                "dress",
+                "nice",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mẫu",
+          "definition": "a model or guide for making something",
+          "world_new": [
+            "model",
+            "guide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dress pattern.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiểu mẫu",
+          "definition": "an example suitable to be copied",
+          "world_new": [
+            "example",
+            "suitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the pattern of good behaviour/behavior."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although no formal study of parasitoid behaviour was made, the search pattern of the parasitoids in this experiment appeared to be random.",
+    "This pattern was maintained at 4 years except that verb-alone responses were replaced with more pronoun-verb responses.",
+    "However, co-occurrence patterns on burned sites were random, indicating absence of competition at fine spatial scales due to differential habitat use within the burned landscape.",
+    "The mineral nutrition of wild plants revisited: a re-evaluation of processes and patterns.",
+    "Apart from their purely demographic impact, childbearing patterns are also important for their social, psychological, and economic implications.",
+    "However, the data are sufficient to reveal the patterns of entire hairpin packets and to use the vorticity field for qualitative flow visualization.",
+    "This replaces an accumulated literature of patterns corresponding to words, sentences, paragraphs, chapters, and books that encapsulates meaning from human experience and life.",
+    "A clause protected with a guard matches only if both the pattern and the guard are satisfied."
+  ],
+  "list_see_also": [
+    "patterned"
+  ],
+  "list_browse": [
+    "patronize",
+    "patronizing",
+    "patronizingly",
+    "patter",
+    "pattern",
+    "patterned",
+    "paunch",
+    "paunchy",
+    "pauper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327331_3316844712_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327331_7e3723a7f4_o.png",
+      "id_image": "pattern_256686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682429_247dc7538a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682429_8330121a07_o.png",
+      "id_image": "pattern_2927863"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371962_72cc7a2c7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371962_9ec855a0f6_o.png",
+      "id_image": "pattern_4301585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442238_f58ecb49e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442238_09b985815b_o.png",
+      "id_image": "pattern_5620447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327111_f48de45a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327111_cf1ce4a6d0_o.png",
+      "id_image": "pattern_5939563"
+    }
+  ]
+}

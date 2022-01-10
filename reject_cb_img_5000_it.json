@@ -1,0 +1,95 @@
+{
+  "english": "reject",
+  "phat_am": "rəˈdʒekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "từ chối",
+          "definition": "to refuse to accept",
+          "world_new": [
+            "refuse",
+            "accept"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She rejected his offer of help",
+              "world_new": [
+                "offer",
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "He asked her to marry him, but she rejected him.",
+              "world_new": [
+                "marry"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "vật bị loại",
+          "definition": "something that is rejected because it is faulty etc",
+          "world_new": [
+            "faulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "factory rejects.",
+              "world_new": [
+                "factory"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "According to this proposal, to be wrong is to be forbidden by a set of principles no one could reasonably reject (p. 153).",
+    "Feminist ethicists reject this stance and assert that moral philosophy has to pay attention to the psychological, social and political dimensions of life.",
+    "In both cases, the necessary conditions are so unlikely to be met that one can reject these arguments for proportionate taxation out of hand.",
+    "The principle of granting to the consuls a specific ceremonial was rejected by the beylical court.",
+    "The goodness of fit in all specifications is reasonable and the null hypotheses of no misspecification and homoscedasticity are not rejected either.",
+    "This hypothesis can not be rejected but seems rather unlikely.",
+    "This test did not reject the hypothesis of orthogonality so the estimation was done through a random effects model rather than a fixed effects model.",
+    "If a political justification, for example, required the rejection of one particular reasonable comprehensive view among many, then reasonable people could reject that justification."
+  ],
+  "list_see_also": [
+    "rejection"
+  ],
+  "list_browse": [
+    "reincarnation",
+    "reindeer",
+    "reinforce",
+    "reinforcement",
+    "reject",
+    "rejection",
+    "rejoice",
+    "rejoicing",
+    "rejoinder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065660_eb26382b45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065660_b73e110441_o.png",
+      "id_image": "reject_1686747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443793_f3a4a77a8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443793_615549c755_o.png",
+      "id_image": "reject_3782409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373507_1ce7550d99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373507_5ece201fce_o.png",
+      "id_image": "reject_5434111"
+    }
+  ]
+}

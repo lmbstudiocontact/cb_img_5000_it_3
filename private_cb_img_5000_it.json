@@ -1,0 +1,142 @@
+{
+  "english": "private",
+  "phat_am": "ˈpraivət",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "riêng tư",
+          "definition": "of, for, or belonging to, one person or group, not to the general public",
+          "world_new": [
+            "person",
+            "group",
+            "general",
+            "public"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The headmaster lives in a private apartment in the school",
+              "world_new": [
+                "headmaster",
+                "apartment",
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "in my private (=personal) opinion",
+              "world_new": [
+                "my",
+                "opinion"
+              ]
+            },
+            {
+              "ex_of_definition": "This information is to be kept strictly private",
+              "world_new": [
+                "information",
+                "strictly"
+              ]
+            },
+            {
+              "ex_of_definition": "You shouldn’t listen to private conversations.",
+              "world_new": [
+                "listen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cá nhân",
+          "definition": "having no public or official position or rank",
+          "world_new": [
+            "public",
+            "official",
+            "position",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is your duty as a private citizen to report this matter to the police.",
+              "world_new": [
+                "your",
+                "duty",
+                "citizen",
+                "report",
+                "matter",
+                "police"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "binh nhì",
+          "definition": "in the army, an ordinary soldier, not an officer.",
+          "world_new": [
+            "army",
+            "ordinary",
+            "soldier",
+            "officer"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The full utilization of existing private production facilities, with some renovation, was assumed to be sufficient at this stage.",
+    "First, private parties often lack the individual incentive to initiate litigation before national courts.",
+    "Insurance for non-occupational disabilities, by contrast, had no established network of interests; such insurance was virtually non-existent in the private sector.",
+    "The remaining fourteen had moved into private enterprise, mostly with firms specializing in the field of their former ministries.",
+    "For example, when control took place, the private sector could not use its trading capacity fully.",
+    "First, how do the opportunities for private gain differ in different electoral systems?",
+    "Thus, we compare the cost of the protection of trees between private and community plantations.",
+    "The data were collected at home parties, lunchtime breaks, and other private venues."
+  ],
+  "list_see_also": [
+    "privacy",
+    "privately",
+    "privatize",
+    "privatization",
+    "private enterprise",
+    "private means",
+    "private school",
+    "in private"
+  ],
+  "list_browse": [
+    "prison",
+    "prisoner",
+    "prisoner of war",
+    "privacy",
+    "private",
+    "private enterprise",
+    "private means",
+    "private school",
+    "privately"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323861_93525fa7d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323861_48a6038f0c_o.png",
+      "id_image": "private_1163402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679029_f30dfe655c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679029_b9453e113f_o.png",
+      "id_image": "private_3231365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438843_cd5deae1f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438843_cb018243b9_o.png",
+      "id_image": "private_4428006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323716_9708790fcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323716_e356381a18_o.png",
+      "id_image": "private_5352157"
+    }
+  ]
+}

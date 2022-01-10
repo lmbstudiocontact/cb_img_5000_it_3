@@ -1,0 +1,77 @@
+{
+  "english": "mute",
+  "phat_am": "mjuːt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "câm",
+          "definition": "unable to speak; dumb.",
+          "world_new": [
+            "unable",
+            "dumb"
+          ]
+        },
+        {
+          "mean_english": "yên lặng",
+          "definition": "silent",
+          "world_new": [
+            "silent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gazed at him in mute horror.",
+              "world_new": [
+                "horror"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "âm câm",
+          "definition": "(of a letter) not sounded in certain words",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The word ‘dumb’ has a mute ‘b’ at the end."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "mutely"
+  ],
+  "list_browse": [
+    "must have",
+    "mustard",
+    "muster",
+    "musty",
+    "mute",
+    "mutely",
+    "mutilate",
+    "mutilation",
+    "mutineer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445243_c249823d7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445243_1edfc40e28_o.png",
+      "id_image": "mute_1112541"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445203_59f2141af8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445203_4fa5a7260e_o.png",
+      "id_image": "mute_2831073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067065_d1236c223a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067065_fd589bce6b_o.png",
+      "id_image": "mute_6212371"
+    }
+  ]
+}

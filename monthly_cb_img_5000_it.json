@@ -1,0 +1,88 @@
+{
+  "english": "monthly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hàng tháng",
+          "definition": "happening, being published etc once a month",
+          "world_new": [
+            "happening",
+            "once",
+            "month"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a monthly magazine.",
+              "world_new": [
+                "magazine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "một lần một tháng",
+          "definition": "once a month",
+          "world_new": [
+            "once",
+            "month"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The magazine is published monthly.",
+              "world_new": [
+                "magazine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the 1996 reform, employee contributions were set to 18 % of their monthly earnings, while employers' contributions were set at 17.5 % of their total payroll.",
+    "Monthly prevalence values varied from 0.74% to 6.76%.",
+    "The monthly precipitation was 45-60 mm during the remaining months and was more evenly distributed.",
+    "The survival probabilities are computed for each female and male elderly separately on a monthly basis.",
+    "These relate to different diurnal, and monthly, tidal stages, and serve as important features for hunting and safety assessment in each community.",
+    "In our analysis, the monthly counts of raccoons testing positive were associated with the risk of a cat testing positive.",
+    "The top service costs an initial £999, with monthly fees of £40 to £750 depending on the number of products.",
+    "The organization committee presented monthly reports to the executive."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "monster",
+    "monstrous",
+    "monstrously",
+    "month",
+    "monthly",
+    "monument",
+    "monumental",
+    "moo",
+    "mooch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452073_300395bcba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452073_53e90ce61d_o.png",
+      "id_image": "monthly_2390318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382237_0c561d0a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382237_32dcd7c8d6_o.png",
+      "id_image": "monthly_4334665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074220_81b95e1040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074220_163f252718_o.png",
+      "id_image": "monthly_5571536"
+    }
+  ]
+}

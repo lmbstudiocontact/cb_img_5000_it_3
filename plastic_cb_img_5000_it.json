@@ -1,0 +1,73 @@
+{
+  "english": "plastic",
+  "phat_am": "ˈplӕstik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất dẻo",
+          "definition": "(of) any of many chemically manufactured substances that can be moulded when still soft",
+          "world_new": [
+            "soft"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This cup is made of plastic",
+              "world_new": [
+                "cup"
+              ]
+            },
+            {
+              "ex_of_definition": "a plastic cup.",
+              "world_new": [
+                "cup"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dễ tạo hình",
+          "definition": "easily made into different shapes.",
+          "world_new": [
+            "easily"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plasma",
+    "plasma screen",
+    "plaster",
+    "plasterer",
+    "plastic",
+    "plastic surgery",
+    "plastic wrap",
+    "Plasticine",
+    "plate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342066_18250c2760_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342066_062e4641dd_o.png",
+      "id_image": "plastic_1889993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079400_3aaa371727_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079400_20f1884b92_o.png",
+      "id_image": "plastic_1996983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079380_904cc34e85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079380_d6e7475105_o.png",
+      "id_image": "plastic_4201885"
+    }
+  ]
+}

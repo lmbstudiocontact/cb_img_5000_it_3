@@ -1,0 +1,119 @@
+{
+  "english": "reply",
+  "phat_am": "rəˈplai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đáp lại",
+          "definition": "to answer",
+          "world_new": [
+            "answer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘I don’t know,’ he replied",
+              "world_new": [
+                "know"
+              ]
+            },
+            {
+              "ex_of_definition": "Should I reply to his letter?",
+              "world_new": [
+                "I",
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "She replied that she had never seen the man before"
+            },
+            {
+              "ex_of_definition": "She replied by shrugging her shoulders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "câu trả lời",
+          "definition": "an answer",
+          "world_new": [
+            "answer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘I don’t know,’ was his reply",
+              "world_new": [
+                "know"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll write a reply to his letter.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đáp lại",
+          "definition": "the act of answering",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What did he say in reply (to your question)?",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The in-letters are a selection of the (on the whole less interesting) replies.",
+    "To this wor r y there are several replies.",
+    "A move is in if it is surrendered or else if all its attacking replies are out.",
+    "The values represent mean percentage of replies across families and family members.",
+    "The nurse replied that one of them hadn't taken the medicine!",
+    "In such a context, respondents may be disinclined to expand on their replies, even though the latter may embody repor ts of problems or troubles.",
+    "Their replies to a questionnaire will thus be elaborations and interpretations of their attitudes (previously subconscious attitudes), rather than sheer recollections.",
+    "Comparing the replies from teachers and parents, it is evident that teachers consider themselves more communicative than parents view them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "replenishment",
+    "replica",
+    "replicate",
+    "replication",
+    "reply",
+    "report",
+    "report back",
+    "reported speech",
+    "reporter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678444_11241e525c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678444_6cdb6cf95c_o.png",
+      "id_image": "reply_2921218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059955_cd7fda197e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059955_7ea6850e80_o.png",
+      "id_image": "reply_4542244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368042_811ae71015_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368042_85e4a4e30e_o.png",
+      "id_image": "reply_5511724"
+    }
+  ]
+}

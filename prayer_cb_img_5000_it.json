@@ -1,0 +1,72 @@
+{
+  "english": "prayer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời cầu nguyện",
+          "definition": "(an) act of praying",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a book of prayer",
+              "world_new": [
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "The child said his prayers",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "My prayers have been answered (=I’ve got what I desired).",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "People sometimes respond to others' current prayers in their own simultaneous praying.",
+    "After the prayers, a short sermon was given, and in the cities, the sermon could be followed with a lecture.",
+    "The conver ts took this as a sign that their prayers had been answered.",
+    "All three of the world's major monotheistic religions affirm that petitionary prayers can be causally efficacious in bringing about certain states of affairs.",
+    "Puritans, it was argued, were obsessed with extemporaneous sermons and prayers, and attached no value to the outward furnishings and structures of the church.",
+    "Taken together, settings of these little prayers delineate the range of musical means by which students took their first steps towards learning to read written polyphony.",
+    "The book reflects a long musical tradition dating back to the thirteenth century and contains prayers, hymns and other service music for the daily liturgical hours.",
+    "Upon request, cazuelas are ornamented with sophisticated painting and colors, such as flowers and sayings or prayers for special occasions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prank",
+    "prattle",
+    "prawn",
+    "pray",
+    "prayer",
+    "pre-",
+    "preach",
+    "preacher",
+    "prearranged"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067285_c146bc0c9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067285_5ceb5d1071_o.png",
+      "id_image": "prayer_2759663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445393_35309c12ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445393_2ce9dd5836_o.png",
+      "id_image": "prayer_5826105"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "rabbit",
+  "phat_am": "ˈrӕbit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con thỏ",
+          "definition": "a type of small long-eared burrowing animal, found living wild in fields or sometimes kept as a pet",
+          "world_new": [
+            "type",
+            "small",
+            "animal",
+            "found",
+            "living",
+            "wild",
+            "pet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pet rabbit.",
+              "world_new": [
+                "pet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the laboratory, they were held individually in standard laboratory rabbit cages to which they adapted very quickly.",
+    "Plant size variation and vertebrate herbivory: winter wheat grazed by rabbits.",
+    "Tell me about that, about once when you went rabbit hunting with your dad.",
+    "A new model of transient complete obstruction of retinal vessels induced by endothelin-1 injection into the posterior vitreous body in rabbits.",
+    "The current study estimated 31% of rabbits to be infected.",
+    "A-type horizontal cells of the superior edge of the linear visual streak of the rabbit retina have oriented, elongated dendritic trees.",
+    "Even feathers and the hair of rabbit and humans may have been spun, along with other materials.",
+    "Quinoxalines block the mechanism of directional selectivity in ganglion cells of the rabbit retina."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "quote",
+    "quotient",
+    "R",
+    "rabbi",
+    "rabbit",
+    "rabble",
+    "rabies",
+    "raccoon",
+    "race"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387357_9543253dd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387357_0599466ed4_o.png",
+      "id_image": "rabbit_123961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697519_6c821d9f79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697519_df67dc39bb_o.png",
+      "id_image": "rabbit_183964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342291_4f95b6de44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342291_3107b28c5c_o.png",
+      "id_image": "rabbit_543170"
+    }
+  ]
+}

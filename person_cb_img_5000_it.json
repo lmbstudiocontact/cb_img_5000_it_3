@@ -1,0 +1,105 @@
+{
+  "english": "person",
+  "phat_am": "ˈpəːsn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người",
+          "definition": "a human being",
+          "world_new": [
+            "human"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a person outside who wants to speak to you",
+              "world_new": [
+                "outside",
+                "speak"
+              ]
+            },
+            {
+              "ex_of_definition": "Some people are never satisfied.",
+              "world_new": [
+                "people",
+                "satisfied"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "theo người",
+          "definition": "a person’s body",
+          "world_new": [
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He never carried money on his person (= with him",
+              "world_new": [
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "in his pockets etc)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To include ourselves within the same framework of understanding as other persons is a condition of rationality.",
+    "Use does not, however, affect all aspects of a person's educational experience.",
+    "The anjali, usually in a far less obsequious form, is also central to the everyday social recognition of other persons.",
+    "Narratives by enslaved persons are few and scattered, but we are still hopeful that more will come to light in the future.",
+    "Reliability of experimenters' judgment was assessed by the agreement of the other experimenters of the group present during the session (one or two additional persons).",
+    "In the choice of language, persons do not simply select an instrument for mutual understanding and communication.",
+    "Thirty or forty families would be the most that could live together, that is, about 140 or 150 persons.",
+    "Living in such a neighbourhood may contribute to problematic relationships, and receiving scant support from children reduces an older person's opportunities to live elsewhere."
+  ],
+  "list_see_also": [
+    "personal",
+    "personality",
+    "personalize",
+    "personalized",
+    "personally",
+    "personal assistant",
+    "personal computer",
+    "personal organizer",
+    "personal pronoun",
+    "personal stereo",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "persist",
+    "persistence",
+    "persistent",
+    "persistently",
+    "person",
+    "personal",
+    "personal assistant",
+    "personal computer",
+    "personal organizer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435473_4cfa0c6de0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435473_7822f2e351_o.png",
+      "id_image": "person_6003230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435448_5788ffec1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435448_c2daf44a72_o.png",
+      "id_image": "person_6146116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320331_af9a3a8a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320331_692d092437_o.png",
+      "id_image": "person_992636"
+    }
+  ]
+}

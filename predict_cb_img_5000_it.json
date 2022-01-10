@@ -1,0 +1,69 @@
+{
+  "english": "predict",
+  "phat_am": "priˈdikt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dự đoán",
+          "definition": "to say in advance; to foretell",
+          "world_new": [
+            "foretell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He predicted an improvement in the economy.",
+              "world_new": [
+                "improvement",
+                "economy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The results are consistent with our expectation that long periods of care-giving predict lower levels of depressive symptoms in widowhood.",
+    "For all farm categories, current acreage increased from 5 years in the past, and farmers predicted further increases in the future.",
+    "Learners of different language backgrounds are thus predicted to follow different developmental paths.",
+    "For each of the six trials, children were asked to predict the returning character's false belief.",
+    "The roles of ethnicity and school context in predicting children's victimization by peers.",
+    "Thus, on this account, both are predicted to be either grammatical or ungrammatical.",
+    "This is as might be expected physically, presumably foretelling the onset of a higher mode as predicted by the airfoil model.",
+    "Accordingly, the current study considered both parent - adolescent supportive relationships and adolescent levels of symptomatology when predicting young adult outcomes."
+  ],
+  "list_see_also": [
+    "predictable",
+    "prediction"
+  ],
+  "list_browse": [
+    "predatory",
+    "predecessor",
+    "predicament",
+    "predicate",
+    "predict",
+    "predictable",
+    "prediction",
+    "predominance",
+    "predominant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444988_da96680c50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444988_f9a4fc92d7_o.png",
+      "id_image": "predict_3380816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374637_c65f59de9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374637_19d58a10cc_o.png",
+      "id_image": "predict_6281540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374617_e9d7fb2f90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374617_7caab359c5_o.png",
+      "id_image": "predict_6281543"
+    }
+  ]
+}

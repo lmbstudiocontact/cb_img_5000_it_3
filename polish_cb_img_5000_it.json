@@ -1,0 +1,137 @@
+{
+  "english": "polish",
+  "phat_am": "ˈpoliʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh bóng",
+          "definition": "to make smooth and shiny by rubbing",
+          "world_new": [
+            "smooth",
+            "shiny"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She polished her shoes.",
+              "world_new": [
+                "polished"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nâng cao",
+          "definition": "(especially with up) to improve",
+          "world_new": [
+            "improve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Polish up your English!",
+              "world_new": [
+                "your",
+                "English"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự sáng bóng",
+          "definition": "smoothness and shininess",
+          "world_new": [
+            "smoothness",
+            "shininess"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a wonderful polish on this old wood.",
+              "world_new": [
+                "wonderful",
+                "old",
+                "wood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xi đánh bóng",
+          "definition": "a kind of liquid, or other substance used to make something shiny",
+          "world_new": [
+            "kind",
+            "liquid",
+            "substance",
+            "shiny"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "furniture polish",
+              "world_new": [
+                "furniture"
+              ]
+            },
+            {
+              "ex_of_definition": "silver polish.",
+              "world_new": [
+                "silver"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The disadvantage is that writers do not have the opportunity to revise and polish before they go public.",
+    "In our study, a part of this contribution could be attributed to persistently contaminated polishing equipment in a single slaughterhouse.",
+    "The local development and preservation of polished striations suggests that at one time the whole surface may also have been polished.",
+    "The floor elements were polished and columns had a variety of shapes, colours and finishes.",
+    "All pearls are refereed (including my own), and there is often a fair amount of polishing as a result of the reviewing stage.",
+    "Whether the story is of his own invention or borrowed from others, he adorns and polishes it with various embellishments as it pleases him.",
+    "Certainly in carrying a sense of their making and makers, such materials contrast with plastics and polished or lacquered finishes and mechanised processes.",
+    "The surfaces of each metal were ground and polished with sandpaper (300-4000) and alumina powder (0.3 m)."
+  ],
+  "list_see_also": [
+    "polished",
+    "polish off"
+  ],
+  "list_browse": [
+    "police station",
+    "policeman",
+    "policy",
+    "polio",
+    "polish",
+    "polish off",
+    "polished",
+    "polite",
+    "politely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452453_1ebbaf5d18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452453_4ab39b3a92_o.png",
+      "id_image": "polish_2052443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452373_49380096c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452373_322d91816d_o.png",
+      "id_image": "polish_2107193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692814_ec691f9c94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692814_db904bef79_o.png",
+      "id_image": "polish_2670694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337506_7ac38f9cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337506_9de43c511e_o.png",
+      "id_image": "polish_2670828"
+    }
+  ]
+}

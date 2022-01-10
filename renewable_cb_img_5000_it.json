@@ -1,0 +1,96 @@
+{
+  "english": "renewable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tái tạo",
+          "definition": "renewable resources replace themselves naturally or can be controlled so that they can be used without completely running out",
+          "world_new": [
+            "replace",
+            "naturally",
+            "completely",
+            "running"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Renewable resources, such as wind, water, and sunlight, will never run out.",
+              "world_new": [
+                "wind",
+                "water",
+                "sunlight",
+                "run"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ký lại",
+          "definition": "a renewable agreement or contract can be extended for a further period of time after it ends",
+          "world_new": [
+            "agreement",
+            "contract",
+            "extended",
+            "further",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The post will initially be for one year, renewable for a further two years subject to satisfactory performance.",
+              "world_new": [
+                "initially",
+                "year",
+                "further",
+                "subject",
+                "satisfactory",
+                "performance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The current renewables programme includes 218 projects worth over £77 million.",
+    "There are few things that one can tell nuclear engineers about how to generate electricity, but the interchange between nuclear and renewables is almost nil.",
+    "The growth in energy use will unquestionably involve renewables, hydrogen, photovoltaics, biomass and the exploitation of wind and waves.",
+    "There are clear signs that the obligation has already provided considerable encouragement to the development of renewables.",
+    "In a sense it is the hole in the ground products versus the renewables.",
+    "By increasing the use of renewables, we can, first, reduce harmful greenhouse gas emissions and help to lessen the effect of climate change.",
+    "There will not be large-scale renewables because the grid connections are not there, but those connections are awfully convenient for nuclear stations.",
+    "Part of the jigsaw of energy use must also be to increase greatly the use of renewables."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "renaissance",
+    "render",
+    "rendezvous",
+    "renew",
+    "renewable",
+    "renewal",
+    "renounce",
+    "renovate",
+    "renovation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369912_db7ef95e06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369912_d2890bc6ff_o.png",
+      "id_image": "renewable_2286227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061850_f494671cd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061850_a97587ff63_o.png",
+      "id_image": "renewable_4987056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325091_367febd6e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325091_90c84f0671_o.png",
+      "id_image": "renewable_550792"
+    }
+  ]
+}

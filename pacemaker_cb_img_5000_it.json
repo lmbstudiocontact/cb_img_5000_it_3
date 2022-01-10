@@ -1,0 +1,72 @@
+{
+  "english": "pacemaker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy điều hoà nhịp tim",
+          "definition": "an electronic device to make the heart beats regular or stronger",
+          "world_new": [
+            "electronic",
+            "device",
+            "heart",
+            "regular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wears a heart pacemaker.",
+              "world_new": [
+                "heart"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người dẫn đầu cuộc đua",
+          "definition": "a person who sets the speed of a race.",
+          "world_new": [
+            "person",
+            "speed",
+            "race"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such pacemakers are already widely available and may be provided if thought necessary by the consultant to meet the essential clinical needs of a patient.",
+    "Thus, children who require aerial pacemakers have the ability to increase their heart rates, but do so only moderately during daily life.",
+    "There is one other small point concerning pacemakers worn by people with heart conditions.",
+    "Experience with implantable pacemakers using myocardial electrodes in the management of heart block.",
+    "One underwent heart transplant. 56 children (65%) have required pacemakers, 55% within 9 days of birth.",
+    "Because cardiac pacemakers are an accepted technology dating back to the 1960s (31), it may seem paradoxical to question their intrinsic efficacy and utility today.",
+    "Cardiac pacemakers are implanted after heart transplants to control early brady-arrhythmias due to sick sinus syndrome or atrioventricular block.",
+    "We do not contest the use of pacemakers in this indication."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "p&p",
+    "PA",
+    "pace",
+    "pace out",
+    "pacemaker",
+    "pacific",
+    "pacification",
+    "pacifier",
+    "pacifism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694044_58182f18bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694044_c259c73309_o.png",
+      "id_image": "pacemaker_5793609"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453898_88c00cd682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453898_32a8ebc593_o.png",
+      "id_image": "pacemaker_670849"
+    }
+  ]
+}

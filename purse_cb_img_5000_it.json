@@ -1,0 +1,88 @@
+{
+  "english": "purse",
+  "phat_am": "pəːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái ví",
+          "definition": "a small bag for carrying money",
+          "world_new": [
+            "small",
+            "bag",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I looked in my purse for some change.",
+              "world_new": [
+                "I",
+                "my",
+                "change"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "túi xách tay",
+          "definition": "a handbag.",
+          "world_new": [
+            "handbag"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mắm chặt",
+          "definition": "to close (the lips) tightly",
+          "world_new": [
+            "close"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She pursed her lips in anger.",
+              "world_new": [
+                "anger"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "purser"
+  ],
+  "list_browse": [
+    "purposefully",
+    "purposeless",
+    "purposely",
+    "purr",
+    "purse",
+    "purser",
+    "pursue",
+    "pursuer",
+    "pursuit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461563_79c30a1c4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461563_6bcac5bc8b_o.png",
+      "id_image": "purse_1213242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391692_4e41d87495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391692_8b979043ec_o.png",
+      "id_image": "purse_1648827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701559_bc262d3e3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701559_ac4615e88a_o.png",
+      "id_image": "purse_3207417"
+    }
+  ]
+}

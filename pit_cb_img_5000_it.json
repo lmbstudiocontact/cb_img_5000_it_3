@@ -1,0 +1,140 @@
+{
+  "english": "pit",
+  "phat_am": "pit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hố",
+          "definition": "a large hole in the ground",
+          "world_new": [
+            "large",
+            "hole",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The campers dug a pit for their rubbish.",
+              "world_new": [
+                "their",
+                "rubbish"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hầm mỏ",
+          "definition": "a place from which minerals are dug, especially a coal-mine",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chalk-pit"
+            },
+            {
+              "ex_of_definition": "He works at/down the pit.",
+              "world_new": [
+                "works"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trạm tiếp tế cho xe đua",
+          "definition": "a place beside a motor race track for repairing and refuelling racing cars",
+          "world_new": [
+            "place",
+            "motor",
+            "race",
+            "track",
+            "racing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The leading car has gone into the pit(s).",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đọ sức với ai",
+          "definition": "(with against) to set (a person or thing) against another in a fight, competition etc",
+          "world_new": [
+            "person",
+            "fight",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was pitted against a much stronger man."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hột",
+          "definition": "the hard stone of a peach, cherry etc.",
+          "world_new": [
+            "stone",
+            "peach",
+            "cherry"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tách hột",
+          "definition": "to remove the stone from (a peach, cherry etc).",
+          "world_new": [
+            "remove",
+            "stone",
+            "peach",
+            "cherry"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "pitfall"
+  ],
+  "list_browse": [
+    "piste",
+    "pistil",
+    "pistol",
+    "piston",
+    "pit",
+    "pitch",
+    "pitch-black",
+    "-pitched",
+    "pitched battle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699959_38552f7131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699959_dd90e67c5d_o.png",
+      "id_image": "pit_4293890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459603_d0d7f508d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459603_be68bc9202_o.png",
+      "id_image": "pit_4294192"
+    }
+  ]
+}

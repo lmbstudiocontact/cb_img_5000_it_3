@@ -1,0 +1,62 @@
+{
+  "english": "random",
+  "phat_am": "ˈrӕndəm",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ngẫu nhiên",
+          "definition": "done etc without any particular plan or system; irregular",
+          "world_new": [
+            "particular",
+            "plan",
+            "irregular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The opinion poll was based on a random sample of adults.",
+              "world_new": [
+                "opinion",
+                "poll",
+                "sample"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The stability result (i) says that the evolution of the capital intensity is uniquely determined by the random fixed point.",
+    "Search for alternatives can similarly be random or ordered.",
+    "In the end, we have only neutered rhetorical forms to stand as theories, and random design novelties to stand as practice.",
+    "The reason we apply a uniform random number for rendering fractal is that it can create unique and more diverse forms.",
+    "The distribution of the random values is not very important, perceptually.",
+    "Random assignment would ensure that all unmeasured confounding factors were equally distributed between comparison groups.",
+    "The intercept was assumed to be random in order to take within-subject correlations of the dependent variables into account for statistical inference.",
+    "A brief excerpt, selected almost at random, may hint at its flavor."
+  ],
+  "list_see_also": [
+    "randomly",
+    "at random"
+  ],
+  "list_browse": [
+    "ramshackle",
+    "ranch",
+    "rancid",
+    "rand",
+    "random",
+    "randomly",
+    "range",
+    "ranger",
+    "rank"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694194_97c83de985_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694194_15880b47df_o.png",
+      "id_image": "random_5835728"
+    }
+  ]
+}

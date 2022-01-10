@@ -1,0 +1,71 @@
+{
+  "english": "religion",
+  "phat_am": "rəˈlidʒən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự sùng bái",
+          "definition": "a belief in, or the worship of, a god or gods.",
+          "world_new": [
+            "belief",
+            "worship"
+          ]
+        },
+        {
+          "mean_english": "tôn giáo",
+          "definition": "a particular system of belief or worship",
+          "world_new": [
+            "particular",
+            "system",
+            "belief",
+            "worship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Christianity and Islam are two different religions.",
+              "world_new": [
+                "Christianity",
+                "Islam"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "religious",
+    "religiously",
+    "religiousness"
+  ],
+  "list_browse": [
+    "relic",
+    "relief",
+    "relieve",
+    "relieved",
+    "religion",
+    "religious",
+    "religiously",
+    "religiousness",
+    "relinquish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681704_60361599b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681704_78d724913e_o.png",
+      "id_image": "religion_2367921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063510_d4bb9d0e56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063510_ea39b31203_o.png",
+      "id_image": "religion_3053788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441563_9cbe93347c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441563_277d2a3f90_o.png",
+      "id_image": "religion_3995342"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "percent",
+  "phat_am": "pəˈsent",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "phần trăm",
+          "definition": ", often written % with figures (of numbers, amounts etc) stated as a fraction of one hundred",
+          "world_new": [
+            "fraction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Twenty-five per cent of one hundred and twenty is thirty",
+              "world_new": [
+                "per",
+                "cent"
+              ]
+            },
+            {
+              "ex_of_definition": "25% of the people did not reply to our letters.",
+              "world_new": [
+                "people",
+                "reply",
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "peppermint",
+    "peppery",
+    "per",
+    "per annum",
+    "per cent",
+    "perceive",
+    "percentage",
+    "perception",
+    "perceptive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321421_943b525564_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321421_ecda132858_o.png",
+      "id_image": "percent_1011549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676479_5985ed6d96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676479_8ba909978a_o.png",
+      "id_image": "percent_1553573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676419_369516a2f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676419_d465aec8ba_o.png",
+      "id_image": "percent_4685472"
+    }
+  ]
+}

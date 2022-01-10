@@ -1,0 +1,94 @@
+{
+  "english": "oak",
+  "phat_am": "əuk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây sồi",
+          "definition": "(also oak tree) a type of large tree with hard wood",
+          "world_new": [
+            "type",
+            "large",
+            "tree",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clump of six very tall old oak trees.",
+              "world_new": [
+                "clump",
+                "tall",
+                "old"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc gỗ sồi",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "trees in an oak wood",
+              "world_new": [
+                "wood"
+              ]
+            },
+            {
+              "ex_of_definition": "a room with oak panelling.",
+              "world_new": [
+                "room",
+                "panelling"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These might include bats, newts, wild flowers and fine oaks whose existence is affected (or more likely threatened) by the building in question.",
+    "Many individual ancient oaks are still to be found in current plantations of conifers, left simply because they were too difficult to remove.",
+    "Analogously, fully grown oak trees would in this way have a perfection, though of a limited kind.",
+    "The oak galls are collected, crushed and either boiled or infused in rainwater (or white-wine vinegar).",
+    "A possible indication that houses were decorated comes from an oak woodcarving (190 by 16 by 4-5cms) of an anthropomorphic figure.",
+    "Developers appear inclined to entice the buyer with a sleek kitchen and oak floor, at the expense of craftsmanship and longterm maintenance.",
+    "The greater preponderance of small arthropods in acacias versus oaks was probably related to the small leaflet size of acacias.",
+    "For example, the timber cladding is oak, left to age naturally."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "o’er",
+    "O.K.",
+    "oaf",
+    "oafish",
+    "oak",
+    "OAP",
+    "oar",
+    "oasis",
+    "oath"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434483_54605d9940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434483_545229f0c3_o.png",
+      "id_image": "oak_2146308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364037_0593b07fef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364037_812b72c859_o.png",
+      "id_image": "oak_2146349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363997_44ff2de1a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363997_1949774836_o.png",
+      "id_image": "oak_4986983"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "english": "plane",
+  "phat_am": "plein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy bay",
+          "definition": "an aeroplane/airplane",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What time does your plane leave?",
+              "world_new": [
+                "time",
+                "your",
+                "leave"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trình độ",
+          "definition": "a level or standard",
+          "world_new": [
+            "level",
+            "standard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Man is on a higher plane (of development) than the apes."
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt phẳng",
+          "definition": "in geometry, a flat surface.",
+          "world_new": [
+            "geometry",
+            "flat",
+            "surface"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lướt",
+          "definition": "to move smoothly over the surface (of water etc).",
+          "world_new": [
+            "move",
+            "smoothly",
+            "surface",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bào",
+          "definition": "a carpenter’s tool for making a level or smooth surface.",
+          "world_new": [
+            "tool",
+            "level",
+            "smooth",
+            "surface"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bào",
+          "definition": "to make (a surface) level, smooth or lower by using a plane.",
+          "world_new": [
+            "level",
+            "smooth",
+            "lower"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây ngô đồng",
+          "definition": "a type of tree with broad leaves.",
+          "world_new": [
+            "type",
+            "tree",
+            "broad"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "According to the choice of the rotation the non-compact leaves are all cylinders or all planes.",
+    "At least two planes were heard, a police sergeant said, but they could not be seen above the clouds.",
+    "There is a need to move between coordinate systems for the two images planes.",
+    "An important inference is that the growth process and the process of turbulence production probably involve secondary vortices wrapped around the core in azimuthal planes.",
+    "The only minimal immersions, which are regular at infinity and have two ends, are the catenoid and a pair of planes.",
+    "The sequence of eight planes is now a t the same physical location but traces the temporal evolution of the scalar-marked regions.",
+    "The intermediate mullion acts as a tension strut tying the two planes together.",
+    "The fault planes are characterized by anastomosing clayey gouge layers with thin (1 mm-10 cm) zones of cataclasite, breccia and hematite-clay-coated fractured rock."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plaintiveness",
+    "plait",
+    "plan",
+    "plan ahead",
+    "plane",
+    "planet",
+    "planetary",
+    "plank",
+    "plankton"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698914_5c02fb7103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698914_e59f84670f_o.png",
+      "id_image": "plane_191542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458373_7fc8e4b046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458373_29b3bb39d5_o.png",
+      "id_image": "plane_1949326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343706_9441e8fa03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343706_e7502afec4_o.png",
+      "id_image": "plane_386462"
+    }
+  ]
+}

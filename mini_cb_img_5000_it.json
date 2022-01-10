@@ -1,0 +1,82 @@
+{
+  "english": "mini",
+  "phat_am": "ˈmini",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "váy ngắn",
+          "definition": "short for miniskirt.",
+          "world_new": [
+            "short"
+          ]
+        },
+        {
+          "mean_english": "xe buýt nhỏ",
+          "definition": "a type of small car",
+          "world_new": [
+            "type",
+            "small",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She drives a mini."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc xe buýt nhỏ",
+          "definition": "small",
+          "world_new": [
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mini dictionary",
+              "world_new": [
+                "dictionary"
+              ]
+            },
+            {
+              "ex_of_definition": "a minibus.",
+              "world_new": [
+                "minibus"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mineralogist",
+    "mineralogy",
+    "mingle",
+    "mingled",
+    "mini",
+    "miniature",
+    "miniaturization",
+    "miniaturize",
+    "minibus"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697529_74f2aafaa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697529_d128c736fe_o.png",
+      "id_image": "mini_1600948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457138_a7ee8686c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457138_40642090b5_o.png",
+      "id_image": "mini_2364436"
+    }
+  ]
+}

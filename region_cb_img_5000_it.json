@@ -1,0 +1,73 @@
+{
+  "english": "region",
+  "phat_am": "ˈriːdʒən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vùng",
+          "definition": "a part of a country, the world etc",
+          "world_new": [
+            "part",
+            "country",
+            "world"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you know this region well?",
+              "world_new": [
+                "know"
+              ]
+            },
+            {
+              "ex_of_definition": "tropical regions of the world.",
+              "world_new": [
+                "tropical",
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such information will better inform policymakers concerned with land tenure, resource management, and conflicts in these regions.",
+    "Consequently, per capita grain availability varies significantly, which makes the movements of grains between regions necessary.",
+    "The left-hand column shows high-per formance regions relating to 1!",
+    "Developing regions with smaller preferential quotas stand to gain more from market liberalisation.",
+    "The planning-control model predicts that damage to brain regions responsible for either planning or control will result in distinctly different deficits.",
+    "Correlations were therefore performed between only two regions in the brain and three behavioral measures.",
+    "Readers should gain insight into regions of the world that are little understood and vastly underappreciated.",
+    "Isolates from the same or neighbouring regions were distributed in both groups."
+  ],
+  "list_see_also": [
+    "regional",
+    "regionally",
+    "in the region of"
+  ],
+  "list_browse": [
+    "regime",
+    "regiment",
+    "regimental",
+    "regimentation",
+    "region",
+    "regional",
+    "regionally",
+    "register",
+    "register office / registry office"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066790_697ec1e4a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066790_5f6cff2b97_o.png",
+      "id_image": "region_6110214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374742_ff12b4b7e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374742_13a956dfc8_o.png",
+      "id_image": "region_992282"
+    }
+  ]
+}

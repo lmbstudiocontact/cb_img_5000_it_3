@@ -1,0 +1,75 @@
+{
+  "english": "phase",
+  "phat_am": "feiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời kỳ",
+          "definition": "a stage in the development of something",
+          "world_new": [
+            "stage",
+            "development"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are entering a new phase in the war.",
+              "world_new": [
+                "war"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuần trăng",
+          "definition": "one in a series of regular changes in the shape or appearance of something (especially the moon or a planet)",
+          "world_new": [
+            "series",
+            "regular",
+            "shape",
+            "appearance",
+            "moon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the phases of the moon.",
+              "world_new": [
+                "moon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This represents the expansion phase of the infection.",
+    "At this stage, the wire remains in a liquid- solid phase with a low-density plasma corona.",
+    "The maximum relative phase 8, occurs at the intersections of the trajectories with the dashed lines.",
+    "In brief, during early neuroproliferative and migratory phases, monoamines play central roles.",
+    "The insert represents a phase plane plot of the two variables recorded in the figure.",
+    "The picture for each target word appeared on the screen in a random order different from the order used during the learning phase.",
+    "In successive stages extremely long plans were formed of which probably only the newest phase(s) would have been in use.",
+    "The spatial phase of surround stimuli was the same as the stimulus on the classical receptive field."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pharmaceutical",
+    "pharmacist",
+    "pharmacy",
+    "pharynx",
+    "phase",
+    "PhD",
+    "pheasant",
+    "phenomenal",
+    "phenomenally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464838_6d629f344e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464838_4d9ae5d05f_o.png",
+      "id_image": "phase_2116980"
+    }
+  ]
+}

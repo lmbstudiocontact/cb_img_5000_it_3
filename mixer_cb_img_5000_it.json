@@ -1,0 +1,65 @@
+{
+  "english": "mixer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người trộn; máy trộn",
+          "definition": "a person or thing that mixes; a thing which is used for mixing",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electric food-mixer.",
+              "world_new": [
+                "electric"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The entire performance is controlled by several independent video and audio mixers, each with its own operator.",
+    "Diffusion, as the performance mode for these sounds, refers to the distribution of the (usually stereo) sound in a space through the use of a mixer and multiple loudspeakers.",
+    "Finally, in extremely large halls, speakers placed immediately by the mixer can help overcome the sensation that the sound is predominantly at the periphery of the listening space.",
+    "In addition to a one-off delay, you can feed the delayed sound back to record (via a mixer) thus creating electronic canons of what is played.",
+    "Each has a separate output allowing the signals to be routed to separate devices for processing or to multiple channels on a mixer.",
+    "Two or three technicians are also required in order to operate the tape, mixer and effects.",
+    "There exist, however, some modern mixers that are able to pan sounds to certain multi-loudspeaker configurations.",
+    "This procedure is created in response to the single goal \"trap the dough in the mixer\"."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mix",
+    "mix-up",
+    "mixed",
+    "mixed media",
+    "mixer",
+    "mixture",
+    "ml",
+    "mm",
+    "moan"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385302_86b06e90a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385302_5cd4c05bf9_o.png",
+      "id_image": "mixer_259161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695619_e6eb5d2a50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695619_b0402bdf2d_o.png",
+      "id_image": "mixer_259163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455173_76cc8bd738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455173_60aa380caa_o.png",
+      "id_image": "mixer_294629"
+    }
+  ]
+}

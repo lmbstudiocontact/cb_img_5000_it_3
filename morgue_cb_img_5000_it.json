@@ -1,0 +1,63 @@
+{
+  "english": "morgue",
+  "phat_am": "moːɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà xác",
+          "definition": "a building where people who have been found dead are laid until they are identified etc",
+          "world_new": [
+            "building",
+            "people",
+            "found",
+            "dead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hospital morgue.",
+              "world_new": [
+                "hospital"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They have, however, sanctioned a loan of £2,000 for a morgue and police court.",
+    "State and hospital officials refused to release other bodies from the morgue for burial until the uproar quieted, leveraging the dead as blackmail.",
+    "He looks at the records of almshouses, prisons, hospitals and morgues to see how the poor were described.",
+    "When they saw him in the morgue, he was fully dressed.",
+    "As we see far too often, the so-called \"one for the road\" often becomes one for the morgue.",
+    "Fearing his son might be dead, he had gone to look for him in a hospital morgue.",
+    "We also carry out a search of our own records and check with immigration authorities, police, hospitals and morgues.",
+    "The final death toll is still unknown, as the soldiers also collected the bodies rather than allow them to be counted at public morgues."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "more",
+    "more and more",
+    "more or less",
+    "moreover",
+    "morgue",
+    "morn",
+    "morning",
+    "morning dress",
+    "morning glory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336331_752a29d6fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336331_2f9e48459f_o.png",
+      "id_image": "morgue_1450747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381297_60841bbcb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381297_2d775e4e43_o.png",
+      "id_image": "morgue_6001056"
+    }
+  ]
+}

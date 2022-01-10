@@ -1,0 +1,206 @@
+{
+  "english": "pop",
+  "phat_am": "pop",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng nổ bốp",
+          "definition": "a sharp, quick, explosive noise, such as that made by a cork as it comes out of a bottle",
+          "world_new": [
+            "sharp",
+            "quick",
+            "explosive",
+            "noise",
+            "cork",
+            "bottle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The paper bag burst with a loud pop.",
+              "world_new": [
+                "paper",
+                "bag",
+                "burst",
+                "loud"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ uống có ga",
+          "definition": "fizzy drink",
+          "world_new": [
+            "fizzy",
+            "drink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of pop.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nổ",
+          "definition": "to (cause to) make a pop",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He popped the balloon",
+              "world_new": [
+                "balloon"
+              ]
+            },
+            {
+              "ex_of_definition": "My balloon has popped.",
+              "world_new": [
+                "balloon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hấp háy",
+          "definition": "to spring upwards or outwards",
+          "world_new": [
+            "spring",
+            "outwards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His eyes nearly popped out of his head in amazement.",
+              "world_new": [
+                "nearly",
+                "head",
+                "amazement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ù đi",
+          "definition": "to go quickly and briefly somewhere",
+          "world_new": [
+            "quickly",
+            "briefly",
+            "somewhere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He popped out to buy a newspaper.",
+              "world_new": [
+                "buy",
+                "newspaper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cất nhanh",
+          "definition": "put quickly",
+          "world_new": [
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He popped the letter into his pocket.",
+              "world_new": [
+                "letter",
+                "pocket"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhạc pop",
+          "definition": "(of music) written, played adj in a modern style.",
+          "world_new": [
+            "modern",
+            "style"
+          ]
+        },
+        {
+          "mean_english": "thuộc nhạc pop",
+          "definition": "of, or related to, pop music",
+          "world_new": [
+            "related",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pop group",
+              "world_new": [
+                "group"
+              ]
+            },
+            {
+              "ex_of_definition": "a pop singer",
+              "world_new": [
+                "singer"
+              ]
+            },
+            {
+              "ex_of_definition": "pop records."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If young women like commercial pop music they must do so for purely physical reasons; the mind can play no part.",
+    "When a stack frame is popped, the frame pointer must be set back to the caller's frame.",
+    "What was this pop music that the younger generation was rejecting as artificial?",
+    "Two reasons, time after time, pop up to explain this trend.",
+    "Frames are popped by putting them back on a free list.",
+    "Their 'individual biographies, valued friendship networks, and the institutions they traverse' (p. 36), the book demonstrates, all play determining roles in their responses to pop-culture.",
+    "Since when has pop music taken hold of these technological means?",
+    "The stack is then popped so that the open space referred to becomes the active focus space again."
+  ],
+  "list_see_also": [
+    "popcorn",
+    "pop-gun",
+    "pop up"
+  ],
+  "list_browse": [
+    "pool",
+    "poor",
+    "poorly",
+    "poorness",
+    "pop",
+    "pop up",
+    "pop-gun",
+    "popcorn",
+    "pope"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690994_1458344c86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690994_c753ec1f74_o.png",
+      "id_image": "pop_1910806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072655_aecb824f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072655_17b3959c2d_o.png",
+      "id_image": "pop_2488418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691049_07aa0836d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691049_2451741549_o.png",
+      "id_image": "pop_837202"
+    }
+  ]
+}

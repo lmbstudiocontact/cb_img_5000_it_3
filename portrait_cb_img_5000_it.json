@@ -1,0 +1,86 @@
+{
+  "english": "portrait",
+  "phat_am": "ˈpoːtrət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bức chân dung",
+          "definition": "a drawing, painting, photograph etc of a person",
+          "world_new": [
+            "drawing",
+            "painting",
+            "photograph",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had her portrait painted by a famous artist.",
+              "world_new": [
+                "famous",
+                "artist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự miêu tả sinh động",
+          "definition": "a written description of a person, place etc",
+          "world_new": [
+            "description",
+            "person",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a book called ‘A Portrait of London’.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At that time no one would have objected to his uniting individual portraits on one canvas.",
+    "We call it an organizing center, since in an arbitrary neighborhood of this point one can find all equivalence types of phase portraits.",
+    "Second, by offering detailed portraits of individual retirements, he aims to supplement the findings of retirement surveys for an academic audience.",
+    "There has been no penetration of the portrait's subject, of her physical person or her character.",
+    "Open regions on the sphere correspond to generic phase portraits.",
+    "By contrast, the representation of ' accelerated ageing ' in 15th century portraits was not matched by a high frequency of bags under the eyes.",
+    "The phase portraits of (3) are shown on the four-fold cover.",
+    "Such idiosyncratic and divergent portraits of community are the backdrop to this study."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "porthole",
+    "portico",
+    "portion",
+    "portion out",
+    "portrait",
+    "portray",
+    "portrayal",
+    "pose",
+    "posh"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379387_89ea6a6bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379387_8a59b7a25c_o.png",
+      "id_image": "portrait_1193515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379337_137fba95b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379337_ac0b405757_o.png",
+      "id_image": "portrait_1256407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071480_8c51180807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071480_e39d259e39_o.png",
+      "id_image": "portrait_807838"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "english": "pawn",
+  "phat_am": "poːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đem cầm đồ",
+          "definition": "to give (an article of value) to a pawnbroker in exchange for money (which may be repaid at a later time to get the article back)",
+          "world_new": [
+            "article",
+            "pawnbroker",
+            "exchange",
+            "money",
+            "time",
+            "article"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had to pawn my watch to pay the bill.",
+              "world_new": [
+                "I",
+                "my",
+                "watch",
+                "pay",
+                "bill"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con tốt",
+          "definition": "in chess, one of the small pieces of lowest rank",
+          "world_new": [
+            "chess",
+            "small",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She decided to move one of her pawns forward.",
+              "world_new": [
+                "move",
+                "forward"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quân tốt",
+          "definition": "a person who is used by another person for his own gain, advantage etc",
+          "world_new": [
+            "person",
+            "person",
+            "gain",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was a pawn in his ambitious plans.",
+              "world_new": [
+                "ambitious"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Frequent transfers to excess culture medium in depression slides prevented the induction of autogamy in d4-662, and were effective in maintaining the pawn phenotype.",
+    "Cells which showed only whirling or backward swimming for less than 3 s, were judged to be exhibiting the pawn phenotype.",
+    "Instead, she would experience herself as a pawn.",
+    "Theodore does not emerge from this as a powerful man, indeed he is very much everybody else's pawn.",
+    "Unless we do, we must remain in pawn.",
+    "The pawn could not be redeemed except by a third party.",
+    "Clones with wild-type and pawn phenotypes are indicated by white and black ovals, respectively.",
+    "The following six rights are considered: the right to plant or replant trees, rent out, pawn, bequeath, give, and sell."
+  ],
+  "list_see_also": [
+    "pawnbroker",
+    "pawnshop",
+    "in pawn"
+  ],
+  "list_browse": [
+    "pavement",
+    "pavilion",
+    "paving stone",
+    "paw",
+    "pawn",
+    "pawnbroker",
+    "pawnshop",
+    "pay",
+    "pay back"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063370_5399b6bac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063370_eb325f896e_o.png",
+      "id_image": "pawn_1141811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681504_d083be2aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681504_2325efb157_o.png",
+      "id_image": "pawn_3490275"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "english": "oil",
+  "phat_am": "oil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dầu",
+          "definition": "a usually thick liquid that will not mix with water, obtained from plants, animals and minerals",
+          "world_new": [
+            "thick",
+            "liquid",
+            "mix",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "olive oil",
+              "world_new": [
+                "olive"
+              ]
+            },
+            {
+              "ex_of_definition": "vegetable oil",
+              "world_new": [
+                "vegetable"
+              ]
+            },
+            {
+              "ex_of_definition": "cooking oil",
+              "world_new": [
+                "cooking"
+              ]
+            },
+            {
+              "ex_of_definition": "He put some oil on the hinges of the door",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "The car’s engine is in need of oil.",
+              "world_new": [
+                "engine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tra dầu",
+          "definition": "to put oil on or into",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The machine will work better if it’s oiled.",
+              "world_new": [
+                "machine",
+                "work",
+                "better"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Afterwards, the women put the sardines into the cans, adding olive oil or another preservative.",
+    "With steadily increasing demand for palm oil, the authors suggest that a major opportunity exists for environmentally and socially sustainable expansion of smallholder production.",
+    "They were then placed in a drop of this medium on a depression slide and covered with paraffin oil.",
+    "Oil companies have visited these localities but their collecting was more in the nature of spot-checks.",
+    "Alternative specifications, such as including exploration costs into our model or different assumptions about future world oil prices, could alter our results.",
+    "In the sugar fields, oxen replaced tractors in hauling cane to the mills, and bagasse was used as fuel to conserve oil.",
+    "This also happened in the late 1970s when construction of the natural gas network was delegated to the state-owned oil and gas utility.",
+    "In the situation where oil palm is an option, following logging, the returns per hectare of forest converted are much superior to subsidized eco-forestry."
+  ],
+  "list_see_also": [
+    "oils",
+    "oily",
+    "oilfield",
+    "oil paint",
+    "oil painting",
+    "oil palm",
+    "oil rig",
+    "oil tanker",
+    "oil well",
+    "strike oil"
+  ],
+  "list_browse": [
+    "often",
+    "ogre",
+    "oh",
+    "ohm",
+    "oil",
+    "oil paint",
+    "oil painting",
+    "oil palm",
+    "oil rig"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462538_07dcb593e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462538_3eca45d1ac_o.png",
+      "id_image": "oil_246924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085055_c15fcc176c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085055_4667a75ab5_o.png",
+      "id_image": "oil_662854"
+    }
+  ]
+}

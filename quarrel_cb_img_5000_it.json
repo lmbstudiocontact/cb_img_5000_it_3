@@ -1,0 +1,95 @@
+{
+  "english": "quarrel",
+  "phat_am": "ˈkworəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cãi nhau",
+          "definition": "an angry disagreement or argument",
+          "world_new": [
+            "angry",
+            "disagreement",
+            "argument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve had a quarrel with my girlfriend.",
+              "world_new": [
+                "my",
+                "girlfriend"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cãi nhau",
+          "definition": "to have an angry argument (with someone)",
+          "world_new": [
+            "angry",
+            "argument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve quarrelled with my girlfriend",
+              "world_new": [
+                "my",
+                "girlfriend"
+              ]
+            },
+            {
+              "ex_of_definition": "My girlfriend and I have quarrelled.",
+              "world_new": [
+                "girlfriend",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They have no quarrels with the policy as such.",
+    "Neighbours conversed across the street and quarrelled noisily.",
+    "Far be it from me to wish to see two elder statesmen quarrelling in this way.",
+    "The quarrels between them can be settled by a little common sense and consideration on both sides.",
+    "Nevertheless, despite continuing inheritance quarrels, a parliamentary social democracy does appear to be taking shape.",
+    "Indeed, this array of motives was quite as important as the more obvious causes of quarrels : royal, religious or fiscal policies.",
+    "Too often, while there are quarrels within our industries, out competitors jump in and run off with the orders.",
+    "They saw that it would be utterly absurd for them to carry on their quarrels."
+  ],
+  "list_see_also": [
+    "quarrelsome",
+    "quarrelsomeness"
+  ],
+  "list_browse": [
+    "quantity",
+    "quantity surveyor",
+    "quantum",
+    "quarantine",
+    "quarrel",
+    "quarrelsome",
+    "quarrelsomeness",
+    "quarry",
+    "quart"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344836_a7e0fdc328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344836_21b71c7750_o.png",
+      "id_image": "quarrel_3220652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389702_2a4163d29a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389702_d856f10917_o.png",
+      "id_image": "quarrel_4763127"
+    }
+  ]
+}

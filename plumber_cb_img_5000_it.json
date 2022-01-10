@@ -1,0 +1,72 @@
+{
+  "english": "plumber",
+  "phat_am": "ˈplamə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ ống nước",
+          "definition": "a person who fits and mends domestic water, gas and sewage pipes",
+          "world_new": [
+            "person",
+            "domestic",
+            "water",
+            "gas",
+            "sewage",
+            "pipes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Send for a plumber – we have a leaking pipe.",
+              "world_new": [
+                "pipe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Over the next few minutes, cleaning personnel, waiters with trays of food, a manicurist, a plumber, and others enter the cabin.",
+    "This dip did not, however, remove plumbers from the top echelon of wage-earners.",
+    "The first is more like 'craftsmanship' - carpenters, plumbers, etc., are handverkare.",
+    "For instance, the concept of water is viewed dierently by a thirsty person, a plumber, a chemist, and a painter.",
+    "Occupational classifications do not differentiate between plumbers and gas fitters—they are grouped together within the classification for plumbers, heating and ventilating engineers.",
+    "For carters and plumbers, as for lawyers, annual stipends are best regarded as retaining fees to ensure adequate service when it was required.",
+    "Electricians, plumbers and steam engineers pursue their respective trades under license.",
+    "Whilst an operations manual is used as a reference, the main source of operational information is transferred informally between plumbers at season hand-over."
+  ],
+  "list_see_also": [
+    "plumbing"
+  ],
+  "list_browse": [
+    "plughole",
+    "plum",
+    "plum cake",
+    "plumage",
+    "plumber",
+    "plumbing",
+    "plume",
+    "plummet",
+    "plump"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384662_55d50b4865_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384662_9b6cf592e7_o.png",
+      "id_image": "plumber_1983399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694989_61e07d08e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694989_a0c059563f_o.png",
+      "id_image": "plumber_307924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454648_96f6f514f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454648_b4cddfa177_o.png",
+      "id_image": "plumber_4457516"
+    }
+  ]
+}

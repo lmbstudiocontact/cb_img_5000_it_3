@@ -1,0 +1,114 @@
+{
+  "english": "retail",
+  "phat_am": "ˈriːteil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bán lẻ",
+          "definition": "to sell (goods) (usually in small quantities) to the person who is going to use them (rather than to someone who is going to sell them to someone else)",
+          "world_new": [
+            "sell",
+            "small",
+            "person",
+            "sell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That particular guitar retails at £750.",
+              "world_new": [
+                "particular",
+                "guitar"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc bán lẻ",
+          "definition": "relating to the sale of goods in this way",
+          "world_new": [
+            "sale",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a retail price.",
+              "world_new": [
+                "price"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngành bán lẻ",
+          "definition": "the activity of selling goods to customers for their own use",
+          "world_new": [
+            "activity",
+            "goods",
+            "their"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She works in retail.",
+              "world_new": [
+                "works"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The orthokinetic chair retails in this country at about £400 depending on the accessories required.",
+    "There are many factories which supply shops in which goods are retailed.",
+    "I have asked how many licences have been withdrawn from licensed premises because they were retailing smuggled and bootlegged goods.",
+    "The only instance where it need not be graded is where a farmer sells direct to the shop from which it will then be retailed.",
+    "Who is it to be sold to and at what price is it to be retailed?",
+    "There may be a case for examining car pricing and the way in which cars are retailed in this country.",
+    "In the main, he simply retails programme services which are provided by others.",
+    "We also welcome the measures on wine, but the retails are a little less certain than they were."
+  ],
+  "list_see_also": [
+    "retailer"
+  ],
+  "list_browse": [
+    "resumption",
+    "resurrection",
+    "resuscitate",
+    "resuscitation",
+    "retail",
+    "retailer",
+    "retain",
+    "retake",
+    "retaliate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349616_e6a08cf707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349616_69df9c29b0_o.png",
+      "id_image": "retail_1353752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704269_090367bc2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704269_f7e3d3e370_o.png",
+      "id_image": "retail_2037284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464268_cfeb84805b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464268_2075c8af6c_o.png",
+      "id_image": "retail_6206766"
+    }
+  ]
+}

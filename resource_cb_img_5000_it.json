@@ -1,0 +1,121 @@
+{
+  "english": "resource",
+  "phat_am": "rəˈzoːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giúp đỡ",
+          "definition": "something that gives help, support etc when needed; a supply; a means",
+          "world_new": [
+            "help",
+            "support",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have used up all our resources",
+              "world_new": [
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "We haven’t the resources at this school for teaching handicapped children.",
+              "world_new": [
+                "school",
+                "teaching",
+                "handicapped"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tài nguyên",
+          "definition": "the wealth of a country, or the supply of materials etc which bring this wealth",
+          "world_new": [
+            "wealth",
+            "country",
+            "supply",
+            "bring",
+            "wealth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This country is rich in natural resources.",
+              "world_new": [
+                "country",
+                "rich",
+                "natural"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tài tháo vát",
+          "definition": "the ability to find ways of solving difficulties",
+          "world_new": [
+            "ability",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is full of resource.",
+              "world_new": [
+                "full"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All reviewers are able to draw on this resource.",
+    "The most serious threat to these peoples is represented by the commercial development of strategically important reserves of mineral resources.",
+    "After an introductory chapter, they survey the concept in a concise, general and convincing way, which could readily be transferred to almost any natural resource.",
+    "The manager resource relies on the fact that the subject of the control verb has been identified as the control target's antecedent.",
+    "This restructuring provides the opportunity, as yet not fully achieved, of transferring resources between components of the healthcare system.",
+    "Furthermore, the effectiveness of a local campaign is not just a matter of local parties being rich in resources.",
+    "The primary sector (agriculture, fisheries, forestry, and mining) tends to be more resource-intensive than either the secondary (industry) or tertiary (services) sectors.",
+    "In these analyses, we found that certain donor characteristics and patient diagnoses were associated with substantially greater resource use."
+  ],
+  "list_see_also": [
+    "resourceful",
+    "resourcefully",
+    "resourcefulness"
+  ],
+  "list_browse": [
+    "resort",
+    "resound",
+    "resounding",
+    "resoundingly",
+    "resource",
+    "resourceful",
+    "resourcefully",
+    "resourcefulness",
+    "respect"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088440_0fb98b4aab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088440_e361ffc462_o.png",
+      "id_image": "resource_1924429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705754_2f69554970_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705754_bbb69b5964_o.png",
+      "id_image": "resource_4001264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395912_a86877cdf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395912_b0ebc443bf_o.png",
+      "id_image": "resource_4127088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351226_bda17d3fb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351226_724a40a680_o.png",
+      "id_image": "resource_5661470"
+    }
+  ]
+}

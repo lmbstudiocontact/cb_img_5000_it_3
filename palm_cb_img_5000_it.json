@@ -1,0 +1,101 @@
+{
+  "english": "palm",
+  "phat_am": "paːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lòng bàn tay",
+          "definition": "the inner surface of the hand between the wrist and the fingers",
+          "world_new": [
+            "inner",
+            "surface",
+            "hand",
+            "wrist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She held the mouse in the palm of her hand.",
+              "world_new": [
+                "mouse",
+                "hand"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây cọ",
+          "definition": "(also palm tree) a kind of tall tree, with broad, spreading leaves, which grows in hot countries",
+          "world_new": [
+            "kind",
+            "tall",
+            "tree",
+            "broad",
+            "hot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a coconut palm.",
+              "world_new": [
+                "coconut"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After the attack, trees could be dominated by the understorey trees and palms which constitute a physical obstacle.",
+    "The palms were planted between 1987 and 1991 at a density of 180 palms ha - 1 (8 m apart in a staggered, equilateral triangle design).",
+    "The palms were planted at 9 m apart in a triangular pattern with 143 palms per ha.",
+    "Less than 5% of the plots measured had no leaf litter a nd, o f t hose plots, o nly t wo were under palms.",
+    "In these two areas we searched for palms and other plants with large leaves that were modified into tents.",
+    "The understorey is relatively open and is dominated by stemless palms.",
+    "Cutaneous lupus erythematosus in pregnancy with vasculitis showing purpuric papules on the palms of the hands.",
+    "He shows me the calluses on his palms."
+  ],
+  "list_see_also": [
+    "palm (something) off on (someone)",
+    "palmtop"
+  ],
+  "list_browse": [
+    "pall",
+    "pallid",
+    "pallor",
+    "pally",
+    "palm",
+    "palm (something) off on (someone)",
+    "palmtop",
+    "palpitate",
+    "palpitations"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072795_500b969cd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072795_99533af9a0_o.png",
+      "id_image": "palm_209232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691034_b0c19c0409_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691034_d78a4a7505_o.png",
+      "id_image": "palm_2287892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380837_205af20d0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380837_a54479da43_o.png",
+      "id_image": "palm_3332698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072750_d3372bb4f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072750_5ca930de2e_o.png",
+      "id_image": "palm_882888"
+    }
+  ]
+}

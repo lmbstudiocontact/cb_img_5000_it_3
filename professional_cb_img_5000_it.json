@@ -1,0 +1,127 @@
+{
+  "english": "professional",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về nghề",
+          "definition": "of a profession",
+          "world_new": [
+            "profession"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "professional skill.",
+              "world_new": [
+                "skill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyên nghiệp",
+          "definition": "of a very high standard",
+          "world_new": [
+            "standard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a very professional performance.",
+              "world_new": [
+                "performance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyên nghiệp",
+          "definition": "earning money by performing, or giving instruction, in a sport or other activity that is a pastime for other people; not amateur",
+          "world_new": [
+            "money",
+            "instruction",
+            "sport",
+            "activity",
+            "pastime",
+            "amateur"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a professional musician/golfer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyên nghiệp",
+          "definition": "(abbreviation proprou) a person who is professional",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a golf professional/pro.",
+              "world_new": [
+                "golf"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Assessment results need to be \"marketed\" to both professionals and the public.",
+    "In shared decision-making, patients and health professionals share both the process of decisionmaking and ownership of the decision made.",
+    "Several topics in technology assessment are addressed, such as the effectiveness of communication styles of health professionals and different types of interprofessional cooperation.",
+    "By understanding the problem, working together, and using simple practical measures, health professionals can produce improvements in patient care.",
+    "Strategies for interventions must be sensitive to the possibility that many health professionals may have had personal experiences of domestic violence.",
+    "Perception of wellness is increased for the patient, family and professionals when there is less-reliance on medical technology.",
+    "The group that expressed most interest in having a caesarean section in the absence of any medical indication were the nulliparous health professionals.",
+    "A general lack of incentives characterizes the situation of public health professionals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "productivity",
+    "Prof.",
+    "profess",
+    "profession",
+    "professional",
+    "professionally",
+    "professor",
+    "professorial",
+    "professorship"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436763_fd85ba4da3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436763_fb0614f78a_o.png",
+      "id_image": "professional_1425426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321531_669ee2a0db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321531_80a7b499c9_o.png",
+      "id_image": "professional_1900272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436678_2c6250a148_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436678_81d3bd09e2_o.png",
+      "id_image": "professional_2767735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676514_55304829fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676514_35df329cbe_o.png",
+      "id_image": "professional_3098048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676504_2e8246e8ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676504_784e6e958e_o.png",
+      "id_image": "professional_4832775"
+    }
+  ]
+}

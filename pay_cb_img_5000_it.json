@@ -1,0 +1,173 @@
+{
+  "english": "pay",
+  "phat_am": "pei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trả tiền",
+          "definition": "to give (money) to (someone) in exchange for goods, services etc",
+          "world_new": [
+            "exchange",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He paid $5 for the book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trả nợ",
+          "definition": "to return (money that is owed)",
+          "world_new": [
+            "return"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s time you paid your debts.",
+              "world_new": [
+                "time",
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trả giá",
+          "definition": "to suffer punishment (for)",
+          "world_new": [
+            "suffer",
+            "punishment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ll pay for that remark!",
+              "world_new": [
+                "remark"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có ích",
+          "definition": "to be useful or profitable (to)",
+          "world_new": [
+            "useful",
+            "profitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Crime doesn’t pay."
+            }
+          ]
+        },
+        {
+          "mean_english": "chú ý; kính trọng",
+          "definition": "to give (attention, homage, respect etc)",
+          "world_new": [
+            "homage",
+            "respect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Pay attention!",
+              "world_new": [
+                "attention"
+              ]
+            },
+            {
+              "ex_of_definition": "We came here to pay our respects to the people who died.",
+              "world_new": [
+                "our",
+                "respects",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền lương",
+          "definition": "money given or received for work etc; wages",
+          "world_new": [
+            "money",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How much pay do you get?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They found that, overall, listeners of these languages paid less attention to stress than to intrasentential cues in deciding agent - patient relations.",
+    "This shows that data mining must pay close attention to computational efficiency and simple models are often preferred.",
+    "In particular, it is wedded to an historical perspective, in which attention is paid to specific sequences and contexts.",
+    "The indennita is paid to persons needing care, not to those who provide it.",
+    "Have consumers pay the difference for costlier plans, if they think they provide better value.",
+    "Households with prior knowledge better understand the benefits and are thus willing to pay more.",
+    "It holds that it is never permitted to pay for an object x, if x could have been obtained for free.",
+    "The remaining parties agreed to pay their own costs."
+  ],
+  "list_see_also": [
+    "payable",
+    "payee",
+    "payer",
+    "payment",
+    "pay cheque",
+    "payday",
+    "payout",
+    "pay packet",
+    "pay phone",
+    "payroll",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "paw",
+    "pawn",
+    "pawnbroker",
+    "pawnshop",
+    "pay",
+    "pay back",
+    "pay cheque",
+    "pay heed to",
+    "pay lip service to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063255_618045d093_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063255_7cca1c5e6e_o.png",
+      "id_image": "pay_4564993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371082_e8ea976f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371082_758839aa30_o.png",
+      "id_image": "pay_5849399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371032_927bb8fa90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371032_f9f95ffb98_o.png",
+      "id_image": "pay_6192511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063075_0d9affa0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063075_ea76d55e5b_o.png",
+      "id_image": "pay_6272570"
+    }
+  ]
+}

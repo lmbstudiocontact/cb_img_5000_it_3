@@ -1,0 +1,68 @@
+{
+  "english": "palace",
+  "phat_am": "ˈpӕləs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cung điện",
+          "definition": "a large and magnificent house, especially one lived in by a king or queen",
+          "world_new": [
+            "large",
+            "magnificent",
+            "house",
+            "king",
+            "queen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Buckingham Palace."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other non-epicentral interments and later on-floor deposits in palaces contain slightly heavier and larger spindle whorls that may have been used to spin a wider variety of vegetable fibers.",
+    "In this situation, at least one of the rhymes for palaces must be an off-rhyme.",
+    "At the same time, the prelates strove to create palaces that might vie with the finest residences.",
+    "Like many before and after him, he used the architectural structure and the interior decoration of his palaces to demonstrate and buttress the existing hierarchical order.",
+    "However, it is also possible that apprentices or attached specialists worked in and around the palaces of the king's family on valuable raw materials and in creating high-status goods.",
+    "Only 11 can properly be described as palaces.",
+    "We do not want palaces; we want reasonably good buildings, and the present ones could be improved.",
+    "The concerts take place in the palaces of the princely residence and other historic venues in the region."
+  ],
+  "list_see_also": [
+    "palatial"
+  ],
+  "list_browse": [
+    "painting",
+    "paintwork",
+    "pair",
+    "pal",
+    "palace",
+    "palaeontologist",
+    "palaeontology",
+    "palate",
+    "palatial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335951_c24333974d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335951_1462410805_o.png",
+      "id_image": "palace_1065521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335921_b7cf7607ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335921_22029c4bf0_o.png",
+      "id_image": "palace_2572020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335881_65e20b7a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335881_91ea9342ae_o.png",
+      "id_image": "palace_4209592"
+    }
+  ]
+}

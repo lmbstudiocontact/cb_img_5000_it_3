@@ -1,0 +1,102 @@
+{
+  "english": "perspective",
+  "phat_am": "pəˈspektiv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình phối cảnh",
+          "definition": "the way of drawing solid objects, natural scenes etc on a flat surface, so that they appear to have the correct shape, distance from each other etc",
+          "world_new": [
+            "drawing",
+            "solid",
+            "natural",
+            "flat",
+            "surface",
+            "appear",
+            "correct",
+            "shape",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Early medieval paintings lacked perspective.",
+              "world_new": [
+                "medieval"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái nhìn",
+          "definition": "a picture or view of something",
+          "world_new": [
+            "picture",
+            "view"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I would like a clearer perspective of the situation.",
+              "world_new": [
+                "I",
+                "situation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I entirely agree, but only because this is a true story told from a first-person perspective, which does not, unfortunately, escape epiphenomenalism.",
+    "As a result, our ability to make sense of women's lives and experiences in the late 20th century suffered from a lack of historical perspective.",
+    "Looking at the symbols in question from this perspective, it becomes conceivable that they represent various things.",
+    "The ecology of hostfinding behavior and parasite transmission : past and future perspectives.",
+    "Therefore, with this easier criterion, the sequence from visual perspective taking to pronoun acquisition was reversed, contradicting our first two hypotheses.",
+    "This view of marriage has been explored through political, legal, demographic, and more recently symbolic perspectives.",
+    "From even that short perspective, several things about bop had become clearer.",
+    "Attempting to write a global geographical perspective on organic agriculture is a major challenge."
+  ],
+  "list_see_also": [
+    "in / out of perspective"
+  ],
+  "list_browse": [
+    "personalize",
+    "personalized",
+    "personally",
+    "personnel",
+    "perspective",
+    "perspiration",
+    "perspire",
+    "persuade",
+    "persuasion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675149_80b3ff9531_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675149_c3fbf13cd6_o.png",
+      "id_image": "perspective_1589434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435308_94b3179074_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435308_7688d1038f_o.png",
+      "id_image": "perspective_2209882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364987_edd599c893_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364987_c84b5b3b87_o.png",
+      "id_image": "perspective_2254984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364977_177c0e260c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364977_7b3bc2e9a3_o.png",
+      "id_image": "perspective_2547587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435323_eb7565c24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435323_f6ecb5aa2c_o.png",
+      "id_image": "perspective_992637"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "plum",
+  "phat_am": "plam",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả mận",
+          "definition": "a type of fruit, usually dark-red or purple, with a stone in the centre",
+          "world_new": [
+            "type",
+            "fruit",
+            "purple",
+            "stone",
+            "centre"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are those plums ripe enough to eat?",
+              "world_new": [
+                "ripe",
+                "eat"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a plum tree.",
+              "world_new": [
+                "tree"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Separate particulars of imports of plums are not recorded.",
+    "I have also looked after hens, picked small fruit, and picked and sorted pears, apples and plums.",
+    "As we know, there were so many plums two or three years ago that they were not worth picking up.",
+    "My noble friend will see, from the terms of my answer, that this does not apply in the same way to plums.",
+    "He said there would be a wastage of plums.",
+    "We offer far too few plums in this country nowadays.",
+    "Total sales of home-grown plums last season are estimated at 140,000 tons.",
+    "They are picking the plums out of the cake."
+  ],
+  "list_see_also": [
+    "plum cake"
+  ],
+  "list_browse": [
+    "plucky",
+    "plug",
+    "plug in",
+    "plughole",
+    "plum",
+    "plum cake",
+    "plumage",
+    "plumber",
+    "plumbing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695159_ebde6e93c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695159_18626501f2_o.png",
+      "id_image": "plum_1135500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384792_92894c629e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384792_23b3b85500_o.png",
+      "id_image": "plum_2358295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339881_7402211e3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339881_5f339d33ba_o.png",
+      "id_image": "plum_3800523"
+    }
+  ]
+}

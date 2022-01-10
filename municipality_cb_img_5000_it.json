@@ -1,0 +1,74 @@
+{
+  "english": "municipality",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thành phố tự trị",
+          "definition": "a town, city, or other district that has its own government",
+          "world_new": [
+            "town",
+            "city",
+            "district",
+            "its",
+            "government"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Municipality of Red Lake is the most northwesterly municipality in Ontario."
+            }
+          ]
+        },
+        {
+          "mean_english": "chính quyền thành phố tự trị",
+          "definition": "the group of people who govern a municipality",
+          "world_new": [
+            "group",
+            "people",
+            "govern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The first meeting of the newly elected municipality.",
+              "world_new": [
+                "meeting",
+                "newly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other examples come from the municipalities that are assuming more responsibility for prevention, health promotion, and rehabilitation.",
+    "One might expect that also the political colouring of municipalities matters for their actual willingness to provide social services.",
+    "Our hypothesis holds that political developments within a municipality's neighbours may affect subsequent events in the municipality.",
+    "We are thus left with 275 time-consistent municipalities.",
+    "It is intended that municipalities foster competition and lower prices through open tenders for the service contracts.",
+    "Rather than provide subsidized full-service housing, the municipality permits settlers to lease or purchase unused municipal land.",
+    "Today the state machinery is but one actor among many others, such as regional councils and urban municipalities.",
+    "Opposition parties won six of these 121 elections in 1988, which leaves 115 municipalities at risk in 1992."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mummy",
+    "mumps",
+    "munch",
+    "municipal",
+    "municipality",
+    "municipally",
+    "munitions",
+    "mural",
+    "murder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068435_44b371732d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068435_cde33025fb_o.png",
+      "id_image": "municipality_4430746"
+    }
+  ]
+}

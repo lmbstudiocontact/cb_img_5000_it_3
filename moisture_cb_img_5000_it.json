@@ -1,0 +1,61 @@
+{
+  "english": "moisture",
+  "phat_am": "ˈmoistʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "độ ẩm",
+          "definition": "(the quality of) dampness",
+          "world_new": [
+            "quality",
+            "dampness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This soil needs moisture.",
+              "world_new": [
+                "soil"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They further suggest a modified relationship for the log of the mean viability period as a function of storage temperature and moisture content.",
+    "Seed stored in poor storage materials will absorb moisture from the storage environment and will reach equilibrium with the ambient environment.",
+    "The actual moisture content of samples of waste was measured using standard laborator y conditions.",
+    "These differences may render canopy moisture storage of the humid evergreen broad-leaved forest lower than that of montane rain forests.",
+    "A 'moisture audit' will help seed bank operators make informed decisions about packaging.",
+    "The dry nitrogen evaporating from the dewar is also used to flush the case, thus avoiding moisture condensation effects on the optics.",
+    "However, the temperature and moisture requirements for loss of viability during solarization are less clear.",
+    "Thus, some environmental differences, such as fungal attack or soil moisture, do not seem to influence this process of seed viability loss."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "moist",
+    "moisten",
+    "moistly",
+    "moistness",
+    "moisture",
+    "moisturize",
+    "moisturizer",
+    "molar",
+    "molasses"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383517_31677a0abe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383517_7dfc2032b3_o.png",
+      "id_image": "moisture_4646980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383482_8d852a4cbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383482_ba8f1d25a2_o.png",
+      "id_image": "moisture_5830611"
+    }
+  ]
+}

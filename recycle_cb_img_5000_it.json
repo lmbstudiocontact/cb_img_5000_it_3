@@ -1,0 +1,69 @@
+{
+  "english": "recycle",
+  "phat_am": "riːˈsaikl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tái chế",
+          "definition": "to put (a used substance) through a particular process so that it is fit to use again",
+          "world_new": [
+            "particular",
+            "process",
+            "fit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I try to recycle as much household rubbish as possible.",
+              "world_new": [
+                "I",
+                "try",
+                "household",
+                "rubbish",
+                "possible"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other electrons are recycled and their momentums depend on their recycling times.",
+    "To answer this question it is important to clearly understand the different features of recycling.",
+    "Otherwise, the component goes to the recycling process if it is recyclable and, if not, it is just dumped.",
+    "The front of the list is thus available for recycling by the garbage collector.",
+    "Note that we are recycling notation in this section of the paper.",
+    "We should also explore the possibility of recycling products made with latex.",
+    "Larval beetles form a defense from recycled host plant c hemicals discharged as fecal wastes.",
+    "Neutral particles in periphery plasmas play a crucial role on plasma transport and recycling phenomena in hightemperature plasmas."
+  ],
+  "list_see_also": [
+    "recyclable",
+    "recycling"
+  ],
+  "list_browse": [
+    "recur",
+    "recurrence",
+    "recurrent",
+    "recyclable",
+    "recycle",
+    "recycling",
+    "red",
+    "red blood cell",
+    "red carpet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688619_fb1c799b70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688619_d235f0203e_o.png",
+      "id_image": "recycle_147432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688579_42a018bf83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688579_67fd2f37d3_o.png",
+      "id_image": "recycle_2385459"
+    }
+  ]
+}

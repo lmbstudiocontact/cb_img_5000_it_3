@@ -1,0 +1,68 @@
+{
+  "english": "nutrition",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự dinh dưỡng; khoa dinh dưỡng",
+          "definition": "(the act of giving or getting) nourishment, or the scientific study of this",
+          "world_new": [
+            "act",
+            "nourishment",
+            "scientific",
+            "study"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Eggs are a source of nutrition.",
+              "world_new": [
+                "source"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Elaboration of this link has been one of the most compelling achievements at the interface of anthropology, economics, and nutrition science.",
+    "Once enteral feedings are successfully begun, the risks associated with prolonged total parenteral nutrition will be reduced.",
+    "L-methionine is well recognized as an essential amino acid in the nutrition of many animal species.",
+    "A chapter on seed production precedes sections on growing the crop, from soil tillage and establishment, through nutrition, irrigation and crop protection.",
+    "Consensual evidence from over half a century of worldwide research provides the basis: in nutrition, physical activity, housing (a home), psychosocial relations and social inclusion.",
+    "In turn, fewer human and financial resources will have remained for their own caregiving, health care and nutrition needs.",
+    "In ruminant nutrition, ruminal microbes contribute considerably to the protein supply of the animal.",
+    "In fact, the nutrition might even be insufficient."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nutcracker",
+    "nutmeg",
+    "nutrient",
+    "nutriment",
+    "nutrition",
+    "nutritional",
+    "nutritionist",
+    "nutritious",
+    "nutshell"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674329_7d581e6c81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674329_cf91cfc1e2_o.png",
+      "id_image": "nutrition_2317045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364112_ef9156604a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364112_02dd333495_o.png",
+      "id_image": "nutrition_6258941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364142_2b813878c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364142_0c319083b3_o.png",
+      "id_image": "nutrition_757012"
+    }
+  ]
+}

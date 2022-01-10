@@ -1,0 +1,129 @@
+{
+  "english": "proud",
+  "phat_am": "praud",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tự hào",
+          "definition": "feeling pleasure or satisfaction at one’s achievements, possessions, connections etc",
+          "world_new": [
+            "feeling",
+            "pleasure",
+            "satisfaction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was proud of his new house",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "She was proud of her son’s achievements"
+            },
+            {
+              "ex_of_definition": "He was proud to play football for the school.",
+              "world_new": [
+                "play",
+                "football",
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiêu căng",
+          "definition": "having a (too) high opinion of oneself; arrogant",
+          "world_new": [
+            "opinion",
+            "arrogant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was too proud to talk to us.",
+              "world_new": [
+                "talk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tự đắc",
+          "definition": "wishing to be independent",
+          "world_new": [
+            "independent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was too proud to accept help.",
+              "world_new": [
+                "accept",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "huy hoàng",
+          "definition": "splendid or impressive",
+          "world_new": [
+            "splendid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The assembled fleet was a proud sight.",
+              "world_new": [
+                "fleet",
+                "sight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He is extremely proud of the fact that his school boasts the only computer lab of all local primary schools.",
+    "Many respondents were proud of having achieved something.",
+    "The common law's ability to develop in this way is its proudest boast.",
+    "He produced a number of straightforward taxidermy specimens and was proud of their naturalistic appearance.",
+    "In this sense, the optimistic discourse of the whole field of neuroscience is interpreted, by its contradictors, as a proud prophetism.",
+    "With her proud stance and broad wings, she is the formal and ideological inverse of the sphinx.",
+    "The designer must have been justifiably proud of it.",
+    "There were also language associations, and proud speakers of particular languages, but rarely did these people hold politically influential positions."
+  ],
+  "list_see_also": [
+    "proudly",
+    "do (someone) proud"
+  ],
+  "list_browse": [
+    "protoplasm",
+    "prototype",
+    "protractor",
+    "protrude",
+    "proud",
+    "proudly",
+    "prove",
+    "proven",
+    "proverb"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464223_2d9ef4007d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464223_8be510c3ac_o.png",
+      "id_image": "proud_4138796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394267_0b4a3b2779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394267_feb1a07231_o.png",
+      "id_image": "proud_5020503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086670_2d551dddbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086670_b882f10073_o.png",
+      "id_image": "proud_5970973"
+    }
+  ]
+}

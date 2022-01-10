@@ -1,0 +1,70 @@
+{
+  "english": "motherboard",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bo mạch chủ",
+          "definition": "the main circuit board in a computer or other device",
+          "world_new": [
+            "main",
+            "circuit",
+            "board",
+            "computer",
+            "device"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Instructions on how to disassemble the computer and replace the motherboard should be in the Hardware Maintenance Manual.",
+              "world_new": [
+                "computer",
+                "replace"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, after the selection of the motherboard alone the working-memory resource shows a deficit.",
+    "Usually disk drives are mounted in the same case as the motherboard; formerly, expansion chassis were made for additional disk storage.",
+    "Laptop computers generally use highly integrated, miniaturized and customized motherboards.",
+    "Both designs incorporate a switch board and a motherboard which were connected by a 12-pin ribbon cable.",
+    "It is commonly used to bond heatsinks to motherboard chipsets and video card processors where there are no mounting holes to clamp a heatsink down.",
+    "The technology is currently being introduced as a way to link computers to mobile devices, as well as on motherboards and devices within computers.",
+    "Years ago, the move to integrated graphics on the motherboard greatly reduced the market for low end video cards.",
+    "The motherboard had a non-standard form factor, 118 mm 153 mm 38 mm small."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mother tongue",
+    "Mother’s Day",
+    "mother-in-law",
+    "mother-of-pearl",
+    "motherboard",
+    "motherhood",
+    "motherless",
+    "motherliness",
+    "motherly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380487_28112d60ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380487_efc4b14bc9_o.png",
+      "id_image": "motherboard_3104062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380517_2217d42a26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380517_f96b9c7a2c_o.png",
+      "id_image": "motherboard_329793"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380462_ba7503a690_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380462_023505a6d1_o.png",
+      "id_image": "motherboard_3868395"
+    }
+  ]
+}

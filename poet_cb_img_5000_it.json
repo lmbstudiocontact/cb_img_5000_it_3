@@ -1,0 +1,66 @@
+{
+  "english": "poet",
+  "phat_am": "ˈpouit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà thơ",
+          "definition": "a person who writes poems",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Romantic poet."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Who produced these works and commissioned the poets, artists and composers to accomplish them?",
+    "Once sensationalism became a public concern during the 1860s, critics commented repeatedly on the resemblance between the \"fleshly\" poets' sensuous, avant-garde poetry and sensation fiction.",
+    "His recent electronic work explores the use of voice as a sound source and often involves collaboration with poets and visual artists.",
+    "Through the power of the conceit, the two unlike parts of this metaphor evolve toward such similitude that the earthly poet takes on sacred power.",
+    "The passages might even be seen - despite their preservation as written texts - to provide a unique witness to the improvisatory practices of oral poets.",
+    "Her unique position in the rock community and her forthrightness, allow poet to step outside of the ' objective' model that artist profiles usually adopt.",
+    "Instead, if a pattern is frequently used, it must be metrical (for the given poet).",
+    "The publisher smiled at the illustrator of the poet who had an untidy beard."
+  ],
+  "list_see_also": [
+    "poetic",
+    "poetically",
+    "poetry"
+  ],
+  "list_browse": [
+    "podiatrist",
+    "podiatry",
+    "podium",
+    "poem",
+    "poet",
+    "poetic",
+    "poetically",
+    "poetry",
+    "point"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338841_fe2691366a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338841_9a2ecb49d3_o.png",
+      "id_image": "poet_1482251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338801_7134b2f083_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338801_6e050b22ef_o.png",
+      "id_image": "poet_1910030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075840_0b864c8ced_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075840_92b7383c16_o.png",
+      "id_image": "poet_4545072"
+    }
+  ]
+}

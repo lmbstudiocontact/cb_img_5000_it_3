@@ -1,0 +1,113 @@
+{
+  "english": "profit",
+  "phat_am": "ˈprofit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lợi nhuận",
+          "definition": "money which is gained in business etc from selling something for more than one paid for it",
+          "world_new": [
+            "money",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I made a profit of $8,000 on my house",
+              "world_new": [
+                "I",
+                "my",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "He sold it at a huge profit.",
+              "world_new": [
+                "huge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lợi ích",
+          "definition": "advantage; benefit",
+          "world_new": [
+            "benefit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A great deal of profit can be had from travelling abroad.",
+              "world_new": [
+                "great",
+                "deal",
+                "abroad"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "được lợi",
+          "definition": "(with fromor by) to gain profit(s) from",
+          "world_new": [
+            "gain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The business profited from its exports",
+              "world_new": [
+                "business",
+                "its"
+              ]
+            },
+            {
+              "ex_of_definition": "He profited by his opponent’s mistakes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In others, careful arrangements are made as to how profits and future property should be divided.",
+    "Fielding's company would have had to pay on profits.",
+    "Pressures from foreign investors wanting more freedom to repatriate profits were also likely.",
+    "Offsetting of profits between time periods functions like a simultaneous loss compensation and loss carry-over (with past periods).",
+    "Obviously, record companies could maximise their profits if they avoided having to pay royalties.",
+    "According to critics of the sector these profits were used to enrich the companies' shareholders through the payment of high dividends.",
+    "Rather than keep her profits, however, she donated them all to the hospice that had cared for her beloved husband.",
+    "His main public role was as a member of the royal commission on the taxation of profits and income which began sitting in 1951."
+  ],
+  "list_see_also": [
+    "profitable",
+    "profitably"
+  ],
+  "list_browse": [
+    "proficiency",
+    "proficient",
+    "proficiently",
+    "profile",
+    "profit",
+    "profitable",
+    "profitably",
+    "profound",
+    "profoundly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436573_b64c456500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436573_77d875b78a_o.png",
+      "id_image": "profit_2112449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676349_86b9017098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676349_b42c7ac3f5_o.png",
+      "id_image": "profit_2615113"
+    }
+  ]
+}

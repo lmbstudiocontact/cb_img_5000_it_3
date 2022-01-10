@@ -1,0 +1,85 @@
+{
+  "english": "recognition",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự công nhận, sự nhận ra",
+          "definition": "the act or state of recognizing or being recognized",
+          "world_new": [
+            "act",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They gave the boy a medal in recognition of his courage",
+              "world_new": [
+                "boy",
+                "medal",
+                "courage"
+              ]
+            },
+            {
+              "ex_of_definition": "I said hello to him but he showed no recognition.",
+              "world_new": [
+                "I",
+                "hello"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "More than 400 recognitions have been made so far.",
+    "Current issues in archaeological research are often distorted beyond recognition by the time they are presented to the public.",
+    "I believe that he won more medals or recognitions than virtually any other man in the war.",
+    "The history of popular music generates conflictual recognitions within audiences, not least across the generational conflicts and aspirations associated with different musical forms.",
+    "As in example (9), the answerer overlays her work of recognition onto the form of the answer to the caller's second summons.",
+    "Hence, we have an intersection within these texts of genre, second or third hand experience, alongside a dynamic of imperialism that needs recognition and analysis.",
+    "We now need to reintegrate the gesture information that we removed in the projection step before recognition.",
+    "Word-level reading processes involve word recognition processes, on the one hand, and word integration processes, on the other."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reclamation",
+    "recline",
+    "reclining chair",
+    "recluse",
+    "recognition",
+    "recognizable",
+    "recognizably",
+    "recognize",
+    "recoil"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690354_304569783a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690354_46ab59ba94_o.png",
+      "id_image": "recognition_2910055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072075_5894dd7a5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072075_a6fa741b53_o.png",
+      "id_image": "recognition_3199500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450143_f9a80ae6e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450143_d4eb4a403d_o.png",
+      "id_image": "recognition_4060757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335071_0854b5dfd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335071_478993a983_o.png",
+      "id_image": "recognition_4493082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380112_57bba76ea7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380112_0f40122d4e_o.png",
+      "id_image": "recognition_5977980"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "english": "more",
+  "phat_am": "moː",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhiều hơn",
+          "definition": "a greater number or quantity of",
+          "world_new": [
+            "number",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve got more money than he has.",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thêm nữa",
+          "definition": "an additional number or quantity of",
+          "world_new": [
+            "additional",
+            "number",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We need some more milk.",
+              "world_new": [
+                "milk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hơn",
+          "definition": "used to form the comparative of many adjectives and adverbs, especially those of more than two syllables",
+          "world_new": [
+            "form",
+            "comparative"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She can do it more easily than I can",
+              "world_new": [
+                "easily",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "He is much more intelligent than they are.",
+              "world_new": [
+                "intelligent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều hơn",
+          "definition": "to a greater degree or extent",
+          "world_new": [
+            "degree",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m exercising a little more now than I used to.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một lần nữa",
+          "definition": "again",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll play it once more.",
+              "world_new": [
+                "play",
+                "once"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "nhiều hơn",
+          "definition": "a greater number or quantity",
+          "world_new": [
+            "number",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Are there a lot of people?’ ‘There are far more than we expected.’",
+              "world_new": [
+                "people",
+                "far"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thêm",
+          "definition": "an additional number or amount",
+          "world_new": [
+            "additional",
+            "number",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve run out of paint. Will you go and get some more?",
+              "world_new": [
+                "run",
+                "paint"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "moreover",
+    "any more",
+    "more and more",
+    "more or less",
+    "the more … the more/less",
+    "what is / what’s more"
+  ],
+  "list_browse": [
+    "morally",
+    "morals",
+    "morass",
+    "morbid",
+    "more",
+    "more and more",
+    "more or less",
+    "moreover",
+    "morgue"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451318_ab815318a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451318_f0f815ee0e_o.png",
+      "id_image": "more_324867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451288_0268033be3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451288_96d538ddcf_o.png",
+      "id_image": "more_455902"
+    }
+  ]
+}

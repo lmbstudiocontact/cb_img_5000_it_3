@@ -1,0 +1,105 @@
+{
+  "english": "negotiate",
+  "phat_am": "niˈɡəuʃieit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đàm phán",
+          "definition": "to bargain or discuss a subject in order to agree",
+          "world_new": [
+            "bargain",
+            "discuss",
+            "subject",
+            "order",
+            "agree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll have to negotiate a price.",
+              "world_new": [
+                "price"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thương lượng",
+          "definition": "to arrange (a treaty, payment etc), usually after a long discussion",
+          "world_new": [
+            "arrange",
+            "treaty",
+            "payment",
+            "long",
+            "discussion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was hard enough to get the two sides to sit down and negotiate a peace agreement.",
+              "world_new": [
+                "sit",
+                "peace",
+                "agreement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vượt qua khó khăn",
+          "definition": "to get past (an obstacle or difficulty)",
+          "world_new": [
+            "obstacle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There still remain several obstacles to negotiate before a solution can be agreed on.",
+              "world_new": [
+                "remain",
+                "solution",
+                "agreed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In fact, its pictures and stories depend upon the negotiating power of fashion to make any sense at all.",
+    "After negotiating a price for a donor's kidney, the middleman introduces the donor to the potential recipient and the medical team.",
+    "They took advantage of new media and negotiated their way into early television showings in order to reach even greater numbers of spectators.",
+    "After negotiating, the participating states pass identical legislation signifying their agreement on the compact's terms, purposes, and policies.",
+    "In this protected space, a contract was negotiated, which enabled boundaries to be established.",
+    "Second, barrio people actively negotiated the terms through which the land-for-labour arrangement was re-worked.",
+    "He demonstrates the crucial role of journalism and new communication technologies in negotiating the role between readers, the market and ways of knowing.",
+    "The transport mechanisms and protocols are supported (and enforced) by the infrastructure, while the content is negotiated between the components."
+  ],
+  "list_see_also": [
+    "negotiator",
+    "negotiation"
+  ],
+  "list_browse": [
+    "neglect",
+    "negligence",
+    "negligent",
+    "negligently",
+    "negotiate",
+    "negotiation",
+    "negotiator",
+    "Negro",
+    "neigh"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440283_9be326b1de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440283_475d5645c4_o.png",
+      "id_image": "negotiate_4133549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680349_b5ee95aa45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680349_69dd33ede5_o.png",
+      "id_image": "negotiate_5965826"
+    }
+  ]
+}

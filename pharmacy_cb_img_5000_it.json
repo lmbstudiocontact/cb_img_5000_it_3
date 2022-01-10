@@ -1,0 +1,85 @@
+{
+  "english": "pharmacy",
+  "phat_am": "ˈfaːməsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngành dược",
+          "definition": "the preparation of medicines",
+          "world_new": [
+            "preparation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying pharmacy."
+            }
+          ]
+        },
+        {
+          "mean_english": "hiệu thuốc",
+          "definition": "a shop etc where medicines are sold or given out",
+          "world_new": [
+            "shop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the hospital pharmacy.",
+              "world_new": [
+                "hospital"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In other words, pharmacies that could have solved such problems were not typical in the settings of traditional medicine.",
+    "Finally, rural versus urban comparisons were not considered, as rural pharmacies geographic distribution could compromise their anonymity.",
+    "Typically, these data come from hospital records, official reports or tariffs, the literature, or pharmacies.",
+    "From a total of 618 repeat patients who agreed to participate, a sub-sample of 350 was enrolled into the intervention, distributed across seven pharmacies.",
+    "The experience of two recruiting pharmacies provides an example: of 37 individuals asked to participate, seven (19%) had participated in a trial.",
+    "There is nothing to indicate that any of the above factors would have had a decisive influence on the service quality in the private pharmacies.",
+    "Informed outlets were more likely to be pharmacies, but they did not have a significantly larger clientele on average than control outlets.",
+    "In 1996 there was legislation designed to control the establishment of new pharmacies on a geographical population-density basis."
+  ],
+  "list_see_also": [
+    "pharmaceutical",
+    "pharmacist"
+  ],
+  "list_browse": [
+    "phantom",
+    "Pharaoh",
+    "pharmaceutical",
+    "pharmacist",
+    "pharmacy",
+    "pharynx",
+    "phase",
+    "PhD",
+    "pheasant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704894_1c916683d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704894_c594cf89e8_o.png",
+      "id_image": "pharmacy_1152749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395107_8f4cc50083_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395107_1c8ac65f94_o.png",
+      "id_image": "pharmacy_3974939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704854_9e6b782d1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704854_2c6980ce48_o.png",
+      "id_image": "pharmacy_4534978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350251_ea2a881694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350251_4acf3381f5_o.png",
+      "id_image": "pharmacy_5880158"
+    }
+  ]
+}

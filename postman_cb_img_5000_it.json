@@ -1,0 +1,68 @@
+{
+  "english": "postman",
+  "phat_am": "ˈpəusmən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đưa thư",
+          "definition": "a person whose job is to (collect and) deliver letters etc; mailman American",
+          "world_new": [
+            "person",
+            "job",
+            "deliver"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Has the postman been this morning yet?",
+              "world_new": [
+                "morning",
+                "yet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have talked in terms of having the best and cheapest postal service in the world, claiming that our postmen are wonderful—and they are.",
+    "The house-to-house delivery has been suspended, with the concurrence of the parish council, in order to afford the postmen a weekly half holiday.",
+    "Auxiliary postmen, engaged for such duties, are clearly warned in writing on first employment that they have no title to succeed to established posts.",
+    "In rural areas postmen carry stamps with them, which may be purchased on their rounds.",
+    "I will make inquiry as to the stripe adjustments in the case of postmen at the offices mentioned.",
+    "Temporary postmen do not receive a separate allowance for boots.",
+    "I should perhaps say postpeople, as nowadays there are as many postwomen as postmen.",
+    "I refer to the service of assistant postmen."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "posterity",
+    "postgraduate",
+    "posthumous",
+    "posthumously",
+    "postman",
+    "postmark",
+    "postmaster",
+    "postpone",
+    "postponement"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333341_6441ed77e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333341_10c65aac18_o.png",
+      "id_image": "postman_307937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378152_19398270ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378152_91cc44d9c3_o.png",
+      "id_image": "postman_3527141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378117_27ba676da6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378117_e4d33a59cf_o.png",
+      "id_image": "postman_4010433"
+    }
+  ]
+}

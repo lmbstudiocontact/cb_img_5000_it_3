@@ -1,0 +1,118 @@
+{
+  "english": "remote",
+  "phat_am": "rəˈmout",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "xa",
+          "definition": "far away in time or place; far from any (other) village, town etc",
+          "world_new": [
+            "far",
+            "time",
+            "far",
+            "village",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a remote village in New South Wales",
+              "world_new": [
+                "village"
+              ]
+            },
+            {
+              "ex_of_definition": "a farmhouse remote from civilization.",
+              "world_new": [
+                "farmhouse",
+                "civilization"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có quan hệ xa",
+          "definition": "distantly related",
+          "world_new": [
+            "related"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a remote cousin",
+              "world_new": [
+                "cousin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhỏ",
+          "definition": "very small or slight",
+          "world_new": [
+            "small",
+            "slight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a remote chance of success",
+              "world_new": [
+                "chance",
+                "success"
+              ]
+            },
+            {
+              "ex_of_definition": "He hasn’t the remotest idea what is going on.",
+              "world_new": [
+                "idea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As legal staffs developed within the ranks of departmental clerks and under-secretaries, they mediated between ministers and their more remote colleague.",
+    "While the results here highlight farms with reasonable market access, remote farms could suffer similar vulnerabilities.",
+    "It covers both satellite and airborne remote sensing and active and passive sensors across the electromagnetic spectrum from visible to microwave wavelengths.",
+    "It can be concluded from this study that remote sensing can help to rationalize and predict the distribution of tsetse.",
+    "An implicit virtual place (host+port) can be set as the target of the remote calls.",
+    "And this was particularly true for children in regions remote from the metropolitan centres of music.",
+    "To many, the theoretical expositions of construct validity and validation are too abstract and remote from the reality of test development and use.",
+    "To settle the controversies meant to agree on the mechanisms for testing the existence of new scientific objects originating in remote places."
+  ],
+  "list_see_also": [
+    "remotely",
+    "remoteness",
+    "remote control"
+  ],
+  "list_browse": [
+    "remorseful",
+    "remorsefully",
+    "remorseless",
+    "remorselessly",
+    "remote",
+    "remote control",
+    "remotely",
+    "remoteness",
+    "removable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062465_56d5dffc35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062465_c24c174d57_o.png",
+      "id_image": "remote_4170492"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325606_4677448bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325606_e4679350fe_o.png",
+      "id_image": "remote_4752482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370492_ed080ea26f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370492_49da5dd2b9_o.png",
+      "id_image": "remote_502587"
+    }
+  ]
+}

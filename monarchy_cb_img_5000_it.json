@@ -1,0 +1,62 @@
+{
+  "english": "monarchy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chế độ quân chủ",
+          "definition": "(a country etc that has) government by a monarch",
+          "world_new": [
+            "country",
+            "government",
+            "monarch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a constitutional monarchy.",
+              "world_new": [
+                "constitutional"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One of the most str iking differences between pre- and postwar monarchies is the way in which royal mar r iages took place.",
+    "Succession crises can provide a possible path toward democratization from authoritarian monarchies.",
+    "The ability of regimes to control smaller populations better deserves to be further explored in relation to the survival of authoritarian monarchies.",
+    "After all, there are quite a number of countries which still have hereditary monarchies.",
+    "From the vantage point of three decades ago, monarchies were an endangered species.",
+    "There was no obvious role for them in new nation-states and in many dependencies indigenous monarchies were swept aside by the onrush of nationalism.",
+    "I believe most fervently that the history of the two great old monarchies has reached a watershed.",
+    "The monarchies that failed to survive could not incorporate the growth of the new middle class."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "momma",
+    "mommy",
+    "Mon",
+    "monarch",
+    "monarchy",
+    "monastery",
+    "monastic",
+    "Monday",
+    "monetary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075085_b68baf2cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075085_6a1c1649ef_o.png",
+      "id_image": "monarchy_261803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693279_5773763cab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693279_b473558646_o.png",
+      "id_image": "monarchy_353357"
+    }
+  ]
+}

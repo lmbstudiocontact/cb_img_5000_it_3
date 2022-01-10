@@ -1,0 +1,88 @@
+{
+  "english": "multiply",
+  "phat_am": "ˈmaltiplai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhân lên",
+          "definition": "to add a number to itself a given number of times and find the total",
+          "world_new": [
+            "add",
+            "number",
+            "number",
+            "times",
+            "find",
+            "total"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "4 + 4 + 4 or 4 multiplied by 3 or 4  3 = 12."
+            }
+          ]
+        },
+        {
+          "mean_english": "sinh sôi nảy nở",
+          "definition": "to (cause to) increase in number, especially by breeding",
+          "world_new": [
+            "increase",
+            "number",
+            "breeding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rabbits multiply very rapidly.",
+              "world_new": [
+                "rapidly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, to be practical several collective, generally defined coordinates can be used to multiply slice through the landscape in order to carefully characterize the bottlenecks.",
+    "The rice dressing was then kept at warm, outdoor temperatures for many hours, which likely allowed bacteria to further multiply before being served.",
+    "It follows from (1.5) that any components of the motion which are doubly periodic, multiply periodic, or chaotic, are precisely zero, and not just small.",
+    "The free electron density was calculated multiplying the atomic density of the element for its electron valence.",
+    "To enhance safety and system per formance, multiply redundant sensors are installed for measuring key variables in order to create direct measurement redundancy.",
+    "Such examples from the linguistic literature could be multiplied, but a survey of different types of incoherence may only increase the confusion.",
+    "Generation of multiply charged ions at low and high laser-power densities.",
+    "The elements of the incidence algebra are multiplied by convolution."
+  ],
+  "list_see_also": [
+    "multiplication",
+    "multiple-choice",
+    "multiple sclerosis"
+  ],
+  "list_browse": [
+    "multiple",
+    "multiple sclerosis",
+    "multiple-choice",
+    "multiplication",
+    "multiply",
+    "multiracial",
+    "multitude",
+    "mum",
+    "mumble"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068710_d2e06484a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068710_c9674a5cf6_o.png",
+      "id_image": "multiply_2845023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376752_3cec0bd080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376752_00e349e6d0_o.png",
+      "id_image": "multiply_3058490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331966_88c8d36ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331966_bc58d1edac_o.png",
+      "id_image": "multiply_5558675"
+    }
+  ]
+}

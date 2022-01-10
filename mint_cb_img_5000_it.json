@@ -1,0 +1,121 @@
+{
+  "english": "mint",
+  "phat_am": "mint",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nơi đúc tiền",
+          "definition": "a place where money is made by the government",
+          "world_new": [
+            "place",
+            "money",
+            "government"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Royal Mint."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đúc tiền",
+          "definition": "to manufacture (money)",
+          "world_new": [
+            "manufacture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When were these coins minted?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây bạc hà",
+          "definition": "a plant with strong-smelling leaves, used as a flavouring/flavoring.",
+          "world_new": [
+            "plant"
+          ]
+        },
+        {
+          "mean_english": "kẹo bạc hà",
+          "definition": "(also peppermint) (a sweet with) the flavour/flavor of these leaves",
+          "world_new": [
+            "sweet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a box of mints",
+              "world_new": [
+                "box"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) mint chocolate.",
+              "world_new": [
+                "chocolate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first of the crown pieces was minted in 1818.",
+    "In the period between 1610 and 1717, it will be argued, gold may not have been minted indigenously in any significant quantity, but it did not disappear from the market.",
+    "The gold coins are minted 900–1000ths fine, and the weight of the 10 yen gold piece is, therefore, 8.3,333 grammes.",
+    "Millions of new halfpennies are being minted at the moment, and they must be put to some use.",
+    "I think that the objections to minting any three-halfpenny coin outweigh any possible convenience to be derived from it.",
+    "Minting of this cupro-nickel version of the crown has now ceased.",
+    "We started decimalising our coinage when the first florin was minted in 1870 but it has taken us about 100 years to complete the process.",
+    "The design and preparations for minting will take some time and details of the issue will be made known in due course."
+  ],
+  "list_see_also": [
+    "in mint condition"
+  ],
+  "list_browse": [
+    "minke",
+    "minor",
+    "minority",
+    "minstrel",
+    "mint",
+    "minuet",
+    "minus",
+    "minute",
+    "minute hand"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696974_bc57743e77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696974_a5ec5d4476_o.png",
+      "id_image": "mint_1407838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079115_02c64ebcf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079115_95892730e9_o.png",
+      "id_image": "mint_1918892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079100_7bf84e2103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079100_2060cded81_o.png",
+      "id_image": "mint_4264701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456458_3dace02a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456458_89902e2a90_o.png",
+      "id_image": "mint_5389307"
+    }
+  ]
+}

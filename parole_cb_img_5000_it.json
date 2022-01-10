@@ -1,0 +1,89 @@
+{
+  "english": "parole",
+  "phat_am": "pəˈroul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời hứa danh dự để được ân xá",
+          "definition": "permission that is given to someone to leave prison before the end of their sentence if they agree to obey certain rules and behave well",
+          "world_new": [
+            "permission",
+            "leave",
+            "prison",
+            "their",
+            "sentence",
+            "agree",
+            "obey",
+            "certain",
+            "behave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is hoping to be released on parole."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ân xá",
+          "definition": "to permit someone to leave prison before the end of their sentence if they agree to obey certain rules and behave well",
+          "world_new": [
+            "permit",
+            "leave",
+            "prison",
+            "their",
+            "sentence",
+            "agree",
+            "obey",
+            "certain",
+            "behave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was paroled after serving three years of his sentence.",
+              "world_new": [
+                "serving",
+                "sentence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After serving a sentence for perjury, for example, she is warned by the prison matron against violating her parole.",
+    "They also tightened the parole system and revamped the courts to allow crimes with penalties of less than ten years to be judged summarily.",
+    "Of the 5,180 paroled altogether, 3,851 were on licence for less than one year.",
+    "Of these 13,000 additional candidates, about 7,500 adults and about 2,700 young offenders might be paroled each year.",
+    "I am convinced that the parole system has made a positive and constructive contribution to law and order.",
+    "My right honourable friend's announcement has done much both to increase the numbers paroled and to ensure public support for the scheme, without which it cannot survive.",
+    "Changes in the parole system were promised so that serious offenders would serve a longer proportion of their time in jail.",
+    "The roll call was a lengthy one: fines, probation, parole, community service, compensation, reparation, suspended sentences."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "parliamentary",
+    "parlour",
+    "parlour maid",
+    "parody",
+    "parole",
+    "paroxysm",
+    "parquet",
+    "parricide",
+    "parrot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331776_794c26f147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331776_ecb6975f01_o.png",
+      "id_image": "parole_4458921"
+    }
+  ]
+}

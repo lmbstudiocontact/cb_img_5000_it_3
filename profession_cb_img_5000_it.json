@@ -1,0 +1,93 @@
+{
+  "english": "profession",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nghề nghiệp",
+          "definition": "an occupation or job that needs special knowledge, eg medicine, law, teaching, engineering etc",
+          "world_new": [
+            "occupation",
+            "job",
+            "special",
+            "knowledge",
+            "medicine",
+            "law",
+            "teaching",
+            "engineering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘What is your profession?’ ‘I’m a lawyer.’",
+              "world_new": [
+                "your",
+                "lawyer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "những người trong nghề",
+          "definition": "the people who have such an occupation",
+          "world_new": [
+            "people",
+            "occupation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the legal profession.",
+              "world_new": [
+                "legal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tuyên bố",
+          "definition": "an open statement or declaration.",
+          "world_new": [
+            "open",
+            "statement",
+            "declaration"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Concurrently, the terms 'design' and 'build' were seen and practised as separate entities, the connections between them as negotiable, and supervised by independent professions.",
+    "As it happens, most professions enjoy a great deal of autonomy in this regard.",
+    "Research enables the architectural and environmental design professions to build upon prior experience through critical evaluation, innovation, and the creation of new knowledge.",
+    "Female professions had to be denied in order to secure the division of female domestic space and male public space.",
+    "The fourth issue is that of community care and the health care professions.",
+    "The professions alone did not create the new urban world; nor vice versa.",
+    "The rehabilitation of older people is complicated by the many different professions and agencies that are involved.",
+    "In addition, the ar ticles are accessible to students, so teachers can use them in courses that include a consideration of language and the professions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "productive",
+    "productivity",
+    "Prof.",
+    "profess",
+    "profession",
+    "professional",
+    "professionally",
+    "professor",
+    "professorial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436678_2c6250a148_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436678_81d3bd09e2_o.png",
+      "id_image": "professional_2767735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676504_2e8246e8ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676504_784e6e958e_o.png",
+      "id_image": "professional_4832775"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "organic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc cơ quan",
+          "definition": "of or concerning the organs of the body",
+          "world_new": [
+            "concerning",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "organic diseases."
+            }
+          ]
+        },
+        {
+          "mean_english": "(y học) hữu cơ",
+          "definition": "of, found in, or produced by, living things",
+          "world_new": [
+            "found",
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Organic compounds all contain carbon.",
+              "world_new": [
+                "contain",
+                "carbon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc hữu cơ",
+          "definition": "(of food) grown without the use of artificial fertilizers",
+          "world_new": [
+            "grown",
+            "artificial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "organic vegetables."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Doesn't the massive growth of organics have to articulate with the pre-existing agricultural landscape?",
+    "The package includes instruments to study sample mineralogy (composition, macroscopic and microscopic structural and textural features), organics (elemental, molecular), oxidation state and petrology (major and minor element composition).",
+    "Airborne organics are expected to be incorporated into the snow and ice layers, with deep accumulations over an extensive period of time.",
+    "The solutions reach concentrations of 3n8 mol\\l electrolytes and about 0n1 mol\\l organics.",
+    "The lack of detected organics is the result of autooxidation of the organisms as these were gradually heated.",
+    "Both interstellar and cometary ices are processed by several energy sources to generate a variety of molecules, some of which are likely complex organics.",
+    "Thus, the required aqueous environment for this model, containing high concentrations of organics and clay particles, is now established to occur in comets.",
+    "The recessed surface in the sample trays will be deep in order to simulate the effects of the various processes on organics according to their depth in the soil analogues."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ordination",
+    "ore",
+    "organ",
+    "organelle",
+    "organic",
+    "organic compound",
+    "organically",
+    "organism",
+    "organist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081180_d3e09edd30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081180_f974b27468_o.png",
+      "id_image": "organic_1999348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699039_bb3c4a96e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699039_92393695f8_o.png",
+      "id_image": "organic_334127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698954_373a37fc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698954_cddd2f8510_o.png",
+      "id_image": "organic_4497598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698919_7f4d8b8a53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698919_129f26e007_o.png",
+      "id_image": "organic_5756895"
+    }
+  ]
+}

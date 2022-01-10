@@ -1,0 +1,148 @@
+{
+  "english": "quick",
+  "phat_am": "kwik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mau chóng",
+          "definition": "done, said, finished etc in a short time",
+          "world_new": [
+            "finished",
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a quick trip into town.",
+              "world_new": [
+                "trip",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhanh",
+          "definition": "moving, or able to move, with speed",
+          "world_new": [
+            "moving",
+            "move",
+            "speed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a very quick walker",
+              "world_new": [
+                "walker"
+              ]
+            },
+            {
+              "ex_of_definition": "I made a grab at the dog, but it was too quick for me.",
+              "world_new": [
+                "I",
+                "grab",
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giỏi; nhanh nhẹn",
+          "definition": "doing something, able to do something, or done, without delay; prompt; lively",
+          "world_new": [
+            "lively"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is always quick to help",
+              "world_new": [
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "a quick answer",
+              "world_new": [
+                "answer"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s very quick at arithmetic.",
+              "world_new": [
+                "arithmetic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "nhanh",
+          "definition": "quickly",
+          "world_new": [
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "quick-frozen peas."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Electronic submission is also possible, which facilitates easier and quicker submission of reports.",
+    "Robotic surgery also has benefits of minimal pain, little blood loss, better cosmetics, and quicker recovery compared with open surgery.",
+    "The participant gets a quick look at the pattern.",
+    "Both authors and referees are encouraged to note these codes and presentational styles, as adherence to them will achieve quicker acceptance of submitted typescripts.",
+    "Their success triggered a strong commercial rivalry between the main record labels, leading to a search for the quickest way to a hit record: imitation and plagiarism.",
+    "Products in high-income countries are discarded much quicker than in lowincome countries.",
+    "The intention of a quick perusal of such a table is to observe trends, not attempt to produce statistical evidence.",
+    "Driving a car was much more convenient, cleaner, and quicker than saddled horses or buggies, which led people eventually to embrace it."
+  ],
+  "list_see_also": [
+    "quickly",
+    "quicken",
+    "quickness",
+    "quicklime",
+    "quicksands",
+    "quicksilver",
+    "quick-tempered",
+    "quick-witted",
+    "quick-wittedly",
+    "quick-wittedness"
+  ],
+  "list_browse": [
+    "questionnaire",
+    "queue",
+    "queue up",
+    "quiche",
+    "quick",
+    "quick-tempered",
+    "quick-witted",
+    "quick-wittedly",
+    "quick-wittedness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458048_0f3b945ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458048_7922cc7c18_o.png",
+      "id_image": "quick_1639606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698549_9e4ac813f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698549_b090210e09_o.png",
+      "id_image": "quick_5571611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388212_c2578a59db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388212_8037690b2f_o.png",
+      "id_image": "quick_5956407"
+    }
+  ]
+}

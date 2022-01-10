@@ -1,0 +1,106 @@
+{
+  "english": "personal",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cá nhân",
+          "definition": "one’s own",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is his personal opinion",
+              "world_new": [
+                "opinion"
+              ]
+            },
+            {
+              "ex_of_definition": "The matter will have my personal attention.",
+              "world_new": [
+                "matter",
+                "my",
+                "attention"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "riêng tư",
+          "definition": "private",
+          "world_new": [
+            "private"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is a personal matter between him and me.",
+              "world_new": [
+                "matter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đích thân",
+          "definition": "in person",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Prime Minister will make a personal appearance.",
+              "world_new": [
+                "appearance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận xét về cá nhân một người",
+          "definition": "(making remarks which are) insulting, especially about a person’s appearance etc",
+          "world_new": [
+            "insulting",
+            "appearance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "personal remarks"
+            },
+            {
+              "ex_of_definition": "Don’t be personal!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "persistence",
+    "persistent",
+    "persistently",
+    "person",
+    "personal",
+    "personal assistant",
+    "personal computer",
+    "personal organizer",
+    "personal pronoun"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057045_a653ef888a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057045_1ba4901ff6_o.png",
+      "id_image": "personal_1471063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365192_682fec68b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365192_28d432c362_o.png",
+      "id_image": "personal_2596477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365152_67b290612c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365152_cd9227ed91_o.png",
+      "id_image": "personal_3306801"
+    }
+  ]
+}

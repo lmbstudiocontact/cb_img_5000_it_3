@@ -1,0 +1,66 @@
+{
+  "english": "postal",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc bưu điện",
+          "definition": "of, or concerning, the system of sending letters etc",
+          "world_new": [
+            "concerning",
+            "system"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the postal service.",
+              "world_new": [
+                "service"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A postal questionnaire with follow-up interviews and two focus groups with spouses were also used.",
+    "Another purpose of the article is to investigate legislators' voting behavior over the postal privatization bills in 2005.",
+    "In the first cohort study, 208 persons completed the postal questionnaire (response rate 74 %).",
+    "First, it was assumed that the provision of reasonably priced universal postal services could only be guaranteed by a postal monopoly.",
+    "Information was collected on clinical symptoms using postal questionnaires ; at case onset and at 3 weeks.",
+    "We used an anonymous postal questionnaire and utilized a control group of non-bereaved parents with a living child.",
+    "The twenty-eight respondents who had already voted reflect the postal-voting system, which can diminish the scope of this kind of intervention.",
+    "No genuine transformation of the postal system could proceed without a full institutional rewiring of the rural mail network."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "post-free",
+    "post-natal",
+    "postage",
+    "postage stamp",
+    "postal",
+    "postal order",
+    "postbox",
+    "postcard",
+    "postcode"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448713_4abdc87faf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448713_b7a094189c_o.png",
+      "id_image": "postal_1250254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378542_0823264191_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378542_c3d930a830_o.png",
+      "id_image": "postal_333729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378472_0b0c791cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378472_2c433d17d4_o.png",
+      "id_image": "postal_4761310"
+    }
+  ]
+}

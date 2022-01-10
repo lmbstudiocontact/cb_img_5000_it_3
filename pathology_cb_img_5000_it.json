@@ -1,0 +1,61 @@
+{
+  "english": "pathology",
+  "phat_am": "pəˈθolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh lý học",
+          "definition": "the science of diseases",
+          "world_new": [
+            "science"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Department of Pathology."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These exclusions obviously limit, to some extent, the range of personality pathology to be found in the current sample.",
+    "Mixed states are probably common, particularly in elderly patients in whom age-related and other disease-specific degenerative pathologies further cloud the pathological and clinical picture.",
+    "Medical symptoms without identified pathology : relationship to psychiatric disorders, childhood and adult trauma, and personality traits.",
+    "Due to particular needs of people with multiple pathologies patients with more than one neurological condition were also excluded.",
+    "His villains may also be understood against the background of early nineteenthcentury pathology, and particularly the syndrome of ' monomania'.",
+    "These trajectories could then be compared to typically developing mental or chronological-age matched controls, as well as provide a basis for comparisons among the pathologies.",
+    "Although rare, the possibility of cervical aortic arch and intrathoracic vascular pathology should be considered in patients with a large facial hemangioma.",
+    "Here we again find limitations when the study of pathology is separated from the study of health."
+  ],
+  "list_see_also": [
+    "pathologist",
+    "pathological",
+    "pathologically"
+  ],
+  "list_browse": [
+    "pathetically",
+    "pathological",
+    "pathologically",
+    "pathologist",
+    "pathology",
+    "pathway",
+    "patience",
+    "patient",
+    "patiently"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064850_5a27e0d04f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064850_14530c497c_o.png",
+      "id_image": "pathology_3335884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443123_5fa3596d20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443123_00fe66ae8d_o.png",
+      "id_image": "pathology_3974916"
+    }
+  ]
+}

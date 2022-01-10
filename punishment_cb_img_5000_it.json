@@ -1,0 +1,57 @@
+{
+  "english": "punishment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trừng phạt",
+          "definition": "the act of punishing or process of being punished.",
+          "world_new": [
+            "act",
+            "punishing",
+            "process"
+          ]
+        },
+        {
+          "mean_english": "sự bị trừng phạt",
+          "definition": "suffering, or a penalty, imposed for a crime, fault etc",
+          "world_new": [
+            "suffering",
+            "penalty",
+            "crime",
+            "fault"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sent to prison for two years as (a) punishment.",
+              "world_new": [
+                "prison"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "puniness",
+    "punish",
+    "punishable",
+    "punishing",
+    "punishment",
+    "punitive",
+    "punk",
+    "punt",
+    "puny"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462298_66c907eb61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462298_05fbfb7935_o.png",
+      "id_image": "punishment_2350570"
+    }
+  ]
+}

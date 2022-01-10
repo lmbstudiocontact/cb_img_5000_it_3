@@ -1,0 +1,99 @@
+{
+  "english": "peace",
+  "phat_am": "piːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoà bình",
+          "definition": "(sometimes with a) (a time of) freedom from war; (a treaty or agreement which brings about) the end or stopping of a war",
+          "world_new": [
+            "time",
+            "freedom",
+            "treaty",
+            "agreement",
+            "stopping",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Does our country want peace or war?",
+              "world_new": [
+                "our",
+                "country",
+                "want",
+                "war"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a peace treaty.",
+              "world_new": [
+                "treaty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự yên bình",
+          "definition": "freedom from disturbance; quietness",
+          "world_new": [
+            "freedom",
+            "quietness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need some peace and quiet.",
+              "world_new": [
+                "I",
+                "quiet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "peaceable",
+    "peaceably",
+    "peaceful",
+    "peacefully",
+    "peacefulness",
+    "peacemaker",
+    "peace-offering",
+    "peacetime",
+    "at peace",
+    "in peace",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "payroll",
+    "PC",
+    "PE",
+    "pea",
+    "peace",
+    "peace of mind",
+    "peace-offering",
+    "peaceable",
+    "peaceably"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370372_5a8d98aa27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370372_5118a839c4_o.png",
+      "id_image": "peace_209211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440538_8aa7fff331_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440538_d0bdaa6502_o.png",
+      "id_image": "peace_209228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062275_1bcd97aaaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062275_c409bc63c6_o.png",
+      "id_image": "peace_750482"
+    }
+  ]
+}

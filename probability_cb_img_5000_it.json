@@ -1,0 +1,79 @@
+{
+  "english": "probability",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khả năng có thể xảy ra",
+          "definition": "the state or fact of being probable; likelihood",
+          "world_new": [
+            "state",
+            "fact",
+            "likelihood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There isn’t much probability of that happening.",
+              "world_new": [
+                "happening"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kết quả có thể xảy ra",
+          "definition": "an event, result etc that is probable",
+          "world_new": [
+            "event",
+            "result",
+            "probable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let’s consider the probabilities.",
+              "world_new": [
+                "consider"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The axiomatic theor y abstracts itself from the number sequences which, in the frequentist theory, define the events and their probabilities.",
+    "In general, different sampling probabilities arise most naturally in multistage sampling designs.",
+    "We assume that the age differences within a cohort are small enough to consider these subgroups as being homogeneous with respect to transition probabilities.",
+    "The probabilities here can be derived from statistical data on the relative frequency of prescriptions of drugs under given conditions.",
+    "Hence, there is no way of determining the comparative probabilities of the religion-as-non-fiction hypothesis and the religion-as-fiction hypothesis.",
+    "Rather, it is clear that the 'weights' are closely connected to the idea of non-numerical probabilities, which in their turn derive from imperfect analogies.",
+    "Transition probabilities were calculated directly from clinical trial data for the first 3 years and then extrapolated to 10 years.",
+    "Reported deaths were included in the distr ict-wide calculations of disability probabilities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "privileged",
+    "privy",
+    "prize",
+    "pro-",
+    "probability",
+    "probable",
+    "probably",
+    "probation",
+    "probation officer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368427_db727b99f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368427_7b877ffc1a_o.png",
+      "id_image": "probability_2103687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368357_caac54fa7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368357_592102d03c_o.png",
+      "id_image": "probability_5052209"
+    }
+  ]
+}

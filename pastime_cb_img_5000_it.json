@@ -1,0 +1,63 @@
+{
+  "english": "pastime",
+  "phat_am": "ˈpaːstaim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giải trí",
+          "definition": "an occupation which one enjoys and takes part in during one’s spare time; hobby",
+          "world_new": [
+            "occupation",
+            "part",
+            "spare"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Playing chess is his favourite pastime.",
+              "world_new": [
+                "chess",
+                "favourite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He details the development of the solo song genre into the modern practice of song recital, but laments its demise as an amateur pastime.",
+    "It is true that not all talent-requiring occupations are fulfilling, but they are likely to be more fulfilling than non-talent-requiring occupations (as opposed to pastimes).",
+    "Brewers also diversified into the construction of on-site dance halls as a response to the increasing demand among the middle classes for this leisure pastime.",
+    "Science as fashionable pastime has become a familiar theme in eighteenth-century studies.",
+    "Coping strategies to reduce expenses included engaging in cheaper or free pastimes, to not using the television and\\or radio to cut the electricity bill.",
+    "Visiting dance halls had been a very important pastime for many older people.",
+    "Likewise, the singing of folk songs, necessarily easy to perform, became a very popular pastime by the end of the century.",
+    "It is manifest that drinking in bars is a major pastime among some foreigners."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pastel",
+    "pasteurization",
+    "pasteurize",
+    "pastille",
+    "pastime",
+    "pastor",
+    "pastoral",
+    "pastry",
+    "pasture"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065930_20ece8d7ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065930_b30886676f_o.png",
+      "id_image": "pastime_1907770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684069_8c6db89fb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684069_43fe895124_o.png",
+      "id_image": "pastime_2241455"
+    }
+  ]
+}

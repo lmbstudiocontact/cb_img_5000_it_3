@@ -1,0 +1,88 @@
+{
+  "english": "pride",
+  "phat_am": "praid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tự hào",
+          "definition": "a feeling of pleasure and satisfaction at one’s achievements, possessions, family etc",
+          "world_new": [
+            "feeling",
+            "pleasure",
+            "satisfaction",
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She looked with pride at her handsome sons.",
+              "world_new": [
+                "handsome"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lòng tự trọng",
+          "definition": "personal dignity",
+          "world_new": [
+            "personal",
+            "dignity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His pride was hurt by her criticism.",
+              "world_new": [
+                "hurt",
+                "criticism"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đàn, bầy",
+          "definition": "a group (of lions or of peacocks)",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pride of lions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "be the pride and joy of",
+    "the pride of",
+    "pride of place",
+    "pride oneself on",
+    "take pride in"
+  ],
+  "list_browse": [
+    "prick (up) one’s ears",
+    "prickle",
+    "prickliness",
+    "prickly",
+    "pride",
+    "pride of place",
+    "pride oneself on",
+    "priest",
+    "priesthood"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681174_a9520d80f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681174_f61444f7d8_o.png",
+      "id_image": "pride_2287748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440988_a8909beb0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440988_379f79ded1_o.png",
+      "id_image": "pride_2292411"
+    }
+  ]
+}

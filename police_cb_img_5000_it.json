@@ -1,0 +1,103 @@
+{
+  "english": "police",
+  "phat_am": "pəˈliːs",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "cảnh sát",
+          "definition": "the men and women whose job is to prevent crime, keep order, see that laws are obeyed etc",
+          "world_new": [
+            "job",
+            "prevent",
+            "crime",
+            "keep",
+            "order",
+            "see"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Call the police!"
+            },
+            {
+              "ex_of_definition": "The police are investigating the matter",
+              "world_new": [
+                "matter"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the police force, a police officer.",
+              "world_new": [
+                "force",
+                "officer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giữ trật tự",
+          "definition": "to supply (a place) with police",
+          "world_new": [
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We cannot police the whole area.",
+              "world_new": [
+                "whole",
+                "area"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Ghanaian policing has much in common with policing elsewhere.",
+    "The successful formal reform of policing did not lead to fully accountable, responsive citizen-oriented public security.",
+    "The implementation of these plans has however never been policed.",
+    "If diverting resources to land improvement and productivity increasing practices is profitable for privately held land, then land-titling polices may help mitigate these negative externalities.",
+    "However, the issue of policing remains highly contentious.",
+    "With the appointment of his new gardes, the burden of policing the craft would be transferred to the state.",
+    "No longer was the state responsible for policing the health of society: everyone was to be his or her own policeman.",
+    "Moreover, social work practices were influential in shaping the rhetoric and method of women's policing work."
+  ],
+  "list_see_also": [
+    "police constable",
+    "police dog",
+    "police force",
+    "policeman",
+    "police officer",
+    "police station"
+  ],
+  "list_browse": [
+    "pole",
+    "pole-vault",
+    "polecat",
+    "polemic",
+    "police",
+    "police constable",
+    "police dog",
+    "police force",
+    "police officer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074755_b9e4050d70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074755_6774468761_o.png",
+      "id_image": "police_2991186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074785_9dd75b5501_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074785_d000b0e840_o.png",
+      "id_image": "police_771388"
+    }
+  ]
+}

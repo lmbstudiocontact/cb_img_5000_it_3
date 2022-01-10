@@ -1,0 +1,68 @@
+{
+  "english": "oath",
+  "phat_am": "əuθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời tuyên thệ",
+          "definition": "a solemn promise",
+          "world_new": [
+            "solemn",
+            "promise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He swore an oath to support the king.",
+              "world_new": [
+                "support",
+                "king"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời nguyền rủa",
+          "definition": "a word or phrase used when swearing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "curses and oaths."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "on/under oath"
+  ],
+  "list_browse": [
+    "oak",
+    "OAP",
+    "oar",
+    "oasis",
+    "oath",
+    "oatmeal",
+    "oats",
+    "obedience",
+    "obedient"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055870_97dc3b5364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055870_edc12a8072_o.png",
+      "id_image": "oath_2646684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055865_c2ae9f9110_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055865_1a636f46bd_o.png",
+      "id_image": "oath_372292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434383_0c2c1b5692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434383_a7d9c6cedf_o.png",
+      "id_image": "oath_4474008"
+    }
+  ]
+}

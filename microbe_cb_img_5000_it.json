@@ -1,0 +1,72 @@
+{
+  "english": "microbe",
+  "phat_am": "ˈmaikrəub",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vi khuẩn",
+          "definition": "a very tiny living thing invisible to the naked eye, especially a germ causing disease",
+          "world_new": [
+            "tiny",
+            "living",
+            "invisible",
+            "naked",
+            "eye",
+            "germ",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a new understanding of how this microbe causes disease.",
+              "world_new": [
+                "understanding",
+                "disease"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Lateral gene transfer as we know it today presupposes significant similarities in the genomes of the microbes involved.",
+    "The next phase of our work focuses on exploring the alterations in physiological mechanisms that might allow for growth of eukaryotic microbes at acid extremes.",
+    "A further advantage applicable to low-temperature environments is that diurnal freeze-thaw cycles might be mitigated, reducing freeze-thaw stress to the microbes.",
+    "The early microbe hunters knew this, and they took the task of cash-out seriously.",
+    "Instead, like microbes that are essentially too small to see, he would have appeared other than as he essentially was.",
+    "The microbe is often isolated only from patients but not from the water source.",
+    "Laboratory simulation experiments designed to select and characterize oxidant-destroying terrestrial microbes may help to resolve this issue.",
+    "Except in special circumstances where one may be looking for specific microbes, the knowledge gained by viable counts is minimal for biomass estimations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mg",
+    "MHz",
+    "miaow",
+    "micro-",
+    "microbe",
+    "microbiological",
+    "microbiologist",
+    "microbiology",
+    "microchip"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389632_246154a2b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389632_8f5fe16cd7_o.png",
+      "id_image": "microbe_3131032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344661_61da682187_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344661_29c4f256b8_o.png",
+      "id_image": "microbe_4157548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389557_5ce35d7384_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389557_475c7cd8d3_o.png",
+      "id_image": "microbe_5008152"
+    }
+  ]
+}

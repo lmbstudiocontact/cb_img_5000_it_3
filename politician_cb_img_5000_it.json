@@ -1,0 +1,60 @@
+{
+  "english": "politician",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chính trị gia",
+          "definition": "a person whose job is politics; a member of parliament",
+          "world_new": [
+            "person",
+            "job",
+            "member",
+            "parliament"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Labour politician."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It would be someone else's responsibility (the politician or the civil servant) to develop the policy concerned and to make it ready for implementation.",
+    "In the early twentieth century these nationalist politicians tried to recruit the support of industrial workers to the swadeshi cause.",
+    "A truce was called in this particular match in the long-running series of press versus politician 'games'.",
+    "At the same time as landed income went up, parliament enacted legislation to limit patronage sources available to politicians.",
+    "Opening up the policy process to public, parties and politicians should be done with due reticence.",
+    "Parties and politicians routinely collect data on voters and use this information to target particular races, compose appeals to the electorate, and contact voters directly.",
+    "Others are so closely tied to elected politicians that they lack substantial independence.",
+    "In settings where responsibility for policy making is most clear, incumbent politicians are held accountable for macroeconomic performances."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "political prisoner",
+    "political science",
+    "politically",
+    "politically correct",
+    "politician",
+    "politics",
+    "polka",
+    "poll",
+    "pollen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337171_ea95a935f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337171_61937a3feb_o.png",
+      "id_image": "politician_4247679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074185_75aa93d6de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074185_4217fb10d3_o.png",
+      "id_image": "politician_6036792"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "english": "reduce",
+  "phat_am": "rəˈdjuːs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giảm",
+          "definition": "to make less, smaller etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shop reduced its prices",
+              "world_new": [
+                "shop",
+                "its"
+              ]
+            },
+            {
+              "ex_of_definition": "The train reduced speed.",
+              "world_new": [
+                "train",
+                "speed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giảm cân bằng cách ăn kiêng",
+          "definition": "to lose weight by dieting",
+          "world_new": [
+            "lose",
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I must reduce to get into that dress.",
+              "world_new": [
+                "I",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm cho",
+          "definition": "to drive, or put, into a particular (bad) state",
+          "world_new": [
+            "drive",
+            "particular",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bombs reduced the city to ruins",
+              "world_new": [
+                "city",
+                "ruins"
+              ]
+            },
+            {
+              "ex_of_definition": "She was so angry, she was almost reduced to tears",
+              "world_new": [
+                "angry",
+                "almost"
+              ]
+            },
+            {
+              "ex_of_definition": "During the famine, many people were reduced to eating grass and leaves.",
+              "world_new": [
+                "famine",
+                "people",
+                "grass"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The value of is reduced by 1% at each step after the sample is allowed to reach equilibrium.",
+    "As a result, the realworld risk of physical demonstration was reduced.",
+    "How far can the number of working languages be reduced?",
+    "We apply a reduction rule by using a maximal reduction context for the term that should be reduced.",
+    "Both suffer when the time available is reduced, but an appropriate development methodology can in both cases minimize the damage.",
+    "We find s by reducing t to normal form.",
+    "Note that the above rule may be applied provided the scope of substituted names is localised to the term to be reduced.",
+    "Another is that competition, even if successful in reducing tariffs, will marginally affect the households bills."
+  ],
+  "list_see_also": [
+    "reducible",
+    "reduction"
+  ],
+  "list_browse": [
+    "redouble",
+    "redoubtable",
+    "redress",
+    "redress the balance",
+    "reduce",
+    "reducible",
+    "reduction",
+    "redundancy",
+    "redundant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069735_8dbd903eb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069735_79850a2e61_o.png",
+      "id_image": "reduce_1891346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332916_be22e090e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332916_8e9ede27ee_o.png",
+      "id_image": "reduce_5068508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332896_86742b36bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332896_72aaf4cd69_o.png",
+      "id_image": "reduce_6092197"
+    }
+  ]
+}

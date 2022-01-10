@@ -1,0 +1,87 @@
+{
+  "english": "numb",
+  "phat_am": "nam",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tê cóng; chết lặng",
+          "definition": "not able to feel or move",
+          "world_new": [
+            "feel",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My arm has gone numb",
+              "world_new": [
+                "arm"
+              ]
+            },
+            {
+              "ex_of_definition": "She was numb with cold.",
+              "world_new": [
+                "cold"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm tê cóng; chết lặng",
+          "definition": "to make numb",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cold numbed her fingers.",
+              "world_new": [
+                "cold"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The mayor is elected every two years during even number years.",
+    "The avatar persona experiences an experience similar to an escape from reality like drug or alcohol usage for numbing pain or hiding behind it.",
+    "The site described the film as a little deeper and more thoughtful than most police dramas but not quite enough to surmount its thinly written characters and numbing violence.",
+    "Road maps usually number state highways in this fashion.",
+    "His main areas of research are number theory and related topics.",
+    "He wields a variety of gases: laughing, tear gass, and numbing gas.",
+    "In one method, the therapist numbs patients' mouths with local anaesthetic, then places electrodes with a very weak current into their mouths.",
+    "Childhood desire for companionship can become numbed through a history of failed social encounters."
+  ],
+  "list_see_also": [
+    "numbly",
+    "numbness"
+  ],
+  "list_browse": [
+    "nudist",
+    "nudity",
+    "nugget",
+    "nuisance",
+    "numb",
+    "number",
+    "number-plate",
+    "numberless",
+    "numbly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674639_a70528d385_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674639_5df6ce2ff0_o.png",
+      "id_image": "numb_3233051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434843_681b7abfa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434843_b33a85e38b_o.png",
+      "id_image": "numb_6349609"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "optimize",
+  "phat_am": "ˈoptiˌmaiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tối ưu hóa",
+          "definition": "to make something as good or effective as it can be",
+          "world_new": [
+            "effective"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re researching techniques that optimize the use of the world’s dwindling energy supply.",
+              "world_new": [
+                "energy",
+                "supply"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such approaches are generating renewed interest in ecological aspects of crop production which can optimize yields while conserving soil, water, energy and other environmental resources.",
+    "Various tungsten percentages and overcoat thicknesses were simulated in order to optimize the amount of radiation heating developed in the ablator.",
+    "The stimulus was viewed with natural pupils to optimize patient comfort.",
+    "All of these elements are also important for synthesizing and optimizing high speed machinery.",
+    "Consideration should be given to optimizing systems (evolutionary operation) for increased efficiency and to minimize operation and maintenance costs.",
+    "As air breathing increased in importance, the vertebrate larynx strengthened to accommodate additional functions such as optimizing airflow and protecting the lungs from foreign matter.",
+    "Therefore, each of link orientations is sequentially determined from the endeffector toward the base by optimizing multi-criteria.",
+    "A protocol can be optimized if we can describe its regular state and common input events."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "optimism",
+    "optimist",
+    "optimistic",
+    "optimistically",
+    "optimize",
+    "optimum",
+    "option",
+    "optional",
+    "opulence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459928_b43877e3cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459928_fc8e8669ff_o.png",
+      "id_image": "optimize_1421310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345066_0c8f949dfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345066_dc90392e7f_o.png",
+      "id_image": "optimize_1640958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700204_17f60dd212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700204_6ec81d2ec4_o.png",
+      "id_image": "optimize_2344679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459818_9c8aac873d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459818_5f26388ab0_o.png",
+      "id_image": "optimize_2654594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809381936_e9728cc6ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809381936_ea35356c0e_o.png",
+      "id_image": "optimize_2906030"
+    }
+  ]
+}

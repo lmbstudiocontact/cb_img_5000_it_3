@@ -1,0 +1,162 @@
+{
+  "english": "mould",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đất tơi xốp",
+          "definition": "(soil which is full of) rotted leaves etc.",
+          "world_new": [
+            "full"
+          ]
+        },
+        {
+          "mean_english": "mốc meo",
+          "definition": "a growth on stale food etc",
+          "world_new": [
+            "growth",
+            "stale",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This bread is covered with mould/mold.",
+              "world_new": [
+                "bread"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khuôn",
+          "definition": "a shape into which a substance in liquid form is poured so that it may take on that shape when it cools and hardens",
+          "world_new": [
+            "shape",
+            "substance",
+            "liquid",
+            "form",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a jelly mould/mold.",
+              "world_new": [
+                "jelly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường gờ, đường chỉ",
+          "definition": "something, especially a food, formed in a mould/mold.",
+          "world_new": [
+            "food"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đúc",
+          "definition": "to form in a mould",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The metal is moulded/molded into long bars.",
+              "world_new": [
+                "metal",
+                "long"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nặn",
+          "definition": "to work into a shape",
+          "world_new": [
+            "work",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He moulded/molded the clay into a ball.",
+              "world_new": [
+                "clay",
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nặn",
+          "definition": "to make the shape of (something)",
+          "world_new": [
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She moulded/molded the figure out of/in clay.",
+              "world_new": [
+                "figure",
+                "clay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The aphid produces large quantities of honeydew which cover the foliage and provide an ideal substrate for the growth of sooty moulds.",
+    "It can cause the metal to tear away from the mould walls resulting in a deformed casting.",
+    "Her image left critics free to praise her: to note virility without suggesting that she fitted the usual authorial mould.",
+    "The other dimension of invisible language policies involves the role of creative writers in moulding language policy.",
+    "They advertised widely the occurrence of crime and actively moulded its definition, suggesting motivations and dynamics for criminal behaviour.",
+    "The population, with people as the subjects of governance, is continually being moulded through a series of 'social devices'.",
+    "Seasonal variation in atmospheric concentration of fungal spores has been documented for some moulds in several geographical locations.",
+    "Breaking the mould: roles, responsibilities and skills mix in departments of clinical oncology."
+  ],
+  "list_see_also": [
+    "mouldy",
+    "mouldiness"
+  ],
+  "list_browse": [
+    "motorize",
+    "motorway",
+    "mottled",
+    "motto",
+    "mould",
+    "mouldiness",
+    "mouldy",
+    "moult",
+    "mound"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334461_7a97f15fbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334461_55e6b76faf_o.png",
+      "id_image": "mould_2614619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689589_299a3bb846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689589_4e4f91bd4e_o.png",
+      "id_image": "mould_455325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334491_24b429582d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334491_5edf9156c6_o.png",
+      "id_image": "mould_817327"
+    }
+  ]
+}

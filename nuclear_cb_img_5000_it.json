@@ -1,0 +1,62 @@
+{
+  "english": "nuclear",
+  "phat_am": "ˈnjuːkliə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hạt nhân",
+          "definition": "using atomic energy",
+          "world_new": [
+            "atomic",
+            "energy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nuclear power station",
+              "world_new": [
+                "power",
+                "station"
+              ]
+            },
+            {
+              "ex_of_definition": "nuclear weapons."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhân",
+          "definition": "of a nucleus.",
+          "world_new": [
+            "nucleus"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nowhere",
+    "nowhere near",
+    "nozzle",
+    "nr",
+    "nuclear",
+    "nuclear device",
+    "nuclear disarmament",
+    "nuclear energy",
+    "nuclear reactor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674884_b85d0d277a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674884_f16567e544_o.png",
+      "id_image": "nuclear_2640423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056560_d686ed6469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056560_16ba1ff281_o.png",
+      "id_image": "nuclear_306717"
+    }
+  ]
+}

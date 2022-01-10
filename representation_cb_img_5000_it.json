@@ -1,0 +1,81 @@
+{
+  "english": "representation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đại diện",
+          "definition": "the act of representing or the state of being represented",
+          "world_new": [
+            "act",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "proportional representation.",
+              "world_new": [
+                "proportional"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người đại diện",
+          "definition": "a person or thing that represents",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These primitive statues are intended as representations of gods and goddesses.",
+              "world_new": [
+                "primitive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời phản đối",
+          "definition": "a strong appeal, demand or protest.",
+          "world_new": [
+            "strong",
+            "appeal",
+            "demand",
+            "protest"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Second, and more important, the forecasting of events is much easier in terms of distal than proximal representations.",
+    "In effect, they amount to introducing syntactic diacritics in the lexical semantic representations.",
+    "There is no theoretical account of the mental representations that are changing within their postulated dynamic processes, and how these changes are to be quantified.",
+    "As is too common among cognitive scientists, they equate mental representations with representations of external physical objects.",
+    "A related issue is the influence of other phonological variables on lexical representations.",
+    "In this way, the number of possible representations was constrained.",
+    "One might even say that if the brain does not use localist representations then evolution has missed an excellent trick.",
+    "Each of these (identity matching and supramodal representations) is based on the assumption that integration of vision and hearing occurs within the observer."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "repose",
+    "reprehensible",
+    "reprehensibly",
+    "represent",
+    "representation",
+    "representative",
+    "repress",
+    "repression",
+    "repressive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437863_e8b4a77b89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437863_1d882a2b4c_o.png",
+      "id_image": "representation_3103134"
+    }
+  ]
+}

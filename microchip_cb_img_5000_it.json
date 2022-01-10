@@ -1,0 +1,65 @@
+{
+  "english": "microchip",
+  "phat_am": "ˈmaikrouˌtʃip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vi mạch",
+          "definition": "(also chip) computing a very small piece of silicon or another semiconductor that carries a series of electrical circuits and is used in computers and other machines",
+          "world_new": [
+            "small",
+            "piece",
+            "silicon",
+            "semiconductor",
+            "series",
+            "electrical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a silicon microchip.",
+              "world_new": [
+                "silicon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Second, increased use of microchips and biosensors is likely to make healthcare more proactive and preventative rather than reactive and episodic.",
+    "The expanded use of implantable microchips and biosensors will only make this task more difficult.",
+    "He talked about microchipping and made a plea for one approved microchip.",
+    "It also promised to ensure the fulfilment of the plan for microchips.",
+    "As a telescope extends our ability to see long distances, this particular application of an implantable microchip increases our ability to \"see\" where our pets are.",
+    "Your car is full of microchips.",
+    "The situation is different, however, with the solid state microchip laser subject to a semiconductor saturable absorber.",
+    "The tags contain microchips that transmit signals to receivers built into the shelves around the store."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "microbe",
+    "microbiological",
+    "microbiologist",
+    "microbiology",
+    "microchip",
+    "microcomputer",
+    "microcosm",
+    "microcosmic",
+    "microcredit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699594_391834cf4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699594_cffe49acd0_o.png",
+      "id_image": "microchip_284857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081875_cdb07915c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081875_5f696a9d33_o.png",
+      "id_image": "microchip_4152089"
+    }
+  ]
+}

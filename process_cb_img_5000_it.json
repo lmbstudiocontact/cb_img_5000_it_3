@@ -1,0 +1,152 @@
+{
+  "english": "process",
+  "phat_am": "ˈprəuses",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quá trình",
+          "definition": "a method or way of manufacturing things",
+          "world_new": [
+            "method",
+            "manufacturing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are using a new process to make glass.",
+              "world_new": [
+                "glass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quy trình",
+          "definition": "a series of events that produce change or development",
+          "world_new": [
+            "series",
+            "produce",
+            "change",
+            "development"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The process of growing up can be difficult for a child",
+              "world_new": [
+                "difficult",
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "the digestive processes.",
+              "world_new": [
+                "digestive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá trình",
+          "definition": "a course of action undertaken",
+          "world_new": [
+            "course",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Carrying him down the mountain was a slow process.",
+              "world_new": [
+                "mountain",
+                "slow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xử lý",
+          "definition": "to deal with (something) by the appropriate process",
+          "world_new": [
+            "deal",
+            "appropriate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have your photographs been processed?",
+              "world_new": [
+                "your",
+                "processed"
+              ]
+            },
+            {
+              "ex_of_definition": "The information is being processed by computer.",
+              "world_new": [
+                "information",
+                "processed",
+                "computer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The six papers that make up this issue have been selected purely on the basis of the formal refereeing process.",
+    "They generalize the ordinary dynamical systems and stochastic processes.",
+    "However, there is a sharp distinction between the mechanisms posited by repression and the processes thought to underlie ordinary forgetting.",
+    "These solutions provide qualitative insight for the process of secondary oil recovery if the polymer concentration of liquid injected into the reservoir varies with time.",
+    "The resulting images were processed and analysed as with the 38-mm photographs (see above) to obtain the percentage white pixels.",
+    "It is a multi-faceted process in that records will be linked by person, by place and by ordinary (or bishop).",
+    "Repeating this process with a sample group permits the efficient collection of a substantial data set concerning underlying preferences.",
+    "The process converges to a unique absorbing state in which all players cooperate."
+  ],
+  "list_see_also": [
+    "processed",
+    "processor",
+    "in the process of"
+  ],
+  "list_browse": [
+    "procedure",
+    "proceed",
+    "proceedings",
+    "proceeds",
+    "process",
+    "processed",
+    "procession",
+    "processor",
+    "proclaim"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322966_3ba1ec8f83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322966_c25aa31cb2_o.png",
+      "id_image": "process_1605297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059660_d440454894_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059660_3a2bb26719_o.png",
+      "id_image": "process_2733478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367937_99aeb397ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367937_1af682c5c3_o.png",
+      "id_image": "process_296930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059620_03ab6b0d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059620_4e82fde26f_o.png",
+      "id_image": "process_4391691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678124_615cb71425_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678124_ac92270bff_o.png",
+      "id_image": "process_860483"
+    }
+  ]
+}

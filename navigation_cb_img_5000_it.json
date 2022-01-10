@@ -1,0 +1,68 @@
+{
+  "english": "navigation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngành hàng hải",
+          "definition": "the art or skill of navigating",
+          "world_new": [
+            "art",
+            "skill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "successful navigation of the rocky headland.",
+              "world_new": [
+                "successful",
+                "rocky",
+                "headland"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Section 4 describes the testing, in simulation and with actual mobile robots, of the proposed hybrid navigation system.",
+    "The video of each session was then scored for navigation, legibility, safety, task performance and the participant's expressed level of comfort.",
+    "In addition, there are many as yet unquantified community environmental and amenity benefits from the maintenance of viable navigations.",
+    "The navigation task is defined by a 'reach goal ' typically a goal location or a heading often with a time constraint.",
+    "The young woman, his real grandmother, returned to divine navigation.",
+    "They have been navigations traditionally; in fact some are even called navigations.",
+    "Ecient and eective retrieval, disorientation and cognitive overhead are major issues concerning interactive content selection and navigation.",
+    "I think that we must acknowledge that save on a handful of river navigations the traditional transport role of waterways has gone for good."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nave",
+    "navel",
+    "navigable",
+    "navigate",
+    "navigation",
+    "navigator",
+    "navy",
+    "NCO",
+    "NE"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371742_4538e3762c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371742_f60c5cc3db_o.png",
+      "id_image": "navigation_280069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442063_88ee4b9275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442063_d17391d108_o.png",
+      "id_image": "navigation_2879024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063870_c3d1b3f875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063870_039b5c0414_o.png",
+      "id_image": "navigation_4735966"
+    }
+  ]
+}

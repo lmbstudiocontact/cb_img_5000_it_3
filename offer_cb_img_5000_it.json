@@ -1,0 +1,132 @@
+{
+  "english": "offer",
+  "phat_am": "ˈofə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mời; đề nghị",
+          "definition": "to put forward (a gift, suggestion etc) for acceptance or refusal",
+          "world_new": [
+            "forward",
+            "gift",
+            "suggestion",
+            "acceptance",
+            "refusal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She offered the man a cup of tea",
+              "world_new": [
+                "cup",
+                "tea"
+              ]
+            },
+            {
+              "ex_of_definition": "He offered her $20 for the picture.",
+              "world_new": [
+                "picture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sẵn sàng",
+          "definition": "to say that one is willing",
+          "world_new": [
+            "willing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He offered to help.",
+              "world_new": [
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời mời",
+          "definition": "an act of offering",
+          "world_new": [
+            "act",
+            "offering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an offer of help.",
+              "world_new": [
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự trả giá",
+          "definition": "an offering of money as the price of something",
+          "world_new": [
+            "offering",
+            "money",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They made an offer of $50,000 for the house.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In trains and buses the young people are never willing to offer their elders seats.",
+    "In this sense there are two distinct philosophical perspectives offered here.",
+    "Particularly troubling to us is that no means is offered for determining at what time(s) a given parameter reflects either planning or control.",
+    "The oboe, on the other hand, offers very little for the eye, though some players attempt to compensate for this with grand gestures.",
+    "Ultrasonography offers excellent spatial resolution, portability, and lack of ionizing radiation and the need for transport.",
+    "Her chapter offers a detailed and informative account of these case studies.",
+    "Political economists and political scientists have offered a plethora of explanations for why competition in laxity remains rare in environmental and consumer policy.",
+    "She nonetheless stresses that models can offer substantive theoretical knowledge of the world."
+  ],
+  "list_see_also": [
+    "offering",
+    "on offer"
+  ],
+  "list_browse": [
+    "offender",
+    "offensive",
+    "offensively",
+    "offensiveness",
+    "offer",
+    "offering",
+    "offhand",
+    "offhandedly",
+    "offhandedness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393522_a988bbabf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393522_2589bec7e1_o.png",
+      "id_image": "offer_1110177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393497_6101ceb3dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393497_53e94e704f_o.png",
+      "id_image": "offer_5002109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703329_1106810b23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703329_49d641d640_o.png",
+      "id_image": "offer_5434154"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "package",
+  "phat_am": "ˈpӕkidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bưu kiện",
+          "definition": "things wrapped up and tied (for posting etc); a parcel",
+          "world_new": [
+            "parcel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a package of books."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng gói",
+          "definition": "to wrap up into a package",
+          "world_new": [
+            "wrap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He packaged (up) the clothes.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "packaging",
+    "package deal",
+    "package holiday"
+  ],
+  "list_browse": [
+    "pacify",
+    "pack",
+    "pack off",
+    "pack up",
+    "package",
+    "package deal",
+    "package holiday",
+    "packaging",
+    "packed (out)"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338606_3b9ae22890_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338606_a79582bc58_o.png",
+      "id_image": "package_228389"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453598_ab3a7bbca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453598_52eda38e60_o.png",
+      "id_image": "package_290925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693719_7e09b029ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693719_03c7e080bb_o.png",
+      "id_image": "package_316630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453458_c2ce3f4522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453458_e5b83c3298_o.png",
+      "id_image": "package_365243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075510_5bd28024a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075510_a47975590f_o.png",
+      "id_image": "package_365256"
+    }
+  ]
+}

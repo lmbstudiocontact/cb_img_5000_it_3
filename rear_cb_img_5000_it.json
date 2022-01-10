@@ -1,0 +1,160 @@
+{
+  "english": "rear",
+  "phat_am": "riə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ phận đằng sau; hậu phương",
+          "definition": "the back part of something",
+          "world_new": [
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a second bathroom at the rear of the house",
+              "world_new": [
+                "bathroom",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "The enemy attacked the army in the rear.",
+              "world_new": [
+                "enemy",
+                "army"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mông đít",
+          "definition": "the buttocks, bottom",
+          "world_new": [
+            "bottom"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse kicked him in his rear.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phía sau",
+          "definition": "positioned behind",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the rear wheels of the car.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nuôi nấng",
+          "definition": "to feed and care for (a family, animals etc while they grow up)",
+          "world_new": [
+            "feed",
+            "care",
+            "family",
+            "grow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has reared six children"
+            },
+            {
+              "ex_of_definition": "He rears cattle.",
+              "world_new": [
+                "cattle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chồm lên",
+          "definition": "(especially of a horse) to rise up on the hind legs",
+          "world_new": [
+            "rise",
+            "hind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse reared in fright as the car passed.",
+              "world_new": [
+                "horse",
+                "fright",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngẩng lên",
+          "definition": "to raise (the head etc)",
+          "world_new": [
+            "raise",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The snake reared its head.",
+              "world_new": [
+                "snake",
+                "its",
+                "head"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rear admiral",
+    "rearguard"
+  ],
+  "list_browse": [
+    "reap",
+    "reaper",
+    "reappear",
+    "reappearance",
+    "rear",
+    "rear admiral",
+    "rear up",
+    "rearguard",
+    "rearm"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381682_03205bd7d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381682_c23f9407be_o.png",
+      "id_image": "rear_1230008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336631_66654c300e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336631_3eed7610fa_o.png",
+      "id_image": "rear_1743655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336601_2bf30403a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336601_66708b848b_o.png",
+      "id_image": "rear_2418915"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "quilt",
+  "phat_am": "kwilt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mền bông; chăn",
+          "definition": "a bedcover filled with down, feathers etc",
+          "world_new": [
+            "bedcover",
+            "filled"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a patchwork quilt.",
+              "world_new": [
+                "patchwork"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Seminole strip piecing has uses in quilts, wall hangings, and traditional clothing.",
+    "Another project involved a woman producing quilts which we use for refugee projects.",
+    "Often charities will provide comfort objects such as blankets and quilts to survivors of disasters.",
+    "In the context of quilting, tessellation refers to regular and semiregular of tessellation of either patch shapes or the overall design.",
+    "Accordingly, width of the second-order quilts varies between different specimens.",
+    "At these large gatherings the boy sits on a chair draped with \"tvaevae\" (quilts).",
+    "Painted buffalo skins and local sewn quilts are offered.",
+    "The girls used to spend some time creating useful items to send to the forces fighting in the great war, such as quilts."
+  ],
+  "list_see_also": [
+    "quilted"
+  ],
+  "list_browse": [
+    "quieten",
+    "quietly",
+    "quietness",
+    "quill",
+    "quilt",
+    "quilted",
+    "quince",
+    "quinine",
+    "quintal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080555_bd2d3cfa8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080555_1b6d39c451_o.png",
+      "id_image": "quilt_1337907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343071_8b2e99570d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343071_8d47cc188d_o.png",
+      "id_image": "quilt_3467770"
+    }
+  ]
+}

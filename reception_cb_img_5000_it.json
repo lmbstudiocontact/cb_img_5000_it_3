@@ -1,0 +1,123 @@
+{
+  "english": "reception",
+  "phat_am": "rəˈsepʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đón nhận",
+          "definition": "the act of receiving or being received",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His speech got a good reception.",
+              "world_new": [
+                "speech"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiệc chiêu đãi",
+          "definition": "a formal party or social gathering to welcome guests",
+          "world_new": [
+            "formal",
+            "party",
+            "social",
+            "gathering",
+            "welcome"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wedding reception.",
+              "world_new": [
+                "wedding"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thu sóng (rađiô hay tivi)",
+          "definition": "the quality of radio or television signals",
+          "world_new": [
+            "quality",
+            "radio",
+            "television"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Radio reception is poor in this area.",
+              "world_new": [
+                "poor",
+                "area"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phòng tiếp tân",
+          "definition": "the part of a hotel, hospital etc where visitors enter and are attended to",
+          "world_new": [
+            "part",
+            "hotel",
+            "hospital",
+            "enter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She went to the hotel reception to check in.",
+              "world_new": [
+                "hotel",
+                "check"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, increased surveillance on the part of the reception staff improved communication both between members of staff and between members of staff and patients.",
+    "If this is the case, their differential novelty cannot fully account for the quite different reception of the two major parts of the monograph.",
+    "The reception of the pieces, however, does seem to split somewhat down cultural lines.",
+    "Second, issues of audience reception and the alienating effects of the superior moral tone noted above are not properly addressed.",
+    "This later reception suggests that it was possible to unanchor the erudite component of the annotations from the political function of the original articulation.",
+    "The questions raised by medieval music reception reach to musicological fields outside medieval studies, but especially ethnomusicology and popular music studies.",
+    "The frame is related to the presentation but also to the reception of theatre.",
+    "If words are not completely encoded or retrieved, then language reception and production will be deficient."
+  ],
+  "list_see_also": [
+    "receptionist"
+  ],
+  "list_browse": [
+    "receiver",
+    "recent",
+    "recently",
+    "receptacle",
+    "reception",
+    "receptionist",
+    "receptive",
+    "recess",
+    "recession"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335916_575b7ca2fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335916_8f2ffcf824_o.png",
+      "id_image": "reception_1209473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450848_f1474f3f21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450848_84c2c9d40e_o.png",
+      "id_image": "reception_3595900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450928_7e6c78e2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450928_a2dfa7b1cc_o.png",
+      "id_image": "reception_453346"
+    }
+  ]
+}

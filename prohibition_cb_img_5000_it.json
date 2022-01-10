@@ -1,0 +1,86 @@
+{
+  "english": "prohibition",
+  "phat_am": "prəuiˈbiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ngăn cấm",
+          "definition": "the act of prohibiting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We demand the prohibition by the government of the sale of this drug.",
+              "world_new": [
+                "demand",
+                "government",
+                "sale",
+                "drug"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "qui định cấm",
+          "definition": "a rule, law etc forbidding something",
+          "world_new": [
+            "rule",
+            "law",
+            "forbidding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The headmaster issued a prohibition against bringing knives into school.",
+              "world_new": [
+                "headmaster",
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Twenty years ago, its strict prohibition against foreigners had severely obstructed trade.",
+    "Just governance presupposes the guidance of behavior, and the issuing of prohibitions is necessary for such guidance.",
+    "Each of these threats - and many others - provoked distinctly illiberal rules and prohibitions.",
+    "The prohibitions against internal improvements and a protective tariff were among the very few changes made.",
+    "Interestingly, the human rights framework within which challenges to such prohibitions have been brought, further entrenches this public/private separation.",
+    "The action itself, not anything consequent upon it, is the wrong, and that wrong is sufficient reason to consider it eligible for criminal prohibition.",
+    "A number of authors argue that since desire is a necessary condition of action, the prohibition on desire cannot be a prohibition on all desire.",
+    "If some activity is sufficiently troublesome or dangerous to merit an injunction, a blanket prohibition replaces a standard of care."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "progressive",
+    "progressively",
+    "progressiveness",
+    "prohibit",
+    "prohibition",
+    "project",
+    "projectile",
+    "projection",
+    "projector"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436043_6bca85b61e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436043_87ee63e3f4_o.png",
+      "id_image": "prohibition_2707411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320876_fb94123bd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320876_ab90e2c09d_o.png",
+      "id_image": "prohibition_394539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675894_52044376fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675894_9cc7430096_o.png",
+      "id_image": "prohibition_4866944"
+    }
+  ]
+}

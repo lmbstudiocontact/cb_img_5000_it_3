@@ -1,0 +1,178 @@
+{
+  "english": "parallel",
+  "phat_am": "ˈpӕrəlel",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "song song",
+          "definition": "(of straight lines) going in the same direction and always staying the same distance apart",
+          "world_new": [
+            "straight",
+            "direction",
+            "distance",
+            "apart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road is parallel to/with the river.",
+              "world_new": [
+                "road",
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tương tự",
+          "definition": "alike (in some way)",
+          "world_new": [
+            "alike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are parallel passages in the two books."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "dọc theo",
+          "definition": "in the same direction but always about the same distance away",
+          "world_new": [
+            "direction",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We sailed parallel to the coast for several days.",
+              "world_new": [
+                "coast"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường song song",
+          "definition": "a line parallel to another",
+          "world_new": [
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Draw a parallel to this line.",
+              "world_new": [
+                "line"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tương đồng",
+          "definition": "a likeness or state of being alike",
+          "world_new": [
+            "likeness",
+            "state",
+            "alike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is there a parallel between the British Empire and the Roman Empire?",
+              "world_new": [
+                "British",
+                "Roman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường vĩ tuyến",
+          "definition": "a line drawn from east to west across a map etc at a fixed distance from the equator",
+          "world_new": [
+            "line",
+            "drawn",
+            "east",
+            "west",
+            "across",
+            "map",
+            "fixed",
+            "distance",
+            "equator"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The border between Canada and the United States follows the forty-ninth parallel.",
+              "world_new": [
+                "border"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "so sánh với",
+          "definition": "to be equal to",
+          "world_new": [
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His stupidity can’t be paralleled.",
+              "world_new": [
+                "stupidity"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I began to draw clear parallels and connections between shamanic practice and our performances.",
+    "Again the argument was supported by nationalist criteria: geographical contiguity, historical ties and ethnic parallels.",
+    "The importance of considering alternative architectures parallels the importance of considering alternative learning algorithms.",
+    "Note that the attraction of stress to closed syllables parallels the pattern seen with long vowels.",
+    "The pword can have one proclitic-like element, parallelling a simplex onset ([clitic (pword)]).",
+    "Indeed, there are parallels here among implicit learning, priming or perseveration, and sociolinguistic variation.",
+    "However, in typical development there is a characteristic \"rise and fall\" of glucose metabolism that parallels changes in synaptic density in the cortex.",
+    "Finally, the simultaneous production of signs and words has certain parallels with the monolingual production of co-speech gestures and spoken words."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "paradoxically",
+    "paraffin",
+    "paragon",
+    "paragraph",
+    "parallel",
+    "parallelogram",
+    "paralyse",
+    "paralysis",
+    "paralytic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333236_ac3b7a42d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333236_a93c768bbf_o.png",
+      "id_image": "parallel_5376858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333201_291f3ff548_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333201_c75ddd1df5_o.png",
+      "id_image": "parallel_5967429"
+    }
+  ]
+}

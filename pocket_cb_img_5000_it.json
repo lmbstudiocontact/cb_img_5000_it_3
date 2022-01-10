@@ -1,0 +1,180 @@
+{
+  "english": "pocket",
+  "phat_am": "ˈpokit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "túi",
+          "definition": "a small bag sewn into or on to clothes, for carrying things in",
+          "world_new": [
+            "small",
+            "bag",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stood with his hands in his pockets"
+            },
+            {
+              "ex_of_definition": "a coat pocket",
+              "world_new": [
+                "coat"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a pocket handkerchief, a pocket knife.",
+              "world_new": [
+                "handkerchief",
+                "knife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "túi hứng bi a",
+          "definition": "a small bag attached to the corners and sides of a billiard-table etc to catch the balls",
+          "world_new": [
+            "small",
+            "bag",
+            "attached",
+            "catch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s going to pot the black in the middle pocket.",
+              "world_new": [
+                "pot",
+                "black",
+                "middle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm biệt lập",
+          "definition": "a small isolated area or group",
+          "world_new": [
+            "small",
+            "isolated",
+            "area",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pocket of warm air.",
+              "world_new": [
+                "warm",
+                "air"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "túi tiền",
+          "definition": "(a person’s) income or amount of money available for spending",
+          "world_new": [
+            "income",
+            "amount",
+            "money",
+            "available"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a range of prices to suit every pocket.",
+              "world_new": [
+                "range",
+                "suit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho vào túi",
+          "definition": "to put in a pocket",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pocketed his wallet",
+              "world_new": [
+                "wallet"
+              ]
+            },
+            {
+              "ex_of_definition": "He pocketed the red ball.",
+              "world_new": [
+                "red",
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ăn trộm",
+          "definition": "to steal",
+          "world_new": [
+            "steal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Be careful he doesn’t pocket the silver.",
+              "world_new": [
+                "careful",
+                "silver"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, pockets of low vaccine coverage within areas of otherwise high coverage may prevent elimination of measles [2].",
+    "His pockets had to be emptied of doofers from time to time, and aired.",
+    "Establishing effective communication channels among the isolated pockets of preservation activity soon became a major component of the program.",
+    "Yes, billions have been saved, but it all seems to go into the pockets of the plans, the insurance companies, and the employers.",
+    "We hypothesize the first few seconds are marked by internal pockets of liquid solder that has not frozen, yet.",
+    "Each sample consisted of the contents of at least two periodontal pockets from each patient.",
+    "In other words, did these legislatures develop key committees that were pockets of expertise?",
+    "In addition, this presence created connections with other disciplines and disparate pockets of microresistance; challenging disciplinary boundaries while offering support and solidarity."
+  ],
+  "list_see_also": [
+    "pocketful",
+    "pocketbook",
+    "pocket money",
+    "pocket-size"
+  ],
+  "list_browse": [
+    "PO Box",
+    "poach",
+    "poached",
+    "poacher",
+    "pocket",
+    "pocket money",
+    "pocket-size",
+    "pocketbook",
+    "pocketful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076410_8ebcdf88ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076410_175b4f11fc_o.png",
+      "id_image": "pocket_2803510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339221_f8c3e4991e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339221_92d5a38b31_o.png",
+      "id_image": "pocket_3655751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076440_fa445966eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076440_7dcb1336ee_o.png",
+      "id_image": "pocket_532027"
+    }
+  ]
+}

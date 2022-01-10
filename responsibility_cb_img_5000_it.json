@@ -1,0 +1,103 @@
+{
+  "english": "responsibility",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trách nhiệm",
+          "definition": "something which a person has to look after, do etc",
+          "world_new": [
+            "person",
+            "look"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He takes his responsibilities very seriously.",
+              "world_new": [
+                "seriously"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự quan trọng",
+          "definition": "the state of having important duties",
+          "world_new": [
+            "state",
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a position of responsibility.",
+              "world_new": [
+                "position"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trách nhiệm",
+          "definition": "the state of being responsible",
+          "world_new": [
+            "state",
+            "responsible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "his responsibility for the accident.",
+              "world_new": [
+                "accident"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both strands are brought together in looking beyond individual responsibility or culpability to the structural and lifecourse causes of the problems.",
+    "While some felt strongly that it is an obligation, others referred to the difficulties the responsibility created.",
+    "In the above conversation, the nurse followed up her responsibilities agreed at the discharge planning meeting regarding discussing discharge issues with the patient.",
+    "Managers usually design and oversee these roles and responsibilities in corporate organisations, multinational corporations and state-owned enterprises, where ownership is separated from control.",
+    "Their responsibilities include reviewing patient medication profiles, identifying and monitoring adverse drug reactions, dosage recommendations, and patient education.",
+    "My parents put a lot of responsibility on us children.",
+    "Furthermore, participants are asked to ref lect on differences and similarities between home- and work-related responsibilities.",
+    "He had stressed the central question of co-operation and willingness to accept a common responsibility."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "resplendently",
+    "respond",
+    "response",
+    "response partners",
+    "responsibility",
+    "responsible",
+    "responsibly",
+    "responsive",
+    "responsively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350726_1e2dae4e27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350726_1320ecb963_o.png",
+      "id_image": "responsibility_2072718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350696_16481ed85a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350696_0052f5deba_o.png",
+      "id_image": "responsibility_3062368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705199_3dac98ac99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705199_06efd262e9_o.png",
+      "id_image": "responsibility_3588563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395382_ce19cf984a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395382_4e8eb642e8_o.png",
+      "id_image": "responsibility_4371066"
+    }
+  ]
+}

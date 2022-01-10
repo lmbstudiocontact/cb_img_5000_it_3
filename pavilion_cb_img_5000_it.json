@@ -1,0 +1,77 @@
+{
+  "english": "pavilion",
+  "phat_am": "pəˈviljən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà rạp",
+          "definition": "a building on a sports ground in which players change their clothes, store equipment etc",
+          "world_new": [
+            "building",
+            "sports",
+            "ground",
+            "change",
+            "their",
+            "clothes",
+            "store",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cricket pavilion.",
+              "world_new": [
+                "cricket"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The park has a nature center, playgrounds pavilions, scenic loop road, stables, a campsite, and eight trails open to hiking, mountain biking, and horseback riding.",
+    "Each of the wooden pavilions will house five children aged between three and 16 years old, and an adult looking after them.",
+    "All the other pavilions had stickers and souvenirs and people rushed to get them.",
+    "As part of this work the pavilions were restored, the boulevard renovated, and the beach resanded.",
+    "If we could only have in these housing schemes football grounds, pavilions and baths for the children it would make all the difference in the world.",
+    "Although its size is concordant with the house it adjoins, the pavilion's scale is not.",
+    "The pavilions allow impressive double-height rooms with mezzanines on their top storey.",
+    "Much the same could be said of the exotic plants in the parks' inevitable conservatories as well as the statues, grottoes, fountains and pavilions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pauper",
+    "pause",
+    "pave",
+    "pavement",
+    "pavilion",
+    "paving stone",
+    "paw",
+    "pawn",
+    "pawnbroker"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681969_92bb092787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681969_0e19cf378e_o.png",
+      "id_image": "pavilion_1434839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326836_c5d0f0b333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326836_b88988c034_o.png",
+      "id_image": "pavilion_2653314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681874_8c182e16b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681874_8d6ecf5290_o.png",
+      "id_image": "pavilion_3605007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681814_0e9d49fa46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681814_0559e2cfa4_o.png",
+      "id_image": "pavilion_6289663"
+    }
+  ]
+}

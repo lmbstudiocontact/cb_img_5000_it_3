@@ -1,0 +1,63 @@
+{
+  "english": "reminder",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điều nhắc nhở",
+          "definition": "something said, done, written, noticed etc that reminds one to do something",
+          "world_new": [
+            "noticed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Leave the bill on the table as a reminder that I still have to pay it.",
+              "world_new": [
+                "bill",
+                "table",
+                "I",
+                "pay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To maximize response rates, up to three reminders were sent before the person was considered a nonrespondent.",
+    "As was the case for the true and false reminders, a true and false control detail was selected from each of the five scenes.",
+    "In both political discourse and in daily life, many other reminders of war were much more prominent than the peace and anti-nuclear movements.",
+    "They transmit reminders to the residents and information to their children, caregivers, healthcare practitioners, researchers, and perhaps (unknown) others.",
+    "On the one hand, they serve as reminders of human weakness, of the ' frailty of human affairs and the variety and inconstancy of fortune '.!",
+    "No further hypoxic spells were observed, neither in these nor in the reminders of the patients.",
+    "Then, they serve as question marks and reminders of the shortcomings of theories or of the never-ending necessity to improve them.",
+    "Additionally, some argue that the perceived proximity of older people to death positions them as reminders of human mortality."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "remedy",
+    "remember",
+    "remembrance",
+    "remind",
+    "reminder",
+    "remission",
+    "remit",
+    "remittance",
+    "remnant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062610_058fd135eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062610_555b310ebf_o.png",
+      "id_image": "reminder_735200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062575_cac718b016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062575_ab6826aba1_o.png",
+      "id_image": "reminder_843169"
+    }
+  ]
+}

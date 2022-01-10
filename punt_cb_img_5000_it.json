@@ -1,0 +1,72 @@
+{
+  "english": "punt",
+  "phat_am": "pant",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuyền thúng",
+          "definition": "a type of flat-bottomed boat with square ends, moved by pushing against the bottom of the river etc with a pole.",
+          "world_new": [
+            "type",
+            "boat",
+            "square",
+            "bottom",
+            "river",
+            "pole"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi bằng thuyền thúng",
+          "definition": "to travel in a punt",
+          "world_new": [
+            "travel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They punted up the river.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Three of those ended with turnovers (2 fumbles, 1 interception), four ending with punts, one with a turnover on downs, and one touchdown.",
+    "He also returned five kickoffs for 77 yards, and two punts for 16 yards.",
+    "In that game he recorded three blocked punts, all of which occurred during the second quarter of the game.",
+    "He had 10 receptions for 106 yards and two touchdowns and returned two punts for 16 yards.",
+    "The first quarter went scoreless with both teams trading punts.",
+    "During his sophomore season, he played in all 11 games as the long snapper on punts while also recording four tackles on special teams.",
+    "Each team totaled 16 first downs, four punts, five penalties, and the margin in time of possession was less than a minute.",
+    "The club supports two traditional water sports - skiffing and punting."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "punishing",
+    "punishment",
+    "punitive",
+    "punk",
+    "punt",
+    "puny",
+    "pup",
+    "pupa",
+    "pupil"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702234_e067c78b34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702234_04a0e4771a_o.png",
+      "id_image": "punt_2333306"
+    }
+  ]
+}

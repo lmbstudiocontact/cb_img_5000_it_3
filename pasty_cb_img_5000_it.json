@@ -1,0 +1,48 @@
+{
+  "english": "pasty",
+  "phat_am": "ˈpæsti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh pasty",
+          "definition": "a small pie made by wrapping pastry around meat, vegetables, or cheese and baking it",
+          "world_new": [
+            "small",
+            "pie",
+            "wrapping",
+            "pastry",
+            "meat",
+            "cheese",
+            "baking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Cornish pasty."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pastor",
+    "pastoral",
+    "pastry",
+    "pasture",
+    "pasty",
+    "pat",
+    "patch",
+    "patch up",
+    "patchiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443703_a16fa5aed9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443703_d7b37348ed_o.png",
+      "id_image": "pasty_641890"
+    }
+  ]
+}

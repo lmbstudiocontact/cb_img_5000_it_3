@@ -1,0 +1,73 @@
+{
+  "english": "parquet",
+  "phat_am": "ˈpaːkei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sàn gỗ",
+          "definition": "a type of floor-covering made of pieces of wood arranged in a design",
+          "world_new": [
+            "type",
+            "wood",
+            "design"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "flooring made of parquet",
+              "world_new": [
+                "flooring"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a parquet floor.",
+              "world_new": [
+                "floor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For this class of parquet matrices we get the following.",
+    "Nor did they do anything about the soldiers who walked in nailed boots on the lovely parquet floor—although they were very anxious that they should take off their caps.",
+    "It has to do with parquet flooring and wood block flooring.",
+    "However, there is a class of parquet matrices whose inverses are parquet, and these inverses induce the inverse transformations.",
+    "They are unpopular, for the moment, but when wood becomes available let us cover them and thus give the dwellers in rural cottages parquet flooring.",
+    "All the luxuries—parquet flooring, the swimming pools, and so on—we want; but can this nation really afford to spend the money we are spending in local government to-day?",
+    "It was because the object was to bring it into line with parquet flooring that this order has been produced.",
+    "After she sold it she revisited it and reviled the owners for covering her beautiful parquet floor with a carpet."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "parlour maid",
+    "parody",
+    "parole",
+    "paroxysm",
+    "parquet",
+    "parricide",
+    "parrot",
+    "parsley",
+    "parsnip"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686639_f546147fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686639_98f3cb7fe5_o.png",
+      "id_image": "parquet_1207147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331701_08ca0a3720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331701_42ddc0e9c3_o.png",
+      "id_image": "parquet_252738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686669_be1ac868d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686669_0477eb6dd3_o.png",
+      "id_image": "parquet_252739"
+    }
+  ]
+}

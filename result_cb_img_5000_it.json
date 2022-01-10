@@ -1,0 +1,174 @@
+{
+  "english": "result",
+  "phat_am": "rəˈzalt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kết quả",
+          "definition": "anything which is due to something already done",
+          "world_new": [
+            "due"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His deafness is the result of a car accident",
+              "world_new": [
+                "deafness",
+                "car",
+                "accident"
+              ]
+            },
+            {
+              "ex_of_definition": "He went deaf as a result of an accident",
+              "world_new": [
+                "deaf",
+                "accident"
+              ]
+            },
+            {
+              "ex_of_definition": "He tried a new method, with excellent results",
+              "world_new": [
+                "method",
+                "excellent"
+              ]
+            },
+            {
+              "ex_of_definition": "He tried again, but without result."
+            }
+          ]
+        },
+        {
+          "mean_english": "đáp số",
+          "definition": "the answer to a sum etc",
+          "world_new": [
+            "answer",
+            "sum"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Add all these figures and tell me the result.",
+              "world_new": [
+                "tell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỷ số",
+          "definition": "the final score",
+          "world_new": [
+            "final",
+            "score"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What was the result of Saturday’s match?",
+              "world_new": [
+                "match"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kết quả",
+          "definition": "the list of people who have been successful in a competition, of subjects a person has passed or failed in an examination etc",
+          "world_new": [
+            "list",
+            "people",
+            "successful",
+            "competition",
+            "person",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had very good exam results"
+            },
+            {
+              "ex_of_definition": "The results will be published next week.",
+              "world_new": [
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "do bởi",
+          "definition": "(often with from) to be caused (by something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We will pay for any damage which results (from our experiments).",
+              "world_new": [
+                "pay",
+                "damage",
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dẫn đến kết quả",
+          "definition": "(with in) to cause or have as a result",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The match resulted in a draw.",
+              "world_new": [
+                "match",
+                "draw"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The result was a debilitating sense of impotence.",
+    "Our result can thus be written ___ 0 = 4-at.",
+    "Again, the result is unintuitive for this example.",
+    "These results apply to both subsamples of children.",
+    "There are two ways to interpret the above results.",
+    "Our results show that this is not the case.",
+    "The clinical results, however, did not confirm their expectations.",
+    "To see this, the following result is useful."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "restrict",
+    "restricted",
+    "restriction",
+    "restrictive",
+    "result",
+    "resume",
+    "resumption",
+    "resurrection",
+    "resuscitate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464598_8ff6a1d6cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464598_08cd32ca9a_o.png",
+      "id_image": "result_2720876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464578_aab9b2c77b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464578_5995f6edaf_o.png",
+      "id_image": "result_2720920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349891_eac7104e43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349891_3d6e565bfc_o.png",
+      "id_image": "result_3974900"
+    }
+  ]
+}

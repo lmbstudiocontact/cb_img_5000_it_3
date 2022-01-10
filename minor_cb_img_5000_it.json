@@ -1,0 +1,139 @@
+{
+  "english": "minor",
+  "phat_am": "ˈmainə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhỏ; thứ yếu",
+          "definition": "less, or little, in importance, size etc",
+          "world_new": [
+            "importance",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Always halt when driving from a minor road on to a major road",
+              "world_new": [
+                "halt",
+                "driving",
+                "road",
+                "major",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "She has to go into hospital for a minor operation.",
+              "world_new": [
+                "hospital",
+                "operation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề tài phụ",
+          "definition": "a secondary subject that a student chooses to study at university or college",
+          "world_new": [
+            "secondary",
+            "subject",
+            "student",
+            "study",
+            "university",
+            "college"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her major is in physics, but she has a minor in computer science.",
+              "world_new": [
+                "major",
+                "physics",
+                "computer",
+                "science"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "học như một đề tài phụ",
+          "definition": "to study something as a minor subject",
+          "world_new": [
+            "study",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is minoring in French.",
+              "world_new": [
+                "French"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trẻ vị thành niên",
+          "definition": "a person who is not yet legally an adult",
+          "world_new": [
+            "person",
+            "yet",
+            "legally",
+            "adult"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is illegal to sell alcohol to minors.",
+              "world_new": [
+                "illegal",
+                "sell",
+                "alcohol"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He was told that he was being let off with this minor punishment because this was his first offence.",
+    "A certain degree of redundancy is inevitable in compilations such as this, due to overlap of technique with augmentations or minor adaptations for special populations.",
+    "Only one of the four options was identical to the target (the other three contained minor differences).",
+    "However, this concept has been applied primarily to potential organ donors who were minors or incompetent.",
+    "The area of minor and alternative crops is a neglected one and the book covers a wide range of alternative crops and their characteristics.",
+    "The first reason is the aforementioned cultural tendency to seek treatment frequently and from many sources, traditional and modern, even for minor symptoms.",
+    "In his prime a man is legally responsible for providing his minor children with food, shelter, and clothing.",
+    "Minor truncations and discontinuities are visible at edges."
+  ],
+  "list_see_also": [
+    "minority",
+    "be in the minority"
+  ],
+  "list_browse": [
+    "ministerial",
+    "ministry",
+    "mink",
+    "minke",
+    "minor",
+    "minority",
+    "minstrel",
+    "mint",
+    "minuet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697029_9e591d394b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697029_ab4697c39f_o.png",
+      "id_image": "minor_2332289"
+    }
+  ]
+}

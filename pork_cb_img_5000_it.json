@@ -1,0 +1,67 @@
+{
+  "english": "pork",
+  "phat_am": "poːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thịt lợn",
+          "definition": "the flesh of a pig used as food",
+          "world_new": [
+            "flesh",
+            "pig",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a pork chop.",
+              "world_new": [
+                "chop"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, politicians now have less incentive to bring pork-barrel to their district.",
+    "Under a system in which politicians needed extensive support in their constituencies, pork-barrel is not a very effective strategy.",
+    "Nor did measures of access or pork-barrel politics affect the aggregate pattern.",
+    "Therefore, pre-harvest (preslaughter) prevalence data can be useful in improving pork safety.",
+    "First, pork-barrel policies only benefit a small group of farmers, and most voters will not enjoy the benefits of such policies.",
+    "All the breed groups represented had pork loins that scored below 2% marbling and 3 for visual color scores.",
+    "We derive hypotheses from a model of competitive bidding, the official evaluation of the programme and the pork-barrel literature.",
+    "A more striking observation is the consistent effect of selection for lean growth efficiency on the ability of fresh pork to hold water."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "porcelain",
+    "porch",
+    "porcupine",
+    "pore",
+    "pork",
+    "pornographic",
+    "pornography",
+    "porous",
+    "porpoise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450243_9118e635f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450243_037273b36b_o.png",
+      "id_image": "pork_1411019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335211_7eb3bf5e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335211_e2f543f60c_o.png",
+      "id_image": "pork_3005107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335191_a5c8c83fcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335191_441b67282b_o.png",
+      "id_image": "pork_5038170"
+    }
+  ]
+}

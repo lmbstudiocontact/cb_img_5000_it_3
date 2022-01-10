@@ -1,0 +1,119 @@
+{
+  "english": "public",
+  "phat_am": "ˈpablik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "công khai; công luận; công cộng",
+          "definition": "of, for, or concerning, the people (of a community or nation) in general",
+          "world_new": [
+            "concerning",
+            "people",
+            "community",
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a public library",
+              "world_new": [
+                "library"
+              ]
+            },
+            {
+              "ex_of_definition": "a public meeting",
+              "world_new": [
+                "meeting"
+              ]
+            },
+            {
+              "ex_of_definition": "Public opinion turned against him",
+              "world_new": [
+                "opinion"
+              ]
+            },
+            {
+              "ex_of_definition": "The public announcements are on the back page of the newspaper",
+              "world_new": [
+                "page",
+                "newspaper"
+              ]
+            },
+            {
+              "ex_of_definition": "This information should be made public and not kept secret any longer.",
+              "world_new": [
+                "information",
+                "secret"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The remaining 43 % are in four-room and five-room public housing and with only 6 % in private housing.",
+    "The objective was to test trap performance in relevant contexts to facilitate straightforward use by both researchers and the public.",
+    "Journalists were among the key players, encouraging critical debate and public negotiation.",
+    "From this perspective, the function of public participation in the political system is a negative one.",
+    "Still, a public economist would remind us that looking at whether environmental tax swaps increase employment or not tells us nothing about social welfare.",
+    "The ten-second public announcement was supposed to be reassuring.",
+    "Significantly, at the very same historical moment, another series of photographs of nationalist leaders was also being put into public circulation.",
+    "Ultimately, the public health concern was taken into account without requiring any redistribution to the detriment of industrial use."
+  ],
+  "list_see_also": [
+    "publicly",
+    "publicity",
+    "publicize",
+    "public holiday",
+    "public house",
+    "public relations",
+    "public school",
+    "public service announcement",
+    "public spirit",
+    "public-spirited",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "PTA",
+    "ptarmigan",
+    "PTO",
+    "puberty",
+    "public",
+    "public holiday",
+    "public house",
+    "public opinion poll",
+    "public relations"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348911_816e42b0e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348911_bc46aef582_o.png",
+      "id_image": "public_1163403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463663_bd0e5e36b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463663_5baf47a72c_o.png",
+      "id_image": "public_1719640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348871_e2c3278e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348871_e546532839_o.png",
+      "id_image": "public_2529726"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703594_30c09babf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703594_ff5db182e4_o.png",
+      "id_image": "public_5605980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703709_0c01915598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703709_45121cd154_o.png",
+      "id_image": "public_984451"
+    }
+  ]
+}

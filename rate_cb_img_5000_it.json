@@ -1,0 +1,162 @@
+{
+  "english": "rate",
+  "phat_am": "reit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tỷ lệ",
+          "definition": "the number of occasions within a given period of time when something happens or is done",
+          "world_new": [
+            "number",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a high (monthly) accident rate in a factory.",
+              "world_new": [
+                "accident",
+                "factory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỷ lệ",
+          "definition": "the number or amount of something (in relation to something else); ratio",
+          "world_new": [
+            "number",
+            "amount",
+            "relation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a failure rate of one pupil in ten in the exam.",
+              "world_new": [
+                "failure",
+                "pupil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tốc độ",
+          "definition": "the speed with which something happens or is done",
+          "world_new": [
+            "speed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He works at a tremendous rate",
+              "world_new": [
+                "works",
+                "tremendous"
+              ]
+            },
+            {
+              "ex_of_definition": "the rate of increase/expansion."
+            }
+          ]
+        },
+        {
+          "mean_english": "mức; giá",
+          "definition": "the level (of pay), cost etc (of or for something)",
+          "world_new": [
+            "level",
+            "cost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the rate of pay for this job?",
+              "world_new": [
+                "pay",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuế địa phương",
+          "definition": "a tax, especially, in United Kingdom, paid by house-owners etc to help with the running of their town etc.",
+          "world_new": [
+            "tax",
+            "help",
+            "running",
+            "their",
+            "town"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh giá",
+          "definition": "to estimate or be estimated, with regard to worth, merit, value etc",
+          "world_new": [
+            "estimate",
+            "regard",
+            "worth",
+            "merit",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t rate this book very highly",
+              "world_new": [
+                "I",
+                "book",
+                "highly"
+              ]
+            },
+            {
+              "ex_of_definition": "He doesn’t rate very highly as a dramatist in my estimation.",
+              "world_new": [
+                "highly",
+                "dramatist",
+                "my",
+                "estimation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rating",
+    "at this/that rate",
+    "rate of exchange"
+  ],
+  "list_browse": [
+    "raspberry",
+    "rasping",
+    "rat",
+    "rat race",
+    "rate",
+    "rate of exchange",
+    "rather",
+    "ratification",
+    "ratify"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075195_f68ccf6dd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075195_bd3fba2613_o.png",
+      "id_image": "rate_1373278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338101_d5f99e54cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338101_cbb5208b6d_o.png",
+      "id_image": "rate_2358758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453013_a40671bf28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453013_9c3137bc9d_o.png",
+      "id_image": "rate_3712150"
+    }
+  ]
+}

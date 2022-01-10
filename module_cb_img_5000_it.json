@@ -1,0 +1,73 @@
+{
+  "english": "module",
+  "phat_am": "ˈmodjuːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ phận tháo rời",
+          "definition": "a self-contained unit forming eg part of a building, spacecraft etc",
+          "world_new": [
+            "unit",
+            "part",
+            "building",
+            "spacecraft"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lunar module.",
+              "world_new": [
+                "lunar"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A postgraduate diploma option can be obtained after completion of the core and optional modules or a master's degree after an additional research project dissertation.",
+    "A heuristic method for identifying modules for product architectures.",
+    "Two further modules have to be chosen from the following optional modules: advanced statistical methods, clinical trials, qualitative research methods, and advanced health economics.",
+    "Structures produced by learning are compared against those found by a standard gradient descent optimization, both as individual modules and then as a composite structure.",
+    "Therefore, these neurons appear to form multiple elongated neuronal modules that are closely packed along the mediolateral plane.",
+    "The advocates of this approach claim that it allows modules to be reused and makes it easier to compile modules separately.",
+    "The robot starts searching for the book on the shelves and modules of the predicted bookcase.",
+    "The cost of crossing all of the abstraction barriers has been eliminated by inlining across modules."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "modifier",
+    "modify",
+    "modish",
+    "modishly",
+    "module",
+    "mogul",
+    "mohair",
+    "moist",
+    "moisten"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693879_c98d87fc3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693879_f4223b4d80_o.png",
+      "id_image": "module_1832092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383597_df72c8f3a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383597_45ab775c4d_o.png",
+      "id_image": "module_4631217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383577_a270cf555f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383577_497d2ced81_o.png",
+      "id_image": "module_4631395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075690_b11f356306_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075690_52d1e9b393_o.png",
+      "id_image": "module_5488350"
+    }
+  ]
+}

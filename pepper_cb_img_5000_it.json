@@ -1,0 +1,148 @@
+{
+  "english": "pepper",
+  "phat_am": "ˈpepə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạt tiêu",
+          "definition": "the dried, powdered berries of a certain plant, used for seasoning food",
+          "world_new": [
+            "dried",
+            "powdered",
+            "certain",
+            "plant",
+            "seasoning",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "white/black pepper"
+            },
+            {
+              "ex_of_definition": "This soup has too much pepper in it.",
+              "world_new": [
+                "soup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây hạt tiêu",
+          "definition": "the plant bearing these berries",
+          "world_new": [
+            "plant",
+            "bearing"
+          ]
+        },
+        {
+          "mean_english": "quả ớt",
+          "definition": "any of several red, yellow, or green, hollow seed-containing fruits used as food",
+          "world_new": [
+            "red",
+            "yellow",
+            "green",
+            "hollow",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "red peppers stuffed with rice.",
+              "world_new": [
+                "red",
+                "rice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây ớt",
+          "definition": "any of the plants which bear these.",
+          "world_new": [
+            "bear"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rắc tiêu; cho ớt vào",
+          "definition": "to put pepper in or on (some food)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You don’t have to pepper the soup.",
+              "world_new": [
+                "soup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắn/ném tới tấp",
+          "definition": "(with with) to throw, fire etc many, usually small, objects at (someone)",
+          "world_new": [
+            "throw",
+            "fire",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The enemy soldiers peppered the building with bullets.",
+              "world_new": [
+                "enemy",
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Significantly higher prices were paid for grapes, onions, peppers and tomatoes when there was a child present in the household.",
+    "Each attempt between the wars had courted unrest and unpopularity, with debates peppered with emotion and passionate language.",
+    "The overall thrust of the review is welcome—it has a largely deregulatory theme, although it is peppered with some reactionary proposals.",
+    "If so, why was his statement peppered with so many conditions and qualifications?",
+    "Wherever possible they also practise the cultivation of onions, tomatoes, peppers etcetera during the dry season in small gardens near natural water reservoirs and small dams on the plateau.",
+    "Households in the urban areas, in general, paid significantly higher prices for fresh vegetables such as onions, peppers and potatoes than those living in the rural areas.",
+    "He specialised in early and, for those days in the early 1960s, exotic fruit and vegetables such as melons, green peppers and aubergines.",
+    "The bedsets are peppered with vertebrate remains."
+  ],
+  "list_see_also": [
+    "peppery",
+    "peppercorn",
+    "pepper mill",
+    "peppermint"
+  ],
+  "list_browse": [
+    "penumbra",
+    "people",
+    "pep",
+    "pep talk",
+    "pepper",
+    "pepper mill",
+    "peppercorn",
+    "peppermint",
+    "peppery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321611_2abb690050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321611_147ccb1b14_o.png",
+      "id_image": "pepper_170315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058290_4cbd3f7fa7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058290_64d74bdd84_o.png",
+      "id_image": "pepper_3944326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676674_9c4cd54524_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676674_51d05dc716_o.png",
+      "id_image": "pepper_877713"
+    }
+  ]
+}

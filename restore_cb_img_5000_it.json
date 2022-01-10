@@ -1,0 +1,138 @@
+{
+  "english": "restore",
+  "phat_am": "rəˈstoː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khôi phục",
+          "definition": "to repair (a building, a painting, a piece of furniture etc) so that it looks as it used to or ought to",
+          "world_new": [
+            "repair",
+            "building",
+            "painting",
+            "piece",
+            "furniture",
+            "looks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The church is going to be restored.",
+              "world_new": [
+                "church"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hồi phục",
+          "definition": "to bring back to a normal or healthy state",
+          "world_new": [
+            "bring",
+            "normal",
+            "healthy",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The patient was soon restored to health.",
+              "world_new": [
+                "patient",
+                "soon",
+                "health"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trả lại",
+          "definition": "to bring or give back",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The authorities are trying to restore law and order.",
+              "world_new": [
+                "trying",
+                "law",
+                "order"
+              ]
+            },
+            {
+              "ex_of_definition": "The police restored the stolen cars to their owners.",
+              "world_new": [
+                "police",
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phục (chức)",
+          "definition": "to bring or put (a person) back to a position, rank etc he once had",
+          "world_new": [
+            "bring",
+            "position",
+            "rank",
+            "once"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was asked to resign, but was later restored to his former job as manager.",
+              "world_new": [
+                "resign",
+                "former",
+                "job",
+                "manager"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The process of collective learning described in the previous section restored the legitimacy of democratic institutions.",
+    "In addition, these groups sent many requests to delay the withdrawal of troops until a greater degree of stability had been restored.",
+    "The reproduced image is, after all, flat, both literally and metaphorically ; restoring depth is the primary task of historians who work with images and objects.",
+    "However, the bony par ts of most of the pendants were either intact or had been carefully restored.",
+    "The republic was finally restored in 1867 and power was returned to congress.",
+    "In the absence of glutamine, the addition of pyruvate to glucose-containing medium restored viability as well as supporting a high meiotic completion rate.",
+    "Offenbach swallowed his pride and restored the singers, after which the tour became a great popular (and financial) success.",
+    "Once order was restored, the group became irrelevant."
+  ],
+  "list_see_also": [
+    "restoration",
+    "restorer"
+  ],
+  "list_browse": [
+    "restless",
+    "restlessly",
+    "restlessness",
+    "restoration",
+    "restore",
+    "restorer",
+    "restrain",
+    "restrained",
+    "restraint"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087485_fe61c3e0dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087485_e7b538984a_o.png",
+      "id_image": "restore_1783705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350216_9f6e247837_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350216_4f28ccd20e_o.png",
+      "id_image": "restore_4439489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087435_2387214d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087435_028326d437_o.png",
+      "id_image": "restore_6224603"
+    }
+  ]
+}

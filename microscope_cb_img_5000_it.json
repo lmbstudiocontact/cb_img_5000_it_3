@@ -1,0 +1,66 @@
+{
+  "english": "microscope",
+  "phat_am": "ˈmaikrəskəup",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kính hiển vi",
+          "definition": "an instrument which makes very small objects able to be seen magnifying them greatly",
+          "world_new": [
+            "instrument",
+            "small",
+            "greatly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Germs are very small, and can only be seen with the aid of a microscope.",
+              "world_new": [
+                "small",
+                "aid"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fertilisation was determined under a phase-contrast microscope, recording pronuclear formation and 2-cell formation at 5 and 24 h after insemination, respectively.",
+    "The status of the acrosomes of bound spermatozoa was also examined under the high power of a phase-contrast microscope.",
+    "The ones who still sell cameras and microscopes are dwindling in number.",
+    "Firms in my constituency could supply equipment such as scanning electron microscopes—which few firms in the world make—television transmitters and industrial motor vehicles.",
+    "Now, it is true that something had changed about 1700 - not the attitude towards the employment of microscopes, as is commonly mistaken, but microscopy as an independent scientific endeavor.",
+    "At the light microscope level no differences in testicular histology were observed in comparison with the controls.",
+    "Fifty segments per seedling were examined using a light microscope under 400 x magnification.",
+    "The common view holds that during the eighteenth century microscopes were seen as a kind of toy similar to the kaleidoscope, not more than a source of amusement and curiosity."
+  ],
+  "list_see_also": [
+    "microscopic",
+    "microscopically"
+  ],
+  "list_browse": [
+    "microfilm",
+    "microorganism",
+    "microphone",
+    "microprocessor",
+    "microscope",
+    "microscopic",
+    "microscopically",
+    "microwave",
+    "mid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699444_38f85b859f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699444_897c7bb7bb_o.png",
+      "id_image": "microscope_178670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459073_cc6205b125_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459073_9fc1f7c80b_o.png",
+      "id_image": "microscope_191097"
+    }
+  ]
+}

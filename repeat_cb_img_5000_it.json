@@ -1,0 +1,126 @@
+{
+  "english": "repeat",
+  "phat_am": "rəˈpiːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lặp lại",
+          "definition": "to say or do again",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you repeat those instructions, please?",
+              "world_new": [
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhắc lại",
+          "definition": "to say (something one has heard) to someone else, sometimes when one ought not to",
+          "world_new": [
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please do not repeat what I’ve just told you."
+            }
+          ]
+        },
+        {
+          "mean_english": "đọc thuộc lòng",
+          "definition": "to say (something) one has learned by heart",
+          "world_new": [
+            "learned",
+            "heart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teacher asked her to repeat a poem.",
+              "world_new": [
+                "teacher",
+                "poem"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lặp lại",
+          "definition": "something which is repeated",
+          "world_new": [
+            "repeated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m tired of seeing all these repeats on television",
+              "world_new": [
+                "tired",
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a repeat performance.",
+              "world_new": [
+                "performance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This issue could be examined by repeating the study using different tasks that engaged the same set of cognitive processes.",
+    "This step was repeated several times until all fine particles were recovered.",
+    "For instance, the text should not repeat in detail what is evident from the tables or diagrams.",
+    "The structural repeat is transposed, varied and redistributed, and an agile coda has the soloist in cahoots with its orchestral counterparts.",
+    "One of these studies was repeated over four rice crops.",
+    "We repeated the analyses, restricting this to persons reported prospectively from 1994.",
+    "The constraint means that the allowed phase differences between the oscillators within the unit cell (repeat unit) are limited.",
+    "Although she repeated this several times, the teacher and the other students ignored her."
+  ],
+  "list_see_also": [
+    "repeated",
+    "repeatedly",
+    "repetition",
+    "repetitive",
+    "repetitively",
+    "repetitiveness",
+    "repeat oneself"
+  ],
+  "list_browse": [
+    "reparation",
+    "repay",
+    "repayment",
+    "repeal",
+    "repeat",
+    "repeat oneself",
+    "repeated",
+    "repeatedly",
+    "repel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323776_58c61e5679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323776_4c8bdfbc50_o.png",
+      "id_image": "repeat_1622705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323726_b2f6fdd0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323726_747f84834b_o.png",
+      "id_image": "repeat_3120741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438773_51cc1ef2c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438773_f5d0ccbc9b_o.png",
+      "id_image": "repeat_5072368"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "english": "pack",
+  "phat_am": "pӕk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ba lô",
+          "definition": "things tied up together or put in a container, especially to be carried on one’s back",
+          "world_new": [
+            "container"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He carried his luggage in a pack on his back.",
+              "world_new": [
+                "luggage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ bài",
+          "definition": "a set of (fifty-two) playing-cards",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pack of cards.",
+              "world_new": [
+                "cards"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đàn; bầy",
+          "definition": "a number or group of certain animals",
+          "world_new": [
+            "number",
+            "group",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pack of wolves."
+            }
+          ]
+        },
+        {
+          "mean_english": "gói; hộp",
+          "definition": "a packet",
+          "world_new": [
+            "packet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pack of cigarettes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng gói",
+          "definition": "to put (clothes etc) into a bag, suitcase or trunk for a journey",
+          "world_new": [
+            "bag",
+            "suitcase",
+            "trunk",
+            "journey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve packed all I need and I’m ready to go.",
+              "world_new": [
+                "I",
+                "ready"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập hợp",
+          "definition": "to come together in large numbers in a small space",
+          "world_new": [
+            "large",
+            "small",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They packed into the hall to hear his speech.",
+              "world_new": [
+                "hall",
+                "hear",
+                "speech"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "packing",
+    "packing case",
+    "packed (out)",
+    "packed lunch",
+    "pack off",
+    "pack up"
+  ],
+  "list_browse": [
+    "pacifier",
+    "pacifism",
+    "pacifist",
+    "pacify",
+    "pack",
+    "pack off",
+    "pack up",
+    "package",
+    "package deal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693849_6dd58cf9c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693849_985719d179_o.png",
+      "id_image": "pack_2421559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693814_c3795843be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693814_c1ce30783d_o.png",
+      "id_image": "pack_2435613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383522_9c5b0a6364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383522_e5ac265baa_o.png",
+      "id_image": "pack_4329019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383642_ef30086046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383642_82a436c4d7_o.png",
+      "id_image": "pack_618097"
+    }
+  ]
+}

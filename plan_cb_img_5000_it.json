@@ -1,0 +1,210 @@
+{
+  "english": "plan",
+  "phat_am": "plan",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kế hoạch",
+          "definition": "an idea of how to do something; a method of doing something",
+          "world_new": [
+            "idea",
+            "method"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If everyone follows this plan, we will succeed",
+              "world_new": [
+                "succeed"
+              ]
+            },
+            {
+              "ex_of_definition": "I have worked out a plan for making a lot of money.",
+              "world_new": [
+                "I",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dự định",
+          "definition": "an intention or arrangement",
+          "world_new": [
+            "intention",
+            "arrangement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His plan is to rob a bank and leave the country quickly",
+              "world_new": [
+                "rob",
+                "bank",
+                "leave",
+                "country",
+                "quickly"
+              ]
+            },
+            {
+              "ex_of_definition": "What are your plans for tomorrow?",
+              "world_new": [
+                "your",
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản vẽ; sơ đồ",
+          "definition": "a drawing, diagram etc showing a building, town etc as if seen from above",
+          "world_new": [
+            "drawing",
+            "diagram",
+            "building",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These are the plans of/for our new house",
+              "world_new": [
+                "our",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "a street-plan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt kế hoạch",
+          "definition": "(sometimes with on) to intend (to do something)",
+          "world_new": [
+            "intend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are planning on going to Italy this year",
+              "world_new": [
+                "planning",
+                "year"
+              ]
+            },
+            {
+              "ex_of_definition": "We were planning to go last year, but we didn’t have enough money",
+              "world_new": [
+                "planning",
+                "year",
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "They are planning a trip to Italy.",
+              "world_new": [
+                "planning",
+                "trip"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dự trù",
+          "definition": "to decide how something is to be done; to arrange (something)",
+          "world_new": [
+            "decide",
+            "arrange"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are planning a party",
+              "world_new": [
+                "planning",
+                "party"
+              ]
+            },
+            {
+              "ex_of_definition": "We’ll have to plan very carefully if we are to succeed.",
+              "world_new": [
+                "carefully",
+                "succeed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thiết kế",
+          "definition": "to design (a building, town etc)",
+          "world_new": [
+            "design",
+            "building",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is the architect who planned the building.",
+              "world_new": [
+                "architect",
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Under these plans, convicts were granted access to land and encouraged to bring their families from the mainland.",
+    "They plotted out the area and drew up plans before taking it over.",
+    "By formulating plans in advance, agents can avoid the need down the line to deliberate about their next move.",
+    "In this sense, then, control relies on planning to provide an adequate efference copy.",
+    "Another building block for such planning operations in the brain may be the type of short-term memory in which the prefrontal cortex is involved.",
+    "The positive part aims to show that adoption and practice are sufficient to create the fundamental plans of a legal system.",
+    "Assembly sequence generation plays an impor tant role in designing and planning the product assembly process and assembly system.",
+    "A simulated experiment with an atom trap was planned with five sections, and then let run to generate the composition."
+  ],
+  "list_see_also": [
+    "planner",
+    "planning",
+    "go according to plan",
+    "plan ahead"
+  ],
+  "list_browse": [
+    "plaintive",
+    "plaintively",
+    "plaintiveness",
+    "plait",
+    "plan",
+    "plan ahead",
+    "plane",
+    "planet",
+    "planetary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343891_3c34bb772d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343891_487aa35d10_o.png",
+      "id_image": "plan_2598808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458548_00143bed17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458548_13c20d46c4_o.png",
+      "id_image": "plan_5492769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698999_baf72353a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698999_810576179c_o.png",
+      "id_image": "plan_5957079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388667_f6265f41b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388667_946b7b6028_o.png",
+      "id_image": "plan_6213653"
+    }
+  ]
+}

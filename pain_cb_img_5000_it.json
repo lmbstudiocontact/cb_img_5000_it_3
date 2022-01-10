@@ -1,0 +1,112 @@
+{
+  "english": "pain",
+  "phat_am": "pein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đau",
+          "definition": "hurt or suffering of the body or mind",
+          "world_new": [
+            "hurt",
+            "suffering",
+            "body",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pain in the chest.",
+              "world_new": [
+                "chest"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm bị đau",
+          "definition": "to cause suffering or upset to (someone)",
+          "world_new": [
+            "cause",
+            "suffering",
+            "upset"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It pained her to admit that she was wrong.",
+              "world_new": [
+                "pained",
+                "admit",
+                "wrong"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Similarly, attempts to suppress pain expression can be understood as a function of the relationship between patient and caregiver.",
+    "An additional patient-blaming tactic is to ascribe psychological causes as the source of pain.",
+    "In discussing pain and discomfort avoidance, he also emphasises the interplay of physical and psychological factors.",
+    "Patients were selected for this trial if they had suffered from nonspecific low back pain for at least 6 weeks.",
+    "Hypnosis does seem to be a useful option, as patients reported an average of 36% reduction in pain scores after their session.",
+    "Indeed, he takes pains on every one of these counts to show that the opposite is closer to the truth.",
+    "The patients represent a convenience sample taken from a population of patients who had received either a spinal cord stimulator or an implantable pain pump.",
+    "As noted earlier, three subjects dropped out of the study because of pain and worsening of clinical symptoms."
+  ],
+  "list_see_also": [
+    "pained",
+    "painful",
+    "painfully",
+    "painless",
+    "painlessly",
+    "painkiller",
+    "painstaking",
+    "a pain in the neck",
+    "take pains"
+  ],
+  "list_browse": [
+    "pageantry",
+    "pager",
+    "pagoda",
+    "pail",
+    "pain",
+    "pained",
+    "painful",
+    "painfully",
+    "painkiller"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382067_436292692f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382067_82895e9420_o.png",
+      "id_image": "pain_1488181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382042_792324d773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382042_8483966e10_o.png",
+      "id_image": "pain_1683154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073970_e885529a75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073970_dce9c7883a_o.png",
+      "id_image": "pain_2037321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451768_f48bea1367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451768_d7b7183573_o.png",
+      "id_image": "pain_4844001"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381947_2e025f95a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381947_001f1e709b_o.png",
+      "id_image": "pain_6257658"
+    }
+  ]
+}

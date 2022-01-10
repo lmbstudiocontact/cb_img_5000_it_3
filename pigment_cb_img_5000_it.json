@@ -1,0 +1,87 @@
+{
+  "english": "pigment",
+  "phat_am": "ˈpiɡmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất màu; chất nhuộm",
+          "definition": "any substance used for colouring/coloring, making paint etc",
+          "world_new": [
+            "substance",
+            "paint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People used to make paint and dyes from natural pigments.",
+              "world_new": [
+                "paint",
+                "natural"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sắc tố",
+          "definition": "a substance in plants or animals that gives colour/color to the skin, leaves etc",
+          "world_new": [
+            "substance",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some people have darker pigment in their skin than others.",
+              "world_new": [
+                "people",
+                "their",
+                "skin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A back-propagation neural network predicts absorption maxima of chimeric human red0green visual pigments.",
+    "Photoreceptors recover from pigment adaptation after replacement 11-cis retinal, supplied by pigment epithelial cells, regenerate the visual pigment, and quench opsin's activity.",
+    "Polymorphism in the number of genes encoding long-wavelength-sensitive cone pigments among males with normal color vision.",
+    "However, the retina shrank only by about 1% relative to the pigment epithelium, so this does not seem to be the case.",
+    "The text does not elaborate on the difference between mixtures of pigments and mixtures of spectral light.",
+    "Spectral tuning in salamander visual pigments studied with dihydroretinal chromophores.",
+    "Mutually exclusive expression of human red and green visual pigment-reporter transgenes occurs at high frequency in murine cone photoreceptors.",
+    "Thus, the question is not why hypopigmented animals have elevated thresholds compared to pigmented animals, but rather, what causes their reduction in rhodopsin expression?"
+  ],
+  "list_see_also": [
+    "pigmentation"
+  ],
+  "list_browse": [
+    "piggy bank",
+    "pigheaded",
+    "pigheadedness",
+    "piglet",
+    "pigment",
+    "pigmentation",
+    "pigs might fly",
+    "pigskin",
+    "pigsty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702154_320dab467c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702154_ec80e19466_o.png",
+      "id_image": "pigment_1686280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392302_288086e3c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392302_9426400a13_o.png",
+      "id_image": "pigment_2332622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392247_1aeecfe7e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392247_0939213a60_o.png",
+      "id_image": "pigment_2534785"
+    }
+  ]
+}

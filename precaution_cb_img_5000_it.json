@@ -1,0 +1,73 @@
+{
+  "english": "precaution",
+  "phat_am": "priˈkoːʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đề phòng",
+          "definition": "care taken to avoid accidents, disease etc",
+          "world_new": [
+            "care",
+            "avoid",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They took every precaution to ensure that their journey would be safe and enjoyable.",
+              "world_new": [
+                "ensure",
+                "their",
+                "journey",
+                "safe",
+                "enjoyable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a precaution against (rare) flooding, the main ground level should be kept at its present safe and dry elevation.",
+    "He was advised to take precautions to prevent uninvited visitors or tourists visiting the graves.",
+    "By comparison, the earlier building orders, regulations and codes did not go beyond some basic controls and general precautions against the danger of fire.",
+    "Depending on security precautions, those risks might be greater than the risks of disclosure or discovery in other media.",
+    "Even with these precautions, some level of risk of illness associated with the consumption of cantaloupes remains.",
+    "Compost now sold from the farm carries a quite clear health warning and the basic hygiene precautions which should be observed during its handling.",
+    "Without further precautions the film would quickly have returned and covered the surface of the tank (at a rate of several cmjs).",
+    "All possible precautions to prevent the isolation medium from drying should be taken."
+  ],
+  "list_see_also": [
+    "precautionary"
+  ],
+  "list_browse": [
+    "prearranged",
+    "precarious",
+    "precariously",
+    "precariousness",
+    "precaution",
+    "precautionary",
+    "precede",
+    "precedence",
+    "precedent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067095_4d3a2d1fcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067095_6581b10650_o.png",
+      "id_image": "precaution_6237665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330186_fe63120710_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330186_cb9ee1ece3_o.png",
+      "id_image": "precaution_6237683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445143_8920d542e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445143_5c409da6da_o.png",
+      "id_image": "precaution_6237704"
+    }
+  ]
+}

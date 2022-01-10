@@ -1,0 +1,209 @@
+{
+  "english": "reverse",
+  "phat_am": "rəˈvəːs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy lùi; đảo ngược",
+          "definition": "to move backwards or in the opposite direction to normal",
+          "world_new": [
+            "move",
+            "backwards",
+            "opposite",
+            "direction",
+            "normal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He reversed (the car) into the garage",
+              "world_new": [
+                "reversed",
+                "garage"
+              ]
+            },
+            {
+              "ex_of_definition": "He reversed the film through the projector.",
+              "world_new": [
+                "reversed",
+                "film",
+                "projector"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đảo lộn",
+          "definition": "to put into the opposite position, state, order etc",
+          "world_new": [
+            "opposite",
+            "position",
+            "state",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This jacket can be reversed (= worn inside out).",
+              "world_new": [
+                "jacket",
+                "reversed",
+                "worn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thay đổi quyết định",
+          "definition": "to change (a decision, policy etc) to the exact opposite",
+          "world_new": [
+            "change",
+            "decision",
+            "policy",
+            "exact",
+            "opposite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The man was found guilty, but the judges in the appeal court reversed the decision.",
+              "world_new": [
+                "found",
+                "guilty",
+                "appeal",
+                "court",
+                "reversed",
+                "decision"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngược lại",
+          "definition": "(also adjective) (the) opposite",
+          "world_new": [
+            "opposite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Are you hungry?’ ‘Quite the reverse – I’ve eaten far too much!’",
+              "world_new": [
+                "hungry",
+                "far"
+              ]
+            },
+            {
+              "ex_of_definition": "I take the reverse point of view.",
+              "world_new": [
+                "I",
+                "point",
+                "view"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bất hạnh",
+          "definition": "a defeat; a piece of bad luck",
+          "world_new": [
+            "piece",
+            "bad",
+            "luck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Liverpool suffered a 3-0 reverse."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chạy lùi",
+          "definition": "(a mechanism eg one of the gears of a car etc which makes something move in) a backwards direction or a direction opposite to normal",
+          "world_new": [
+            "mechanism",
+            "car",
+            "move",
+            "backwards",
+            "direction",
+            "direction",
+            "opposite",
+            "normal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put the car into reverse",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a reverse gear.",
+              "world_new": [
+                "gear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt trái của đồng tiền",
+          "definition": "(also adjective) (of) the back of a coin, medal etc",
+          "world_new": [
+            "coin",
+            "medal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the reverse (side) of a coin.",
+              "world_new": [
+                "coin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The effect of syllable length on tokens in onsets and in codas was reversed when we considered the effect of ordinal syllable position on deletion.",
+    "Another quarter were shown the pictures in this same order, but the right-left positions of the pictures in each set were reversed.",
+    "The values of these response categories were reversed for the positive affect items.",
+    "The population decline that accompanied the colonial conquest was not reversed until then.",
+    "The children were significantly worse at identifying words that had their metrical stress pattern reversed than words that were mispronounced in other ways.",
+    "Despite the admonitions of progressive welfare reformers, it seems unlikely that this policy will be reversed.",
+    "Finally, identical results were obtained when the deactivation protocol order was reversed (right, bilateral, then left).",
+    "The map g does so in either an orientation-preserving or orientation reversing way."
+  ],
+  "list_see_also": [
+    "reversal",
+    "reversed",
+    "reversible",
+    "reverse the charges"
+  ],
+  "list_browse": [
+    "reverent",
+    "reverently",
+    "reverie",
+    "reversal",
+    "reverse",
+    "reverse the charges",
+    "reversed",
+    "reversible",
+    "reversion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703249_736ebfe56c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703249_77cf54dfcc_o.png",
+      "id_image": "reverse_2620728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085780_a2fc4f70fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085780_5727799b9e_o.png",
+      "id_image": "reverse_5869874"
+    }
+  ]
+}

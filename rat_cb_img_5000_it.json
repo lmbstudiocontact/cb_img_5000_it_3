@@ -1,0 +1,104 @@
+{
+  "english": "rat",
+  "phat_am": "rat",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuột",
+          "definition": "a small animal with a long tail, like a mouse but larger",
+          "world_new": [
+            "small",
+            "animal",
+            "long",
+            "tail",
+            "mouse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rats have eaten holes in those bags of flour.",
+              "world_new": [
+                "flour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẻ đê tiện",
+          "definition": "an offensive word for an unpleasant and untrustworthy person",
+          "world_new": [
+            "offensive",
+            "unpleasant",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You dirty rat!",
+              "world_new": [
+                "dirty"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thất hứa",
+          "definition": "to break an agreement, promise etc.",
+          "world_new": [
+            "break",
+            "agreement",
+            "promise"
+          ]
+        },
+        {
+          "mean_english": "phản bội",
+          "definition": "to betray one’s friends, colleagues etc",
+          "world_new": [
+            "betray"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police know we’re here. Someone must have ratted.",
+              "world_new": [
+                "police",
+                "know"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rat race",
+    "smell a rat"
+  ],
+  "list_browse": [
+    "rashly",
+    "rashness",
+    "raspberry",
+    "rasping",
+    "rat",
+    "rat race",
+    "rate",
+    "rate of exchange",
+    "rather"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338186_ca95767035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338186_2c406ec52c_o.png",
+      "id_image": "rat_1039063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453158_ee01dbbb32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453158_61389bd7a6_o.png",
+      "id_image": "rat_616735"
+    }
+  ]
+}

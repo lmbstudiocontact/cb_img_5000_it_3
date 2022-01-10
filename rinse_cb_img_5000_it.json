@@ -1,0 +1,135 @@
+{
+  "english": "rinse",
+  "phat_am": "rins",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giặt",
+          "definition": "to wash (clothes etc) in clean water to remove soap etc",
+          "world_new": [
+            "wash",
+            "clean",
+            "water",
+            "remove",
+            "soap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was rinsing a plate under the tap.",
+              "world_new": [
+                "plate",
+                "tap"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "súc; rửa",
+          "definition": "to clean (a cup, one’s mouth etc) by filling with clean water etc and then emptying the water out",
+          "world_new": [
+            "clean",
+            "cup",
+            "mouth",
+            "filling",
+            "clean",
+            "water",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dentist asked me to rinse my mouth out.",
+              "world_new": [
+                "dentist",
+                "my",
+                "mouth"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự súc rửa",
+          "definition": "the act of rinsing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give the cup a rinse.",
+              "world_new": [
+                "cup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuốc nhuộm tóc",
+          "definition": "a liquid used for changing the colour of hair",
+          "world_new": [
+            "liquid",
+            "colour",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blue rinse.",
+              "world_new": [
+                "blue"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They were repeatedly rinsed to neutrality and subsequently given a hot alkali soaking to remove humic acids.",
+    "In order to avoid manual transfer of electrolytes, rubber surgical gloves that were previously rinsed in distilled water were used for handling the kernels.",
+    "All collecting implements were thoroughly scrubbed between each sample using fresh water and a mild detergent before twice rinsing in distilled water.",
+    "The 48 stalls kept water in buckets for rinsing hands and tableware, reusing the same water several times during the day.",
+    "Eyes were then rinsed, dehydrated, and embedded in paraffin.",
+    "The buccal cavity was rinsed and the opercula and eyes were examined.",
+    "The floating inflorescence remainders were decanted off, and the seeds were rinsed in distilled water.",
+    "Cages were washed with soap and rinsed with clean water between trials to remove any residues from the previous treatment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ringleader",
+    "ringlet",
+    "ringmaster",
+    "rink",
+    "rinse",
+    "riot",
+    "rioter",
+    "riotous",
+    "riotously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391092_78299711d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391092_b789ea5763_o.png",
+      "id_image": "rinse_1415738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083520_c16ae1c5ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083520_0c434e17e9_o.png",
+      "id_image": "rinse_2654602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460808_24b15537b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460808_7fe8b024c4_o.png",
+      "id_image": "rinse_2780619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346136_566b4059d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346136_00c3bbc148_o.png",
+      "id_image": "rinse_525824"
+    }
+  ]
+}

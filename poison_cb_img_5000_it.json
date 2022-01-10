@@ -1,0 +1,95 @@
+{
+  "english": "poison",
+  "phat_am": "ˈpoizn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất độc",
+          "definition": "any substance which causes death or illness when taken into the body",
+          "world_new": [
+            "substance",
+            "death",
+            "illness",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She killed herself by taking poison"
+            },
+            {
+              "ex_of_definition": "(also adjective) poison gas.",
+              "world_new": [
+                "gas"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đầu độc",
+          "definition": "to kill or harm with poison",
+          "world_new": [
+            "kill",
+            "harm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He poisoned his wife.",
+              "world_new": [
+                "wife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bỏ thuốc độc",
+          "definition": "to put poison into (food etc)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He poisoned her coffee.",
+              "world_new": [
+                "coffee"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "poisoner",
+    "poisoning",
+    "poisonous",
+    "poisonously",
+    "poison-pen letter"
+  ],
+  "list_browse": [
+    "pointlessly",
+    "points",
+    "poise",
+    "poised",
+    "poison",
+    "poison-pen letter",
+    "poisoner",
+    "poisoning",
+    "poisonous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075285_e710e187ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075285_73264105bc_o.png",
+      "id_image": "poison_1033004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383222_416c17b8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383222_a0246c55b0_o.png",
+      "id_image": "poison_921807"
+    }
+  ]
+}

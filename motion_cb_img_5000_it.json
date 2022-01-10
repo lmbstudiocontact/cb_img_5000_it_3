@@ -1,0 +1,135 @@
+{
+  "english": "motion",
+  "phat_am": "ˈməuʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự vận động",
+          "definition": "the act or state of moving",
+          "world_new": [
+            "act",
+            "state",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the motion of the planets"
+            },
+            {
+              "ex_of_definition": "He lost the power of motion.",
+              "world_new": [
+                "lost",
+                "power"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cử chỉ",
+          "definition": "a single movement or gesture",
+          "world_new": [
+            "single",
+            "movement",
+            "gesture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He summoned the waiter with a motion of the hand.",
+              "world_new": [
+                "waiter",
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản kiến nghị",
+          "definition": "a proposal put before a meeting",
+          "world_new": [
+            "proposal",
+            "meeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was asked to speak against the motion in the debate.",
+              "world_new": [
+                "speak",
+                "debate"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra hiệu, ra ý",
+          "definition": "to make a movement or sign eg directing a person or telling him to do something",
+          "world_new": [
+            "movement",
+            "sign",
+            "person",
+            "telling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He motioned (to) her to come nearer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Radially softening diffusive motions in a globular protein.",
+    "The target was a flat thick foil placed perpendicularly to the beam, which could be moved along the x and y direction by external motions.",
+    "418 ecules, within pulse durations shor ter than the time-scale for nuclear motions to occur.",
+    "The motions of relativistic particles in a magnetosonic shock wave propagating obliquely to an external magnetic field are studied.",
+    "We judged 76 % of the 50 most frequent verbs to refer to physical motions.",
+    "We can find the minimum time motions by successively searching for the minimum overload motions.",
+    "A feeling often expressed was of going through the motions of living yet feeling no connection with the external world.",
+    "He argued that the information needed for vision is available in the optic flow and in invariants of the flow under body motions."
+  ],
+  "list_see_also": [
+    "motionless",
+    "motion picture",
+    "in motion"
+  ],
+  "list_browse": [
+    "motherhood",
+    "motherless",
+    "motherliness",
+    "motherly",
+    "motion",
+    "motion picture",
+    "motionless",
+    "motivate",
+    "motivation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380362_1da6272db0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380362_d64b3b22b3_o.png",
+      "id_image": "motion_1533958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380312_c087d80505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380312_2cd8619479_o.png",
+      "id_image": "motion_4542659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072150_53e9d4c5f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072150_02be5bc703_o.png",
+      "id_image": "motion_5775777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072130_6b8f5513da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072130_f6fd8666fb_o.png",
+      "id_image": "motion_5775923"
+    }
+  ]
+}

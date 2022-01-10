@@ -1,0 +1,73 @@
+{
+  "english": "population",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dân số",
+          "definition": "the people living in a particular country, area etc",
+          "world_new": [
+            "people",
+            "living",
+            "particular",
+            "country",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The population of London is 8 million"
+            },
+            {
+              "ex_of_definition": "a rapid increase in population.",
+              "world_new": [
+                "rapid",
+                "increase"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Information can be sparsely or coarsely distributed across populations of neurons depending upon the stimulation conditions.",
+    "The populations used here appear to sample the material offered to them and then decide whether to accept (and stay) or reject.",
+    "Posttraumatic stress disorder associated with exposure to criminal victimization in clinical and community populations.",
+    "However, in tobacco-growing areas the tobacco-feeding form predominated in spring populations on peach, and was sometimes found on other secondary hosts.",
+    "Profiles of mucin-degrading enzyme activities were markedly different in planktonic and biofilm communities, indicating that these populations were metabolically distinct.",
+    "Indeed, in natural populations of cyprinids, and animals in general, there are few obvious symptoms of disease.",
+    "Problems with the mark-recapture technique for estimating the size of termite foraging populations are beyond the scope of this article.",
+    "Specifying the role of semantics in children's lexical acquisition and naming : evidence from typical and atypical populations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "popularity",
+    "popularize",
+    "popularly",
+    "populate",
+    "population",
+    "populous",
+    "porcelain",
+    "porch",
+    "porcupine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690704_c2bf7dbe23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690704_184c1d8db9_o.png",
+      "id_image": "population_3382581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380567_0834226a7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380567_baf568a30a_o.png",
+      "id_image": "population_5175233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690744_86c894129f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690744_931dd61c57_o.png",
+      "id_image": "population_649167"
+    }
+  ]
+}

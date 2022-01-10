@@ -1,0 +1,305 @@
+{
+  "english": "read",
+  "phat_am": "riːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đọc",
+          "definition": "to look at and understand (printed or written words or other signs)",
+          "world_new": [
+            "look",
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you read this letter?",
+              "world_new": [
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "Can your little girl read yet?",
+              "world_new": [
+                "your",
+                "girl",
+                "yet"
+              ]
+            },
+            {
+              "ex_of_definition": "Can anyone here read Chinese?"
+            },
+            {
+              "ex_of_definition": "She can read music.",
+              "world_new": [
+                "music"
+              ]
+            },
+            {
+              "ex_of_definition": "I can read (= understand without being told) her thoughts/mind.",
+              "world_new": [
+                "I",
+                "understand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biết được nhờ việc đọc",
+          "definition": "to learn by reading",
+          "world_new": [
+            "learn",
+            "reading"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I read in the paper today that the government is going to cut taxes again.",
+              "world_new": [
+                "I",
+                "paper",
+                "government",
+                "cut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đọc cho ai nghe",
+          "definition": "to read aloud, usually to someone else",
+          "world_new": [
+            "aloud",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I read my daughter a story before she goes to bed",
+              "world_new": [
+                "I",
+                "my",
+                "daughter",
+                "story",
+                "bed"
+              ]
+            },
+            {
+              "ex_of_definition": "I read to her before she goes to bed.",
+              "world_new": [
+                "I",
+                "bed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đọc sách cho khuây khỏa",
+          "definition": "to pass one’s time by reading books etc for pleasure etc",
+          "world_new": [
+            "pass",
+            "time",
+            "reading",
+            "pleasure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t have much time to read these days.",
+              "world_new": [
+                "I",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiên cứu",
+          "definition": "to study (a subject) at a university etc",
+          "world_new": [
+            "study",
+            "university"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s reading history at Oxford.",
+              "world_new": [
+                "reading",
+                "history"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đọc rõ",
+          "definition": "to look at or be able to see (something) and get information from it",
+          "world_new": [
+            "look",
+            "see",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t read the clock without my glasses",
+              "world_new": [
+                "I",
+                "clock",
+                "my",
+                "glasses"
+              ]
+            },
+            {
+              "ex_of_definition": "The nurse read the thermometer.",
+              "world_new": [
+                "nurse",
+                "thermometer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viết là",
+          "definition": "to be written or worded; to say",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His letter reads as follows: ‘Dear Sir, …’",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thể hiện",
+          "definition": "(of a piece of writing etc) to make a (good, bad etc) impression",
+          "world_new": [
+            "piece",
+            "bad",
+            "impression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This report reads well.",
+              "world_new": [
+                "report"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ",
+          "definition": "(of dials, instruments etc) to show a particular figure, measurement etc",
+          "world_new": [
+            "particular",
+            "figure",
+            "measurement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thermometer reads –5C.",
+              "world_new": [
+                "thermometer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được đọc là",
+          "definition": "to (cause a word, phrase etc to) be replaced by another, eg in a document or manuscript",
+          "world_new": [
+            "document",
+            "manuscript"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is one error on this page – For ‘two yards’, read ‘two metres’",
+              "world_new": [
+                "error",
+                "page"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Two yards long’ should read ‘two metres long’."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc đọc sách",
+          "definition": "the act, or a period, of reading",
+          "world_new": [
+            "act",
+            "period",
+            "reading"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like a good read before I go to sleep.",
+              "world_new": [
+                "I",
+                "I",
+                "sleep"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, the existence of a stress pattern to be retained during reading creates a potential conflict between the reading (primary) and memory (secondary) tasks.",
+    "Regression analyses with the older group attributed this to reading acquisition.",
+    "However, these are the requirements which we need for the rest of the proof and these relations should therefore ease reading further on.",
+    "If you did not know what kind of sound banda makes - or why - after reading this book you will be none the wiser.",
+    "With even more enjoyment one reads her monograph, which is a model of academic writing at its very best.",
+    "As indicated above, reading in different languages requires different levels of general cognitive skills.",
+    "Afterwards, each child reads to the teacher what he or she has written, and the teacher writes the correct version for the child.",
+    "How proficient are you in reading other languages (specify ________)?"
+  ],
+  "list_see_also": [
+    "readable",
+    "readableness",
+    "readability",
+    "reader",
+    "readership",
+    "reading",
+    "reading-",
+    "reading material",
+    "reading matter",
+    "read-out",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "reactant",
+    "reaction",
+    "reactionary",
+    "reactor",
+    "read",
+    "read between the lines",
+    "read off",
+    "read on",
+    "read over"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074050_206d9108de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074050_974c3fa585_o.png",
+      "id_image": "read_2991637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451833_599740f068_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451833_477fe17051_o.png",
+      "id_image": "read_5020618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073980_570eaf0a47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073980_66fb0f4c43_o.png",
+      "id_image": "read_5318836"
+    }
+  ]
+}

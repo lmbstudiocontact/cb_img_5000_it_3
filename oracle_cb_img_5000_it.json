@@ -1,0 +1,76 @@
+{
+  "english": "oracle",
+  "phat_am": "ˈorəkl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người cố vấn",
+          "definition": "a very knowledgeable person",
+          "world_new": [
+            "knowledgeable",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t know the answer to this problem, so I’d better go and ask the oracle.",
+              "world_new": [
+                "I",
+                "know",
+                "answer",
+                "problem",
+                "better",
+                "ask"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đền thờ",
+          "definition": "in former times, a holy place where a god was believed to give answers to questions",
+          "world_new": [
+            "former",
+            "times",
+            "holy",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the oracle at Delphi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The oracles then respond with a randomly chosen plaintext or ciphertext, if the pair was asked for the first time.",
+    "His decisions were regarded as oracles, and difficult cases were submitted to him for solution.",
+    "Two soothsayers also visit the festival and give out oracles.",
+    "Different from the previous ones, this constraint involves two different packages, the oracle one and the msgbox one.",
+    "Which estimators then mimic the oracle up to at most a logarithmic multiplicative factor?",
+    "The proof is quite technical, involving oracles and consistent colourings of the network, and requires the simulation of a continuous-time quantum walk on a discrete quantum computer.",
+    "He writes that some of these oracles teach the true religion, including monotheism.",
+    "Such conventional oracles were largely sidelined in favour of direct and detailed reportage of sources to the exclusion of corporate spin."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "or",
+    "or else",
+    "or so",
+    "or something",
+    "oracle",
+    "oracy",
+    "oral",
+    "orally",
+    "orang-utan"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389637_1e3e9d6c87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389637_ff391daa66_o.png",
+      "id_image": "oracle_6198665"
+    }
+  ]
+}

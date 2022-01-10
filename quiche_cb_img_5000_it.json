@@ -1,0 +1,76 @@
+{
+  "english": "quiche",
+  "phat_am": "kiːʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh Quiche",
+          "definition": "a pie without a top that has a base made of pastry and is filled with a mixture of cheese, eggs, vegetables etc",
+          "world_new": [
+            "pie",
+            "top",
+            "base",
+            "pastry",
+            "filled",
+            "mixture",
+            "cheese"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a vegetarian quiche.",
+              "world_new": [
+                "vegetarian"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is often used in pts, quiches and pasta sauces.",
+    "He was famed for his legendary quiche.",
+    "The thoroughly boiled leaves although strong and slightly bitter flavoured are used like spinach as horta, in fataya pies and quiches.",
+    "It is also the pastry that is used most often in making a quiche.",
+    "Some recipes of quiche lorraine also include ham.",
+    "From 1976 the frozen food sector of the business grew rapidly., with widening of the product range to include frozen flans and quiches.",
+    "Quiche can be served hot or cold.",
+    "Custard bases may also be used for quiches and other savory foods."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "questionably",
+    "questionnaire",
+    "queue",
+    "queue up",
+    "quiche",
+    "quick",
+    "quick-tempered",
+    "quick-witted",
+    "quick-wittedly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080945_ab9d292ccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080945_31deb1f90b_o.png",
+      "id_image": "quiche_3280239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388432_1dd45b0210_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388432_91b4ccf0e8_o.png",
+      "id_image": "quiche_4127316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343431_8e51f408f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343431_bcdbcdfe6f_o.png",
+      "id_image": "quiche_4127522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080840_be8b2a47b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080840_a22f55e80a_o.png",
+      "id_image": "quiche_6159684"
+    }
+  ]
+}

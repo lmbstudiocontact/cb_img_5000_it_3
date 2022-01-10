@@ -1,0 +1,125 @@
+{
+  "english": "pledge",
+  "phat_am": "pledʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời hứa",
+          "definition": "a promise",
+          "world_new": [
+            "promise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me his pledge."
+            }
+          ]
+        },
+        {
+          "mean_english": "vật thế chấp",
+          "definition": "something given by a person who is borrowing money etc to the person he has borrowed it from, to be kept until the money etc is returned",
+          "world_new": [
+            "person",
+            "borrowing",
+            "money",
+            "person",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He borrowed $20 and left his watch as a pledge.",
+              "world_new": [
+                "left",
+                "watch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật làm tin",
+          "definition": "a sign or token",
+          "world_new": [
+            "sign",
+            "token"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They exchanged rings as a pledge of their love.",
+              "world_new": [
+                "their",
+                "love"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hứa",
+          "definition": "to promise",
+          "world_new": [
+            "promise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pledged his support.",
+              "world_new": [
+                "support"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt vật làm tin",
+          "definition": "to give to someone when borrowing money etc",
+          "world_new": [
+            "borrowing",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She pledged her watch.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An underpriced guarantee encourages socially excessive risk taking and undermines the credibility of the clearinghouse's pledge to perform if there is a default.",
+    "It is not surprising, therefore, that princes sometimes found themselves presiding over the complete alienation of pledge objects from their domain.",
+    "We pledge ourselves that the records shall be as correct as human ability can make them.",
+    "The answer to this may be that the president is in fact making a different pledge and using a code to maintain diplomatic niceties.",
+    "They make pledges, take blood oaths, and form compacts to resist the landlords.",
+    "He released some of them to bring in the relatives of the rest on the pledge that they all would be set at liberty.",
+    "Given this definition, we see that the electroacoustic community has already pledged allegiance to transcendence.",
+    "The king's second effort was a pledge that he would not use his powers of imprisonment in future against those who refused requests for loans."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pleat",
+    "pleated",
+    "plebeian",
+    "plectrum",
+    "pledge",
+    "plenary",
+    "plenteous",
+    "plentiful",
+    "plenty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455368_dce8143807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455368_7ba8662ea7_o.png",
+      "id_image": "pledge_1279711"
+    }
+  ]
+}

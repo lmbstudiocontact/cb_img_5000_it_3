@@ -1,0 +1,140 @@
+{
+  "english": "risk",
+  "phat_am": "risk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự rủi ro",
+          "definition": "(a person, thing etc which causes or could cause) danger or possible loss or injury",
+          "world_new": [
+            "person",
+            "danger",
+            "possible",
+            "loss",
+            "injury"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He thinks we shouldn’t go ahead with the plan because of the risks involved / because of the risk of failure.",
+              "world_new": [
+                "ahead",
+                "plan",
+                "involved",
+                "failure"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liều",
+          "definition": "to expose to danger; to lay open to the possibility of loss",
+          "world_new": [
+            "expose",
+            "lay",
+            "open",
+            "possibility",
+            "loss"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He would risk his life for his friend",
+              "world_new": [
+                "life",
+                "friend"
+              ]
+            },
+            {
+              "ex_of_definition": "He risked all his money on betting on that horse.",
+              "world_new": [
+                "money",
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có nguy cơ phải chịu sự rủi ro",
+          "definition": "to take the chance of (something bad happening)",
+          "world_new": [
+            "chance",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was willing to risk death to save his friend",
+              "world_new": [
+                "willing",
+                "death",
+                "save",
+                "friend"
+              ]
+            },
+            {
+              "ex_of_definition": "I’d better leave early as I don’t want to risk being late for the play.",
+              "world_new": [
+                "better",
+                "leave",
+                "I",
+                "want",
+                "play"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But far too often there is risk of serious direct harm when a rigorous assessment of benefits and harms is undertaken.",
+    "As a result, the realworld risk of physical demonstration was reduced.",
+    "Could the polity sustain pockets of autonomy in key border regions without risking the destabilisation of its interior?",
+    "Pragmatic randomized trial of antenatal intervention to prevent postnatal depression by reducing psychosocial risk factors.",
+    "What the argument in this section shows, however, is that simple models including idiosyncratic shocks will not substantially increase the risk-return trade-off.",
+    "In contrast, women with initially low levels that recovered through the course of pregnancy had children at less risk of later impairment.",
+    "These improvements in the outcome of pregnancy, nonetheless, concomitantly increase the genetic risk in the surviving population.",
+    "This low diversification represents substantial risk exposure to participants."
+  ],
+  "list_see_also": [
+    "risky",
+    "at (a person’s) own risk",
+    "at risk",
+    "at the risk of",
+    "run/take the risk (of)",
+    "take risks / take a risk"
+  ],
+  "list_browse": [
+    "ripple",
+    "rise",
+    "rise to the occasion",
+    "rising",
+    "risk",
+    "risky",
+    "risotto",
+    "rite",
+    "ritual"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390452_4e8714252c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390452_1d1f0e1e31_o.png",
+      "id_image": "risk_2761107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082860_8b5b1ca1a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082860_e79ff58eb2_o.png",
+      "id_image": "risk_5361574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460248_7e0392d29f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460248_fca89c3882_o.png",
+      "id_image": "risk_648987"
+    }
+  ]
+}

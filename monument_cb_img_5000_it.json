@@ -1,0 +1,71 @@
+{
+  "english": "monument",
+  "phat_am": "ˈmonjumənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tượng đài",
+          "definition": "something built in memory of a person or event, eg a building, tomb etc",
+          "world_new": [
+            "memory",
+            "person",
+            "event",
+            "building",
+            "tomb"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They erected a monument in his honour.",
+              "world_new": [
+                "honour"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this way a multiple viewshed map is created which shows how many monuments can be seen from each location.",
+    "If so, the composition of the respective monuments would be that of personages uttering their own calendrical names.",
+    "Almost the only demand for considerable works of sculpture arise from the monuments erected to eminent men.",
+    "He also participated in various commissions related to the cultural-heritage preservation of archaeological sites, as well as the preservation of industrial historical monuments.",
+    "In spite of archaeology's pretended monopoly on the past, there are even in today's society a variety of ways to interpret prehistoric monuments and landscapes.",
+    "Seen from this perspective, it is understandable that the notion that the urnfields and barrows were funerary monuments is never found in the sagas.",
+    "To begin with, the authors' argument rests primarily on the use of certain stock phrases employing religious imagery in reference to ancient monuments.",
+    "The authentic reconstruction of the past, the preservation and cataloguing of its surviving monuments, are very much at the center of contemporary archaeological discourse."
+  ],
+  "list_see_also": [
+    "monumental"
+  ],
+  "list_browse": [
+    "monstrous",
+    "monstrously",
+    "month",
+    "monthly",
+    "monument",
+    "monumental",
+    "moo",
+    "mooch",
+    "mood"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382162_c846eb6530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382162_cb3d4e1081_o.png",
+      "id_image": "monument_530853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337096_f379e87622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337096_84e431714a_o.png",
+      "id_image": "monument_5368249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451943_7a185657db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451943_52ba44cffa_o.png",
+      "id_image": "monument_5392244"
+    }
+  ]
+}

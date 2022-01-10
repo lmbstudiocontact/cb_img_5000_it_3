@@ -1,0 +1,72 @@
+{
+  "english": "refuel",
+  "phat_am": "riːˈfjuəl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiếp nhiên liệu",
+          "definition": "to supply (an aeroplane/airplane etc) with more fuel",
+          "world_new": [
+            "supply",
+            "fuel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane has to be refuelled every thousand miles",
+              "world_new": [
+                "plane"
+              ]
+            },
+            {
+              "ex_of_definition": "The plane stopped to refuel.",
+              "world_new": [
+                "plane"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The failure to provide a tank that can travel long distances without refuelling.",
+    "It will be capable of refuelling other aircraft.",
+    "Equations (16) and (17) link the decision variables for refueling with the fuel and refuel amounts and equation (18) states the fuel balance.",
+    "We have already seen that in relation to the refueling issue.",
+    "Those just outside the zone of low fuel oil tax could enter it and refuel, if they wished.",
+    "You will hear the whirr of a petrol wagon refuelling aircraft, your rights handed to another company.",
+    "Since it was not involved in a refuelling exercise, no additional fuel was carried.",
+    "In the normal case, where the aircraft has stopped for refuelling only, light refreshments are served in the passenger lounge."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "refreshments",
+    "refrigerate",
+    "refrigeration",
+    "refrigerator",
+    "refuel",
+    "refuge",
+    "refugee",
+    "refund",
+    "refusal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375142_46b1ceaa64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375142_86058044b3_o.png",
+      "id_image": "refuel_4259390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375112_d5079fc59c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375112_9e9bc2960a_o.png",
+      "id_image": "refuel_4607453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330476_ff59e10a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330476_eca2d0e343_o.png",
+      "id_image": "refuel_976012"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "oral",
+  "phat_am": "ˈoːrəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bằng lời nói",
+          "definition": "spoken, not written",
+          "world_new": [
+            "spoken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an oral examination.",
+              "world_new": [
+                "examination"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng miệng",
+          "definition": "of or by the mouth",
+          "world_new": [
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "oral hygiene",
+              "world_new": [
+                "hygiene"
+              ]
+            },
+            {
+              "ex_of_definition": "an oral contraceptive.",
+              "world_new": [
+                "contraceptive"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kỳ thi vấn đáp",
+          "definition": "a spoken examination",
+          "world_new": [
+            "spoken",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He passed the written exam, but failed his oral."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All patients but one are symptom-free on oral propranolol therapy.",
+    "Artificial mouths are specifically constructed to mimic the situation in the oral cavity.",
+    "One might wonder how children's pronunciation is influenced by the teachers' nonnative oral skills.",
+    "The relationship between date of planting and the -oral characteristics including the grain yield of the two selected sorghum cultivars were investigated.",
+    "The four subtypes we identified were reliable and presented coherent patterns of oral language skill development.",
+    "The use of nonstandard phonology by the two groups was assessed using the word reading, nonword reading, and oral picture-naming tests.",
+    "Factors affecting the immunogenicity of oral poliovirus vaccine in developing countries : review.",
+    "Also, one would want more information on recorded oral sources, which are overlooked in this volume."
+  ],
+  "list_see_also": [
+    "orally"
+  ],
+  "list_browse": [
+    "or so",
+    "or something",
+    "oracle",
+    "oracy",
+    "oral",
+    "orally",
+    "orang-utan",
+    "orange",
+    "oration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459463_213d52a4e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459463_5e19310583_o.png",
+      "id_image": "oral_1488179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389552_0d3122cd42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389552_ffcc76724f_o.png",
+      "id_image": "oral_2037310"
+    }
+  ]
+}

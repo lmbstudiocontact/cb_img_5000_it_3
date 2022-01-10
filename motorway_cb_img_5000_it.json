@@ -1,0 +1,69 @@
+{
+  "english": "motorway",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xa lộ",
+          "definition": "a road specially made for fast traffic",
+          "world_new": [
+            "road",
+            "specially",
+            "fast",
+            "traffic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are building a new motorway to link the two cities.",
+              "world_new": [
+                "building",
+                "link"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The valley, with its existing railway and proposed motorway, was the obvious base line for the town.",
+    "When you break down on the side of a motorway, there's this incredible lack of meaning.",
+    "A new rail and motorway bridge is to open at the turn of the century.",
+    "In economic terms, landslides pose immense hazards, even on the seemingly insignificant scale of a motorway embankment failure.",
+    "Everywhere the reign of these non-places is growing, in the forms of supermarkets, motorways, airports, and so on.",
+    "It pictured motorways as a purely international phenomenon, neglecting local interests and uses and connecting large cities and tourist destinations in almost straight lines.",
+    "The maximum length of any motorway is 910 km, the maximum number of restaurants per motorway is 49.",
+    "Consider a lorry in the middle lane of a motorway moving to the inside lane as a car approaches from behind."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "motorcyclist",
+    "motoring",
+    "motorist",
+    "motorize",
+    "motorway",
+    "mottled",
+    "motto",
+    "mould",
+    "mouldiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449603_a4e6d22c4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449603_25a0c77cc8_o.png",
+      "id_image": "motorway_1144272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689714_ed0fd98b1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689714_14c23fcc37_o.png",
+      "id_image": "motorway_2891026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071525_24c0a1ec12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071525_e37ab9a08e_o.png",
+      "id_image": "motorway_3393375"
+    }
+  ]
+}

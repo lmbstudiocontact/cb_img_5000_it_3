@@ -1,0 +1,82 @@
+{
+  "english": "niche",
+  "phat_am": "nitʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hốc tường",
+          "definition": "a hollow in a wall for a statue, ornament etc",
+          "world_new": [
+            "hollow",
+            "wall",
+            "statue",
+            "ornament"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The statue had been placed in a niche in the wall.",
+              "world_new": [
+                "statue",
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vị trí thích hợp",
+          "definition": "a suitable place in life",
+          "world_new": [
+            "suitable",
+            "place",
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He found his niche in engineering.",
+              "world_new": [
+                "found",
+                "engineering"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Competition, contacts and other factors restricting niches of parasite helminthes.",
+    "Moreover, this cosmopolitan, domestic species was generally considered of little evolutionary interest because of its stable, man-linked ecological niche.",
+    "For humans, cultural information may be expressed in niche construction, but that does not make cultural evolution the same thing as niche construction.",
+    "These spiders tend to be quite specialized, exploiting narrow niches that preclude convective air currents.",
+    "In many cases, the niche-constructed by-products of several organisms are exploited by a population.",
+    "Although the south niche shows clearly in the groundplan, it must have been demolished, along with its side-linking walls and the staircases on either side.",
+    "In the following sections we argue that a niche construction perspective is particularly valuable in the study of human evolution.",
+    "However, that does not mean there has been no evolutionary feedback from niche construction: it merely switches the evolutionary responses to the cultural domain."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nibble",
+    "nice",
+    "nicely",
+    "nicety",
+    "niche",
+    "Nichrome",
+    "nick",
+    "nickel",
+    "nickname"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322861_b3052225c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322861_ef4056af0d_o.png",
+      "id_image": "niche_2457976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059560_ab85ea9ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059560_a8ebdbf869_o.png",
+      "id_image": "niche_5965893"
+    }
+  ]
+}

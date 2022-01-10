@@ -1,0 +1,101 @@
+{
+  "english": "plague",
+  "phat_am": "pleiɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh dịch",
+          "definition": "especially formerly, an extremely infectious and deadly disease, especially one carried by fleas from rats",
+          "world_new": [
+            "formerly",
+            "extremely",
+            "infectious",
+            "deadly",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the outbreak of bubonic plague.",
+              "world_new": [
+                "outbreak"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số lượng lớn",
+          "definition": "a large and annoying quantity",
+          "world_new": [
+            "large",
+            "annoying",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a plague of flies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quấy rầy",
+          "definition": "to annoy or pester continually or frequently",
+          "world_new": [
+            "annoy",
+            "pester",
+            "continually",
+            "frequently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child was plaguing her with questions.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Consequentialism has, since the start, been plagued with troublesome counterexamples.",
+    "However, it is also plagued by some of the disadvantages already mentioned.",
+    "Admittedly, schizophrenia-research is plagued with both weak, inconsistent and even paradoxical findings.",
+    "Total deficiency of food-leading to starvation-was not unknown to the ancients and still plagues us.",
+    "Unfortunately, these studies are often plagued by high attrition, small sample sizes, and narrow assessments of discrete cognitive functions.",
+    "Furthermore, because factor utilization is largely unobservable, this concern has plagued studies of productivity dynamics for years.",
+    "Another issue that plagues editors of encyclopaedias is the length of articles.",
+    "From the early 1980s onwards, the country had been plagued by high numbers of (long-term) unemployed people."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "placidly",
+    "placidness",
+    "plagiarism",
+    "plagiarize",
+    "plague",
+    "plaice",
+    "plain",
+    "plain chocolate",
+    "plain clothes"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458833_85c1cf5479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458833_b94b55e0e5_o.png",
+      "id_image": "plague_3154487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458793_1caf0005af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458793_0d92df5196_o.png",
+      "id_image": "plague_5234436"
+    }
+  ]
+}

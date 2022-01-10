@@ -1,0 +1,76 @@
+{
+  "english": "nanotechnology",
+  "phat_am": "ˌnænoutekˈnolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công nghệ nano",
+          "definition": "the science and use of structures that are less than 100 nanometres/nanometers in length, using atoms and molecules to create very small devices and materials such as computer chips",
+          "world_new": [
+            "science",
+            "length",
+            "create",
+            "small",
+            "computer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Advances in nanotechnology may allow batteries to increase power and storage capacity.",
+              "world_new": [
+                "allow",
+                "increase",
+                "power",
+                "storage",
+                "capacity"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After reading media reports we are well aware that nanotechnology, in particular, and science in general, can be a source of great misunderstanding and also worry to the public.",
+    "The future of nanotechnology is too bizarre to comprehend.",
+    "It has been predicted that nanotechnology will be the world's second largest manufacturing sector at the turn of the century, with, perhaps, the computer chip industry remaining ahead.",
+    "On the much smaller scale of nanotechnology, researchers are developing molecule-sized physical machines that have been tested in animals.",
+    "Using electron beams could develop much more toward nanotechnology and much higher density of electronic elements on silicon chips.",
+    "In reality, nanotechnology will provide us with new methods for releasing drugs and revolutionising our medical procedures.",
+    "Nanotechnology applies broadly to any technology that takes advantage of mechanical properties on a molecular scale.",
+    "There is no doubt that plans to help industry make use of nanotechnology research now have a priority and national nanotechnology centres are being set up worldwide."
+  ],
+  "list_see_also": [
+    "nanotechnological",
+    "nanotechnologist"
+  ],
+  "list_browse": [
+    "nanny",
+    "nanny goat",
+    "nanotechnological",
+    "nanotechnologist",
+    "nanotechnology",
+    "nap",
+    "napalm",
+    "nape",
+    "napkin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328771_d2aba23052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328771_dfcbde789f_o.png",
+      "id_image": "nanotechnology_3480364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443708_5bc99fb15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443708_bcca761810_o.png",
+      "id_image": "nanotechnology_4157558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328786_0ce0b826cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328786_bcabc3f44c_o.png",
+      "id_image": "nanotechnology_901045"
+    }
+  ]
+}

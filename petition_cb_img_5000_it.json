@@ -1,0 +1,93 @@
+{
+  "english": "petition",
+  "phat_am": "pəˈtiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đơn",
+          "definition": "a formal request made to someone in authority and usually signed by a large number of people",
+          "world_new": [
+            "formal",
+            "request",
+            "authority",
+            "large",
+            "number",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She asked me to sign the petition.",
+              "world_new": [
+                "sign"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kiến nghị",
+          "definition": "to make such a request",
+          "world_new": [
+            "request"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They petitioned the government for the release of the prisoners.",
+              "world_new": [
+                "government",
+                "release"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "While the social importance of legal aid cannot be discounted, the trend of petitioning since 1951 shows no constant relationship to such provision.",
+    "The petitions argue that 'women of the town' and 'corrupt women' would choose to live with their paramours as husband and wife.",
+    "However, more systematic regional comparisons are hindered by the intrinsically fragmentary and self-selecting nature of much of the evidence (community petitions and individual letters).",
+    "With population pressure rising, some residents petitioned to fill-in the palace moat and use that land for new construction.",
+    "Litigation masters were required to possess the ability to write brilliantly for their petitions to stand out, being apparently worthy of trial, among countless documents.",
+    "She is also petitioned by healers seeking cures for sick children.",
+    "Citizens' wives and daughters were far more likely to be the subjects of petitions and pleas for mercy than were marginal women and outsiders.",
+    "Lower-class women frequently contested the city's efforts to control their activities through strikes, negotiations, petitions to the cabildo and civil disobedience."
+  ],
+  "list_see_also": [
+    "petitioner"
+  ],
+  "list_browse": [
+    "pet name",
+    "petal",
+    "peter",
+    "petite",
+    "petition",
+    "petitioner",
+    "petrify",
+    "petrochemical",
+    "petrol"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705374_0b982681ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705374_9c4aba340f_o.png",
+      "id_image": "petition_3530521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350811_4d807f3f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350811_ac3c37a401_o.png",
+      "id_image": "petition_3842692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705319_e056148833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705319_d6696a20b9_o.png",
+      "id_image": "petition_6330595"
+    }
+  ]
+}

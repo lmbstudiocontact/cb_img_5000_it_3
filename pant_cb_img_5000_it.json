@@ -1,0 +1,73 @@
+{
+  "english": "pant",
+  "phat_am": "pӕnt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thở hổn hển",
+          "definition": "to gasp for breath",
+          "world_new": [
+            "gasp",
+            "breath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was panting heavily as he ran.",
+              "world_new": [
+                "heavily"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói hổn hển",
+          "definition": "to say while gasping for breath",
+          "world_new": [
+            "breath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Wait for me!’ she panted."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I was so hot my pant legs was scorching.",
+    "Sweaters or blouses, dresses or dress pants, the clothing and the deportment of the performers in these studio-controlled snapshots universally attest to the respectability of the performer herself.",
+    "It was in fact a photograph of a man who had just set his pants on fire.",
+    "They spin out variants of tight dark pants in leather, knit, and woven fabrics.",
+    "We have just received a most resounding kick in the pants.",
+    "I was taught to remember the difference by thinking of ants in the pants: the 'mites' go up and the 'tights' come down.",
+    "Goodall (1986) noted that pant-hoot choruses may break out during the night, passing back and forth between chimpanzees that are lodged in different sleeping trees.",
+    "Each pair of pants can be divided into two infinite triangles by three infinite geodesics spiralling around some boundary components."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pannier",
+    "panorama",
+    "panoramic",
+    "pansy",
+    "pant",
+    "panther",
+    "pantomime",
+    "pantry",
+    "pants"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689979_ea35ed8cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689979_40cf342b8f_o.png",
+      "id_image": "pant_3043360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689959_d7a146a778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689959_9e8e78941f_o.png",
+      "id_image": "pant_5507633"
+    }
+  ]
+}

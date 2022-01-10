@@ -1,0 +1,178 @@
+{
+  "english": "near",
+  "phat_am": "niə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "gần",
+          "definition": "not far away in place or time",
+          "world_new": [
+            "far",
+            "place",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The station is quite near",
+              "world_new": [
+                "station",
+                "quite"
+              ]
+            },
+            {
+              "ex_of_definition": "Christmas is getting near.",
+              "world_new": [
+                "Christmas"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "họ hàng gần",
+          "definition": "not far away in relationship",
+          "world_new": [
+            "far",
+            "relationship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a near relation.",
+              "world_new": [
+                "relation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "gần",
+          "definition": "to or at a short distance from here or the place mentioned",
+          "world_new": [
+            "short",
+            "distance",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives quite near.",
+              "world_new": [
+                "quite"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gần",
+          "definition": "(with to) close to",
+          "world_new": [
+            "close"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t sit too near to the window.",
+              "world_new": [
+                "sit",
+                "window"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "gần",
+          "definition": "at a very small distance from (in place, time etc)",
+          "world_new": [
+            "small",
+            "distance",
+            "place",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lives near the church",
+              "world_new": [
+                "church"
+              ]
+            },
+            {
+              "ex_of_definition": "It was near midnight when they arrived.",
+              "world_new": [
+                "midnight"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đến gần",
+          "definition": "to come near (to)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The roads became busier as they neared the town",
+              "world_new": [
+                "town"
+              ]
+            },
+            {
+              "ex_of_definition": "As evening neared, it became noticeably colder.",
+              "world_new": [
+                "evening",
+                "noticeably"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My first graduate students are nearing 50 and have tenure and more.",
+    "The crack near the crown is the one that would be visible inside the church.",
+    "The project also entails helping local people near the camps to plant perennials such as coffee trees and oil palms.",
+    "The single observer visually estimated cover to the nearest 10% at ten randomly chosen points within a 5 m radius of each sampling position.",
+    "Table 2 shows the significant or near significant differences in clinical symptoms at first mania between the two groups.",
+    "Today, the age of the moon is counted after the new moon, when the moon is near the sun and invisible.",
+    "It is difficult to find a single refugee who thinks that they will be returning home any time in the near future.",
+    "For small values of s the viscous stresses on the near wall dominate and produce a thrust in the positivex direction."
+  ],
+  "list_see_also": [
+    "nearly",
+    "nearness",
+    "nearby",
+    "nearside",
+    "near-sighted",
+    "a near miss"
+  ],
+  "list_browse": [
+    "navigator",
+    "navy",
+    "NCO",
+    "NE",
+    "near",
+    "near-sighted",
+    "nearby",
+    "nearly",
+    "nearness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063720_7a26341f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063720_ebd0e0da01_o.png",
+      "id_image": "near_4843169"
+    }
+  ]
+}

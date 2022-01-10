@@ -1,0 +1,112 @@
+{
+  "english": "paste",
+  "phat_am": "peist",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hồ bột",
+          "definition": "a soft, damp mixture, especially one made up of glue and water and used for sticking pieces of paper etc together",
+          "world_new": [
+            "soft",
+            "damp",
+            "mixture",
+            "glue",
+            "water",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "wallpaper paste.",
+              "world_new": [
+                "wallpaper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bột nhão",
+          "definition": "a mixture of flour, fat etc used for making pies, pastry etc",
+          "world_new": [
+            "mixture",
+            "flour",
+            "fat",
+            "pastry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Add the flour, a little at a time, to make a thick paste.",
+              "world_new": [
+                "flour",
+                "time",
+                "thick"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "patê",
+          "definition": "a mixture made from some types of food",
+          "world_new": [
+            "mixture",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tomato paste",
+              "world_new": [
+                "tomato"
+              ]
+            },
+            {
+              "ex_of_definition": "almond paste.",
+              "world_new": [
+                "almond"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Recombination generalizes the notion of copy and apply path argued above as a natural analogue to copy and paste in more conventional systems.",
+    "All the pots are produced with the same clay, paste preparation, and glaze.",
+    "At the same time, this chemical differentiation may be explained by variations in paste recipes reflecting differing functions and /or consumer markets for these vessels.",
+    "The analysis revealed a similarity in clay composition for all samples, except for the crisoles, which are made with a finer and more compact paste.",
+    "They felt that in their case, the content was pasted on.",
+    "Slight variations in resource procurement and / or paste preparation may be inferred to have caused them to diverge from the reference-group profiles.",
+    "They included such variables as paste texture and temper frequency, as well as firing characteristics.",
+    "The proof is a routine diagram paste based on the definitions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "past participle",
+    "past perfect",
+    "past/beyond redemption",
+    "pasta",
+    "paste",
+    "pastel",
+    "pasteurization",
+    "pasteurize",
+    "pastille"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066070_8a520ee776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066070_3e251ac83e_o.png",
+      "id_image": "paste_2932791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373952_767a414b4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373952_75da04df49_o.png",
+      "id_image": "paste_3645904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684289_eb949f40f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684289_5d136bc8da_o.png",
+      "id_image": "paste_391316"
+    }
+  ]
+}

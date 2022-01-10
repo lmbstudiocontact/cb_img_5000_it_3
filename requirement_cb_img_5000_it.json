@@ -1,0 +1,71 @@
+{
+  "english": "requirement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự yêu cầu",
+          "definition": "something that is needed, asked for, ordered etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is a legal requirement that all cars have brakes which work",
+              "world_new": [
+                "legal",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "Our firm will be able to supply all your requirements.",
+              "world_new": [
+                "firm",
+                "supply",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Team leaders used confidence data to prioritize tasks in light of changing requirements.",
+    "The first requirement ensures that the programme has no free variables, and that all environments are minimal.",
+    "Results identify cropping system, area under cultivation, consumption requirements and crop prices as important determinants of sustainability.",
+    "Institutional funds may need expensive computer systems for administration, accounting, and reporting requirements.",
+    "A basic requirement in studies of the benefits of a psychological treatment is information on the conduct of the therapy itself.",
+    "These regulations and requirements have a major impact on the research and development of new drugs.",
+    "The precursor to having one's integrity protected (embodied by the requirement of one's consent) is the capacity to exercise will, make choices, and communicate desires.",
+    "The case for separability as a requirement of consequentialism is straightforward in my opinion."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reputed",
+    "request",
+    "requiem",
+    "require",
+    "requirement",
+    "rescue",
+    "rescuer",
+    "research",
+    "researcher"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059085_1e9dd6c1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059085_b677caabb4_o.png",
+      "id_image": "requirement_1508896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437493_353591ae58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437493_9e85c4a0dc_o.png",
+      "id_image": "requirement_4295914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322231_8dfb14161c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322231_0781a31462_o.png",
+      "id_image": "requirement_5692220"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "recipe",
+  "phat_am": "ˈresəpi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công thức",
+          "definition": "a set of instructions on how to prepare and cook something",
+          "world_new": [
+            "prepare",
+            "cook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a recipe for curry",
+              "world_new": [
+                "curry"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a recipe book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Different towns will need different transport recipes: the basic ingredients, however, will remain the same.",
+    "Does it then follow that when speakers use \"law\" in its count-occurrences they are talking about laws and recipes both?",
+    "Invention flourishes by having recourse to proven recipes; and color, which joins together repetition and pleasure, forms the object of an affective consummation.",
+    "Even though the cookery book says that its recipes are tasty, it is often the case that puddings and dishes prove to be uneatable.",
+    "Using recipes is extra work.",
+    "The balancing of work done in reduction versus work saved through less branching is a delicate matter, which at present more or less depends on ad hoc recipes.",
+    "The fact remains, however, that recipes are now all printed in what is gobbledegook to most people.",
+    "Comedy at that time included shopping lists, fish menus, and recipes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "recess",
+    "recession",
+    "recharge",
+    "recharge your batteries",
+    "recipe",
+    "recipient",
+    "reciprocal",
+    "reciprocally",
+    "recital"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690604_35992083c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690604_25ff324e6f_o.png",
+      "id_image": "recipe_3565418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335486_21206fa8dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335486_67ea309f31_o.png",
+      "id_image": "recipe_527777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450423_e1d3bfe84b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450423_9192f4b485_o.png",
+      "id_image": "recipe_649232"
+    }
+  ]
+}

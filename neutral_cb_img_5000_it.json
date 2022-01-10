@@ -1,0 +1,160 @@
+{
+  "english": "neutral",
+  "phat_am": "ˈnjuːtrəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trung lập",
+          "definition": "not taking sides in a quarrel or war",
+          "world_new": [
+            "quarrel",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A neutral country was asked to help settle the dispute.",
+              "world_new": [
+                "country",
+                "help",
+                "settle",
+                "dispute"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trung tính",
+          "definition": "(of colour/color) not strong or definite",
+          "world_new": [
+            "strong",
+            "definite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Grey is a neutral colour.",
+              "world_new": [
+                "colour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trung tính",
+          "definition": "(in electricity) neither positively nor negatively charged",
+          "world_new": [
+            "positively",
+            "nor",
+            "negatively",
+            "charged"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the neutral wire in a plug.",
+              "world_new": [
+                "wire",
+                "plug"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trung lập",
+          "definition": "(a person belonging to) a nation that takes no part in a war or quarrel",
+          "world_new": [
+            "person",
+            "nation",
+            "part",
+            "war",
+            "quarrel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Switzerland remained a neutral during the conflict.",
+              "world_new": [
+                "conflict"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số không của hộp số",
+          "definition": "the position of the gear of an engine in which no power passes to the wheels etc",
+          "world_new": [
+            "position",
+            "gear",
+            "engine",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I put the car into neutral.",
+              "world_new": [
+                "I",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cross-section for inelastic collisions of neutrals with electrons is sometimes very large owing to the physical properties of molecules, including resonant behaviour.",
+    "The neutrals are also dragged owing to collisions with the ions.",
+    "One of the most critical issues for these sources is charge exchange in the extraction gap from neutrals leaking from the plasma chamber.",
+    "A closer look at any of the above conditions reveals that the relative streaming between ions and neutrals is of paramount importance.",
+    "Since the charged particles recombine on the dust-particle surface, they can finally leave the dust particles as neutrals.",
+    "The knowledge of effective collision frequencies for encounters between electrons and heavy particles (neutrals and ions) is also of interest.",
+    "The collision frequency of each species is assumed to be due primarily to collisions with neutrals.",
+    "In the absence of neutrals this appear s to be possible only if the temperature of ions exceeds the electron temperature."
+  ],
+  "list_see_also": [
+    "neutrality",
+    "neutralize"
+  ],
+  "list_browse": [
+    "neurological",
+    "neurologist",
+    "neurology",
+    "neuter",
+    "neutral",
+    "neutrality",
+    "neutralize",
+    "neutron",
+    "never"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438558_d099db83c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438558_288055c6b2_o.png",
+      "id_image": "neutral_1864581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678654_1ca1f6480e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678654_0736311d6a_o.png",
+      "id_image": "neutral_2164188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368307_d900cba233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368307_9180f03a7b_o.png",
+      "id_image": "neutral_2978093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678574_5dacc6315b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678574_23e552c6ab_o.png",
+      "id_image": "neutral_4658054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060340_a0ba651680_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060340_b2be079b28_o.png",
+      "id_image": "neutral_520438"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "pollen",
+  "phat_am": "ˈpolən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phấn hoa",
+          "definition": "the powder inside a flower which fertilizes other flowers",
+          "world_new": [
+            "powder",
+            "flower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Bees carry pollen from flower to flower.",
+              "world_new": [
+                "carry",
+                "flower",
+                "flower"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This method uses a mixture of anhydrous acetic acid and sulphuric acid, which is heated to prepare pollen for examination under a light microscope.",
+    "This was unexpected given that piassava inflorescences, when vigorously shaken, release clouds of dry pollen.",
+    "The hind legs and lower abdomen rapidly became coated with a thick layer of pollen.",
+    "Pollen records poorly reflect cyclical droughts seen in isotopic records, as natural vegetation has adapted to these fluctuations.",
+    "Elements of the local mire vegetation, fern spores and other palynomorphs were not included in the pollen sum.",
+    "The attraction of both predators to the leaves containing pollen may be the reason for the lower levels of predation on the plants containing pollen.",
+    "The total number of pollen grains, the number and percentages of species-specific grains and recognizable heterospecific pollen types are shown.",
+    "Deforestation and human-improved drainage of the p'ramo a make the rest of the pollen spectra unclear."
+  ],
+  "list_see_also": [
+    "pollinate",
+    "pollination"
+  ],
+  "list_browse": [
+    "politician",
+    "politics",
+    "polka",
+    "poll",
+    "pollen",
+    "pollinate",
+    "pollination",
+    "polling booth",
+    "polling station"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692104_669b1d7e17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692104_e1eb6dc1b6_o.png",
+      "id_image": "pollen_2268919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336736_717bcecd4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336736_a371e2117f_o.png",
+      "id_image": "pollen_2396821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692034_e6eb662700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692034_f1f5526158_o.png",
+      "id_image": "pollen_4365614"
+    }
+  ]
+}

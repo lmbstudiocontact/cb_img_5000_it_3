@@ -1,0 +1,79 @@
+{
+  "english": "priority",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyền ưu tiên",
+          "definition": "the right to be or go first",
+          "world_new": [
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An ambulance must have priority over other traffic.",
+              "world_new": [
+                "ambulance",
+                "traffic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trường hợp ưu tiên",
+          "definition": "(plural priorities) something that must be considered or done first",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our (first) priority is to feed the hungry.",
+              "world_new": [
+                "feed",
+                "hungry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, the report states priorities for research in the field of prevention, including screening.",
+    "This order directly induces a priority order among the nodes: to choose between two nodes, prefer the one which would be visited first.",
+    "It is somewhat surprising that such a simple way of setting the priorities gives such a good bound.",
+    "This is puzzling, given the political, environmental and economic significance of such a priority.",
+    "Especially in less developed countries, research on ageing still tends to prejudge people's priorities and to focus narrowly on material outcomes.",
+    "High priority is given to maternal and child health care, and there are several programs for prevention of disease during pregnancy, childbirth, and early childhood.",
+    "Information is needed on aspects such as outcomes of the intervention, costs, and overall analysis of the relative priorities between prevention and cure.",
+    "Underlying all these priorities is the problem of synthesis, since not all the priorities mentioned above point in the same direction."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "printout",
+    "prior",
+    "prior knowledge",
+    "prior to",
+    "priority",
+    "priory",
+    "prise",
+    "prism",
+    "prismatic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439423_4bc0ed72ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439423_5b4a511181_o.png",
+      "id_image": "priority_5216828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439383_6f5a654cc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439383_630611ac4d_o.png",
+      "id_image": "priority_5230603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324286_9d4f087959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324286_10cf6e9f5c_o.png",
+      "id_image": "priority_5361629"
+    }
+  ]
+}

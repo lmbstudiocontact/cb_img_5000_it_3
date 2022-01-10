@@ -1,0 +1,101 @@
+{
+  "english": "neglect",
+  "phat_am": "niˈɡlekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sao lãng",
+          "definition": "to treat carelessly or not give enough attention to",
+          "world_new": [
+            "treat",
+            "carelessly",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He neglected his work.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bỏ mặc",
+          "definition": "to fail (to do something)",
+          "world_new": [
+            "fail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He neglected to answer the letter.",
+              "world_new": [
+                "answer",
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thờ ơ",
+          "definition": "lack of care and attention",
+          "world_new": [
+            "lack",
+            "care",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The garden is suffering from neglect.",
+              "world_new": [
+                "garden",
+                "suffering"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The induced magnetic field will not be neglected.",
+    "The exact dependence on r will be strongly influenced by the higher-order corrections, which have been neglected in the boundary-layer approximation.",
+    "If so, is this why the study of teaching as behaviour has been neglected?",
+    "Projects simply need to be evaluated from now on in terms of their full social costs - something which was simply neglected in the past.",
+    "Are we appropriating materials hitherto neglected for analysis of the kind we have always used?",
+    "Although the overseas crisis dominated these years, domestic matters were not neglected.",
+    "In contrast, positive self-schemas are related to increased dissociation for the younger neglected children.",
+    "Epistasis : too often neglected in complex trait studies ?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "needlework",
+    "needy",
+    "negative",
+    "negatively",
+    "neglect",
+    "negligence",
+    "negligent",
+    "negligently",
+    "negotiate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062115_a59e64bb3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062115_6538f7f194_o.png",
+      "id_image": "neglect_6306497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440413_f52f43ab04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440413_42fee9fa4a_o.png",
+      "id_image": "neglect_708679"
+    }
+  ]
+}

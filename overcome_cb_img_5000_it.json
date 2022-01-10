@@ -1,0 +1,87 @@
+{
+  "english": "overcome",
+  "phat_am": "əuvəˈkam",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mất tinh thần",
+          "definition": "helpless; defeated by emotion etc",
+          "world_new": [
+            "defeated",
+            "emotion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "overcome with grief",
+              "world_new": [
+                "grief"
+              ]
+            },
+            {
+              "ex_of_definition": "I felt quite overcome.",
+              "world_new": [
+                "I",
+                "felt",
+                "quite"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khắc phục",
+          "definition": "to defeat or conquer",
+          "world_new": [
+            "defeat",
+            "conquer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She finally overcame her fear of the dark.",
+              "world_new": [
+                "finally",
+                "fear",
+                "dark"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These specters could be overcome, he believed, only through the application of new kinds of social science.",
+    "Only with the high exit velocities possible with pulsed laser ablation propulsion is it possible to overcome this problem.",
+    "If the demands of the task are low and the possible responses are restricted, a typically developing child should be able to overcome any ambiguity.",
+    "She successfully overcomes her fear of hurting casual acquaintances' feelings and ultimately, though tactfully, tells them the truth.",
+    "The encountered difficulties and the strategies deployed to overcome them are described in depth.",
+    "Despite the major prominence which this problem has received in many countries, it has repeatedly shown itself as very difficult to overcome.",
+    "I am confident that the methodological and epistemological problems can be overcome through a combination of ingenuity, flair and some inevitable compromises.",
+    "To overcome biases, it seems necessary to have a well-structured process for probability elicitation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "overboard",
+    "overcast",
+    "overcharge",
+    "overcoat",
+    "overcome",
+    "overcrowded",
+    "overcrowding",
+    "overdo",
+    "overdose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077785_c917117382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077785_3822620580_o.png",
+      "id_image": "overcome_1935506"
+    }
+  ]
+}

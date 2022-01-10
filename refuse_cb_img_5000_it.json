@@ -1,0 +1,139 @@
+{
+  "english": "refuse",
+  "phat_am": "rəˈfjuːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "từ chối",
+          "definition": "not to do what one has been asked, told or is expected to do",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He refused to help me",
+              "world_new": [
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "She refused to believe what I said",
+              "world_new": [
+                "believe",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "When I asked him to leave, he refused.",
+              "world_new": [
+                "I",
+                "leave"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khước từ",
+          "definition": "not to accept",
+          "world_new": [
+            "accept"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He refused my offer of help",
+              "world_new": [
+                "my",
+                "offer",
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "They refused our invitation",
+              "world_new": [
+                "our",
+                "invitation"
+              ]
+            },
+            {
+              "ex_of_definition": "She refused the money.",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không cho phép",
+          "definition": "not to give (permission etc)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was refused admittance to the meeting.",
+              "world_new": [
+                "I",
+                "admittance",
+                "meeting"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ thừa",
+          "definition": "rubbish; waste material from eg a kitchen",
+          "world_new": [
+            "waste",
+            "material",
+            "kitchen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "household refuse.",
+              "world_new": [
+                "household"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "While refusing the role of narrator, he does not accept that of cultural critic either.",
+    "Nevertheless, and to almost everyone's surprise, a large number of youths decided to manifest their rejection of the regime by categorically refusing to register.",
+    "By refusing to allow a school and condoning their excessive consumption of alcohol and coca, she considered the hacendado directly responsible for perpetuating backwardness.",
+    "Initially the king refused to give him up, but he quickly became a marginal figure in government.",
+    "The truth is that the courts have persistently resisted the pressure from the superior powers and refused to take the disputes.",
+    "The remaining residents were not vaccinated because they refused.",
+    "Seventy-two controls were enrolled in the study, only one patient refused to answer the questionnaire.",
+    "However, no punitive measures can be taken against a laboratory that refuses to participate."
+  ],
+  "list_see_also": [
+    "refusal"
+  ],
+  "list_browse": [
+    "refuge",
+    "refugee",
+    "refund",
+    "refusal",
+    "refuse",
+    "refuse collector",
+    "refutable",
+    "refutation",
+    "refute"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685179_7b31e8fba0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685179_014187f50a_o.png",
+      "id_image": "refuse_4633904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330111_b766134ca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330111_840b6f6a4a_o.png",
+      "id_image": "refuse_4633912"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "pendulum",
+  "phat_am": "ˈpendjuləm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả lắc",
+          "definition": "a swinging weight, eg that which operates the mechanism of a clock",
+          "world_new": [
+            "swinging",
+            "weight",
+            "mechanism",
+            "clock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The little girl watched the pendulum swing back and forwards",
+              "world_new": [
+                "girl",
+                "swing"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a pendulum clock.",
+              "world_new": [
+                "clock"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this case, the model of the skier can be represented as a double inverted pendulum.",
+    "In particular, our approach applies to the spherical pendulum.",
+    "Here 0 is the damping, 0 is the characteristic frequency of the pendulum !",
+    "Other applications to prey-predator systems and to equations of pendulum-type will be given later.",
+    "Similar effects could not be replicated in using the pendulum technique.",
+    "As the driver swings, it moves the suspension, which in turn moves the other pendulums.",
+    "A useful mechanical analogy is developed by considering the effects of gravity modulation on a simple pendulum.",
+    "All the pendulums are coupled together by the suspension."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pencil",
+    "pencil case",
+    "pencil sharpener",
+    "pendant",
+    "pendulum",
+    "penetrate",
+    "penetrating",
+    "penetratingly",
+    "penetration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367357_d10d1cce8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367357_82d92a567b_o.png",
+      "id_image": "pendulum_1411874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059215_3e5ba2f731_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059215_75480baf71_o.png",
+      "id_image": "pendulum_1754033"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367267_cf296af18d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367267_6465061dbf_o.png",
+      "id_image": "pendulum_1889249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322316_ff790f8bed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322316_4965ea57a8_o.png",
+      "id_image": "pendulum_2106582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677594_2974f71fcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677594_c4943f3472_o.png",
+      "id_image": "pendulum_352225"
+    }
+  ]
+}

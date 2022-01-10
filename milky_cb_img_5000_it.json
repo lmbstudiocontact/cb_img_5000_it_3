@@ -1,0 +1,86 @@
+{
+  "english": "milky",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có sữa",
+          "definition": "containing milk",
+          "world_new": [
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "milky coffee.",
+              "world_new": [
+                "coffee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giống sữa",
+          "definition": "like milk in appearance",
+          "world_new": [
+            "milk",
+            "appearance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A milky substance.",
+              "world_new": [
+                "substance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They have a strong taproot and milky sap.",
+    "Contrarily, \"opalescence\" is correctly applied to the milky, turbid appearance of common or \"potch\" opal.",
+    "The fish responds by walling off the parasitic infection into a number of cysts that contain milky fluid.",
+    "They carry much silt and rocky debris with them, and often have a milky white appearance.",
+    "When cut, the mushroom exudes a kind of milky liquid.",
+    "The physical properties consist of a milky-white rosette-like aggregates of elongated transparent fibers shown in figure one.",
+    "The paintings layered surface include heavy texture, scraped areas, fresh paint and milky veils, which allude to the formation or destruction of random sequence.",
+    "All parts of the plant contain a toxic white milky sap."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "milkiness",
+    "milkmaid",
+    "milkman",
+    "milkshake",
+    "milky",
+    "mill",
+    "millennium",
+    "miller",
+    "millet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698624_a836c63200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698624_c265896325_o.png",
+      "id_image": "milky_258312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388272_22a4d8a209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388272_157e2f46af_o.png",
+      "id_image": "milky_334149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343286_117864abe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343286_8d3b8f59ab_o.png",
+      "id_image": "milky_334191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698509_4b28ce0d1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698509_dfbc85c85d_o.png",
+      "id_image": "milky_757001"
+    }
+  ]
+}

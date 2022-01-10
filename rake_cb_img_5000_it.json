@@ -1,0 +1,135 @@
+{
+  "english": "rake",
+  "phat_am": "reik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái cào",
+          "definition": "a tool which consists of a usually metal bar with teeth at the end of a long handle, used for smoothing earth, gathering eg leaves together etc",
+          "world_new": [
+            "tool",
+            "metal",
+            "bar",
+            "long",
+            "handle",
+            "earth",
+            "gathering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a garden rake.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái gạt tiền trong sòng bạc",
+          "definition": "any similar tool",
+          "world_new": [
+            "similar",
+            "tool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a croupier’s rake in a casino.",
+              "world_new": [
+                "casino"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hành động cào, gạt",
+          "definition": "the act of raking",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave the soil a rake.",
+              "world_new": [
+                "soil"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cào",
+          "definition": "to smooth or gather with a rake",
+          "world_new": [
+            "smooth",
+            "gather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll rake these grass-cuttings up later."
+            }
+          ]
+        },
+        {
+          "mean_english": "gạt",
+          "definition": "(often with out) to remove the ashes from (a fire) with a poker etc.",
+          "world_new": [
+            "remove",
+            "ashes",
+            "poker"
+          ]
+        },
+        {
+          "mean_english": "lia súng",
+          "definition": "to fire guns at (a target) from one end of it to the other",
+          "world_new": [
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers raked the entire village with machine-gun fire.",
+              "world_new": [
+                "entire",
+                "village",
+                "machine-gun",
+                "fire"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rake through",
+    "rake up"
+  ],
+  "list_browse": [
+    "raise someone’s hopes",
+    "raise someone’s spirits",
+    "raisin",
+    "rajah",
+    "rake",
+    "rake through",
+    "rake up",
+    "rally",
+    "rally round"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076555_84c8c24cdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076555_7ca7113498_o.png",
+      "id_image": "rake_1283670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694604_363c8abc7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694604_9406678577_o.png",
+      "id_image": "rake_809016"
+    }
+  ]
+}

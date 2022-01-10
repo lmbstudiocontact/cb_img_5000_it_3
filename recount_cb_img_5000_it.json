@@ -1,0 +1,88 @@
+{
+  "english": "recount",
+  "phat_am": "riˈkaunt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thuật lại",
+          "definition": "to tell (a story etc) in detail",
+          "world_new": [
+            "tell",
+            "story",
+            "detail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He recounted his adventures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đếm lại",
+          "definition": "to count again",
+          "world_new": [
+            "count"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The votes will have to be recounted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự đếm lại",
+          "definition": "a second count",
+          "world_new": [
+            "count"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a re-count of votes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They appeared quite relaxed on the videotapes while they described their classroom and recounted the film.",
+    "There is no need to recount the history of the formation of the first party system here.",
+    "Younger women did not follow traditional practices, but recounted advice from older female relatives.",
+    "Moors traces the impact of these events on gender and recounts many women's individual stories, giving general conclusions.",
+    "Thus, historical recounting simultaneously involved both a retrospective diagnostication and a prospective prognostication.",
+    "Throughout this entire narrative there is an irresolvable undecidability, as it becomes impossible to tell fact from fiction, recounting from inventing.",
+    "Writers recounted stories and traditions circulating at the time of their visits, all obtained from victors, ruling classes and traders.",
+    "Interestingly, these underlying meanings of community are recounted with very little mention of time-spans or chronologies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "record player",
+    "record-breaking",
+    "recorder",
+    "recording",
+    "recount",
+    "recoup",
+    "recover",
+    "recovery",
+    "recreate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379052_5f18f64ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379052_e435bfe946_o.png",
+      "id_image": "recount_5979033"
+    }
+  ]
+}

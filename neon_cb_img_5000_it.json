@@ -1,0 +1,65 @@
+{
+  "english": "neon",
+  "phat_am": "ˈniːon",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nê-ông",
+          "definition": "(symbol Ne) an element, a colourless/colorless gas used in certain forms of electric lighting, eg advertising signs",
+          "world_new": [
+            "element",
+            "gas",
+            "certain",
+            "electric",
+            "lighting",
+            "advertising"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a neon sign.",
+              "world_new": [
+                "sign"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With heavy ions like neon, this fragmentation can cause problems.",
+    "Energy loss dynamics of an intense uranium beam interacting with solid neon for equation of state studies.",
+    "Here, we performed lightning simulation for compressed neon gas with a density of around 4.6 x 1020 cm-3 (17 times the ideal gas).",
+    "The neon letters appear to hover just above an overgrown bed of varied plant life that virtually fills out the rectangular dimensions of the courtyard.",
+    "We shall illustrate this with reference to the sequentially pumped neon-like iron.",
+    "Hooray for washes of light that dissolve walls, and hooray for walls of neon and rolling digital displays.",
+    "The neon-xenon mixture gas consists of 4% of xenon and 96% of neon.",
+    "By using the code, we have investigated the lightning process of compressed neon gas that in a uniformly applied electric field."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "neither",
+    "neither … nor",
+    "neither here nor there",
+    "neo-",
+    "neon",
+    "nephew",
+    "Neptune",
+    "nerve",
+    "nerve-racking"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324866_a12138b3da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324866_53cf79aace_o.png",
+      "id_image": "neon_2779289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369652_429ab26488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369652_95cb7f0c10_o.png",
+      "id_image": "neon_4647300"
+    }
+  ]
+}

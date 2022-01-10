@@ -1,0 +1,215 @@
+{
+  "english": "put",
+  "phat_am": "put",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt; để",
+          "definition": "to place in a certain position or situation",
+          "world_new": [
+            "place",
+            "certain",
+            "position",
+            "situation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put the plate in the cupboard",
+              "world_new": [
+                "plate",
+                "cupboard"
+              ]
+            },
+            {
+              "ex_of_definition": "Did you put any sugar in my coffee?",
+              "world_new": [
+                "sugar",
+                "my",
+                "coffee"
+              ]
+            },
+            {
+              "ex_of_definition": "He put his arm round her",
+              "world_new": [
+                "arm"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m putting a new lock on the door",
+              "world_new": [
+                "lock",
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "You’re putting too much strain on that rope",
+              "world_new": [
+                "strain",
+                "rope"
+              ]
+            },
+            {
+              "ex_of_definition": "When did the Russians first put a man into space?",
+              "world_new": [
+                "space"
+              ]
+            },
+            {
+              "ex_of_definition": "You’ve put me in a bad temper",
+              "world_new": [
+                "bad",
+                "temper"
+              ]
+            },
+            {
+              "ex_of_definition": "Can you put (=translate) this sentence into French?",
+              "world_new": [
+                "sentence",
+                "French"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hỏi; đề xuất",
+          "definition": "to submit or present (a proposal, question etc)",
+          "world_new": [
+            "submit",
+            "present",
+            "proposal",
+            "question"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I put several questions to him",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "She put her ideas before the committee.",
+              "world_new": [
+                "committee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diễn đạt",
+          "definition": "to express in words",
+          "world_new": [
+            "express"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put his refusal very politely",
+              "world_new": [
+                "refusal",
+                "politely"
+              ]
+            },
+            {
+              "ex_of_definition": "Children sometimes have such a funny way of putting things!",
+              "world_new": [
+                "funny"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viết",
+          "definition": "to write down",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m trying to write a letter to her, but I don’t know what to put.",
+              "world_new": [
+                "trying",
+                "letter",
+                "I",
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi vào",
+          "definition": "to sail in a particular direction",
+          "world_new": [
+            "sail",
+            "particular",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We put out to sea",
+              "world_new": [
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "The ship put into harbour for repairs.",
+              "world_new": [
+                "ship",
+                "harbour"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is this challenge that puts on the table new theoretical issues for social science and public policy.",
+    "Some novel utterances may have been put together by combining individual words that have already been learned.",
+    "They were then told to put the sounds together to say the whole word.",
+    "My parents put a lot of responsibility on us children.",
+    "Instead, we were told to put our faith in the market.",
+    "To what social and aesthetic ends would such a theory be put in a tradition which otherwise was not oriented towards evolutionary time?",
+    "Put together apparently by 1755, it has been identified as the only surviving opera from the missions.",
+    "Given the qualitative nature of the survey, the results were interpreted and put in relation to existing estimates in the literature."
+  ],
+  "list_see_also": [
+    "put-on",
+    "a put-up job",
+    "put about",
+    "put across",
+    "put aside",
+    "put away",
+    "put back",
+    "put by",
+    "put down",
+    "put down for",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "pushover",
+    "puss",
+    "pussycat",
+    "pussyfoot",
+    "put",
+    "put (someone) / be in the picture",
+    "put (someone) in his/her place",
+    "put (someone) in mind of something",
+    "put (someone) wise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701414_c09a68daf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701414_b3679d0bc4_o.png",
+      "id_image": "put_4151672"
+    }
+  ]
+}

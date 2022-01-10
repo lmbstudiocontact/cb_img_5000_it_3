@@ -1,0 +1,66 @@
+{
+  "english": "methodology",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phương pháp luận",
+          "definition": "the methods and principles that you use to carry out a particular activity or when studying a particular subject",
+          "world_new": [
+            "principles",
+            "carry",
+            "particular",
+            "activity",
+            "particular",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "language teaching methodology.",
+              "world_new": [
+                "language",
+                "teaching"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is a detailed and meticulous study, which combines sociolinguistic methodology with a qualitative pragmatics approach.",
+    "The book makes good use of black and white photographs, has a useful appendix on methodology and an excellent bibliography.",
+    "Many nuances in the deposition of these vessels remain invisible because of this methodology.",
+    "Both suffer when the time available is reduced, but an appropriate development methodology can in both cases minimize the damage.",
+    "The limitations of clinical methodology are discussed, for example, the pros and cons of various cognitive assessment tools, and this is valuable.",
+    "However, the methodology tested in this study needs to be validated using additional data on similar patients and using data on patients with other diseases.",
+    "It was most significant from the reported participation from over 25 countries worldwide that there is a great interest in the development of such methodologies.",
+    "The findings suggested the need for culture specific case methodology training sessions for both case leaders and students."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "methodical",
+    "methodically",
+    "Methodist",
+    "methodological",
+    "methodology",
+    "meticulous",
+    "meticulously",
+    "metre",
+    "metric"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459773_8a3bf8b894_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459773_2d371e1c23_o.png",
+      "id_image": "methodology_4234457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700054_dc01f67668_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700054_0324a2084b_o.png",
+      "id_image": "methodology_6289195"
+    }
+  ]
+}

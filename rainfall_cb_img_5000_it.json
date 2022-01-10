@@ -1,0 +1,67 @@
+{
+  "english": "rainfall",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lượng mưa",
+          "definition": "the amount of rain that falls in a certain place in a certain time",
+          "world_new": [
+            "amount",
+            "rain",
+            "falls",
+            "certain",
+            "place",
+            "certain",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We haven’t had much rainfall this year",
+              "world_new": [
+                "year"
+              ]
+            },
+            {
+              "ex_of_definition": "the annual rainfall.",
+              "world_new": [
+                "annual"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sustained rainfall fell throughout the year even though the total amount during the long rainy season period was far below the usual average.",
+    "The weather variables of maximum and minimum temperature, rainfall and solar radiation were archived for every crop year.",
+    "According to the rainfall pattern and the needs of the growing crops, the villagers can use the water when needed.",
+    "No direct relationships were noted between rainfall recorded at the sites and species richness, frequency and intensity of attack on baits.",
+    "There was a significant positive relationship between monthly rainfall, monthly minimum temperatures and flavonoid concentration, but no relationship was found with leaf age.",
+    "The semi-arid climate in the study area has low, highly variable rainfall, distributed in two rainy seasons.",
+    "Simple linear regressions were also used to test for relationships between rainfall and mean species richness, percentage of baits attacked, intensities of attack.",
+    "The maps deal with climate and emphasise special features relating to rainfall, winds,- etc., which would riot be shown in an ordinary topographical atlas."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rain storm",
+    "rainbow",
+    "raincoat",
+    "raindrop",
+    "rainfall",
+    "raininess",
+    "rainwater",
+    "rainy",
+    "raise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339821_d8e810a0e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339821_0ce1d5acc8_o.png",
+      "id_image": "rainfall_2402805"
+    }
+  ]
+}

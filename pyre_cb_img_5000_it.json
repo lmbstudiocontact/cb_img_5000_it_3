@@ -1,0 +1,64 @@
+{
+  "english": "pyre",
+  "phat_am": "ˈpaiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giàn thiêu",
+          "definition": "a pile of wood on which a dead body is ceremonially burned",
+          "world_new": [
+            "pile",
+            "wood",
+            "dead",
+            "body",
+            "ceremonially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a funeral pyre",
+              "world_new": [
+                "funeral"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I understand what he says about the resistance to the pyres.",
+    "What advice will be given to those on farms close to the pyre and close to the fallout of the pyre?",
+    "The burning of animals on mass pyres should not be used as a strategy for disposal.",
+    "The moment they start to print money, they will be putting a match to the funeral pyre.",
+    "One hopes that they have expressed their views and that that particular form of celebration will not continue and become a funeral pyre in the form of violence.",
+    "A local carpenter created a simple coffin, and ashes from the funeral pyres were placed inside.",
+    "There is great concern in farming communities that the large funeral pyres used at the beginning of the outbreak contributed to the spread of the disease.",
+    "The pyre has dolls in coffins hung on it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pyjamas",
+    "pylon",
+    "pyramid",
+    "pyramid discussion",
+    "pyre",
+    "pyrites",
+    "pyrotechnics",
+    "python",
+    "Q"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345961_9793b5969a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345961_8607f16e84_o.png",
+      "id_image": "pyre_2458055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390947_c60aceaf70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390947_43c0a392b8_o.png",
+      "id_image": "pyre_676345"
+    }
+  ]
+}

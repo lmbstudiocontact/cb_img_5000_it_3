@@ -1,0 +1,100 @@
+{
+  "english": "raid",
+  "phat_am": "reid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc đột kích",
+          "definition": "a sudden, short and usually unexpected attack",
+          "world_new": [
+            "sudden",
+            "short",
+            "unexpected",
+            "attack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The enemy made a raid on the docks",
+              "world_new": [
+                "enemy"
+              ]
+            },
+            {
+              "ex_of_definition": "The police carried out a raid on the gambling den.",
+              "world_new": [
+                "police",
+                "gambling",
+                "den"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đột kích",
+          "definition": "to make a raid on",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police raided the drug dealer’s house.",
+              "world_new": [
+                "police",
+                "drug",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lục lọi",
+          "definition": "to take things from",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m hungry – let’s raid the fridge.",
+              "world_new": [
+                "hungry",
+                "fridge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During our field survey, several villagers (including some of our respondents) were arrested in a police raid.",
+    "However, as the air raids intensified, the desire to stay in close contact with family grew stronger.",
+    "As a result, unnoticed cinders smoldering from our previous week's raid at another munitions plant will burn that one to the ground.",
+    "Those that do may rely on army ant raids as a food source.",
+    "By the outbreak of war, only limited preparations had been made for the protection of the civilian population from the impact of air raids.",
+    "In 1943 raids became significantly more frequent and intense, with thousands of people regularly being rendered homeless by single raids.",
+    "The 1890s were a period of devastating drought and epidemic, triggering a surge of raiding to reconstitute the herds.",
+    "Preservation of a precarious order, limiting cattle raiding and controlling the ivory trade were the primary goals."
+  ],
+  "list_see_also": [
+    "raider"
+  ],
+  "list_browse": [
+    "raggedly",
+    "raggedness",
+    "raging",
+    "rags",
+    "raid",
+    "raider",
+    "rail",
+    "railing",
+    "railroad"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455493_6a2f609af5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455493_2f4d216c19_o.png",
+      "id_image": "raid_750592"
+    }
+  ]
+}

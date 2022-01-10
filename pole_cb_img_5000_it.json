@@ -1,0 +1,137 @@
+{
+  "english": "pole",
+  "phat_am": "pəul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cực trái đất",
+          "definition": "the north or south end of the Earth’s axis",
+          "world_new": [
+            "north",
+            "south",
+            "axis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the North/South Pole."
+            }
+          ]
+        },
+        {
+          "mean_english": "chân trời",
+          "definition": "the points in the heavens opposite the Earth’s North and South Poles, around which stars seem to turn.",
+          "world_new": [
+            "points",
+            "heavens",
+            "opposite",
+            "seem",
+            "turn"
+          ]
+        },
+        {
+          "mean_english": "cực nam châm",
+          "definition": "either of the opposite ends of a magnet",
+          "world_new": [
+            "opposite",
+            "magnet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The opposite poles of magnets attract each other.",
+              "world_new": [
+                "opposite",
+                "attract"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cực ắc quy",
+          "definition": "either of the opposite terminals of an electric battery",
+          "world_new": [
+            "opposite",
+            "electric",
+            "battery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the positive/negative pole."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái cọc",
+          "definition": "a long, thin, rounded piece of wood, metal etc",
+          "world_new": [
+            "long",
+            "thin",
+            "rounded",
+            "piece",
+            "wood",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a telegraph pole",
+              "world_new": [
+                "telegraph"
+              ]
+            },
+            {
+              "ex_of_definition": "a tent pole.",
+              "world_new": [
+                "tent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The developmental forms found in the two poles were similar to each other, but different to the population found in the mid-section.",
+    "But it is also possible that we run into one of the poles of (2.19) and (2.20).",
+    "So there remains the lag of the pole, rather the sun's final lag, which is half of the first lag, approximately 59 minutes.",
+    "These poles lean, as if tired, towards the gate.",
+    "In the absence of a revolutionary 'pole of attraction', we risk seeing the best elements of the proletariat sink into pessimism.",
+    "He is tied to poles (as on a cross) and carried out.",
+    "However, for a given pole, they cannot be chosen independently.",
+    "The endosperm was more developed at the micropylar pole than elsewhere."
+  ],
+  "list_see_also": [
+    "polar",
+    "polar bear",
+    "the pole star",
+    "be poles apart"
+  ],
+  "list_browse": [
+    "poker",
+    "poky",
+    "polar",
+    "polar bear",
+    "pole",
+    "pole-vault",
+    "polecat",
+    "polemic",
+    "police"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693109_4177e27e34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693109_1c060d6ae7_o.png",
+      "id_image": "pole_1588834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452663_214215cc5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452663_0106a56c52_o.png",
+      "id_image": "pole_4276356"
+    }
+  ]
+}

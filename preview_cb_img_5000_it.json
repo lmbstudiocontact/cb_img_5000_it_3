@@ -1,0 +1,64 @@
+{
+  "english": "preview",
+  "phat_am": "ˈpriːvjuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc duyệt trước",
+          "definition": "a viewing of a performance, exhibition etc before it is open to the public",
+          "world_new": [
+            "performance",
+            "exhibition",
+            "open",
+            "public"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sneak preview of the film.",
+              "world_new": [
+                "sneak",
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is a countdown and previews of new programs in the next year.",
+    "Later, the magazine has changed its focus from game strategies and cheat codes to mainly news, previews, and articles on upcoming games.",
+    "Western previews of the game have been favorable.",
+    "An assortment of previews is the only bonus feature.",
+    "Had the settlement been approved, users would have been able to see longer previews and potentially buy those books.",
+    "To preview the paper's results, the growth model with a broadened quality-of-life measure exhibits a number of non-trivial departures from the standard case.",
+    "All that means is that there is less intervention in the scheduling, but not in previewing programmes, and that there is less bureaucracy.",
+    "The pages were featured news, previews, reviews and letter pages."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prevalent",
+    "prevent",
+    "prevention",
+    "preventive",
+    "preview",
+    "previous",
+    "previous to",
+    "previously",
+    "prey"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371402_bea2c85f28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371402_a60fd29ab8_o.png",
+      "id_image": "preview_1188528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063560_f320426c9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063560_3a309866b1_o.png",
+      "id_image": "preview_5982726"
+    }
+  ]
+}

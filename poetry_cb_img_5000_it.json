@@ -1,0 +1,78 @@
+{
+  "english": "poetry",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thi ca",
+          "definition": "poems in general",
+          "world_new": [
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He writes poetry."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghệ thuật thơ",
+          "definition": "the art of composing poems",
+          "world_new": [
+            "art"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Poetry comes naturally to some people.",
+              "world_new": [
+                "naturally",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are also drawn from a variety of source material: poetry, statutes and ordinances, chronicles, account books.",
+    "Neither the war nor his poetry had purified the political atmosphere.",
+    "He may not be able to write even indifferent poetry.",
+    "In effect his poetry is an ongoing archive of the thing, with the proviso that language and the self are also things.",
+    "To this end, they might work just enough to get a subsistence income and spend the rest of their time trying to write poetry.",
+    "In this way, his poetry is shorn of its political value, and rendered little more than a commodity.",
+    "In this harmonically very unpretentious movement the composer achieves genuine poetry through understatement and delicate sculpting, especially of the sinuous line for solo alto.",
+    "In the fourth period, he composed several less important publications on poetry and pre-modern nationalism."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "poem",
+    "poet",
+    "poetic",
+    "poetically",
+    "poetry",
+    "point",
+    "point of view",
+    "point one’s toes",
+    "point out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453753_aae20b14c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453753_72ea367827_o.png",
+      "id_image": "poetry_2446554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338721_fd65c54344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338721_6368d15eb5_o.png",
+      "id_image": "poetry_3579795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338691_d712dc14ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338691_6df2463743_o.png",
+      "id_image": "poetry_5320497"
+    }
+  ]
+}

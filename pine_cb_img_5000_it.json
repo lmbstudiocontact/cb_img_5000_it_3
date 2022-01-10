@@ -1,0 +1,121 @@
+{
+  "english": "pine",
+  "phat_am": "pain",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây thông",
+          "definition": "any of several kinds of evergreen trees with cones (ˈpine-cones) and needle-like leaves ( pine-needles).",
+          "world_new": [
+            "evergreen"
+          ]
+        },
+        {
+          "mean_english": "gỗ thông",
+          "definition": "its wood",
+          "world_new": [
+            "its",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The table is made of pine",
+              "world_new": [
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a pine table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiều tụy",
+          "definition": "(often with away) to lose strength, become weak (with pain, grief etc)",
+          "world_new": [
+            "lose",
+            "strength",
+            "become",
+            "weak",
+            "pain",
+            "grief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Since his death she has been pining (away).",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mong muốn tha thiết",
+          "definition": "(usually with for) to want (something) very much; to long (for someone or something, or to do something)",
+          "world_new": [
+            "want",
+            "long"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He knew that his wife was pining for home.",
+              "world_new": [
+                "wife",
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The carbon charging of pines at the climatic tree line: a global comparison.",
+    "The new biotype was found in a limited area in the undergrowth of a pine forest, 600-1000 m above sea level.",
+    "Potted pines used to be popular, however these need direct sunlight, and do very poorly as a houseplant.",
+    "The people are pining for news, and they are being completely bottled up and not getting the truth.",
+    "The old oaks and pines are a rich habitat for lichens, insects, fungi, and mosses.",
+    "The climax vegetation is gradually replaced and the soil modified (example: replacement of leafy tree forests by moors or pines plantations).",
+    "Great local concern is being expressed because the pines will have to be sprayed with some new chemical about which there is a great deal of concern.",
+    "Above 3,000 meters there are coniferous forests where oak and pines dominate, that can achieve heights between 5 and 12 meters."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pincers",
+    "pinch",
+    "pinched",
+    "pincushion",
+    "pine",
+    "pineapple",
+    "ping",
+    "ping-pong",
+    "pinhole"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346121_800514e778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346121_cdf88b050b_o.png",
+      "id_image": "pine_2033510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391107_5bbd21a7ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391107_00731e7e0b_o.png",
+      "id_image": "pine_4781777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346066_7f3893438c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346066_908aa4985d_o.png",
+      "id_image": "pine_6262934"
+    }
+  ]
+}

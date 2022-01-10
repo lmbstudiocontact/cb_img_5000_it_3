@@ -1,0 +1,145 @@
+{
+  "english": "pad",
+  "phat_am": "pӕd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miếng đệm",
+          "definition": "a soft, cushion-like object made of or filled with a soft material, used to prevent damage by knocking, rubbing etc",
+          "world_new": [
+            "soft",
+            "object",
+            "filled",
+            "soft",
+            "material",
+            "prevent",
+            "damage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She knelt on a pad to clean the floor.",
+              "world_new": [
+                "clean",
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập giấy viết",
+          "definition": "sheets of paper fixed together",
+          "world_new": [
+            "paper",
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a writing pad."
+            }
+          ]
+        },
+        {
+          "mean_english": "bệ phóng",
+          "definition": "a platform from which rockets are sent off",
+          "world_new": [
+            "platform"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a launching pad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đệm",
+          "definition": "to put a pad in or on (for protection, to make big enough etc)",
+          "world_new": [
+            "protection",
+            "big"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shoes were too big so she padded them with cotton wool.",
+              "world_new": [
+                "big",
+                "cotton",
+                "wool"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi lon ton",
+          "definition": "to walk softly",
+          "world_new": [
+            "walk",
+            "softly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog padded along the road.",
+              "world_new": [
+                "dog",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "padding",
+    "pad out"
+  ],
+  "list_browse": [
+    "packet",
+    "packing",
+    "packing case",
+    "pact",
+    "pad",
+    "pad out",
+    "padding",
+    "paddle",
+    "paddle steamer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382467_9a081e4527_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382467_56982ff744_o.png",
+      "id_image": "pads_788074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074475_ca14bfe859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074475_ec59a68625_o.png",
+      "id_image": "pads_788076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382397_77b37075fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382397_e89dbd8e5a_o.png",
+      "id_image": "pads_788077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337736_be79d523ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337736_b47a2fd7a1_o.png",
+      "id_image": "pad_2071421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452608_aa1b482cf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452608_7b174e6a33_o.png",
+      "id_image": "pad_2123822"
+    }
+  ]
+}

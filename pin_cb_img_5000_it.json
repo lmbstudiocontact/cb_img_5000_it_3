@@ -1,0 +1,148 @@
+{
+  "english": "pin",
+  "phat_am": "pin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ghim; cặp",
+          "definition": "a short, thin, pointed piece of metal used eg to hold pieces of fabric, paper etc together, especially when making clothes",
+          "world_new": [
+            "short",
+            "thin",
+            "pointed",
+            "piece",
+            "metal",
+            "hold",
+            "fabric",
+            "paper",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The papers are fastened together by a pin."
+            }
+          ]
+        },
+        {
+          "mean_english": "đinh ghim",
+          "definition": "a similar but more ornamental object",
+          "world_new": [
+            "similar",
+            "ornamental",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hat-pin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghim; kẹp",
+          "definition": "to fasten with a pin",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She pinned the material together.",
+              "world_new": [
+                "material"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ghìm chặt",
+          "definition": "to hold by pressing against something",
+          "world_new": [
+            "hold",
+            "pressing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fallen tree pinned him to the ground.",
+              "world_new": [
+                "tree",
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "abbreviation",
+      "list_definition": [
+        {
+          "mean_english": "số nhận diện cá nhân",
+          "definition": "short for personal identification number; a number that you must use to get money from a cash machine using a special plastic card.",
+          "world_new": [
+            "short",
+            "number",
+            "money",
+            "cash",
+            "machine",
+            "special",
+            "plastic",
+            "card"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The pin engaging the radial arm could be withdrawn, permitting the whole assembly to rotate freely with the cylinder.",
+    "The output of our algorithm is a (possibly empty) range of critical pin heights for the part at each of its stable orientations.",
+    "Worms, transferred to microtitre plates using insect pins, were placed individually in the bottom of a well containing 200 l of water.",
+    "To overcome these problems, we have developed a tactile cell having a homogeneous distribution of stimulation pins, which are 0.8 mm in diameter.",
+    "Only eight of the package pins carry signals, the rest being either unused or carrying supply voltages.",
+    "The office pedagogy includes pin-ups and site visits.",
+    "In this world, the intention of speech acts is impossible to pin down, meaning is inaccessible, language opaque.",
+    "I explained how we could provide stability to the trees, and which connections could be pinned or fixed."
+  ],
+  "list_see_also": [
+    "pinball",
+    "pincushion",
+    "pinhole",
+    "pinpoint",
+    "pin-up",
+    "pin down",
+    "pins and needles"
+  ],
+  "list_browse": [
+    "pilot",
+    "pilot light",
+    "pimple",
+    "pimpled",
+    "pin",
+    "pin down",
+    "pin-up",
+    "pinafore",
+    "pinball"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701349_db4bcb938b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701349_6d588dd802_o.png",
+      "id_image": "pin_595735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346471_56d9d4e9b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346471_d280621474_o.png",
+      "id_image": "pin_684449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461198_d207f3188e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461198_b8a7bbd592_o.png",
+      "id_image": "pin_709383"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "permission",
+  "phat_am": "pəˈmiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cho phép",
+          "definition": "a written, spoken etc agreement that someone may do something",
+          "world_new": [
+            "spoken",
+            "agreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave me permission to leave.",
+              "world_new": [
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If not, should parents be required to give their permission when their children want to have themselves cloned?",
+    "He considered leaving the fort without consulting him or getting his permission as intolerable behaviour.",
+    "Between 1719 and 1730, for example, the provincial gave permission for the entry of 23 girls to live with the nuns in their cells.",
+    "In fact, just over half of these women said they did not seek their husbands' permission.",
+    "The grant programs, whose administration entails a large number of approvals and permissions, assure that line ministries retain effective control over local authorities.",
+    "Provincial involvement came down to granting permission for large-scale water management works and formulating rules for the reduction of negative side effects for third parties.",
+    "They might insist, that is, that there are only negative duties and permissions, so that all acts of aid are supererogator y, not obligatory.",
+    "Additionally, hospital permission must be obtained for continued utilization of hospital resources, and investigators are required to provide letters documenting such approval."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "permanent wave",
+    "permanently",
+    "permeate",
+    "permissible",
+    "permission",
+    "permissive",
+    "permissiveness",
+    "permit",
+    "permutation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057200_8a4f962fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057200_6848e2e5e7_o.png",
+      "id_image": "permission_2172839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365367_38e9119abd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365367_471cf897ff_o.png",
+      "id_image": "permission_3663412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675384_79814c3e19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675384_3484555e79_o.png",
+      "id_image": "permission_4391723"
+    }
+  ]
+}

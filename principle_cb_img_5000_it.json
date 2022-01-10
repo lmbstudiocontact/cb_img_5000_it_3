@@ -1,0 +1,85 @@
+{
+  "english": "principle",
+  "phat_am": "ˈprinsəpəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguyên lý",
+          "definition": "a general truth, rule or law",
+          "world_new": [
+            "general",
+            "truth",
+            "rule",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the principle of gravity.",
+              "world_new": [
+                "gravity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyên tắc cấu tạo",
+          "definition": "the theory by which a machine etc works",
+          "world_new": [
+            "theory",
+            "machine",
+            "works"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the principle of the jet engine.",
+              "world_new": [
+                "jet",
+                "engine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It reinforces a basic principle of historical research.",
+    "For example, the parties can, in principle, always settle out of court.",
+    "Alternatively, one can propose a general licensing principle that permits such violations at that level.",
+    "The philosophical concept of dependent moral status thus makes a crucial appeal to the ethical principle of beneficence.",
+    "He thus sought to rehabilitate the doctrine of five principles for his project of philosophical chemistry by providing them with a corpuscular ontology.",
+    "Words stressing this yang principle are best avoided in an international community.",
+    "But was this exclusion based on philosophical principle or on the contingent state of science?",
+    "Psychologists risk a similar confusion in formulating principles taken to govern mental representations."
+  ],
+  "list_see_also": [
+    "principles",
+    "in principle",
+    "on principle"
+  ],
+  "list_browse": [
+    "princess",
+    "principal",
+    "principality",
+    "principally",
+    "principle",
+    "principles",
+    "print",
+    "printer",
+    "printing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680274_1264d533e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680274_b1b3c4d425_o.png",
+      "id_image": "principle_5267284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061925_9889c9b558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061925_f2eb8ec542_o.png",
+      "id_image": "principle_5307681"
+    }
+  ]
+}

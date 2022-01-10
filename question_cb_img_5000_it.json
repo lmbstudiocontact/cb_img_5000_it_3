@@ -1,0 +1,179 @@
+{
+  "english": "question",
+  "phat_am": "ˈkwestʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "câu hỏi",
+          "definition": "something which is said, written etc which asks for an answer from someone",
+          "world_new": [
+            "answer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The question is, do we really need a computer?",
+              "world_new": [
+                "computer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vấn đề",
+          "definition": "a problem or matter for discussion",
+          "world_new": [
+            "problem",
+            "matter",
+            "discussion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is the question of how much to pay him.",
+              "world_new": [
+                "pay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "câu hỏi kiểm tra",
+          "definition": "a single problem in a test or examination",
+          "world_new": [
+            "single",
+            "problem",
+            "test",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had to answer four questions in three hours.",
+              "world_new": [
+                "answer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nghi ngờ",
+          "definition": "criticism; doubt; discussion",
+          "world_new": [
+            "discussion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is, without question, the best man for the job.",
+              "world_new": [
+                "best",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả năng",
+          "definition": "a suggestion or possibility",
+          "world_new": [
+            "suggestion",
+            "possibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is no question of our dismissing him.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hỏi",
+          "definition": "to ask (a person) questions",
+          "world_new": [
+            "ask"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll question him about what he was doing last night.",
+              "world_new": [
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghi ngờ",
+          "definition": "to regard as doubtful",
+          "world_new": [
+            "regard",
+            "doubtful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He questioned her right to use the money.",
+              "world_new": [
+                "right",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But this raises precisely the question of what such appeals to nature are supposed to achieve.",
+    "Because we did not tell the control group participants the form that the comprehension questions would take, this reviewer's point remains a possibility.",
+    "The question here therefore remains an open one.",
+    "Returning to our original question, we must consider possible psychological mediators of hierarchy disruption.",
+    "But the question regarding whether such a prayer can be impetratory still remains.",
+    "Often, the legal system (and/or its functionaries) serves as a barrier to any proper resolution of the questions surrounding the narrative and plot structure.",
+    "If we say that these values correspond to certain concepts, it must be understood that the concepts in question are purely differential.",
+    "Pathbreaking verbs in syntactic development and the question of prototypical transitivity."
+  ],
+  "list_see_also": [
+    "questionable",
+    "questionably",
+    "questionableness",
+    "question mark",
+    "question-master",
+    "questionnaire",
+    "question tag",
+    "in question",
+    "out of the question"
+  ],
+  "list_browse": [
+    "quench",
+    "quenching",
+    "query",
+    "quest",
+    "question",
+    "question mark",
+    "question tag",
+    "question-master",
+    "questionable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388967_45f1813395_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388967_34a515c3ce_o.png",
+      "id_image": "question_2016404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081510_412455f618_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081510_6e0262df1b_o.png",
+      "id_image": "question_745209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344046_664e584ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344046_a24a5d8c98_o.png",
+      "id_image": "question_943641"
+    }
+  ]
+}

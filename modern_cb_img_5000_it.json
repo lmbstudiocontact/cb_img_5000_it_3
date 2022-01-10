@@ -1,0 +1,81 @@
+{
+  "english": "modern",
+  "phat_am": "ˈmodən",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hiện đại",
+          "definition": "belonging to the present or to recent times; not old or ancient",
+          "world_new": [
+            "present",
+            "recent",
+            "old",
+            "ancient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "modern furniture/clothes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some advocates of reform stressed the desirability of adding new subjects to the curriculum, including modern sciences.",
+    "But once human development reaches a higher level, people tend to discard modern values.",
+    "One of the major problems facing modern biologists is to find a plausible (or least unlikely) hypothesis that explains the origin of life.",
+    "Modern environmentalism originates with the recognition of ecological connectivity and the negative effects of technological intervention.",
+    "To the modern scientific mind, these two prescriptive statements are of different types.",
+    "The main appeal of the correspondence to the modern reader is that it tells the story so well.",
+    "The growth of scientific knowledge raises new visions of a modern elixir of life, and the culture of science may give them misplaced concreteness.",
+    "All good protagonists require a formidable foe, and the foe of modern portfolio theory is behavioral finance."
+  ],
+  "list_see_also": [
+    "modernity",
+    "modernness",
+    "modernize",
+    "modernization",
+    "modern language"
+  ],
+  "list_browse": [
+    "moderate",
+    "moderately",
+    "moderateness",
+    "moderation",
+    "modern",
+    "modern language",
+    "modernity",
+    "modernization",
+    "modernize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339011_9b4fd81124_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339011_348e502f26_o.png",
+      "id_image": "modern_1430743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076050_b19bbb23fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076050_dd379d0f7d_o.png",
+      "id_image": "modern_3335668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076015_a92b943d86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076015_64b775015b_o.png",
+      "id_image": "modern_4412728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694049_43c7fd963a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694049_acd9b1a935_o.png",
+      "id_image": "modern_4698454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075915_6e0933eee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075915_67f7eebe6e_o.png",
+      "id_image": "modern_6377221"
+    }
+  ]
+}

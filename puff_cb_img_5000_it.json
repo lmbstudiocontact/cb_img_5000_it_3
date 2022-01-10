@@ -1,0 +1,131 @@
+{
+  "english": "puff",
+  "phat_am": "paf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "luồng gió thổi",
+          "definition": "a small blast of air, wind etc; a gust",
+          "world_new": [
+            "small",
+            "blast",
+            "air",
+            "wind",
+            "gust"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A puff of wind moved the branches.",
+              "world_new": [
+                "wind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ phồng lên",
+          "definition": "any of various kinds of soft, round, light or hollow objects",
+          "world_new": [
+            "various",
+            "soft",
+            "light",
+            "hollow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a powder puff",
+              "world_new": [
+                "powder"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) puff sleeves."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thổi phù phù",
+          "definition": "to blow in small blasts",
+          "world_new": [
+            "blow",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Stop puffing cigarette smoke into my face!",
+              "world_new": [
+                "cigarette",
+                "smoke",
+                "my",
+                "face"
+              ]
+            },
+            {
+              "ex_of_definition": "He puffed at his pipe.",
+              "world_new": [
+                "puffed",
+                "pipe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thở hổn hển",
+          "definition": "to breathe quickly, after running etc",
+          "world_new": [
+            "breathe",
+            "quickly",
+            "running"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was puffing as he climbed the stairs."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "X-ray emission from laser irradiated gas puff targets.",
+    "There is an opportunity for unscrupulous estate agents and surveyors to puff up the price of properties in their areas for their own advantage.",
+    "We stir them up to vain thoughts of themselves, and do everything we can to puff up their minds with a sense of their own abilities.",
+    "The major difficulty with studies connected with puff-type transition is that the process is very sensitive to the nature of external disturbances and other ambient conditions.",
+    "Numerous variations of liner, wire array, and gas-puff loads were developed and tested at many laboratories.",
+    "You shut him out from anything in the nature of an invitation, anything like a tout, anything like a puff.",
+    "A diesel engine need only make an occasional puff of light smoke if it is correctly adjusted and properly maintained.",
+    "Spatially resolved spectrograph confirms better axial uniformity with solid-fill gas puff."
+  ],
+  "list_see_also": [
+    "puffed",
+    "puffy",
+    "puff pastry",
+    "puff out",
+    "puff up"
+  ],
+  "list_browse": [
+    "publishing",
+    "pucker",
+    "pudding",
+    "puddle",
+    "puff",
+    "puff out",
+    "puff pastry",
+    "puff up",
+    "puffed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393222_d8a27d9203_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393222_2ea2ec5999_o.png",
+      "id_image": "puff_4759114"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "milk",
+  "phat_am": "milk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sữa",
+          "definition": "a white liquid produced by female mammals as food for their young",
+          "world_new": [
+            "white",
+            "liquid",
+            "female",
+            "food",
+            "their",
+            "young"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a glass of milk",
+              "world_new": [
+                "glass"
+              ]
+            },
+            {
+              "ex_of_definition": "The commonest source of milk is the cow",
+              "world_new": [
+                "source",
+                "cow"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a milk bottle.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vắt sữa",
+          "definition": "to obtain milk from",
+          "world_new": [
+            "obtain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmer milks his cows each day.",
+              "world_new": [
+                "farmer",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "milky",
+    "milkiness",
+    "milkmaid",
+    "milkman",
+    "milkshake",
+    "milk tooth",
+    "the Milky Way"
+  ],
+  "list_browse": [
+    "militancy",
+    "militant",
+    "militantly",
+    "military",
+    "milk",
+    "milk tooth",
+    "milkiness",
+    "milkmaid",
+    "milkman"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343711_b975765a9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343711_54d178f318_o.png",
+      "id_image": "milk_373024"
+    }
+  ]
+}

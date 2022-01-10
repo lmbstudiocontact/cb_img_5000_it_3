@@ -1,0 +1,91 @@
+{
+  "english": "relation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "họ hàng thân thuộc",
+          "definition": "a person who belongs to the same family as oneself either by birth or because of marriage",
+          "world_new": [
+            "person",
+            "family",
+            "birth",
+            "marriage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "uncles, aunts, cousins and other relations."
+            }
+          ]
+        },
+        {
+          "mean_english": "mối liên hệ",
+          "definition": "a relationship (between facts, events etc).",
+          "world_new": [
+            "relationship"
+          ]
+        },
+        {
+          "mean_english": "mối quan hệ",
+          "definition": "contact and communications between people, countries etc",
+          "world_new": [
+            "contact",
+            "communications",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The aim of the talks is to establish friendly relations between the two countries.",
+              "world_new": [
+                "aim",
+                "establish",
+                "friendly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The opposite direction of this implication, that is, the completeness of the logical relations with respect to contextual equivalence remains future work.",
+    "Variables within time points were permitted to correlate; however, these relations are not shown to simplify presentation.",
+    "Firing patterns of neurons in abducens nucleus and surrounding medulla and their relation to eye movements.",
+    "Decline in soil organic carbon and total nitrogen in relation to tillage, stubble management and rotation.",
+    "For it tells us that there is at least one function which represents the better life lottery relation.",
+    "The relation of religious preference and practice to depressive symptoms among 1,855 older adults.",
+    "The symbolic relation is primary; it cannot be reduced to the presence of things, or to a causal relation.",
+    "Analogously to the previous example, these constraints can be represented by rational relations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rejuvenation",
+    "relapse",
+    "relate",
+    "related",
+    "relation",
+    "relationship",
+    "relative",
+    "relative clause",
+    "relative pronoun"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373162_c9d869836b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373162_844bce9295_o.png",
+      "id_image": "relation_2910910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443383_452668d0a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443383_d534050b6b_o.png",
+      "id_image": "relation_4126667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683414_6b7f830d61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683414_5f7e9e6757_o.png",
+      "id_image": "relation_5572150"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "english": "order",
+  "phat_am": "ˈoːdə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỉ thị",
+          "definition": "a statement (by a person in authority) of what someone must do; a command",
+          "world_new": [
+            "statement",
+            "person",
+            "command"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me my orders.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đặt hàng",
+          "definition": "an instruction to supply something",
+          "world_new": [
+            "instruction",
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We received several orders from Germany for spare parts.",
+              "world_new": [
+                "spare"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hàng được cấp",
+          "definition": "something supplied",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your order is nearly ready.",
+              "world_new": [
+                "nearly",
+                "ready"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngăn nắp",
+          "definition": "a tidy state",
+          "world_new": [
+            "tidy",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house is in (good) order.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trình tự",
+          "definition": "a system or method",
+          "world_new": [
+            "system",
+            "method"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I must have order in my life.",
+              "world_new": [
+                "I",
+                "my",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự sắp xếp",
+          "definition": "an arrangement (of people, things etc) in space, time etc",
+          "world_new": [
+            "arrangement",
+            "people",
+            "space",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book are arranged on the shelf in alphabetical order",
+              "world_new": [
+                "book",
+                "shelf",
+                "alphabetical"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve listed the items to discuss in order of importance.",
+              "world_new": [
+                "discuss",
+                "importance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mệnh lệnh",
+          "definition": "a peaceful condition",
+          "world_new": [
+            "peaceful",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "law and order.",
+              "world_new": [
+                "law"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phiếu thu",
+          "definition": "a written instruction to pay money",
+          "world_new": [
+            "instruction",
+            "pay",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a banker’s order."
+            }
+          ]
+        },
+        {
+          "mean_english": "tầng lớp; loài",
+          "definition": "a group, class, rank or position",
+          "world_new": [
+            "group",
+            "class",
+            "rank",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is a list of the various orders of plants",
+              "world_new": [
+                "list",
+                "various"
+              ]
+            },
+            {
+              "ex_of_definition": "the social order.",
+              "world_new": [
+                "social"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luật dòng tu",
+          "definition": "a religious society, especially of monks",
+          "world_new": [
+            "religious",
+            "society"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Benedictine order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra lệnh",
+          "definition": "to tell (someone) to do something (from a position of authority)",
+          "world_new": [
+            "tell",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ordered me to stand up.",
+              "world_new": [
+                "stand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt hàng",
+          "definition": "to give an instruction to supply",
+          "world_new": [
+            "instruction",
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have ordered some new furniture from the shop",
+              "world_new": [
+                "I",
+                "furniture",
+                "shop"
+              ]
+            },
+            {
+              "ex_of_definition": "He ordered a steak.",
+              "world_new": [
+                "steak"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sắp xếp",
+          "definition": "to put in order",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Should we order these alphabetically?",
+              "world_new": [
+                "alphabetically"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "orderly",
+    "orderliness",
+    "order form",
+    "in order",
+    "in order (that)",
+    "in order to",
+    "made to order",
+    "on order",
+    "order about",
+    "out of order",
+    ""
+  ],
+  "list_browse": [
+    "orchestral",
+    "orchid",
+    "ordain",
+    "ordeal",
+    "order",
+    "order about",
+    "order form",
+    "orderliness",
+    "orderly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081660_44103c7338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081660_070227e129_o.png",
+      "id_image": "order_2082194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699314_89420fb95f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699314_5768e87b21_o.png",
+      "id_image": "order_4645439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458918_97df653f0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458918_062d29563b_o.png",
+      "id_image": "order_4829979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389197_74e47755dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389197_bb1b7bcf62_o.png",
+      "id_image": "order_804665"
+    }
+  ]
+}

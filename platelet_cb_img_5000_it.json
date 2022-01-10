@@ -1,0 +1,66 @@
+{
+  "english": "platelet",
+  "phat_am": "ˈpleitlit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiểu cầu",
+          "definition": "a small round cell fragment that helps blood to clot",
+          "world_new": [
+            "small",
+            "cell",
+            "fragment",
+            "blood",
+            "clot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The platelets’ job is to aid in coagulation.",
+              "world_new": [
+                "job",
+                "aid",
+                "coagulation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Scanning electron micrographs show progressive accumulation of platelets attached to syndietic materials.",
+    "Determination of the fetal platelet count is important because of the need for antenatal treatment.",
+    "It is supposed that these improvements of clinical symptoms are based on inhibition of vasoconstriction and platelet aggregation in pulmonary circulation.",
+    "Of two other minor bands of activity, one was associated with platelets.",
+    "During pregnancy accelerated destruction of platelets can occur at any time but tends to appear during the late second and the third trimesters.",
+    "The initial platelet count was 20 x 109 per litre in 50% (53/107).",
+    "The exact molecular mechanisms by which isoflavones affect platelet aggregation are unclear and currently under investigation.",
+    "Additionally, activated platelets expose a negative charge on their membrane comprising exposed phosphatidyl serine phospholipids."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plate glass",
+    "plateau",
+    "plated",
+    "plateful",
+    "platelet",
+    "platform",
+    "plating",
+    "platinum",
+    "platoon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341846_ba5d87138e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341846_3edefc3b67_o.png",
+      "id_image": "platelet_2375299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079265_d9679cac3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079265_26edc34481_o.png",
+      "id_image": "platelet_4493138"
+    }
+  ]
+}

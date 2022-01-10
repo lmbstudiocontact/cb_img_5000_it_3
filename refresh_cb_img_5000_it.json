@@ -1,0 +1,74 @@
+{
+  "english": "refresh",
+  "phat_am": "rəˈfreʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm tỉnh táo",
+          "definition": "to give new strength and energy to; to make (a person etc) feel less hot, tired etc, eg after or during a period of hard work",
+          "world_new": [
+            "strength",
+            "energy",
+            "person",
+            "feel",
+            "hot",
+            "tired",
+            "period",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This glass of cool lemonade will refresh you.",
+              "world_new": [
+                "glass",
+                "cool",
+                "lemonade"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One need not always agree with the claims the text makes to find the effort valuable, refreshing and suggestive.",
+    "By investigating the users of a senior centre's inter-personal experiences, it has been shown that the meanings they attach to their participation are diverse and continuously developed, contested and refreshed.",
+    "Words with a short articulation duration occupy less temporal capacity within the phonological store and are thus subvocally refreshed at a faster rate than words with a long articulation duration.",
+    "During culture, the medium was partially refreshed every 2 days.",
+    "The analysis is plainly interdisciplinary and the results can be refreshing.",
+    "If earlier my heart needed to breathe and be refreshed, it needs that even more now with the sudden arrival of so many spirits, which are warm by nature.",
+    "A partially flowthrough system was used refreshing about 6 l per hour.",
+    "The attempt to bring in international experiences is commendable and, viewed in the best possible light brings diverse and refreshing contrasts into a debate that is too often regionalised."
+  ],
+  "list_see_also": [
+    "refreshing",
+    "refreshingly",
+    "refreshments",
+    "refresh someone’s memory"
+  ],
+  "list_browse": [
+    "reformer",
+    "refract",
+    "refraction",
+    "refrain",
+    "refresh",
+    "refresh someone’s memory",
+    "refreshing",
+    "refreshingly",
+    "refreshments"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067705_ecb4f9f655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067705_0d7eb198be_o.png",
+      "id_image": "refresh_1041986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067660_bcde2b1577_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067660_3c7a525f50_o.png",
+      "id_image": "refresh_1295488"
+    }
+  ]
+}

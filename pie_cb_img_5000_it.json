@@ -1,0 +1,63 @@
+{
+  "english": "pie",
+  "phat_am": "pai",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh nướng",
+          "definition": "food baked in a covering of pastry",
+          "world_new": [
+            "food",
+            "baked",
+            "covering",
+            "pastry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a steak/apple pie."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each pie diagram is the average of 3-4 samples; decimal places have been rounded.",
+    "The findings of the present article suggest a further note of caution even to those who have rushed headlong into the pie production business.",
+    "But this pie is large : there seems to be more than enough wishful thinking for everyone to share.",
+    "Therefore, there must be more ways to cut the empirical pie.",
+    "Correspondingly, the size of the pie will diminish or increase.",
+    "The threat came at a time when the advertising pie was fast shrinking in favour of television.",
+    "I never touched so much as a forkful of his shepherd's pie.",
+    "What remains is to examine the distribution of traces and inquire whether trace deletion cuts the experimental pie correctly."
+  ],
+  "list_see_also": [
+    "pie chart",
+    "pie in the sky"
+  ],
+  "list_browse": [
+    "picturesque",
+    "picturesquely",
+    "picturesqueness",
+    "pidgin",
+    "pie",
+    "pie chart",
+    "pie in the sky",
+    "piebald",
+    "piece"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347876_52f4b4dc76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347876_8f2cf73640_o.png",
+      "id_image": "pie_1139835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702594_af07d01e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702594_e2184924af_o.png",
+      "id_image": "pie_817295"
+    }
+  ]
+}

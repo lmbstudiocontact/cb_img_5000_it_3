@@ -1,0 +1,73 @@
+{
+  "english": "metabolism",
+  "phat_am": "məˈtæbəˌlizəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trao đổi chất",
+          "definition": "all the chemical processes that occur within a living thing in order to maintain life, resulting in growth and the production of energy from food",
+          "world_new": [
+            "chemical",
+            "occur",
+            "living",
+            "order",
+            "maintain",
+            "life",
+            "growth",
+            "production",
+            "energy",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Exercise speeds up the body’s metabolism."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, it should not be considered a failure of bone metabolism markers when treatment differences are not detected in nutritional studies.",
+    "At the physiological level, both depressive symptoms and deficits in deep memory processes may be associated with decreased prefrontal metabolism.",
+    "Conflicting data exist concerning the importance of metabolism in the loss of viability of stored hydrated seeds.",
+    "This role for nonoxidative metabolism allows steady-state energy measurements to provide insights into rapid millisecond events.",
+    "Drevets et al. (1997) have previously demonstrated increased resting metabolism in a more ventral subgenual cingulate region in manic patients.",
+    "The early history of nutrition is the history of metabolism and, as with all history, it is continuously being made.",
+    "The rapid response of markers of bone metabolism brings up an interesting point.",
+    "It is possible, therefore, that reduced synaptic pruning (and therefore, elevated glucose metabolism) will be a symptom shared by several different groups with developmental disorders."
+  ],
+  "list_see_also": [
+    "metabolic"
+  ],
+  "list_browse": [
+    "messiness",
+    "Messrs",
+    "messy",
+    "metabolic",
+    "metabolism",
+    "metacarpal",
+    "metacarpus",
+    "metal",
+    "metal detector"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700779_4aa0c31961_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700779_88577550f3_o.png",
+      "id_image": "metabolism_2176892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390657_49d063e798_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390657_2f8c9736fe_o.png",
+      "id_image": "metabolism_3475142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700734_e3c8d2d001_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700734_dc7fc39448_o.png",
+      "id_image": "metabolism_4178818"
+    }
+  ]
+}

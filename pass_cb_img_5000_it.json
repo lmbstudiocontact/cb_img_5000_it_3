@@ -1,0 +1,292 @@
+{
+  "english": "pass",
+  "phat_am": "paːs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi ngang qua",
+          "definition": "to move towards and then beyond (something, by going past, through, by, over etc)",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I pass the shops on my way to work",
+              "world_new": [
+                "I",
+                "my",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "The procession passed along the corridor.",
+              "world_new": [
+                "procession",
+                "corridor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển/ truyền lại",
+          "definition": "to move, give etc from one person, state etc to another",
+          "world_new": [
+            "move",
+            "person",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They passed the photographs around"
+            },
+            {
+              "ex_of_definition": "The tradition is passed (on/down) from father to son.",
+              "world_new": [
+                "tradition",
+                "father",
+                "son"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vượt quá",
+          "definition": "to go or be beyond",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This passes my understanding.",
+              "world_new": [
+                "my",
+                "understanding"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vượt qua",
+          "definition": "(of vehicles etc on a road) to overtake",
+          "world_new": [
+            "overtake"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sports car passed me on a dangerous bend in the road.",
+              "world_new": [
+                "sports",
+                "car",
+                "dangerous",
+                "bend",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trải qua",
+          "definition": "to spend (time)",
+          "world_new": [
+            "spend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They passed several weeks in the country.",
+              "world_new": [
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông qua",
+          "definition": "(of an official group, government etc) to accept or approve",
+          "world_new": [
+            "official",
+            "group",
+            "government",
+            "accept",
+            "approve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government has passed a resolution.",
+              "world_new": [
+                "government",
+                "resolution"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuyên bố",
+          "definition": "to give or announce (a judgement or sentence)",
+          "world_new": [
+            "announce",
+            "judgement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The magistrate passed judgement on the prisoner.",
+              "world_new": [
+                "magistrate",
+                "judgement",
+                "prisoner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kết thúc",
+          "definition": "to end or go away",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His sickness soon passed.",
+              "world_new": [
+                "sickness",
+                "soon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thi đỗ",
+          "definition": "to (judge to) be successful in (an examination etc)",
+          "world_new": [
+            "successful",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I passed my driving test.",
+              "world_new": [
+                "I",
+                "my",
+                "driving",
+                "test"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường đèo",
+          "definition": "a narrow path between mountains",
+          "world_new": [
+            "narrow",
+            "path"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mountain pass.",
+              "world_new": [
+                "mountain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giấy phép ra vào",
+          "definition": "a ticket or card allowing a person to do something, eg to travel free or to get in to a building",
+          "world_new": [
+            "ticket",
+            "card",
+            "person",
+            "travel",
+            "free",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must show your pass before entering.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thi đỗ",
+          "definition": "a successful result in an examination, especially when below a distinction, honours etc",
+          "world_new": [
+            "successful",
+            "result",
+            "examination",
+            "distinction",
+            "honours"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were ten passes and no fails."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chuyền bóng",
+          "definition": "(in ball games) a throw, kick, hit etc of the ball from one player to another",
+          "world_new": [
+            "ball",
+            "throw",
+            "kick",
+            "hit",
+            "ball",
+            "player"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The centre-forward made a pass towards the goal.",
+              "world_new": [
+                "goal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "passable",
+    "passing",
+    "passer-by",
+    "password",
+    "in passing",
+    "let (something) pass",
+    "pass as/for",
+    "pass away",
+    "pass the buck",
+    "pass by",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "partly",
+    "partner",
+    "partnership",
+    "party",
+    "pass",
+    "pass (something or someone) off as",
+    "pass as/for",
+    "pass away",
+    "pass by"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445408_7bd85eeed0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445408_6f01cbdf99_o.png",
+      "id_image": "pass_589871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375082_262733e5b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375082_d698198852_o.png",
+      "id_image": "pass_6080089"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "english": "needle",
+  "phat_am": "ˈniːdl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kim khâu",
+          "definition": "a small, sharp piece of steel with a hole (called an eye) at one end for thread, used in sewing etc",
+          "world_new": [
+            "small",
+            "sharp",
+            "piece",
+            "steel",
+            "hole",
+            "thread",
+            "sewing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a needle and thread",
+              "world_new": [
+                "thread"
+              ]
+            },
+            {
+              "ex_of_definition": "a sewing needle.",
+              "world_new": [
+                "sewing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kim đan",
+          "definition": "any of various instruments of a long narrow pointed shape",
+          "world_new": [
+            "various",
+            "long",
+            "narrow",
+            "pointed",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a knitting needle",
+              "world_new": [
+                "knitting"
+              ]
+            },
+            {
+              "ex_of_definition": "a hypodermic needle.",
+              "world_new": [
+                "hypodermic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái kim la bàn",
+          "definition": "(in a compass etc) a moving pointer",
+          "world_new": [
+            "compass",
+            "moving",
+            "pointer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The needle is pointing North."
+            }
+          ]
+        },
+        {
+          "mean_english": "lá kim",
+          "definition": "the thin, sharp-pointed leaf of a pine, fir etc",
+          "world_new": [
+            "thin",
+            "leaf",
+            "pine",
+            "fir"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Christmas tree tends to drop all its needles.",
+              "world_new": [
+                "Christmas",
+                "tree",
+                "drop",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The application of a very sharp needle with a tip in atomic dimensions is used to scan material surfaces very closely.",
+    "The needle is just gliding around in the compass housing, doing no actual steering at all.",
+    "In the prison for males, social workers from a non-governmental organization exchanged sterile syringes and needles for used equipment three times a week.",
+    "Death of cercariae was pronounced when they failed to respond to mechanical stimulation with a fine needle.",
+    "This occurs when a needle accidentally perforates the skin of the hand, usually the palm.",
+    "Better filtering performance can be expected in the event that a technique for measuring both the position and orientation of the needle tip becomes available.",
+    "Encapsulated larvae were removed from the intermediate host's tissue and teased from their capsules with very fine needles under the dissecting microscope.",
+    "The needle was then withdrawn, the wound was closed in anatomic layers and the skin sutured."
+  ],
+  "list_see_also": [
+    "be on the needle",
+    "needlework"
+  ],
+  "list_browse": [
+    "nectar",
+    "nectarine",
+    "née",
+    "need",
+    "needle",
+    "needless",
+    "needlessly",
+    "needlework",
+    "needy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370912_5d05664dbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370912_d7dbf559a7_o.png",
+      "id_image": "needle_3604951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370847_4eed63f664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370847_1286b80030_o.png",
+      "id_image": "needle_4637193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326036_8a005c2282_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326036_68117a0238_o.png",
+      "id_image": "needle_4647418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441123_98bc45b4b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441123_e27fc52408_o.png",
+      "id_image": "needle_890983"
+    }
+  ]
+}

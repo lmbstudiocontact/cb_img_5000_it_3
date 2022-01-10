@@ -1,0 +1,90 @@
+{
+  "english": "objective",
+  "phat_am": "əbˈdʒektiv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mục tiêu",
+          "definition": "a thing aimed at",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our objective is freedom.",
+              "world_new": [
+                "freedom"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khách quan",
+          "definition": "not influenced by personal opinions etc",
+          "world_new": [
+            "personal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to take an objective view of the situation.",
+              "world_new": [
+                "view",
+                "situation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The method of pricing depends on the objectives of the water agency and the government.",
+    "The above variables may be considered as objective parameters of adaptation.",
+    "As the title suggests, debate and dialogue of both specific case-studies and abstract themes play an important part m the realization of this objective.",
+    "This means that the state variables converge asymptotically to zero, thus meeting the control objective.",
+    "The government's objective function depends on whether it recognizes returns to all land, both cultivated and common, or returns only to common land.",
+    "It is objective, factual, formal, official, sometimes tending to hostility.",
+    "The second general objective was to assess the impact of the experimental prevention program on developmental trajectories of antisocial behavior.",
+    "The objective was to test trap performance in relevant contexts to facilitate straightforward use by both researchers and the public."
+  ],
+  "list_see_also": [
+    "objectively"
+  ],
+  "list_browse": [
+    "object",
+    "objection",
+    "objectionable",
+    "objectionably",
+    "objective",
+    "objectively",
+    "obligation",
+    "obligatorily",
+    "obligatory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349781_d139e5667b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349781_159b67ceed_o.png",
+      "id_image": "objective_2620445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464398_4557a1b71b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464398_8d3fd789dc_o.png",
+      "id_image": "objective_4371295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464358_7cd0c13140_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464358_5c785b2d5d_o.png",
+      "id_image": "objective_4865954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809382031_8f84436d43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809382031_3d7c518a17_o.png",
+      "id_image": "objective_5138138"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "english": "reserve",
+  "phat_am": "rəˈzəːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt trước",
+          "definition": "to ask for or order to be kept for the use of a particular person, often oneself",
+          "world_new": [
+            "ask",
+            "order",
+            "particular",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The restaurant is busy on Saturdays, so I’ll phone up today and reserve a table.",
+              "world_new": [
+                "restaurant",
+                "busy",
+                "phone",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dành cho",
+          "definition": "to keep for the use of a particular person or group of people, or for a particular use",
+          "world_new": [
+            "keep",
+            "particular",
+            "person",
+            "group",
+            "people",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These seats are reserved for the committee members.",
+              "world_new": [
+                "reserved",
+                "committee"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ dự trữ",
+          "definition": "something which is kept for later use or for use when needed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmer kept a reserve of food in case he was cut off by floods.",
+              "world_new": [
+                "farmer",
+                "food",
+                "case",
+                "cut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khu bảo tồn",
+          "definition": "a piece of land used for a special purpose eg for the protection of animals",
+          "world_new": [
+            "piece",
+            "land",
+            "special",
+            "purpose",
+            "protection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wildlife reserve",
+              "world_new": [
+                "wildlife"
+              ]
+            },
+            {
+              "ex_of_definition": "a nature reserve.",
+              "world_new": [
+                "nature"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính kín đáo",
+          "definition": "the habit of not saying very much, not showing what one is feeling, thinking etc; shyness",
+          "world_new": [
+            "habit",
+            "feeling",
+            "shyness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Brits are usually known for their reserve and politeness.",
+              "world_new": [
+                "their",
+                "politeness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dự bị động viên",
+          "definition": "soldiers, sailors etc who do not belong to the regular full-time army, navy etc but who are called into action when needed eg during a war.",
+          "world_new": [
+            "belong",
+            "regular",
+            "full-time",
+            "army",
+            "navy",
+            "action",
+            "war"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thereafter, maturation occurs largely in the absence of further cell division, and is characterized by cell expansion and deposition of reserves.",
+    "In contrast, the term ' elderly ' is normally reserved for people aged 65 and over.",
+    "Now at least 20 % of the land is reserved for war veterans, who have first choice of plots.",
+    "Here, and below, we reserve to range over ground types.",
+    "Both cover ratios and reserves declined between 2000 and 2002, reflecting adverse market conditions and the relatively stable or even increasing liabilities of pension funds.",
+    "No lasting expedition was possible without the consumption of food reserves which had been obtained through the agriculture and hunting done by the local population.",
+    "This is to stretch their normal usage a bit: 'preference' is usually reserved for comparative attitudes, preferring something over something else.",
+    "The following sections of the paper seek to specify the principal dimensions of reserve among older people and the groups that are most vulnerable."
+  ],
+  "list_see_also": [
+    "reservation",
+    "reserved",
+    "have/keep etc in reserve"
+  ],
+  "list_browse": [
+    "resentfully",
+    "resentfulness",
+    "resentment",
+    "reservation",
+    "reserve",
+    "reserved",
+    "reservoir",
+    "reside",
+    "residence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058825_3b5ba17b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058825_506797c4b1_o.png",
+      "id_image": "reserve_1109887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677099_3638f118ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677099_2e1bddce28_o.png",
+      "id_image": "reserve_1476897"
+    }
+  ]
+}

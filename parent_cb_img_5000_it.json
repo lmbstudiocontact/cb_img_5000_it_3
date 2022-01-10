@@ -1,0 +1,84 @@
+{
+  "english": "parent",
+  "phat_am": "ˈpeərənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cha; mẹ",
+          "definition": "one of the two persons etc (one male and one female) who are jointly the cause of one’s birth",
+          "world_new": [
+            "male",
+            "jointly",
+            "cause",
+            "birth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "her doting parents."
+            }
+          ]
+        },
+        {
+          "mean_english": "cha mẹ nuôi",
+          "definition": "a person with the legal position of a mother or father eg by adoption",
+          "world_new": [
+            "person",
+            "legal",
+            "position",
+            "mother",
+            "father"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "his adoptive parents.",
+              "world_new": [
+                "adoptive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A small core of activists, men and women, came from families in which both parents were active in the labour movement.",
+    "The assumption that parents have some effect on their children's attitudes to learning is one that few educationalists would challenge.",
+    "On the other hand, co-residence with parents may result in either more care or more spousal sharing of the care.",
+    "Seventeenth-century jurisprudence regarded abandonment as lawful, provided that it did not cause the child's death and that the parents were poor or honour was endangered.",
+    "The risk factor is high, teachers and even parents sometimes jealously interfere, orchestras can take umbrage at being asked to work with prodigies.",
+    "However, studies have shown that parents from higher economic and social classes may value the minority language more.",
+    "The level of religious practice was much higher among the activists' parents than it was for the respondents themselves.",
+    "He provides no evidence, however, that the parents made this link."
+  ],
+  "list_see_also": [
+    "parentage",
+    "parental",
+    "parenthood",
+    "parenting"
+  ],
+  "list_browse": [
+    "parched",
+    "parchment",
+    "pardon",
+    "pardon me",
+    "parent",
+    "parentage",
+    "parental",
+    "parenthesis",
+    "parenthetical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687549_26bec75ac7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687549_af65f5ceb7_o.png",
+      "id_image": "parent_6306179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377327_3c555d977c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377327_e1723da80a_o.png",
+      "id_image": "parent_6306230"
+    }
+  ]
+}

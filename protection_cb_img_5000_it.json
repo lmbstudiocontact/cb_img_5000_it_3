@@ -1,0 +1,78 @@
+{
+  "english": "protection",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bảo vệ",
+          "definition": "the act of protecting or state of being protected",
+          "world_new": [
+            "act",
+            "state",
+            "protected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ran to his mother for protection",
+              "world_new": [
+                "mother"
+              ]
+            },
+            {
+              "ex_of_definition": "This type of lock gives extra protection against burglary.",
+              "world_new": [
+                "type",
+                "lock",
+                "extra",
+                "burglary"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật che đỡ",
+          "definition": "something that protects",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The trees were a good protection against the wind.",
+              "world_new": [
+                "wind"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prostrate",
+    "prostration",
+    "protect",
+    "protected",
+    "protection",
+    "protective",
+    "protector",
+    "protein",
+    "protest"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704584_74a33f1e88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704584_4d77b64761_o.png",
+      "id_image": "protection_1149027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464593_5809d40807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464593_eb637562b2_o.png",
+      "id_image": "protection_1689325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394727_be9c5f36d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394727_59dd282c52_o.png",
+      "id_image": "protection_2688412"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "english": "name",
+  "phat_am": "neim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tên",
+          "definition": "a word by which a person, place or thing is called",
+          "world_new": [
+            "person",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My name is Rachel"
+            },
+            {
+              "ex_of_definition": "She knows all the flowers by name."
+            }
+          ]
+        },
+        {
+          "mean_english": "danh tiếng",
+          "definition": "reputation; fame",
+          "world_new": [
+            "fame"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a name for honesty.",
+              "world_new": [
+                "honesty"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt tên",
+          "definition": "to give a name to",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They named the child Thomas.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói rõ",
+          "definition": "to speak of or list by name",
+          "world_new": [
+            "speak",
+            "list"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He could name all the kings of England."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sometimes, and with some letters (especially at the youngest age level), phonetic letter names are produced.",
+    "Note that the above rule may be applied provided the scope of substituted names is localised to the term to be reduced.",
+    "The back of the menu, like the club name, inverted another old female stereotype, this time women's supposed cattiness among themselves.",
+    "The first step in understanding the phenomenon is to name it.",
+    "Because they cannot claim real property on their findings, they may attach their names to them as a gesture of symbolic ownership for their work.",
+    "Even in this, the only surviving portion, no less than 50 falconers with whom he worked are named.",
+    "Ultimately, the destructor proved inefficient and, as its name implies, it left a strong legacy of disposal.",
+    "Their new name replaces a contentious vowel with an arrowhead."
+  ],
+  "list_see_also": [
+    "nameless",
+    "namely",
+    "nameplate",
+    "namesake",
+    "call (someone) names",
+    "in the name of",
+    "make a name for oneself",
+    "name after"
+  ],
+  "list_browse": [
+    "naively",
+    "naked",
+    "nakedly",
+    "nakedness",
+    "name",
+    "name after",
+    "nameless",
+    "namely",
+    "nameplate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373842_73d83642c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373842_67004ef369_o.png",
+      "id_image": "name_1655593"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065940_cc35096411_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065940_0a274a47ba_o.png",
+      "id_image": "name_1828413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373792_163be229b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373792_7c30a2fe93_o.png",
+      "id_image": "name_4060911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329021_753f531158_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329021_b439543242_o.png",
+      "id_image": "name_6135265"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "english": "negative",
+  "phat_am": "ˈneɡətiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phủ nhận",
+          "definition": "meaning or saying ’no’; denying something",
+          "world_new": [
+            "meaning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a negative answer.",
+              "world_new": [
+                "answer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiêu cực",
+          "definition": "expecting to fail",
+          "world_new": [
+            "fail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a negative attitude.",
+              "world_new": [
+                "attitude"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "âm",
+          "definition": "less than zero",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "–4 is a negative or minus number.",
+              "world_new": [
+                "minus",
+                "number"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điện (âm)",
+          "definition": "having more electrons than normal",
+          "world_new": [
+            "normal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The battery has a negative and a positive terminal.",
+              "world_new": [
+                "battery",
+                "positive",
+                "terminal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời từ chối",
+          "definition": "a word etc by which something is denied",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘No’ and ‘never’ are negatives."
+            }
+          ]
+        },
+        {
+          "mean_english": "âm bản",
+          "definition": "the photographic film, from which prints are made, on which light and dark are reversed",
+          "world_new": [
+            "photographic",
+            "film",
+            "light",
+            "dark",
+            "reversed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I gave away the print, but I still have the negative.",
+              "world_new": [
+                "I",
+                "print",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Indeed, the cases cover all possible normal purely negative 2-programs without virtual constraints.",
+    "Ratings for positive, negative and depressive symptoms were available for 40 of the patients.",
+    "In addition, we removed items with negative item- total correlations.",
+    "The biological basis and pathophysiology of negative symptoms are also addressed.",
+    "These points correspond to linkages where the estimate was negative, and was replaced by a zero value.",
+    "That is, there were more negative contexts surrounding ' happen ' than positive and neutral combined.",
+    "We had hypothesised a negative link, but these tasks are easily done at the same time.",
+    "Non-neuroleptic approaches to treating negative symptoms in schizophrenia."
+  ],
+  "list_see_also": [
+    "negatively"
+  ],
+  "list_browse": [
+    "needless",
+    "needlessly",
+    "needlework",
+    "needy",
+    "negative",
+    "negatively",
+    "neglect",
+    "negligence",
+    "negligent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062270_9ecb3b2fd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062270_9b18d851d2_o.png",
+      "id_image": "negative_2254818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440488_08079789be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440488_c7423a01e2_o.png",
+      "id_image": "negative_4001187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440588_dc58af3f94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440588_a46288278e_o.png",
+      "id_image": "negative_552430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325551_934f43a5b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325551_8061d3d4a6_o.png",
+      "id_image": "negative_655231"
+    }
+  ]
+}

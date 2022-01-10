@@ -1,0 +1,81 @@
+{
+  "english": "padlock",
+  "phat_am": "ˈpӕdlok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái khoá móc",
+          "definition": "a (usually metal) movable lock with a U-shaped bar which can be passed through a ring, chain etc and locked",
+          "world_new": [
+            "movable",
+            "lock",
+            "bar",
+            "ring",
+            "chain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has put a padlock on the gate.",
+              "world_new": [
+                "gate"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khoá móc",
+          "definition": "to fasten with a padlock",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She padlocked her bike."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In 1975—these figures were supplied to me by one firm—over 2 million padlocks were imported.",
+    "There are entrances at the grilled (and padlocked where necessary) shafts at the edge of the outcrop.",
+    "There were no means of escape such as had been certified by the authorities; the security door was padlocked, and the key was missing.",
+    "The door could not be opened, as it was designed to open inwards and was padlocked.",
+    "However, couples decided to attach their padlocks elsewhere.",
+    "A radical solution was devised - a medicine trolley on wheels which could be securely padlocked to a wall when not in use.",
+    "We are working very hard to ensure that those padlocks do not appear.",
+    "A number of firms in my constituency manufacture padlocks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "paddle steamer",
+    "paddle wheel",
+    "paddock",
+    "paddy-field",
+    "padlock",
+    "paediatric",
+    "paediatrician",
+    "paediatrics",
+    "paedophile"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452348_be4d8a4d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452348_00fc935a6b_o.png",
+      "id_image": "padlock_124746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337496_52e0a027da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337496_899849d8bb_o.png",
+      "id_image": "padlock_144898"
+    }
+  ]
+}

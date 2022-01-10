@@ -1,0 +1,90 @@
+{
+  "english": "peek",
+  "phat_am": "piːk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liếc trộm",
+          "definition": "to look, especially quickly and in secret",
+          "world_new": [
+            "look",
+            "quickly",
+            "secret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He opened the door slightly and peeked out",
+              "world_new": [
+                "door",
+                "slightly"
+              ]
+            },
+            {
+              "ex_of_definition": "Cover your eyes and don’t peek.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "liếc trộm",
+          "definition": "a quick look",
+          "world_new": [
+            "quick",
+            "look"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take a peek through the window.",
+              "world_new": [
+                "window"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "While the experimenter had his or her back towards the children, a hidden camera was there to check if the children had peeked or not.",
+    "Bugs hears the commotion, peeks out of his hole and decides to fight the invader.",
+    "The innkeeper, captivated by the two, followed them and peeked through the keyhole.",
+    "Similarly, the softness of the soundtrack levels forces the listener to get closer to the piece and peek in.",
+    "They peek into the tunnel.",
+    "We all of us make mistakes some time, be it the police or people peeking through windows.",
+    "The primitive peektoken peeks the top of the input stream without deleting the element.",
+    "Although that episode had a subplot involving peeking into the women's bath, the television stations believed it was suitable when reading the script."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pedestrian precinct",
+    "pedigree",
+    "pedlar",
+    "pee",
+    "peek",
+    "peel",
+    "peeler",
+    "peelings",
+    "peep"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438718_1e263a9cc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438718_3eed719698_o.png",
+      "id_image": "peek_214529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438693_9daea108fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438693_55d153c251_o.png",
+      "id_image": "peek_5238587"
+    }
+  ]
+}

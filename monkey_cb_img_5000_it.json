@@ -1,0 +1,90 @@
+{
+  "english": "monkey",
+  "phat_am": "ˈmaŋki",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con khỉ",
+          "definition": "an animal of the type most like man, especially those which are small and have long tails (ie not the apes).",
+          "world_new": [
+            "animal",
+            "type",
+            "small",
+            "long",
+            "tails"
+          ]
+        },
+        {
+          "mean_english": "thằng nhãi ranh",
+          "definition": "a mischievous child",
+          "world_new": [
+            "mischievous",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their son is a little monkey.",
+              "world_new": [
+                "son"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm trò khỉ",
+          "definition": "(especially with with) to meddle or interfere",
+          "world_new": [
+            "meddle",
+            "interfere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who’s been monkeying (about) with the television set?",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "monkey business"
+  ],
+  "list_browse": [
+    "moneylender",
+    "mongrel",
+    "monitor",
+    "monk",
+    "monkey",
+    "monkey business",
+    "mono",
+    "monocle",
+    "monogamous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692954_c364fc4ce6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692954_fb51d90059_o.png",
+      "id_image": "monkey_194978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382592_586b250716_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382592_7aa65f0000_o.png",
+      "id_image": "monkey_257473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074600_1dca2e8e14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074600_091c651770_o.png",
+      "id_image": "monkey_375109"
+    }
+  ]
+}

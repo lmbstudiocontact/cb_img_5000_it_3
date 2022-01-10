@@ -1,0 +1,74 @@
+{
+  "english": "pig",
+  "phat_am": "piɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con lợn",
+          "definition": "a kind of farm animal whose flesh is eaten as pork, ham, and bacon",
+          "world_new": [
+            "kind",
+            "farm",
+            "animal",
+            "flesh",
+            "pork",
+            "ham",
+            "bacon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He keeps pigs."
+            }
+          ]
+        },
+        {
+          "mean_english": "từ chửi người khác",
+          "definition": "an offensive word for an unpleasant, greedy, or dirty person",
+          "world_new": [
+            "offensive",
+            "unpleasant",
+            "greedy",
+            "dirty",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You pig!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "piggy",
+    "piggy bank",
+    "piglet",
+    "pigheaded",
+    "pigheadedness",
+    "pigskin",
+    "pigsty",
+    "pigtail",
+    "pigs might fly"
+  ],
+  "list_browse": [
+    "piercing",
+    "piercingly",
+    "piercingness",
+    "piety",
+    "pig",
+    "pigeon",
+    "pigeon-hole",
+    "pigeon-toed",
+    "piggy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702324_8caffcf033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702324_ff44db2cd7_o.png",
+      "id_image": "pig_194949"
+    }
+  ]
+}

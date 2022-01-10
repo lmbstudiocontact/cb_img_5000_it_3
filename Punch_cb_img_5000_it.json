@@ -1,0 +1,173 @@
+{
+  "english": "Punch",
+  "phat_am": "pantʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhân vật lưng gù",
+          "definition": "the name of a comic figure in a puppet-show (traditionally known as a Punch and Judy show).",
+          "world_new": [
+            "name",
+            "comic",
+            "figure"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu pân",
+          "definition": "a kind of drink made of spirits or wine, water and sugar etc",
+          "world_new": [
+            "kind",
+            "drink",
+            "spirits",
+            "wine",
+            "water",
+            "sugar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rum punch.",
+              "world_new": [
+                "rum"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đấm",
+          "definition": "to hit with the fist",
+          "world_new": [
+            "hit",
+            "fist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He punched him on the nose.",
+              "world_new": [
+                "nose"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đấm",
+          "definition": "a blow with the fist",
+          "world_new": [
+            "blow",
+            "fist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave him a punch."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hùng hồn",
+          "definition": "the quality of liveliness in speech, writing etc",
+          "world_new": [
+            "quality",
+            "liveliness",
+            "speech"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You need to deliver the speech with more punch.",
+              "world_new": [
+                "deliver",
+                "speech"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái dập lỗ",
+          "definition": "a tool or device for making holes in leather, paper etc",
+          "world_new": [
+            "tool",
+            "device",
+            "leather",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hole punch.",
+              "world_new": [
+                "hole"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đục lỗ",
+          "definition": "to make holes in with such a tool.",
+          "world_new": [
+            "tool"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The data were coded to 80-column punch card format and transferred to magnetic tape.",
+    "The view presented here, hardly novel in itself, is that the popes could not, and did not, punch above their real weight.",
+    "Some writers are no sooner into the ring than they receive a knock-out punch and disappear pretty quickly.",
+    "The interviews were coded independently so that differences could be due to coding errors, punching errors, interview errors, or to differences in reporting.",
+    "Two 1.27-cm holes punched in the paper determined stimulus size.",
+    "A final tool type, designated a punch, was made out of the scapula of a midsize mammal.",
+    "A rigid flat cylindrical punch (radius 5 mm) is supposed to be strongly bonded on the rubber layer.",
+    "Just why the junta seemingly ' pulled its punches ' forms an intriguing puzzle, one that may be fruitfully analysed at the organisational level."
+  ],
+  "list_see_also": [
+    "as pleased as Punch"
+  ],
+  "list_browse": [
+    "pump",
+    "pump up",
+    "pumpkin",
+    "pun",
+    "Punch",
+    "punch line",
+    "punch-drunk",
+    "punch-up",
+    "punctual"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392692_a4b5679cd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392692_8957b43c8b_o.png",
+      "id_image": "punch_1754044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462533_5655d25bee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462533_a4d426656f_o.png",
+      "id_image": "punch_2121104"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "nightlife",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc sống về đêm",
+          "definition": "entertainment that is available in the evening",
+          "world_new": [
+            "entertainment",
+            "available",
+            "evening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The town has a vibrant nightlife with plenty of bars and nightclubs.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Later his uncle would introduce him to the bohemian nightlife of the city.",
+    "There is a good choice of restaurants, cafes, public houses and nightlife as well as hotels, guest houses and caravan parks.",
+    "He is best known as the controversial nightlife personality behind the website lastnightsparty.com.",
+    "Beginning in 2000, residents sought to ameliorate this situation by taking measures to reduce the community's nightlife and re-establish a more residential character.",
+    "The town is a quiet yet vibrant community that, despite its small size, has a rather vivid nightlife.",
+    "However, although there are a few good restaurants, there is minimal nightlife.",
+    "In this sense, the danger of a cultivation of cultural diversity and a 'vibrant' nightlife lapsing into a middle-class sameness remains real.",
+    "The area is mostly known for its extensive nightlife scene."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nightdress",
+    "nightfall",
+    "nightie",
+    "nightingale",
+    "nightlife",
+    "nightly",
+    "nightmare",
+    "nightmarish",
+    "nightshirt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322506_4dc75e08af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322506_04f7ffa211_o.png",
+      "id_image": "nightlife_2038336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322466_4f4b7b11d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322466_f8b58694dd_o.png",
+      "id_image": "nightlife_2132537"
+    }
+  ]
+}

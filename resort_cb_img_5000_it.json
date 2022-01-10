@@ -1,0 +1,102 @@
+{
+  "english": "resort",
+  "phat_am": "rəˈzoːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phải sử dụng đến",
+          "definition": "(with to) to begin to use, do etc as a way of solving a problem etc when other methods have failed",
+          "world_new": [
+            "begin",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He couldn’t persuade people to do what he wanted, so he resorted to threats of violence.",
+              "world_new": [
+                "persuade",
+                "people",
+                "wanted",
+                "violence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nơi nghỉ ngơi",
+          "definition": "a place visited by many people (especially for holidays)",
+          "world_new": [
+            "place",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Brighton is a popular (holiday) resort.",
+              "world_new": [
+                "popular"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To avoid excessive backtracking, we resorted to an alternative strategy in which syntactic possibilities were ordered according to their frequency of use.",
+    "As this corps remained thinly spread, the government also resorted to other means, such as regular troops and irregular units.",
+    "Thus, to say that nurses have often resorted to industrial action because they were not professionalized is only trivially true.",
+    "The reason for this was the desire to emphasise the similarity of related operations without resorting to large numbers of almost identical function names.",
+    "A number of modifications have been proposed to avoid this defect, many of them resorting to steps in, or close to, the steepest-descent direction.",
+    "In 1617 the need for more urgent repairs became apparent and the vestry resorted to arm-twisting.",
+    "She had resorted to the courts seeking her freedom (açao de liberdade), but this had g been denied because of lack of evidence.",
+    "When new and more restricted poor relief was introduced in 1871, some of those in need resorted to crime for subsistence."
+  ],
+  "list_see_also": [
+    "as a last resort"
+  ],
+  "list_browse": [
+    "resolve",
+    "resolved",
+    "resonance",
+    "resonant",
+    "resort",
+    "resound",
+    "resounding",
+    "resoundingly",
+    "resource"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351496_0ee83b1d2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351496_cf7654b557_o.png",
+      "id_image": "resort_2990570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088605_b8f2870cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088605_f63de0cac6_o.png",
+      "id_image": "resort_327424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465883_e99accc774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465883_c015d85d34_o.png",
+      "id_image": "resort_4336451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396032_36f7c455cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396032_2c92a2e5b3_o.png",
+      "id_image": "resort_5273660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705824_8b7008be89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705824_8934470a8d_o.png",
+      "id_image": "resort_6213559"
+    }
+  ]
+}

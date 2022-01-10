@@ -1,0 +1,128 @@
+{
+  "english": "operation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hoạt động",
+          "definition": "an action or process, especially when planned",
+          "world_new": [
+            "action",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rescue operation.",
+              "world_new": [
+                "rescue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá trình hoạt động",
+          "definition": "the process of working",
+          "world_new": [
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our plan is now in operation.",
+              "world_new": [
+                "plan"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc phẫu thuật",
+          "definition": "the act of surgically cutting a part of the body in order to cure disease",
+          "world_new": [
+            "act",
+            "surgically",
+            "cutting",
+            "part",
+            "body",
+            "order",
+            "cure",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an operation for appendicitis."
+            }
+          ]
+        },
+        {
+          "mean_english": "tác chiến",
+          "definition": "the movement, fighting etc of armies",
+          "world_new": [
+            "movement",
+            "fighting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The general was in command of operations in the north.",
+              "world_new": [
+                "general",
+                "command",
+                "north"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The latter operation is called the 'sparking' of parallelism and is used in different variants in many parallel languages.",
+    "They resulted from the reflection on the possibilities of acting with certain material means; not of symbolic operations, but with those of technical operations.",
+    "Therefore, the system should be trained for several periods before performing the actual task for precise operation.",
+    "Time-dependent characterization of the output radiation in a far-field zone was obtained for both free-running and injection-controlled operation with an unstable resonator 1 cavity.",
+    "It stressed the lawful operation of the universe under a providential order.",
+    "Left-adjunction is an operation typically used in the syntax for the organization of phrases.",
+    "At operation the grossly regurgitant left-sided morphologically tricuspid valve was replaced by a \"top-hat\" inverted aortic valve homograft.",
+    "The search tasks, in which participants are assumed to perform operations in parallel on a single visual display are also used for the same purpose."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "operate",
+    "operatic",
+    "operating room",
+    "operating system",
+    "operation",
+    "operational",
+    "operative",
+    "operator",
+    "opiate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391127_4230647ab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391127_4596dd1e50_o.png",
+      "id_image": "operation_2191414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083560_ef5e937787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083560_b172c2b6ec_o.png",
+      "id_image": "operation_3538500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346061_2f47f650ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346061_32d5db67ec_o.png",
+      "id_image": "operation_3974875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391022_2456b6dcb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391022_d2769ba243_o.png",
+      "id_image": "operation_4149660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083465_cea04e7d83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083465_d5a78219b6_o.png",
+      "id_image": "operation_5138535"
+    }
+  ]
+}

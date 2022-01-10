@@ -1,0 +1,75 @@
+{
+  "english": "payroll",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "danh sách tiền lương",
+          "definition": "a list of all the workers in a factory etc",
+          "world_new": [
+            "list",
+            "factory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have 450 people on the payroll.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tổng số tiền lương",
+          "definition": "the total amount of money to be paid to all the workers",
+          "world_new": [
+            "total",
+            "amount",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thieves stole the payroll."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Company payrolls have on them people like wives and girl friends and the rest, ostensibly typists —who do not know one end of a typewriter from the other.",
+    "Many local authorities can do more to take out unnecessary non-teaching staff from their payrolls.",
+    "Neither the main contractor nor the agencies will take the extra staff onto their employed payrolls as they will have the problem of firing them once the contract is completed.",
+    "They are both ways of discouraging firms from taking additional people on to their payrolls.",
+    "Obviously it is a nuisance to have a man on the payroll who is repeatedly away from work.",
+    "Schools are often obliged to fund part or all of the teachers pay increase by adding tens of thousands of pounds to their payrolls.",
+    "I am concerned about small businesses that are struggling to meet their payrolls and to do business.",
+    "Computerised payrolls could probably cope."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "payee",
+    "payer",
+    "payment",
+    "payout",
+    "payroll",
+    "PC",
+    "PE",
+    "pea",
+    "peace"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370542_1ff744c3ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370542_d1ec2a59bf_o.png",
+      "id_image": "payroll_1924596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325716_9b59e8d011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325716_c51c91d3a2_o.png",
+      "id_image": "payroll_2910488"
+    }
+  ]
+}

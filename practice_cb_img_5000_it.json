@@ -1,0 +1,141 @@
+{
+  "english": "practice",
+  "phat_am": "ˈprӕktis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thực hành",
+          "definition": "the actual doing of something, as opposed to the theory or idea",
+          "world_new": [
+            "actual",
+            "theory",
+            "idea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In theory the plan should work, but in practice there are a lot of difficulties.",
+              "world_new": [
+                "theory",
+                "plan",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thói quen",
+          "definition": "the usual way(s) of doing things; (a) habit or custom",
+          "world_new": [
+            "usual",
+            "habit",
+            "custom"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was his usual practice to rise at 6.00 a.m.",
+              "world_new": [
+                "usual",
+                "rise",
+                "m"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luyện tập",
+          "definition": "the repeated performance or exercise of something in order to learn to do it well",
+          "world_new": [
+            "repeated",
+            "performance",
+            "exercise",
+            "order",
+            "learn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has musical talent, but she needs a lot of practice",
+              "world_new": [
+                "musical",
+                "talent"
+              ]
+            },
+            {
+              "ex_of_definition": "Have a quick practice before you start.",
+              "world_new": [
+                "quick",
+                "start"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hành nghề",
+          "definition": "a doctor’s or lawyer’s business",
+          "world_new": [
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a practice in Southampton."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the end, we have only neutered rhetorical forms to stand as theories, and random design novelties to stand as practice.",
+    "But many physicians have refused these incentives because of the risk of control of their practice.",
+    "Here was a version of philosophical commerce closer to our own definition of the word \"commerce,\" yet one intimately related to practice.",
+    "Inspired by progressive practices, they stressed the connections between learning inside the school and life outside it.",
+    "Only a few practices reported using the data in a more systematic way and carrying out a regular analysis of them.",
+    "Moreover, the usage of a purely mass-memory evaluation strategy improves previous deductive systems, eliminating, in practice, any limitation in the dimension of the input data.",
+    "However patient participation activities were reported to be variable, dependent on the motivation and interest of individual general practices.",
+    "Older physicians, in contrast, probably looked forward to returning to their established practices."
+  ],
+  "list_see_also": [
+    "be in / out of practice",
+    "make a practice of",
+    "put into practice"
+  ],
+  "list_browse": [
+    "practical",
+    "practical joke",
+    "practicality",
+    "practically",
+    "practice",
+    "practise",
+    "practised",
+    "pragmatic",
+    "pragmatically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375622_e9af5522b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375622_c980dfb306_o.png",
+      "id_image": "practice_1466276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331021_7bfa106b5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331021_877c9dc11e_o.png",
+      "id_image": "practice_167835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375552_610aa5e509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375552_85b2c840e4_o.png",
+      "id_image": "practice_2832718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445833_cc641581b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445833_ae21bc7536_o.png",
+      "id_image": "practice_4171423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375497_6c959cf933_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375497_90aa38a9c3_o.png",
+      "id_image": "practice_4234498"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "english": "respect",
+  "phat_am": "rəˈspekt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kính trọng",
+          "definition": "admiration; good opinion",
+          "world_new": [
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is held in great respect by everyone",
+              "world_new": [
+                "great"
+              ]
+            },
+            {
+              "ex_of_definition": "He has no respect for politicians."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự lưu tâm",
+          "definition": "consideration; thoughtfulness; willingness to obey etc",
+          "world_new": [
+            "willingness",
+            "obey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shows no respect for his parents."
+            }
+          ]
+        },
+        {
+          "mean_english": "khía cạnh",
+          "definition": "a particular detail, feature etc",
+          "world_new": [
+            "particular",
+            "detail",
+            "feature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These two poems are similar in some respects.",
+              "world_new": [
+                "similar",
+                "respects"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kính trọng",
+          "definition": "to show or feel admiration for",
+          "world_new": [
+            "feel",
+            "admiration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I respect you for what you did.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tôn trọng",
+          "definition": "to show consideration for, a willingness to obey etc",
+          "world_new": [
+            "consideration",
+            "willingness",
+            "obey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One should respect other people’s feelings/property."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The opposite direction of this implication, that is, the completeness of the logical relations with respect to contextual equivalence remains future work.",
+    "According to this view one tends to perceive selfmotion primarily with respect to a visual reference frame.",
+    "The stress of the developmental transition to young adulthood may, in par t, be defined with respect to new roles.",
+    "Thus understood, conscience is unobjectionable but can claim no special dignity or respect.",
+    "Note that (2.19)is trivially satisfied a t i = 1, and thus it must be replaced with its derivative with respect to arclength.",
+    "Patients assigned to the ' generalized eating disorder ' cluster were rated as having more severe symptoms in almost every respect except weight.",
+    "In other respects, however, the data are less than convincing and do not allow a straightforward inter pretation.",
+    "In this respect the building's technical failings have disappointed the client and many users."
+  ],
+  "list_see_also": [
+    "respectable",
+    "respectably",
+    "respectability",
+    "respectful",
+    "respectfully",
+    "respectfulness",
+    "respecting",
+    "respective",
+    "respectively",
+    "respects",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "resource",
+    "resourceful",
+    "resourcefully",
+    "resourcefulness",
+    "respect",
+    "respectability",
+    "respectable",
+    "respectably",
+    "respectful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705554_caa0e7a62e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705554_96bed68f79_o.png",
+      "id_image": "respect_2284927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705534_f0d23b804c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705534_eee30c9a1b_o.png",
+      "id_image": "respect_3994210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088110_f2136379ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088110_c650f352a3_o.png",
+      "id_image": "respect_4412760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350996_2a70bdc8e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350996_26c1a3504c_o.png",
+      "id_image": "respect_4960764"
+    }
+  ]
+}

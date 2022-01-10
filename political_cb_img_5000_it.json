@@ -1,0 +1,66 @@
+{
+  "english": "political",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc chính trị",
+          "definition": "of, or concerning, politics",
+          "world_new": [
+            "concerning",
+            "politics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "for political reasons"
+            },
+            {
+              "ex_of_definition": "political studies."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The partisan theory states that in exchange for political support, parties serve as agents for the preferences and ideologies of their voters.",
+    "On the other hand, vote mobilization by large interest groups can be no substitute for other linkages between political parties and voters.",
+    "Political parties, despite their weaknesses and manipulation, are characteristic of liberal democracy.",
+    "Starting from very different philosophical premises, they ended up arguing for very similar political goals.",
+    "The preceding analysis provides prima facie evidence of close linkages between political parties, policy preferences and market outcomes.",
+    "The country has experienced considerable policy and political change over the past decades.",
+    "The first layer to be removed is an acquired political habit.",
+    "Other political parties have limited space in which to thrive."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "polished",
+    "polite",
+    "politely",
+    "politeness",
+    "political",
+    "political asylum",
+    "political prisoner",
+    "political science",
+    "politically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452098_b5a23697e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452098_b1452bb964_o.png",
+      "id_image": "political_1610497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382267_3cb9914288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382267_2709e0d606_o.png",
+      "id_image": "political_4201547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382227_9d5ae2f57e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382227_794db625d7_o.png",
+      "id_image": "political_5978879"
+    }
+  ]
+}

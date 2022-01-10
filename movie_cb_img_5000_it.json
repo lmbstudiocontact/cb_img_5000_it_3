@@ -1,0 +1,79 @@
+{
+  "english": "movie",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ phim",
+          "definition": "a cinema film",
+          "world_new": [
+            "cinema",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a horror movie.",
+              "world_new": [
+                "horror"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phim",
+          "definition": "(in plural with the) the cinema and films in general",
+          "world_new": [
+            "cinema",
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I go to the movies at leat once a week.",
+              "world_new": [
+                "I",
+                "once",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "From snapshot to movie : phi analysis of protein folding transition states taken one step further.",
+    "Confronting a policy without powerful, loyal supporters, they established conditions in which the adaptation of the political order of movie censorship could not longer occur.",
+    "After watching the movie you will know their meaning, how they are used, in what circumstance you can use it naturally.",
+    "Animation consists of manipulating sequences of pictures or movies.",
+    "Movies make the learner's articulatory organs work even when the learner is merely watching the movies silently.",
+    "Panning over the scene, the camera glides towards a place where the movie's acousmatic phantom will be caught within the safest vessel of all.",
+    "In addition, partial movie sound tracks are currently used throughout the mainland to teach listening comprehension.",
+    "The second approach animates operations in reverse order and is a pure reverse playback of the original animation recorded as a movie."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "move off",
+    "move out",
+    "move up",
+    "movement",
+    "movie",
+    "moving",
+    "movingly",
+    "mow",
+    "mow down"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378422_c093fa4be1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378422_a1caa1fe23_o.png",
+      "id_image": "movie_390086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333556_a076ef01ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333556_2716c9eff0_o.png",
+      "id_image": "movie_412785"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "english": "peak",
+  "phat_am": "piːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đỉnh",
+          "definition": "the pointed top of a mountain or hill",
+          "world_new": [
+            "pointed",
+            "top",
+            "mountain",
+            "hill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "snow-covered peaks."
+            }
+          ]
+        },
+        {
+          "mean_english": "đỉnh cao",
+          "definition": "the highest, greatest, busiest etc point, time etc",
+          "world_new": [
+            "point",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was at the peak of his career.",
+              "world_new": [
+                "career"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lưỡi trai",
+          "definition": "the front part of a cap which shades the eyes",
+          "world_new": [
+            "front",
+            "part",
+            "cap",
+            "shades"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boy wore a cap with a peak.",
+              "world_new": [
+                "boy",
+                "cap"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đạt tới đỉnh cao nhất",
+          "definition": "to reach the highest, greatest, busiest etc point, time etc",
+          "world_new": [
+            "reach",
+            "point",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Prices peaked in July and then began to fall.",
+              "world_new": [
+                "peaked",
+                "July",
+                "fall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The sides of the distribution are then determined on the basis of the ratio values at half of the peak's maximum height.",
+    "To our knowledge, there has not been any report linking the peaks of these two diseases in a geographic area.",
+    "The visual representation of the energy peaks in the spectrograms was successful in helping teachers understand this difference in the two varieties.",
+    "However, there were considerable differences in both the amplitudes and implicit times of both peaks in the trichromatic traces, compared to those from the dichromats.",
+    "The same is true for wind and rain and five of the peaks occurred during a long period of low wind and rain.",
+    "However, the time and level at which the number of deaths peaks, is very uncertain.",
+    "The increased expression peaked at 1 and 3 days compared to controls.",
+    "The control stimulus (thick gray line) had five peaks (numbered 1-5), corresponding to its five preferred movements."
+  ],
+  "list_see_also": [
+    "peaked",
+    "peaky"
+  ],
+  "list_browse": [
+    "peacemaker",
+    "peacetime",
+    "peach",
+    "peacock",
+    "peak",
+    "peaked",
+    "peaky",
+    "peal",
+    "peanut"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680194_df54f7f0df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680194_df69ea7e46_o.png",
+      "id_image": "peak_1655129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325071_9972699a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325071_59236c9f91_o.png",
+      "id_image": "peak_980766"
+    }
+  ]
+}

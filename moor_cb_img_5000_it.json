@@ -1,0 +1,81 @@
+{
+  "english": "moor",
+  "phat_am": "muə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng hoang",
+          "definition": "a large stretch of open, unfarmed land with poor soil often covered with heather, coarse grass etc.",
+          "world_new": [
+            "large",
+            "stretch",
+            "open",
+            "land",
+            "poor",
+            "soil",
+            "heather",
+            "coarse",
+            "grass"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "neo tàu",
+          "definition": "to fasten (a ship etc) by a rope, cable or anchor",
+          "world_new": [
+            "fasten",
+            "ship",
+            "rope",
+            "cable",
+            "anchor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We moored (the yacht) in the bay.",
+              "world_new": [
+                "bay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Despite these improvements, substantial stretches of marsh, moor and heath remained around 1700.",
+    "It is in this zone that vessels awaiting suitable tidal facilities to enter the locks would have to moor.",
+    "I strongly support the need to take measures to conserve the wildlife and natural beauty of the moor.",
+    "In addition to their shared role in administration, landed gentlemen, professional gentlemen and gentlemen merchants stood shoulder to shoulder on the grouse moor and river bank.",
+    "The inhabitants of remote manufacturing villages on the ' wild, semicultivated hills and moors ' were known for their lack of deference, 'rugged ', and ' occasionally eccentric ' individualism, stoicism, and plain speaking.",
+    "That, for the people who live there, will improve the viability of farms on the moor, encourage diversification and enhance the tourism potential.",
+    "It has lush agricultural areas, bleak moors and hill farming where people work very hard for long hours to make a living.",
+    "One of the other yachts narrowly missed destruction when the berg to which it was moored suddenly toppled over."
+  ],
+  "list_see_also": [
+    "moorland"
+  ],
+  "list_browse": [
+    "moonless",
+    "moonlight",
+    "moonlighting",
+    "moonlit",
+    "moor",
+    "mooring",
+    "moorings",
+    "moorland",
+    "moose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336671_7af54ab658_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336671_77d1eee43c_o.png",
+      "id_image": "moor_2000317"
+    }
+  ]
+}

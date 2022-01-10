@@ -1,0 +1,68 @@
+{
+  "english": "reporter",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phóng viên",
+          "definition": "a person who writes articles and reports for a newspaper",
+          "world_new": [
+            "person",
+            "newspaper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a newspaper reporter",
+              "world_new": [
+                "newspaper"
+              ]
+            },
+            {
+              "ex_of_definition": "Reporters and photographers rushed to the scene of the fire.",
+              "world_new": [
+                "scene",
+                "fire"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We also evaluate systematic tendencies for specific reporter pairs to agree with each other more than other pairs.",
+    "More fundamentally, it does not say anything about the degree of agreement between reporters on specific items.",
+    "A reporter will not attempt to answer these questions explicitly as s/he writes a story.",
+    "The reporters' personal interpretations hold no place in the exposition of facts.",
+    "Thus, there is much more agreement between the reporters on items that the child does not know than on items that the child does know.",
+    "Fold-induction is calculated relative to the activity of each reporter alone.",
+    "Ninety reporters attended the proceedings and fifty-eight briefs were submitted by some 150 interest groups.",
+    "The consistency both in reporters and in the nature of questions asked may lessen the possibility of confounding influences."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reply",
+    "report",
+    "report back",
+    "reported speech",
+    "reporter",
+    "repose",
+    "reprehensible",
+    "reprehensibly",
+    "represent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322971_babbe60840_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322971_01ba91c63f_o.png",
+      "id_image": "reporter_1476626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367882_1b604f5047_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367882_a13f9f3158_o.png",
+      "id_image": "reporter_560267"
+    }
+  ]
+}

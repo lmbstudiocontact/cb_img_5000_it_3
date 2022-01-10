@@ -1,0 +1,71 @@
+{
+  "english": "pennant",
+  "phat_am": "ˈpenənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cờ hiệu",
+          "definition": "a small flag, usually in the shape of a long narrow triangle",
+          "world_new": [
+            "small",
+            "flag",
+            "shape",
+            "long",
+            "narrow",
+            "triangle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boy had fastened a brightly-coloured pennant to the front of his bike.",
+              "world_new": [
+                "boy",
+                "front"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The championships banners have been replaced by small pennants that fly on masts at the back of the left field upper deck.",
+    "There were eight pennants each with an image of different bird species attached to poles.",
+    "Individual chapters may also purchase and use pennants and wall banners of various designs.",
+    "In 1943 and 1944 they won back-to-back pennants.",
+    "First, its occupants won league pennants in their two years of existence.",
+    "Pennants have been carried by men-of-war from the earliest times, prior to 1653 at the yard-arm, but since that date at the maintopgallant masthead.",
+    "The pennants sometimes also incorporate the regional arm into the design.",
+    "Pennant's colobus, a type of red colobus, is one of the most endangered primates in the world."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "peninsula",
+    "peninsular",
+    "penis",
+    "penitentiary",
+    "pennant",
+    "penniless",
+    "penny",
+    "pension",
+    "pension off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367187_ccbae4822c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367187_a72ac0164a_o.png",
+      "id_image": "pennant_1887338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322261_465bb2bf0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322261_53d98f3bc9_o.png",
+      "id_image": "pennant_1921809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322216_8b179793c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322216_5cbb2109d1_o.png",
+      "id_image": "pennant_2014204"
+    }
+  ]
+}

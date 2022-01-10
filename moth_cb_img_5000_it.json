@@ -1,0 +1,78 @@
+{
+  "english": "moth",
+  "phat_am": "moθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con thiêu thân",
+          "definition": "any of a large number of insects, rather like butterflies but with wider bodies, seen mostly at night and attracted by light.",
+          "world_new": [
+            "large",
+            "number",
+            "rather",
+            "mostly",
+            "night",
+            "light"
+          ]
+        },
+        {
+          "mean_english": "mọt vải",
+          "definition": "a clothes moth",
+          "world_new": [
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The moths have been at my evening dress.",
+              "world_new": [
+                "my",
+                "evening",
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He prepared the butterflies and moths himself and filed them in his large collection.",
+    "Data in the succeeding section on moth emergence in the winter serve to explain the increase in oviposition.",
+    "It should be noted, however, that while volunteer plants serve as a habitat for natural enemies, they also constitute a refuge for potato tuber moth.",
+    "Two other months showed departures in moth abundance from that predicted by the model.",
+    "Individual females were released into the centre of each cage and moths were allowed to oviposit overnight.",
+    "The methods of obtaining information on the course of moth emergence are described.",
+    "The evolutionary discussions take the form of an orderby-order treatment of the ballooning behaviours and the ecological phylogenetics of spiders, spider mites and moth larvae.",
+    "The morphology of the capitula suggests they are not well adapted for pollination by other nocturnal vectors such as bats or moths."
+  ],
+  "list_see_also": [
+    "clothes moth",
+    "mothball",
+    "moth-eaten"
+  ],
+  "list_browse": [
+    "most",
+    "mostly",
+    "MOT",
+    "motel",
+    "moth",
+    "moth-eaten",
+    "mothball",
+    "mother",
+    "mother country"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380622_e98690c20b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380622_60499ecb0c_o.png",
+      "id_image": "moth_2959440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335531_329201597c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335531_731a3bb532_o.png",
+      "id_image": "moth_5517066"
+    }
+  ]
+}

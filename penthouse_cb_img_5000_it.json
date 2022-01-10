@@ -1,0 +1,75 @@
+{
+  "english": "penthouse",
+  "phat_am": "ˈpenthaus",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tầng mái",
+          "definition": "a (usually luxurious) flat at the top of a building",
+          "world_new": [
+            "flat",
+            "top",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That apartment building has a beautiful penthouse",
+              "world_new": [
+                "apartment",
+                "building",
+                "beautiful"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a penthouse flat.",
+              "world_new": [
+                "flat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Third floor 'penthouse' rooms overlook a roof garden above this bay.",
+    "Use of the drug has spread from the penthouse to the street.",
+    "Of course there are one or two penthouses there, but we did not build them; they have nothing to do with us.",
+    "If that is to be the case for private housing, only a minority of people on the edge of the river will be able to afford penthouse flats.",
+    "It would mean that compensation would continue to be payable for penthouse extensions which create new units rather than extend existing units.",
+    "The company has already built 35 flats in the boilerhouse, and all except the £1 million penthouse have been sold at prices ranging from £170,000 to £295,000.",
+    "Two duplex penthouses crown each structure.",
+    "A report prepared by a group of residents associations suggests that before 1983 there were on average three or four penthouse flat applications each year."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pentagon",
+    "pentagonal",
+    "pentathlon",
+    "Pentecost",
+    "penthouse",
+    "penumbra",
+    "people",
+    "pep",
+    "pep talk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058555_480976658e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058555_402dc7ea37_o.png",
+      "id_image": "penthouse_1594690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436918_f8074825c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436918_d5caefcddd_o.png",
+      "id_image": "penthouse_2484046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321841_691166a563_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321841_cf39178e85_o.png",
+      "id_image": "penthouse_509822"
+    }
+  ]
+}

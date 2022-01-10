@@ -1,0 +1,95 @@
+{
+  "english": "resume",
+  "phat_am": "rəˈzjuːm",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nối lại",
+          "definition": "to begin again after stopping",
+          "world_new": [
+            "begin",
+            "stopping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After tea, the meeting resumed",
+              "world_new": [
+                "tea",
+                "meeting"
+              ]
+            },
+            {
+              "ex_of_definition": "We’ll resume the meeting after tea.",
+              "world_new": [
+                "meeting",
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lý lịch",
+          "definition": "curriculum vitae.",
+          "world_new": [
+            "curriculum"
+          ]
+        },
+        {
+          "mean_english": "bản tóm tắt",
+          "definition": "summary.",
+          "world_new": [
+            "summary"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It was not until 1981 that the activities of the divisions were resumed.",
+    "However, alongside this role conflict there appears to be inherent fulfilment and satisfaction in maintaining or resuming roles other than that of carer.",
+    "Furthermore, tuple space migration allows mobile entities to suspend an ongoing interaction and resume it whenever both agents happen to be co-located again.",
+    "This may reflect the encouragement provided by the problem-solving therapist to resume usual activities.",
+    "After a computation has been interrupted, normal reduction can be resumed.",
+    "Many fourth and fifth stage juveniles may be available to resume final development to maturity.",
+    "The need to resume political activity and stop behaving as quasi-diplomats probably led directly to their rash censure motion of 1976.",
+    "A calmer section brings lithe and lyrical counterpoint, before the fast-machine music and fanfares resume."
+  ],
+  "list_see_also": [
+    "resumption"
+  ],
+  "list_browse": [
+    "restricted",
+    "restriction",
+    "restrictive",
+    "result",
+    "resume",
+    "resumption",
+    "resurrection",
+    "resuscitate",
+    "resuscitation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349716_707809eea3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349716_5d0c6a86da_o.png",
+      "id_image": "resume_1945753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086925_16753de8e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086925_7ca0e5bab0_o.png",
+      "id_image": "resume_1945800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464393_737985400d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464393_49052d46d3_o.png",
+      "id_image": "resume_470202"
+    }
+  ]
+}

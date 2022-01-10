@@ -1,0 +1,73 @@
+{
+  "english": "privacy",
+  "phat_am": "ˈprivəsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự riêng tư; đời tư",
+          "definition": "the state of being away from other people’s sight or interest",
+          "world_new": [
+            "state",
+            "sight",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "in the privacy of your own home.",
+              "world_new": [
+                "your",
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Attention is focused on the translation of the core values of independence, privacy, dignity, choice and rights into a daily reality for residents.",
+    "Balancing legitimate national security needs with strong privacy protections is likely to be a central challenge in coming years.",
+    "Reproductive privacy can be protected while having a generally effective policy that prohibits cloning except in cases of infertility.",
+    "Residents who bathed or showered without assistance were therefore able to safeguard their dignity and their privacy when performing these intimate personal care activities.",
+    "They touch on our privacies and our rights.",
+    "The authors suggest that an ideal environment would provide opportunities for both privacy and interaction.",
+    "Psychological needs such as privacy and dignity are dealt with as care issues, rather than as building features which promote or facilitate them.",
+    "The manipulation of privacy and publicity defined and protected concepts of secrecy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "prismatic",
+    "prison",
+    "prisoner",
+    "prisoner of war",
+    "privacy",
+    "private",
+    "private enterprise",
+    "private means",
+    "private school"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323946_6d2904551a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323946_4d1c5e546b_o.png",
+      "id_image": "privacy_2357029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438983_57f777f16c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438983_2dc749efbe_o.png",
+      "id_image": "privacy_2857728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679174_f7856650b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679174_f7bfb6f3b7_o.png",
+      "id_image": "privacy_408348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323981_6d54cbfd40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323981_a003415d4f_o.png",
+      "id_image": "privacy_916012"
+    }
+  ]
+}

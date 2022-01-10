@@ -1,0 +1,62 @@
+{
+  "english": "microphone",
+  "phat_am": "ˈmaikrəfəun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "micrô",
+          "definition": "(abbreviation mikemaik) an electronic instrument for picking up sound waves to be broadcast, recorded or amplified as in radio, the telephone, a tape-recorder etc",
+          "world_new": [
+            "electronic",
+            "instrument",
+            "sound",
+            "broadcast",
+            "radio",
+            "telephone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Speak into the microphone."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Experience with the microphone, or more generally with sound recording, has sent those who discovered it down a new route.",
+    "Since an important application is the development of hearing aids, the goal is demixing with at most two microphones.",
+    "The circuit of this microphone was modified to handle higher sound pressure levels without distortion.",
+    "They had also to get used to speaking through a table microphone and communicating with the remote jurors through the video-conferencing system.",
+    "The development of the use of the microphone as a performance accessory in the early 1930s was condemned in some quarters.",
+    "That personal vocal directness is now returning via the microphone.",
+    "The microphone on the camera provided high clarity recording of interactions throughout the lounge.",
+    "My knowledge of listening devices, microphones, hydrophones and accelerometers has broadened; the ease with which sounds can be transmitted digitally today is amazing."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "microcosmic",
+    "microcredit",
+    "microfilm",
+    "microorganism",
+    "microphone",
+    "microprocessor",
+    "microscope",
+    "microscopic",
+    "microscopically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459188_de9b76c67e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459188_b9ff168621_o.png",
+      "id_image": "microphone_178615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699464_b9270be94b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699464_3b918fa2d8_o.png",
+      "id_image": "microphone_184397"
+    }
+  ]
+}

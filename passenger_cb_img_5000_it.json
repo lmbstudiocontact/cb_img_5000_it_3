@@ -1,0 +1,80 @@
+{
+  "english": "passenger",
+  "phat_am": "ˈpӕsindʒə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành khách",
+          "definition": "a person who travels in any vehicle, boat, aeroplane/airplane etc (not the driver or anyone working there)",
+          "world_new": [
+            "person",
+            "travels",
+            "vehicle",
+            "boat",
+            "driver"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a passenger on a train",
+              "world_new": [
+                "train"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a passenger train.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Notwithstanding that the emergency services were alongside the aircraft within seconds of the explosion, 55 passengers were burnt beyond recognition; 82 escaped.",
+    "The hijackers were wearing red bandanas, and they forced the passengers to the back of the aircraft.",
+    "In the 1920s and 1930s bus transport was used by a wide variety of passengers who wanted efficient express travel cheaper than the railroads.",
+    "As early even as 1867-8 the total number of railway passengers was 13,746,000, of whom 95% travelled third class.",
+    "In addition, arriving and departing passengers have the same probability of remaining in a city as they do of leaving it.",
+    "Even at their lowest level of social protection, students were accordingly paying half the tariff charged to adult passengers.",
+    "There are entries for all the main types of traf®c (including passengers), as well as sources for railway history and the preservation of artefacts.",
+    "A survey is made of a random sample of about 100 000 passengers into and 125 000 passengers out of main air and sea ports."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pass up",
+    "pass/send round the hat",
+    "passable",
+    "passage",
+    "passenger",
+    "passer-by",
+    "passing",
+    "passion",
+    "passionate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330326_6e8e3f74b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330326_42dcff1346_o.png",
+      "id_image": "passenger_1178842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067185_05f54b6f93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067185_643f8b9a2e_o.png",
+      "id_image": "passenger_1178844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330256_2117457127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330256_37c4020bbf_o.png",
+      "id_image": "passenger_1523915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445208_0730d753c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445208_6cd4e9277c_o.png",
+      "id_image": "passenger_2248059"
+    }
+  ]
+}

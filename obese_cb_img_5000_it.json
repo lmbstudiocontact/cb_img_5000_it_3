@@ -1,0 +1,69 @@
+{
+  "english": "obese",
+  "phat_am": "əˈbiːs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "béo phì",
+          "definition": "(of people) very fat",
+          "world_new": [
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The number of obese people is on the increase.",
+              "world_new": [
+                "number",
+                "people",
+                "increase"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is especially true when dealing with either an obese patient or a very early pregnancy.",
+    "Positioning of obese patients seems more prone to set-up errors and requires online position verification.",
+    "Odds ratios apply to very obese versus controls.",
+    "Measuring effects of weight loss on quality of life in the severely obese (abstract).",
+    "In the obese woman, we must therefore consider the possibility for modification of risk factors in advance of a subsequent pregnancy or in early pregnancy.",
+    "Surgical treatment may be appropriate for severely obese individuals, but only after other treatment attempts have failed.",
+    "Using a simple method (glucose tolerance test) it is possible to identify the obese individuals who are particularly at risk for developing type 2 diabetes.",
+    "Table 4 gives the birth rank of obese children in sibships of sizes 2 and 3; data for larger sibships are too meagre for consideration."
+  ],
+  "list_see_also": [
+    "obesity"
+  ],
+  "list_browse": [
+    "obedience",
+    "obedient",
+    "obediently",
+    "obelisk",
+    "obese",
+    "obesity",
+    "obey",
+    "obituary",
+    "object"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055680_4f7138f00f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055680_d3e13a6588_o.png",
+      "id_image": "obesity_3901444"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673914_e09a44a099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673914_2a68c2c0bb_o.png",
+      "id_image": "obesity_4201837"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673884_e003fd8f87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673884_272f401f1a_o.png",
+      "id_image": "obesity_6193603"
+    }
+  ]
+}

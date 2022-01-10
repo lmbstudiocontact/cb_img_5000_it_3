@@ -1,0 +1,161 @@
+{
+  "english": "mill",
+  "phat_am": "mil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy xay",
+          "definition": "a machine, sometimes now electrical, for grinding coffee, pepper etc by crushing it between rough, hard surfaces",
+          "world_new": [
+            "machine",
+            "electrical",
+            "grinding",
+            "coffee",
+            "pepper",
+            "crushing",
+            "rough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a coffee mill",
+              "world_new": [
+                "coffee"
+              ]
+            },
+            {
+              "ex_of_definition": "a pepper mill.",
+              "world_new": [
+                "pepper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà máy xay",
+          "definition": "a building where grain is ground",
+          "world_new": [
+            "building",
+            "grain",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmer took his corn to the mill.",
+              "world_new": [
+                "farmer",
+                "corn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà máy",
+          "definition": "a building where certain types of things are manufactured",
+          "world_new": [
+            "building",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a steel mill.",
+              "world_new": [
+                "steel"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nghiền",
+          "definition": "to grind or press",
+          "world_new": [
+            "grind",
+            "press"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This flour was milled locally.",
+              "world_new": [
+                "flour",
+                "locally"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hỗn loạn",
+          "definition": "(usually with aboutor around) (of crowds) to move about in a disorganized way",
+          "world_new": [
+            "move",
+            "disorganized"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a huge crowd of people milling around outside.",
+              "world_new": [
+                "huge",
+                "crowd",
+                "people",
+                "outside"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Strikes had sometimes been co-ordinate across a group of mills when policies of the managing agent had affected them in the same way.",
+    "The equations were calibrated and validated with 116 and 45 samples, respectively, for flotation index and with 149 and 176 samples, respectively, for milling tests.",
+    "She is forced to acknowledge the hypocrisy of a father who concealed 'the hideous mystery' regarding the mills that generated all his wealth.",
+    "The notion that children might help their parents in the mills softened, in public discourse, the brutality and exploitation that child labour entailed.",
+    "Diagnosis of different faults in milling using drive signals and process models.",
+    "Even if life in the factory was not necessarily a worse alternative than life in the fields, in some mills work was unhealthy.",
+    "The mechanism of strikes in the jute mills often appeared unconventional to managers and the colonial state.",
+    "People and cars milled about us, while posters, caravans, tents, and stalls were crammed in everywhere."
+  ],
+  "list_see_also": [
+    "miller",
+    "millstone",
+    "millwheel"
+  ],
+  "list_browse": [
+    "milkmaid",
+    "milkman",
+    "milkshake",
+    "milky",
+    "mill",
+    "millennium",
+    "miller",
+    "millet",
+    "milligram"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698434_a931931972_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698434_c30c00af4a_o.png",
+      "id_image": "mill_1111098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343221_8555da6a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343221_878a327761_o.png",
+      "id_image": "mill_123944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457913_efa41f746a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457913_8463a23e51_o.png",
+      "id_image": "mill_2245016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343131_f897320d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343131_1359851754_o.png",
+      "id_image": "mill_6092381"
+    }
+  ]
+}

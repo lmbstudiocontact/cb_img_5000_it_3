@@ -1,0 +1,100 @@
+{
+  "english": "principal",
+  "phat_am": "ˈprinsəpəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chính",
+          "definition": "most important",
+          "world_new": [
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shipbuilding was one of Britain’s principal industries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hiệu trưởng",
+          "definition": "the head of a school, college or university.",
+          "world_new": [
+            "head",
+            "school",
+            "college",
+            "university"
+          ]
+        },
+        {
+          "mean_english": "nhân vật chính",
+          "definition": "a leading actor, singer or dancer in a theatrical production.",
+          "world_new": [
+            "actor",
+            "singer",
+            "dancer",
+            "theatrical",
+            "production"
+          ]
+        },
+        {
+          "mean_english": "tiền gốc",
+          "definition": "the amount of money in a bank etc on which interest is paid.",
+          "world_new": [
+            "amount",
+            "money",
+            "bank",
+            "interest"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In spite of its historical framework the work is dominated by the fates of its three principal characters.",
+    "This fact enables us to also use another name for the principal sheet and call it the physical sheet.",
+    "Principal parts identify the class of non-exemplary items and thereby determine which paradigm will serve as a deductive pattern.",
+    "These and the reduction of crop yields caused by the trees were considered as the principal costs.",
+    "We used principal-factor analysis (starting with squared multiple correlations as the prior communality estimates) to extract the principal factors from the 17 premenstrual symptoms.",
+    "Presence of females among the principal group in a multiple inhumation causes us to believe that women had a preponderant role within the society.",
+    "The principal result of this paper is the following.",
+    "The following sections of the paper seek to specify the principal dimensions of reserve among older people and the groups that are most vulnerable."
+  ],
+  "list_see_also": [
+    "principally"
+  ],
+  "list_browse": [
+    "primrose",
+    "prince",
+    "princely",
+    "princess",
+    "principal",
+    "principality",
+    "principally",
+    "principle",
+    "principles"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440288_960baea935_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440288_faa268282b_o.png",
+      "id_image": "principal_2141396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440243_2b75862086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440243_b9f1a0c877_o.png",
+      "id_image": "principal_4711047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440208_3ba27f939d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440208_21163fed7c_o.png",
+      "id_image": "principal_6032224"
+    }
+  ]
+}

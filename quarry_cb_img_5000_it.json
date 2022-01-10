@@ -1,0 +1,110 @@
+{
+  "english": "quarry",
+  "phat_am": "ˈkwori",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mỏ đá",
+          "definition": "a place, usually a very large hole in the ground, from which stone is got for building etc",
+          "world_new": [
+            "place",
+            "large",
+            "hole",
+            "ground",
+            "stone",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a limestone quarry.",
+              "world_new": [
+                "limestone"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khai thác đá ở mỏ",
+          "definition": "to dig (stone) in a quarry",
+          "world_new": [
+            "dig"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The stone was quarried locally.",
+              "world_new": [
+                "stone",
+                "locally"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con mồi",
+          "definition": "a hunted animal or bird",
+          "world_new": [
+            "animal",
+            "bird"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hunting dogs chased after their quarry.",
+              "world_new": [
+                "hunting",
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẻ bị truy nã; vật bị truy tìm",
+          "definition": "someone or something that is hunted, chased, or eagerly looked for.",
+          "world_new": [
+            "eagerly"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There will be demands on the output of the quarries for many years to come.",
+    "Do the quarries in your area build for their workmen houses costing£700.",
+    "However, there are differences between the quarrying industry and other industries that might seek abstraction licences.",
+    "There is no possible way in which the quarries would come under a mining department.",
+    "I will not go further on the question of smaller quarries.",
+    "Perhaps only pre-forms were prepared at workshops in or near the quarries and, once transpor ted to their final destination within the site, the sculptures were then completed.",
+    "Responsibility for the enforcement of legislation restricting the employment of children in industrial undertakings, such as factories, construction sites, mines and quarries etc.",
+    "At least two of these deaths occurred in disused pits or quarries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "quarantine",
+    "quarrel",
+    "quarrelsome",
+    "quarrelsomeness",
+    "quarry",
+    "quart",
+    "quarter",
+    "quarter-deck",
+    "quarter-final"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699839_f93fb6643b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699839_8f07cef998_o.png",
+      "id_image": "quarry_4158441"
+    }
+  ]
+}

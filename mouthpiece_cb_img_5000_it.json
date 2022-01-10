@@ -1,0 +1,56 @@
+{
+  "english": "mouthpiece",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miệng (kèn, sáo, còi…)",
+          "definition": "the piece of a musical instrument etc which is held in the mouth",
+          "world_new": [
+            "piece",
+            "musical",
+            "instrument",
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the mouthpiece of a horn.",
+              "world_new": [
+                "horn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ống nói (điện thoại)",
+          "definition": "the part of a telephone etc into which one speaks.",
+          "world_new": [
+            "part",
+            "telephone"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mouth",
+    "mouth organ",
+    "mouth-watering",
+    "mouthful",
+    "mouthpiece",
+    "mouthwash",
+    "movable",
+    "move",
+    "move along"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688899_e05e4204fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688899_4cd0f18c25_o.png",
+      "id_image": "mouthpiece_1923024"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "respiration",
+  "phat_am": "respəˈreiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thở; hơi thở",
+          "definition": "breathing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "artificial respiration.",
+              "world_new": [
+                "artificial"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Biogeophysical factors influencing soil respiration and mineral nitrogen content in an old field soil.",
+    "In respiration and photosynthesis processes, small redox-active metalloproteins facilitate electron-transfer reactions by alternately binding to specific integral membrane proteins that often contain several metal sites.",
+    "In contrast, they found late successional species to have lower rates of dark respiration, low mesophyll conductance and low light compensation points.",
+    "The physico-chemistry of affinities and of fermentation, which concerns respiration, chyliation, glandular secretion, reproduction, etc., does not modify the givens of the problem.",
+    "We found this effect in petite (aerobic respiration incompetent) strains but not grande (respiration competent) strains.",
+    "Respiration rates can be measured more easily and reliably than the diesel concentration itself.",
+    "Movements that follow respiration reflect increases and decreases in venous pressure that accompany inflation and deflation of the chest.",
+    "As discussed earlier, these differences would likely have been 2-4 fold higher had a half-hour respiration incubation time been used."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "respecting",
+    "respective",
+    "respectively",
+    "respects",
+    "respiration",
+    "respirator",
+    "respiratory",
+    "respiratory system",
+    "respire"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705484_b22b15815f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705484_b33ac97767_o.png",
+      "id_image": "respiration_4266407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705379_666aba07c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705379_4ab21cfac6_o.png",
+      "id_image": "respiratory_2869091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350821_a1b0348da7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350821_d93bca0f6f_o.png",
+      "id_image": "respiratory_4310582"
+    }
+  ]
+}

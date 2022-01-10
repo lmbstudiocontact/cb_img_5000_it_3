@@ -1,0 +1,64 @@
+{
+  "english": "phobia",
+  "phat_am": "ˈfəubiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ám ảnh",
+          "definition": "an intense fear or hatred of something",
+          "world_new": [
+            "intense",
+            "fear",
+            "hatred"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a phobia about spiders."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Overanxious disorder and avoidant disorder now are subsumed under generalized anxiety disorder and social phobia, respectively.",
+    "The fourth column displays odds ratios and confidence intervals comparing individuals with current social phobia to individuals with no lifetime history of the disorder.",
+    "In female- female pairs, a similar pattern was seen except with social phobia, where correlations were similar in the two twin groups.",
+    "This paper reports on the findings for the anxiety disorders (panic disorder/agoraphobia, social phobia, generalized anxiety disorder, post-traumatic stress disorder and obsessive-compulsive disorder).",
+    "Six of the 45 patients (13 %) had a relapse of social phobia at some time during follow-up.",
+    "Thus, separation anxiety, phobias, somatic complaints and behaviour problems are seen more frequently in younger children, while adolescent girls more frequently report vegetative symptoms.",
+    "Treatment of generalized social phobia : results at long-term follow-up.",
+    "The high prevalence of simple phobia has not inflated the overall prevalence of mental disorder since all of these patients also had another mental disorder."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "philosophy",
+    "phlegm",
+    "phlegmatic",
+    "phloem",
+    "phobia",
+    "phoenix",
+    "phone",
+    "phone book",
+    "phone booth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464558_fee5d72357_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464558_a793aaf304_o.png",
+      "id_image": "phobia_4525546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087185_3bd797f154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087185_439beab91b_o.png",
+      "id_image": "phobia_555687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349861_8509e0eb9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349861_f25b9d9ed1_o.png",
+      "id_image": "phobia_6366045"
+    }
+  ]
+}

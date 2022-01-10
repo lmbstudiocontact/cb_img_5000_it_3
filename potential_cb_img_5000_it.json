@@ -1,0 +1,102 @@
+{
+  "english": "potential",
+  "phat_am": "pəˈtenʃəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tiềm năng",
+          "definition": "possible; that may develop into the thing mentioned",
+          "world_new": [
+            "develop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That hole in the road is a potential danger.",
+              "world_new": [
+                "hole",
+                "road",
+                "danger"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khả năng tiềm tàng",
+          "definition": "the possibility, or likelihood, of successful development (in a particular way)",
+          "world_new": [
+            "possibility",
+            "likelihood",
+            "successful",
+            "development",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The land has great farming potential",
+              "world_new": [
+                "land",
+                "great",
+                "farming"
+              ]
+            },
+            {
+              "ex_of_definition": "He shows potential as a teacher.",
+              "world_new": [
+                "teacher"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, all these systems require strict adherence to maintenance protocols to perform to their full potential.",
+    "The developmental literature points to at least 6 levels of empathy emerging in succession, each expanding and adding to the repertoire of empathic potential.",
+    "As choreoathetosis is an exceedingly rare complication of bypass with many potential causes, prospective cohort studies are unlikely to provide sufficient delineation of risk factors.",
+    "The attempts by nationalist activists to use soccer as an organizational and symbolic platform again prove the political potential of soccer.",
+    "If the mirroring is too accurate, the perception itself can become a source of fear, and it loses its symbolic potential.",
+    "Readers are teachers or teachers in training, high school or normal school students, potential lawyers, businessmen, or \"ordinary\" people.",
+    "This suggests that programs should be targeted to areas with this type of potential.",
+    "Electrostatic potential between surfaces bearing ionizable groups in ionic equilibrium with physiologic saline solution."
+  ],
+  "list_see_also": [
+    "potentially",
+    "potential energy"
+  ],
+  "list_browse": [
+    "potato",
+    "potato crisp",
+    "potency",
+    "potent",
+    "potential",
+    "potential energy",
+    "potentially",
+    "pothole",
+    "potion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332781_c5279ea7df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332781_c6da507c84_o.png",
+      "id_image": "potential_2753154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332751_d190d94302_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332751_10a26bef37_o.png",
+      "id_image": "potential_4296540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687714_23cdc00087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687714_a36c687071_o.png",
+      "id_image": "potential_4833860"
+    }
+  ]
+}

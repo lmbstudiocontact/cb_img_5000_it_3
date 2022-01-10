@@ -1,0 +1,88 @@
+{
+  "english": "pest",
+  "phat_am": "pest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "loài phá hoại",
+          "definition": "a creature that is harmful or destructive, eg a mosquito, a rat etc",
+          "world_new": [
+            "creature",
+            "harmful",
+            "destructive",
+            "mosquito",
+            "rat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) pest control.",
+              "world_new": [
+                "control"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẻ quấy rầy",
+          "definition": "a troublesome person or thing",
+          "world_new": [
+            "troublesome",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is always annoying me – he is an absolute pest!",
+              "world_new": [
+                "annoying",
+                "absolute"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other pests found on individual plants were also recorded.",
+    "They explained that pests can develop resistance to chemical controls and that developing new pesticides can be difficult.",
+    "Perhaps incorporating several crop species into alternative agroecosystems would encourage more complete use of resources and increase resistance to pests.",
+    "Farmers were asked to rate (as good, fair or bad) storage behaviour in terms of keeping quality and tolerance to insect pests.",
+    "The estimates for actual losses due to pathogens, viruses, animal pests and weeds worldwide totalled 14, 7, 11 and 8 %, respectively.",
+    "In terms of economic importance the present study included many fruit flies that are pests or have the potential to become invasive species.",
+    "Studies collated from the literature were used to test for patterns in the efficacy of nematode applications in the management of above-ground pests.",
+    "The present study did not focus on windbreak interactions with birds, pests or pathogens."
+  ],
+  "list_see_also": [
+    "pesticide"
+  ],
+  "list_browse": [
+    "pessimism",
+    "pessimist",
+    "pessimistic",
+    "pessimistically",
+    "pest",
+    "pester",
+    "pesticide",
+    "pestilence",
+    "pestle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364787_6ecc64b1e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364787_8f61629fda_o.png",
+      "id_image": "pest_1345383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320016_9cfbd053ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320016_19b769ccb7_o.png",
+      "id_image": "pest_2674474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320011_6fb1dbe270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320011_6be14bbcb1_o.png",
+      "id_image": "pest_4212893"
+    }
+  ]
+}

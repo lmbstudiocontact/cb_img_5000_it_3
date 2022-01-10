@@ -1,0 +1,86 @@
+{
+  "english": "metal",
+  "phat_am": "ˈmetl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kim loại",
+          "definition": "(of) any of a group of substances, usually shiny, that can conduct heat and electricity and can be hammered into shape, or drawn out in sheets, bars etc",
+          "world_new": [
+            "group",
+            "shiny",
+            "conduct",
+            "heat",
+            "electricity",
+            "shape",
+            "drawn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Gold, silver and iron are all metals.",
+              "world_new": [
+                "silver",
+                "iron"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hợp kim",
+          "definition": "(of) a combination of more than one of such substances",
+          "world_new": [
+            "combination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Brass is a metal made from copper and zinc.",
+              "world_new": [
+                "copper",
+                "zinc"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For example, a metal device that is thrown overboard for the purpose of holding a ship or boat in place.",
+    "The phenomenon is also of importance in droplet combustion, and liquid metal vapour power cycles.",
+    "The mechanical stresses occur as a result of thermal expansion of the metal at the metal-glass boundary.",
+    "A problem solving architecture for virtual prototyping in metal to polymer composite redesign.",
+    "Pulsed laser ablation mechanisms of thin metal films.",
+    "The microbial community was seen to have a profound effect on mineral texture and on metal partitioning.",
+    "The bar-press response would not be possible without the presence of the metal lever (bar) that extends into the experimental apparatus.",
+    "In the manufacturing sector, the main areas of funding were chemicals, food products, metals, clothing, and textiles and forest products."
+  ],
+  "list_see_also": [
+    "metallic",
+    "metal detector"
+  ],
+  "list_browse": [
+    "metabolic",
+    "metabolism",
+    "metacarpal",
+    "metacarpus",
+    "metal",
+    "metal detector",
+    "metallic",
+    "metallurgical",
+    "metallurgist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390607_e7063059d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390607_94b719784f_o.png",
+      "id_image": "metal_2481262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700679_a2e035d818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700679_fef430436b_o.png",
+      "id_image": "metal_2670429"
+    }
+  ]
+}

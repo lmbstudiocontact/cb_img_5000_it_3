@@ -1,0 +1,168 @@
+{
+  "english": "plaster",
+  "phat_am": "ˈplaːstə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vữa",
+          "definition": "(also adjective) (of) a substance put on walls, ceilings etc which dries to form a hard smooth surface",
+          "world_new": [
+            "substance",
+            "form",
+            "smooth",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He mixed up some plaster to repair the wall",
+              "world_new": [
+                "mixed",
+                "repair",
+                "wall"
+              ]
+            },
+            {
+              "ex_of_definition": "a plaster ceiling.",
+              "world_new": [
+                "ceiling"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bó bột thạch cao",
+          "definition": "(also adjective) (also plaster of Paris) (of) a similar quick-drying substance used for supporting broken limbs, making models etc",
+          "world_new": [
+            "similar",
+            "substance",
+            "supporting",
+            "broken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s got her arm in plaster",
+              "world_new": [
+                "arm"
+              ]
+            },
+            {
+              "ex_of_definition": "a plaster model.",
+              "world_new": [
+                "model"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "băng dán",
+          "definition": "(also sticking-plaster; Band-Aid American) (a piece of) sticky tape (sometimes with a dressing) used to cover a wound etc",
+          "world_new": [
+            "piece",
+            "sticky",
+            "tape",
+            "cover",
+            "wound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should put a plaster on that cut.",
+              "world_new": [
+                "cut"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trát vữa",
+          "definition": "to put plaster on",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They plastered the walls."
+            }
+          ]
+        },
+        {
+          "mean_english": "bôi trát",
+          "definition": "to spread or apply rather too thickly",
+          "world_new": [
+            "spread",
+            "apply",
+            "rather",
+            "thickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’d look nicer if she didn’t plaster so much make-up on her face.",
+              "world_new": [
+                "look",
+                "make-up",
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The rooms in these houses had thick plaster floors placed over a well-prepared base composed of small cobblestones.",
+    "The features consisted of two pits in the bedrock plastered with stucco to form subfloor basins.",
+    "The completed 'shells', plastered and painted and indistinguishable visually, will have basic structural actions independent of their construction.",
+    "External doors seem to be completely absent, and many ladder imprints have been found in the wall plaster at the site.",
+    "They returned to the tent with ample food and plaster bandages - but the plaster proved useless, spoiled by the damp.",
+    "If language is a building, then usage conflicts are matters of surface finish - a shade of paint here, some plaster cracks there.",
+    "Over and above the aesthetic subtlety and liveliness of the combination of surfaces, these plaster-modelled intentions have been formulated in a pragmatically knowing way.",
+    "Posters plastered on walls across the country offered alluring depictions of how planned government and technology were building the nation."
+  ],
+  "list_see_also": [
+    "plasterer",
+    "plastic",
+    "plastic surgery",
+    "plastic wrap"
+  ],
+  "list_browse": [
+    "planter",
+    "plaque",
+    "plasma",
+    "plasma screen",
+    "plaster",
+    "plasterer",
+    "plastic",
+    "plastic surgery",
+    "plastic wrap"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697379_7bd1bbfdb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697379_8f99599d1e_o.png",
+      "id_image": "plaster_194898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456988_275e5fb327_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456988_f84879733a_o.png",
+      "id_image": "plaster_4850978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387127_e78908766a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387127_d66ce5dfc9_o.png",
+      "id_image": "plaster_5180490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697299_02aaeda67a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697299_5b27b3857d_o.png",
+      "id_image": "plaster_5767777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387092_c59ee1ccdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387092_9e88ec92c6_o.png",
+      "id_image": "plaster_6009235"
+    }
+  ]
+}

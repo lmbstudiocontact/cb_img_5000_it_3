@@ -1,0 +1,170 @@
+{
+  "english": "push",
+  "phat_am": "puʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đẩy",
+          "definition": "to press against something, in order to (try to) move it further away",
+          "world_new": [
+            "press",
+            "order",
+            "move",
+            "further"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pushed the door open",
+              "world_new": [
+                "door",
+                "open"
+              ]
+            },
+            {
+              "ex_of_definition": "She pushed him away"
+            },
+            {
+              "ex_of_definition": "He pushed against the door with his shoulder",
+              "world_new": [
+                "door",
+                "shoulder"
+              ]
+            },
+            {
+              "ex_of_definition": "The queue can’t move any faster, so stop pushing!",
+              "world_new": [
+                "queue",
+                "move",
+                "stop"
+              ]
+            },
+            {
+              "ex_of_definition": "I had a good view of the race till someone pushed in front of me.",
+              "world_new": [
+                "I",
+                "view",
+                "race",
+                "front"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thúc giục",
+          "definition": "to try to make (someone) do something; to urge on, especially foolishly",
+          "world_new": [
+            "try",
+            "urge",
+            "foolishly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She pushed him into applying for the job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bán hàng lậu",
+          "definition": "to sell (drugs) illegally.",
+          "world_new": [
+            "sell",
+            "illegally"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái đẩy",
+          "definition": "a movement of pressure against something; a thrust",
+          "world_new": [
+            "movement",
+            "pressure",
+            "thrust"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave him a push."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự quyết tâm",
+          "definition": "energy and determination",
+          "world_new": [
+            "energy",
+            "determination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has enough push to do well in his job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The haptic feedback of elasticity is mapped to the corresponding servomotor for vertical motion, simulating the resilience of a bow pushing into a violin string.",
+    "It also helps where the disabled robot becomes obstructed or jammed and needs pushing from a slightly different direction.",
+    "Or does the radicle elongate to the extent of pushing against the endosperm before endosperm degradation begins?",
+    "Families have protested hospital bed closures and pushed for community treatment orders and community support services.",
+    "I am afraid this is pushing the point too far.",
+    "When they push a case continuation framework, they save in the stack the free variables needed by the continuation expression.",
+    "One disadvantage of this method is that the outputs are then pushed toward final states, which creates a long delay in emission.",
+    "When she described being removed from a train by the police and pushed to the floor, one could sense the intensity of the personal insult."
+  ],
+  "list_see_also": [
+    "push-bike",
+    "pushchair",
+    "pushover",
+    "be pushed for",
+    "push around",
+    "push off",
+    "push on",
+    "push over"
+  ],
+  "list_browse": [
+    "pursue",
+    "pursuer",
+    "pursuit",
+    "pus",
+    "push",
+    "push around",
+    "push off",
+    "push on",
+    "push over"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461498_166dde6ba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461498_8266f05039_o.png",
+      "id_image": "push_2785346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346636_42c53fccd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346636_f55e1a9689_o.png",
+      "id_image": "push_3062516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346621_85b95aef5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346621_54c6f1e5ea_o.png",
+      "id_image": "push_4151866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461418_434a6eb230_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461418_bfb8ed0675_o.png",
+      "id_image": "push_5906050"
+    }
+  ]
+}

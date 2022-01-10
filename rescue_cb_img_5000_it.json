@@ -1,0 +1,107 @@
+{
+  "english": "rescue",
+  "phat_am": "ˈreskjuː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cứu nguy",
+          "definition": "to get or take out of a dangerous situation, captivity etc",
+          "world_new": [
+            "dangerous",
+            "situation",
+            "captivity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lifeboat was sent out to rescue the sailors from the sinking ship.",
+              "world_new": [
+                "lifeboat",
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cứu ai",
+          "definition": "(an) act of rescuing or state of being rescued",
+          "world_new": [
+            "act",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lifeboat crew carried out four rescues last week",
+              "world_new": [
+                "lifeboat",
+                "crew",
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "After his rescue, the climber was taken to hospital",
+              "world_new": [
+                "climber",
+                "hospital"
+              ]
+            },
+            {
+              "ex_of_definition": "They came quickly to our rescue.",
+              "world_new": [
+                "quickly",
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, if indeterminism is true, it at most rescues only deontic morality.",
+    "The dogs and cat are all rescues, from the street or the pound.",
+    "If the adjunct were merely adjoined, it is not clear how it rescues the subject trace.",
+    "Note that in the cases of the two \"madmen,\" one lost his tongue, and the other rescued his life only after repenting.",
+    "Perhaps his theory can be rescued by making it more general, but this may be at the cost of virtual unfalsifiability.",
+    "We may harbor a fantasy of \"rescuing\" the patient f rom death.",
+    "The dead art rescues the ephemeral and perishing art as the only one alive.",
+    "Furthermore, neither behavioural courtship nor developmental phenotype was rescued in an ' all-or-none ' manner."
+  ],
+  "list_see_also": [
+    "rescuer"
+  ],
+  "list_browse": [
+    "request",
+    "requiem",
+    "require",
+    "requirement",
+    "rescue",
+    "rescuer",
+    "research",
+    "researcher",
+    "resemblance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677309_9920fdec2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677309_f163e13a43_o.png",
+      "id_image": "rescue_1558320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322146_449187b105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322146_d216d55416_o.png",
+      "id_image": "rescue_1973113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322196_a833efc7ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322196_13303fe773_o.png",
+      "id_image": "rescue_228382"
+    }
+  ]
+}

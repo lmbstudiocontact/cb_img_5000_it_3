@@ -1,0 +1,60 @@
+{
+  "english": "reviewer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà phê bình sách",
+          "definition": "a person who reviews books etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a film reviewer.",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The project also found that the nurse reviewers made more referrals to other healthcare professionals than previously made by the clinical oncologist.",
+    "If two reviewers disagreed, a third echocardiographer was consulted.",
+    "The authors would also like to thank the anonymous reviewers for their helpful comments.",
+    "We thank t h e anonymous peer reviewers for their comments.",
+    "We use standard functional programming techniques and code reviewers find that style more comprehensible.",
+    "We thank the peer reviewers for their comments.",
+    "Articles will be submitted to two anonymous reviewers.",
+    "I also wish to thank four anonymous reviewers whose penetrating questions led to two fairly radical rethinks of the arguments and organization."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "reversible",
+    "reversion",
+    "revert",
+    "review",
+    "reviewer",
+    "revise",
+    "revision",
+    "revisit",
+    "revival"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393292_38268782d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393292_8bce3ba899_o.png",
+      "id_image": "reviewer_2329315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393257_e143c00df9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393257_6fa74207d8_o.png",
+      "id_image": "reviewer_4301735"
+    }
+  ]
+}

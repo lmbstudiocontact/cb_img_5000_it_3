@@ -1,0 +1,98 @@
+{
+  "english": "prize",
+  "phat_am": "praiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giải thưởng",
+          "definition": "a reward for good work etc",
+          "world_new": [
+            "reward",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was awarded a lot of prizes at school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần thưởng",
+          "definition": "something won in a competition etc",
+          "world_new": [
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve won first prize!"
+            },
+            {
+              "ex_of_definition": "(also adjective) a prize (= having won, or worthy of, a prize) bull.",
+              "world_new": [
+                "worthy",
+                "bull"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh giá cao",
+          "definition": "to value highly",
+          "world_new": [
+            "value",
+            "highly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He prized my friendship above everything else.",
+              "world_new": [
+                "my",
+                "friendship",
+                "else"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "privatize",
+    "privilege",
+    "privileged",
+    "privy",
+    "prize",
+    "pro-",
+    "probability",
+    "probable",
+    "probably"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323591_5e44a93b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323591_f0a6024e37_o.png",
+      "id_image": "prize_395735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368517_ab62a4ca13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368517_164fb5c3b9_o.png",
+      "id_image": "prize_4658184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323516_481b63c8a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323516_27f34e1a4a_o.png",
+      "id_image": "prize_5578252"
+    }
+  ]
+}

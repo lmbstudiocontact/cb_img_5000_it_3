@@ -1,0 +1,177 @@
+{
+  "english": "past",
+  "phat_am": "paːst",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quá khứ",
+          "definition": "just finished",
+          "world_new": [
+            "finished"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the past year.",
+              "world_new": [
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đã qua",
+          "definition": "over, finished or ended, of an earlier time than the present",
+          "world_new": [
+            "finished",
+            "time",
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The time for discussion is past.",
+              "world_new": [
+                "time",
+                "discussion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời quá khứ",
+          "definition": "(of the tense of a verb) indicating action in the past",
+          "world_new": [
+            "tense",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In ‘He did it’, the verb is in the past tense.",
+              "world_new": [
+                "verb",
+                "tense"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "qua",
+          "definition": "up to and beyond; by",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ran past me."
+            }
+          ]
+        },
+        {
+          "mean_english": "quá",
+          "definition": "after",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s past six o’clock.",
+              "world_new": [
+                "o’clock"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "qua",
+          "definition": "up to and beyond (a particular place, person etc)",
+          "world_new": [
+            "particular",
+            "place",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers marched past."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quá khứ",
+          "definition": "a person’s earlier life or career, especially if secret or not respectable",
+          "world_new": [
+            "life",
+            "career",
+            "secret",
+            "respectable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He never spoke about his past.",
+              "world_new": [
+                "spoke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời quá khứ",
+          "definition": "the past tense",
+          "world_new": [
+            "tense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a verb in the past.",
+              "world_new": [
+                "verb"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I say that these are two conditions which would have to be fulfilled in any envisaged eschatological redemption of the past.",
+    "Then yesterday, and, indeed, any day in the past year, cannot be set in correspondence with a past year beginning subsequently to that day.",
+    "We looked upon these things as belonging to one of the worst and painful pasts which would never recur.",
+    "Otherwise, our knowledge will continue to have little or no control over the process of communicating mainstream messages about either reconstructed or fictional ancient pasts.",
+    "The pasts we are concerned with appear to be linked to processes of change, as observed in material culture, that are prior to the temporal frameworks we assign to them.",
+    "In particular, they form their past tense forms in untypical ways, and they distinguish two types of onset.",
+    "However, this is arguably not normally the situation in relation to currently contested pasts.",
+    "Unlike ' x-class ' students, these respondents did not need to renounce or completely repress their pasts."
+  ],
+  "list_see_also": [
+    "the past",
+    "past participle",
+    "past perfect"
+  ],
+  "list_browse": [
+    "passivity",
+    "Passover",
+    "passport",
+    "password",
+    "past",
+    "past participle",
+    "past perfect",
+    "past/beyond redemption",
+    "pasta"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066275_3736caac84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066275_34baccc712_o.png",
+      "id_image": "past_6214151"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "notebook",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyển vở",
+          "definition": "a small book in which to write notes",
+          "world_new": [
+            "small",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The policewoman jotted something down in her notebook."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They exhumed the pens and notebooks which they had buried during colonial times, metaphorically expressing their acceptance of the school, and subliminally of a statesponsored project of change.",
+    "They never compare notes, they have never written out their notebooks together, but they always read the same, curiously enough, comma to comma.",
+    "I looked at the notebooks of a dozen men; they were well-written, well-spelt, and well-phrased.",
+    "At this public examination, two \"notebooks\" made up the requirement.",
+    "We identified their reactions using a qualitative analysis of oral and written data elicited through (a) task evaluations, (b) learning notebooks, (c) observations, (d) course evaluations, and (e) interviews.",
+    "I shall make no more remarks about policemen and notebooks.",
+    "I have decided that prisoners may now, under certain conditions, take general notebooks out of prison on discharge.",
+    "More godly folk also recorded their lives in notebooks and diaries at this time."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "notably",
+    "notation",
+    "notch",
+    "note",
+    "notebook",
+    "notecase",
+    "noted",
+    "notelet",
+    "notepad"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436223_9fabfd2023_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436223_1a5811747c_o.png",
+      "id_image": "notebook_123793"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436173_d53e2a9e7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436173_9f0ec44313_o.png",
+      "id_image": "notebook_200434"
+    }
+  ]
+}

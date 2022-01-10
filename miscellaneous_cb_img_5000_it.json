@@ -1,0 +1,79 @@
+{
+  "english": "miscellaneous",
+  "phat_am": "misəˈleiniəs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "pha tạp",
+          "definition": "composed of several kinds; mixed",
+          "world_new": [
+            "composed",
+            "mixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a miscellaneous collection of pictures.",
+              "world_new": [
+                "collection"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng hóa khác",
+          "definition": "short for miscellaneous items",
+          "world_new": [
+            "short"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The last section of the catalogue is entitled ‘miscellaneous’.",
+              "world_new": [
+                "section",
+                "catalogue"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Miscellaneous income is income received from nonemployment sources, such as rent, pensions, and interest.",
+    "Parasitoids and miscellaneous factors acted as densitydependent regulatory agents during the pre-ovipositional and first instar stages respectively.",
+    "The proportion of infertile eggs was negligible but mortality of the egg-crawler stage due to miscellaneous factors was high.",
+    "The annual course of the miscellaneous litterfall was more irregular, although an increase in this fraction was detected at the end of the dry season.",
+    "He jotted down the miscellaneous things he saw; he also wrote about local customs, such as dining, fashion, opium smoking and gambling.",
+    "Litterfall was separated into three fractions: leaves, branches > 1 cm, and miscellaneous.",
+    "Other criticisms might be that the chapters are a bit miscellaneous and that the style suffers occasional lapses.",
+    "Since the number of male homemakers is very small, they have been classified under the miscellaneous category, while 'homemaker' remains an independent category for women."
+  ],
+  "list_see_also": [
+    "miscellany"
+  ],
+  "list_browse": [
+    "misbehaviour",
+    "miscalculate",
+    "miscalculation",
+    "miscarriage",
+    "miscellaneous",
+    "miscellany",
+    "mischance",
+    "mischief",
+    "mischievous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078705_e91092c160_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078705_89ca0164e3_o.png",
+      "id_image": "miscellaneous_1798666"
+    }
+  ]
+}

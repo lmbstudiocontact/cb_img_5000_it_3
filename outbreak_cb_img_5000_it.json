@@ -1,0 +1,66 @@
+{
+  "english": "outbreak",
+  "phat_am": "ˈautbreik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bùng nổ",
+          "definition": "a sudden beginning (usually of something unpleasant)",
+          "world_new": [
+            "sudden",
+            "beginning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the outbreak of war.",
+              "world_new": [
+                "war"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This may explain the different dynamic of the outbreak that is typical for person-to-person transmission.",
+    "Vagility of pest populations may result in difficulty predicting temporal and spatial pest outbreaks, and influence genetic resistance to chemical control.",
+    "These networks are used to reveal trends in the evolution of different serotypes, monitor their antimicrobial susceptibility, detect outbreaks, and contribute to their investigation.",
+    "It was therefore held that there were at least four primary outbreaks in the first fortnight - the index outbreak plus the three ' non-windborne ' outbreaks.",
+    "Most cases of mycoplasma outbreaks occurred in schools (22), among family members (13), and military recruits (10).",
+    "However, there are some things that are difficult to explain if we wish to argue that garlic caused this outbreak.",
+    "From recognized outbreaks, all cases except one were excluded.",
+    "First, before the outbreak, a large proportion of the population was susceptible because of the geographical characteristics of the health district."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "out-patient",
+    "outage",
+    "outback",
+    "outboard",
+    "outbreak",
+    "outburst",
+    "outcast",
+    "outcome",
+    "outcry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387057_d8350ba8c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387057_10fd314f0d_o.png",
+      "id_image": "outbreak_2785845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079415_fc7da27f76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079415_3526ca4dcc_o.png",
+      "id_image": "outbreak_2834380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456803_3fed1e89ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456803_c0eb2b765a_o.png",
+      "id_image": "outbreak_2927330"
+    }
+  ]
+}

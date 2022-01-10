@@ -1,0 +1,129 @@
+{
+  "english": "paint",
+  "phat_am": "peint",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sơn",
+          "definition": "a colouring substance in the form of liquid or paste",
+          "world_new": [
+            "colouring",
+            "substance",
+            "form",
+            "liquid",
+            "paste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The artist’s clothes were covered in paint",
+              "world_new": [
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a paint pot.",
+              "world_new": [
+                "pot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sơn",
+          "definition": "to spread paint carefully on (wood, walls etc)",
+          "world_new": [
+            "spread",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is painting the kitchen.",
+              "world_new": [
+                "painting",
+                "kitchen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẽ tranh",
+          "definition": "to make a picture (of something or someone) using paint",
+          "world_new": [
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She painted her mother and father.",
+              "world_new": [
+                "mother",
+                "father"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Lures were painted black with a permanent marker and placed individually upside down at the centre of each disc.",
+    "A journalist's wife with one child paints a different picture altogether.",
+    "One can detect concrete as old and repaired, painted, smooth and new, rough and weathered or polished.",
+    "They might even be stiffened with starch and painted over to leave a pattern.",
+    "Architecture apparently adopts painting's freedom to decide on grammar, form, texture and image.",
+    "Others were painted on to a dry plaster surface.",
+    "A total of 31\" of rails (painted) with 28 turned ballasters may have been for the perimeter of the stage.",
+    "She always had an interest in the arts, but in painting she is self-taught."
+  ],
+  "list_see_also": [
+    "painter",
+    "painting",
+    "paintbox",
+    "paintbrush",
+    "paintwork"
+  ],
+  "list_browse": [
+    "painkiller",
+    "painless",
+    "painlessly",
+    "painstaking",
+    "paint",
+    "paintbox",
+    "paintbrush",
+    "painter",
+    "painting"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691849_10f261c628_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691849_fe3569b32e_o.png",
+      "id_image": "paint_1076298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336666_40a5ef9415_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336666_1be83d6156_o.png",
+      "id_image": "paint_164355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691954_4512b14b63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691954_deac33e04d_o.png",
+      "id_image": "paint_448098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691909_49e36bc6c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691909_bd4cb5d394_o.png",
+      "id_image": "paint_791657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336556_472a939b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336556_326b256851_o.png",
+      "id_image": "paint_995451"
+    }
+  ]
+}

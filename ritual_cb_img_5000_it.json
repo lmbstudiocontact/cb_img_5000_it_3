@@ -1,0 +1,88 @@
+{
+  "english": "ritual",
+  "phat_am": "ˈritʃuəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nghi thức",
+          "definition": "(a particular set of) traditional or fixed actions etc used in a religious etc ceremony",
+          "world_new": [
+            "particular",
+            "traditional",
+            "fixed",
+            "religious",
+            "ceremony"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Christian rituals",
+              "world_new": [
+                "Christian"
+              ]
+            },
+            {
+              "ex_of_definition": "the ritual of the Roman Catholic church.",
+              "world_new": [
+                "Roman",
+                "church"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mang tính nghi thức",
+          "definition": "forming (part of) a ritual or ceremony",
+          "world_new": [
+            "ceremony"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ritual dance/sacrifice."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The awe and fear are internally related to what the ritual shows or says.",
+    "These graves are an indication that the burial ritual lost its egalitarian outlook, stressing the significance of particular persons.",
+    "Chiefs were soon even unable to maintain local agricultural rituals.",
+    "This physical structure articulated public events such as processions and funerals, and formal rituals such as attending church.",
+    "Most fruitful to that study is understanding the ' fundamental symbolic system underlying the whole range of ritual institutions ' (145).",
+    "The challenge for the wider community is to recognise the innate dignity of the dying, a recognition implicit in the rituals of some cultures.",
+    "As in earlier, non-dramatic performances like carnival or festive ritual, the audience came to the theatre expecting a dialogic relationship with the stage performers.",
+    "The elderly residents may concentrate on things that they are still able and permitted to master - daily routines, hobbies and linguistic rituals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "risk",
+    "risky",
+    "risotto",
+    "rite",
+    "ritual",
+    "rival",
+    "rivalry",
+    "river",
+    "river bed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700404_b8bd334d59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700404_669b885465_o.png",
+      "id_image": "ritual_1299402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082710_919a22e89b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082710_cb6d014abc_o.png",
+      "id_image": "ritual_2136575"
+    }
+  ]
+}

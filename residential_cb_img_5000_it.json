@@ -1,0 +1,104 @@
+{
+  "english": "residential",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhà ở",
+          "definition": "(of an area of a town etc) containing houses rather than offices, shops etc",
+          "world_new": [
+            "area",
+            "town",
+            "rather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This district is mainly residential",
+              "world_new": [
+                "district",
+                "mainly"
+              ]
+            },
+            {
+              "ex_of_definition": "a residential neighbourhood/area."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc dân cư",
+          "definition": "requiring a person to live in the place where he works",
+          "world_new": [
+            "person",
+            "live",
+            "place",
+            "works"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a residential post."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc nơi cư trú",
+          "definition": "of, concerned with, living in a place.",
+          "world_new": [
+            "living",
+            "place"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Constructing familiarity and managing the self: ways of adapting to life in nursing and residential homes for older people.",
+    "As once essentially residential communities matured, politicians sought to raise their tax revenues whilst retaining small-scale, almost village life, within an increasingly urbanized milieu.",
+    "A positive relationship was found between 20% of residential home patients who used a high proportion of primary care services.",
+    "Moves into residential settings become more common above 80-years-of-age, in consequence of the onset of disability and loss of independence (see previous section).",
+    "Unlike urban formations before the eighteenth century, these new towns absorbed nomadic and religious elements into their residential and secular spaces.",
+    "We began by engaging with academic debates about residential care.",
+    "Again for the residential sample, only literate households are chosen.",
+    "In the process, the book raises several important issues about the formation and maintenance of residential space in one capitalist society."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "residence",
+    "residence hall",
+    "residency",
+    "resident",
+    "residential",
+    "residual",
+    "residue",
+    "resign",
+    "resignation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676949_00a24bc0df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676949_9fcfec3a6e_o.png",
+      "id_image": "residential_2947576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706619_ae43d5c97d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706619_527b2bf4a8_o.png",
+      "id_image": "residential_3053792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466613_db444a2acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466613_0592461811_o.png",
+      "id_image": "residential_4413920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396807_239830be0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396807_c6ae80dc09_o.png",
+      "id_image": "residential_4698496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089270_5373e52ebe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089270_8b62caaa00_o.png",
+      "id_image": "residential_6289587"
+    }
+  ]
+}

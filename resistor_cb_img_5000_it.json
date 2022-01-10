@@ -1,0 +1,65 @@
+{
+  "english": "resistor",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái điện trở",
+          "definition": "a device used to provide resistance in an electrical circuit",
+          "world_new": [
+            "device",
+            "provide",
+            "resistance",
+            "electrical",
+            "circuit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The resistor controls the current flow through the LED.",
+              "world_new": [
+                "current",
+                "flow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Policy resistors may employ a range of strategies to prevent change.",
+    "The question is, which resistors do we have to pick from our set.",
+    "The pulling actions were sensed by a set of resistors installed under the table.",
+    "Filled black circles are inhibitory synapses, triangular contacts excitatory synapses, and resistors gap junctions.",
+    "The component taxonomy classifies the mechanical and electrical elements that are designed or used by the company, such as gears, suspensions, resistors, and motors.",
+    "In particular, policy resistors may develop a hidden transcript, through which there is outward agreement and cooperation that disguises strategies of non-compliance and obstruction.",
+    "The hardwired components of the test fixture often include a source resistor and a load resistor.",
+    "It comes from the realm of resistors and their composition."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "resinous",
+    "resist",
+    "resistance",
+    "resistant",
+    "resistor",
+    "resolute",
+    "resolutely",
+    "resoluteness",
+    "resolution"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088745_19dc5eb6f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088745_bfd6857bb0_o.png",
+      "id_image": "resistor_2399651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351701_b1fcf8e394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351701_ef144eab47_o.png",
+      "id_image": "resistor_675824"
+    }
+  ]
+}

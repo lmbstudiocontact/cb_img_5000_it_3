@@ -1,0 +1,57 @@
+{
+  "english": "ore",
+  "phat_am": "oː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quặng",
+          "definition": "any mineral, rock etc from which a metal is obtained",
+          "world_new": [
+            "mineral",
+            "rock",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "iron ore.",
+              "world_new": [
+                "iron"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The geometry of microstructures such as quartz strain fringes around folded iron ore layers provides further information regarding the fold mechanism.",
+    "The person who discovers a new vein of ore invites followers who may go in several directions.",
+    "The back half of the volume is devoted to the atlas illustrations of ore textures and is a detailed catalogue of mineralography.",
+    "The easily worked oxidised ore was largely depleted and the underlying sulfide deposits were proving difficult and costly to treat.",
+    "Different panels would reflect the various stages of mechanical production and assembly, from mineral ore in the soil to finished product, driving into the sunset.",
+    "Thus, the markets for ores and minerals in situ do not suffer from the kinds of failure we are alluding to in the text.",
+    "Later chapters cover ores and waste products, diamonds and their histories and the nature of the planetary bodies of the solar system.",
+    "Various counter theories put forward to describe the origins of ore deposits are discussed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ordinal",
+    "ordinarily",
+    "ordinary",
+    "ordination",
+    "ore",
+    "organ",
+    "organelle",
+    "organic",
+    "organic compound"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458783_e8b638440f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458783_3ef8027ded_o.png",
+      "id_image": "ore_4148466"
+    }
+  ]
+}

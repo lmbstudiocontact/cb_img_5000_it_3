@@ -1,0 +1,186 @@
+{
+  "english": "pick",
+  "phat_am": "pik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chọn",
+          "definition": "to choose or select",
+          "world_new": [
+            "choose",
+            "select"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Pick the one you like best.",
+              "world_new": [
+                "best"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhặt",
+          "definition": "to take (flowers from a plant, fruit from a tree etc), usually by hand",
+          "world_new": [
+            "plant",
+            "fruit",
+            "tree",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The little girl sat on the grass and picked flowers.",
+              "world_new": [
+                "girl",
+                "grass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nâng lên",
+          "definition": "to lift (someone or something)",
+          "world_new": [
+            "lift"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He picked up the child.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mở",
+          "definition": "to unlock (a lock) with a tool other than a key",
+          "world_new": [
+            "unlock",
+            "tool",
+            "key"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thief must have picked the lock with a hair-pin.",
+              "world_new": [
+                "thief",
+                "lock"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lựa chọn",
+          "definition": "whatever or whichever a person wants or chooses",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take your pick of these prizes.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái tốt nhất",
+          "definition": "the best one(s) from or the best part of something",
+          "world_new": [
+            "best",
+            "best",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These grapes are the pick of the bunch.",
+              "world_new": [
+                "bunch"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuốc chim",
+          "definition": "(also British pickaxe, American pickax – plural pickaxes) a tool with a heavy metal head pointed at one or both ends, used for breaking hard surfaces eg walls, roads, rocks etc.",
+          "world_new": [
+            "tool",
+            "heavy",
+            "metal",
+            "head",
+            "pointed"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This cycle is repeated until the user picks a satisfactory color scheme; the size of the random vectors decreases at each stage.",
+    "One can pick it up and start reading at virtually any point and find a wealth of information.",
+    "If a solution exists it can be found immediately by picking the ' 'right' ' assignment at each stage.",
+    "Barely able to talk, she phones the preschool to tell them she will soon pick up her child.",
+    "This form of ' differentiation ' would not be picked up using the usual sources of social history such as assessments of wealth or occupation.",
+    "More recent incongruity theorists have begun to pick up on the sociological importance of this kind of deviation from expectation.",
+    "The mistaken assumption was that the concepts of religion and politics can only be intelligible if they pick out some real essence.",
+    "Consider, for example, the fact that we are all obliged to refrain from picking our respective noses in public places."
+  ],
+  "list_see_also": [
+    "pickpocket",
+    "pick-up",
+    "pick and choose",
+    "pick at",
+    "pick someone’s brains",
+    "pick holes in",
+    "pick off",
+    "pick on",
+    "pick out",
+    "pick someone’s pocket",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "piano-accordion",
+    "pianoforte",
+    "picaresque",
+    "piccolo",
+    "pick",
+    "pick a quarrel/fight with (someone)",
+    "pick and choose",
+    "pick at",
+    "pick holes in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085870_d5536675d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085870_5ca2ea5127_o.png",
+      "id_image": "pick_1403900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085840_4e67ba2f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085840_446c29dccb_o.png",
+      "id_image": "pick_1660019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463378_5fdb919286_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463378_eb9c5650b0_o.png",
+      "id_image": "pick_499251"
+    }
+  ]
+}

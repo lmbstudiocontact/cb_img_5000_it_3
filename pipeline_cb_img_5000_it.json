@@ -1,0 +1,77 @@
+{
+  "english": "pipeline",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường ống dẫn",
+          "definition": "a long line of pipes used for conveying oil, gas, water etc",
+          "world_new": [
+            "long",
+            "line",
+            "pipes",
+            "oil",
+            "gas",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an oil pipeline across the desert.",
+              "world_new": [
+                "oil",
+                "across",
+                "desert"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The water pipelines were located in the same trench as the sewage pipes.",
+    "If the food pipelines are not filled now, millions of people face death by starvation.",
+    "If so, the pipelines would then be economic.",
+    "In this methodology, the plant is described as a directed graph in which the nodes represent most of the equipment in the plant while arcs represent pipelines and valves.",
+    "There are dozens of pipelines crossing our seas, with no problems whatsoever.",
+    "As we all know, at the suggestion of political trouble, the pipelines are cut, the sea routes blocked and the oil wells no longer operate.",
+    "There were a certain number of private pipelines before the war.",
+    "An increased risk with longer water distribution pipelines indicates that contamination occurring during distribution from the waterworks to the households may be more important than previously thought."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "piously",
+    "pip",
+    "pipe",
+    "pipe dream",
+    "pipeline",
+    "piper",
+    "pipes",
+    "piping",
+    "piping hot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700654_0e96af5dbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700654_05e59d6fe7_o.png",
+      "id_image": "pipeline_1280956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345451_7023ce8846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345451_14a08be550_o.png",
+      "id_image": "pipeline_1486201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700549_bfafb36cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700549_fcdf3b6221_o.png",
+      "id_image": "pipeline_2933945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082840_f2fec17473_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082840_2aa22b5a49_o.png",
+      "id_image": "pipeline_3716766"
+    }
+  ]
+}

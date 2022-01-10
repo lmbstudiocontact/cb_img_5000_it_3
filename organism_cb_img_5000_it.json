@@ -1,0 +1,70 @@
+{
+  "english": "organism",
+  "phat_am": "ˈoːɡənizəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sinh vật",
+          "definition": "a usually small living animal or plant",
+          "world_new": [
+            "small",
+            "living",
+            "animal",
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A pond is full of living organisms.",
+              "world_new": [
+                "pond",
+                "full",
+                "living"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If it fails to do this, the organism will ultimately die as systems fail.",
+    "Thus, they discovered various fungal organisms associated with spear rot and bud rot symptoms.",
+    "We do not understand the notion of a \"psychological\" theory that is \"nonindividualistic\"; the individual organism is psychology's focal level of analysis.",
+    "The number of other organisms that died in enclosures during the experiments was not determined.",
+    "In many cases parasites are incapable of surviving and multiplying in the absence of a host organism.",
+    "Its natural environment is the soil where this organism feeds mainly on bacteria.",
+    "In multicellular organisms different patterns have been reported.",
+    "The body of every future organism was supposed to have been created in that first moment of time."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "organelle",
+    "organic",
+    "organic compound",
+    "organically",
+    "organism",
+    "organist",
+    "organization",
+    "organize",
+    "organized"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081085_090ba6cd80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081085_8af7da7884_o.png",
+      "id_image": "organism_1408105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388592_b3472c6209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388592_e52499a246_o.png",
+      "id_image": "organism_2721075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343616_8f5b33f872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343616_ffc4c59b57_o.png",
+      "id_image": "organism_4178750"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "english": "report",
+  "phat_am": "rəˈpoːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "báo cáo",
+          "definition": "a statement or description of what has been said, seen, done etc",
+          "world_new": [
+            "statement",
+            "description"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a child’s school report",
+              "world_new": [
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "a police report on the accident.",
+              "world_new": [
+                "police",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tin đồn",
+          "definition": "rumour; general talk",
+          "world_new": [
+            "general",
+            "talk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "According to report, the manager is going to resign.",
+              "world_new": [
+                "manager",
+                "resign"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng nổ lớn",
+          "definition": "a loud noise, especially of a gun being fired.",
+          "world_new": [
+            "loud",
+            "noise",
+            "gun"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thông báo; đưa tin",
+          "definition": "to give a statement or description of what has been said, seen, done etc",
+          "world_new": [
+            "statement",
+            "description"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A serious accident has just been reported",
+              "world_new": [
+                "serious",
+                "accident"
+              ]
+            },
+            {
+              "ex_of_definition": "He reported on the results of the conference",
+              "world_new": [
+                "conference"
+              ]
+            },
+            {
+              "ex_of_definition": "Our spies report that troops are being moved to the border",
+              "world_new": [
+                "troops",
+                "border"
+              ]
+            },
+            {
+              "ex_of_definition": "His speech was reported in the newspaper.",
+              "world_new": [
+                "speech",
+                "newspaper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tố giác",
+          "definition": "to make a complaint about; to give information about the misbehaviour/misbehavior etc of",
+          "world_new": [
+            "complaint",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boy was reported to the headmaster for being rude to a teacher.",
+              "world_new": [
+                "boy",
+                "headmaster",
+                "rude",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tố cáo",
+          "definition": "to tell someone in authority about",
+          "world_new": [
+            "tell",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He reported the theft to the police.",
+              "world_new": [
+                "theft",
+                "police"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông báo",
+          "definition": "to go (to a place or a person) and announce that one is there, ready for work etc",
+          "world_new": [
+            "place",
+            "announce",
+            "ready",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boys were ordered to report to the police station every Saturday afternoon",
+              "world_new": [
+                "police",
+                "station",
+                "Saturday",
+                "afternoon"
+              ]
+            },
+            {
+              "ex_of_definition": "Report to me when you return",
+              "world_new": [
+                "return"
+              ]
+            },
+            {
+              "ex_of_definition": "How many policemen reported for duty?",
+              "world_new": [
+                "duty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, some participants reported that cancer had no impact on their life priorities.",
+    "Of these enzymes, triosephosphate isomerase, phosphoglycerate kinase and phosphoglyceromutase have to our knowledge not been reported previously in the filarial worm.",
+    "A truncated model and the full model are reported.",
+    "Twenty-six of the 30 who reported sterilization said they had a family physician.",
+    "However, there is also an interesting example where alteration of the secondary-structure connectivity is reported not to affect the folding nucleus.",
+    "The other ten reported less frequent irrigation (between 1 and 6 times a month).",
+    "Whereas oncologists and primary care physicians overwhelmingly reported having working relationships with hospice, only 57% of cardiologists reported having those contacts.",
+    "One such application is reported in the following paragraphs."
+  ],
+  "list_see_also": [
+    "reporter",
+    "reported speech",
+    "report back"
+  ],
+  "list_browse": [
+    "replica",
+    "replicate",
+    "replication",
+    "reply",
+    "report",
+    "report back",
+    "reported speech",
+    "reporter",
+    "repose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678249_fbd947f6b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678249_03ef9e37d4_o.png",
+      "id_image": "report_1312289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678194_44e07abbf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678194_35aeb069bf_o.png",
+      "id_image": "report_1402116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059850_9ce3f7c045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059850_db840df9fe_o.png",
+      "id_image": "report_413669"
+    }
+  ]
+}

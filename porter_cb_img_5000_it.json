@@ -1,0 +1,108 @@
+{
+  "english": "porter",
+  "phat_am": "ˈpoːtə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người khuân vác hành lý",
+          "definition": "a person whose job is to carry luggage in a train station etc",
+          "world_new": [
+            "person",
+            "job",
+            "carry",
+            "luggage",
+            "train",
+            "station"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The old lady could not find a porter to carry her suitcase from the train.",
+              "world_new": [
+                "old",
+                "lady",
+                "find",
+                "carry",
+                "suitcase",
+                "train"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phu khuân vác",
+          "definition": "a person whose job is to carry things eg in rough country where there is no other form of transport",
+          "world_new": [
+            "person",
+            "job",
+            "carry",
+            "rough",
+            "country",
+            "form",
+            "transport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He set off into the jungle with three porters.",
+              "world_new": [
+                "jungle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người gác cổng; bảo vệ",
+          "definition": "a doorman or attendant in a hotel etc",
+          "world_new": [
+            "doorman",
+            "attendant",
+            "hotel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hospital porter.",
+              "world_new": [
+                "hospital"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is a general level of wages for ordinary labourers, porters, and fitters, and so on.",
+    "However, it applies to nurses and therapists but not to cleaners, porters or catering, engineering or laboratory staff.",
+    "I agree; let us include the porters and the cleaners.",
+    "Discussions took place at the upper echelons of the administration over how to ' provoke ' men to ' volunteer ' as porters.",
+    "There the cafés stay open all night, and they are a boon to early morning market porters and late-night journalists on their way home.",
+    "Yes; but the porters' action has not so far appreciably affected the quality or price of fish to the consumer.",
+    "The claims of established store porters are considered with those of other eligible officers when vacancies on the third class of storemen arise.",
+    "The whole of the passengers and porters were geared to it; everyone was geared to it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "port",
+    "portable",
+    "portable computer",
+    "portent",
+    "porter",
+    "portfolio",
+    "porthole",
+    "portico",
+    "portion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689879_ec9098ec8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689879_1559ab7983_o.png",
+      "id_image": "porter_2323796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071735_f319cc62ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071735_447b9989fb_o.png",
+      "id_image": "porter_2534062"
+    }
+  ]
+}

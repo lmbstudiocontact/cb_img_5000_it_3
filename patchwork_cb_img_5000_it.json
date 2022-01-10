@@ -1,0 +1,69 @@
+{
+  "english": "patchwork",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miếng vải chắp vá",
+          "definition": "cloth made by sewing small pieces of material together",
+          "world_new": [
+            "cloth",
+            "sewing",
+            "small",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a skirt made of patchwork",
+              "world_new": [
+                "skirt"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a patchwork quilt.",
+              "world_new": [
+                "quilt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The resulting patchwork approach achieves optimization at the local level, but ignores benefits gained by taking a systemlevel view.",
+    "Considering its theme, therefore, it is unfortunate that the scope of the study excludes a multitude of voices, denying itself the status of a truly inclusive patchwork.",
+    "Thirdly, we must ensure that the patchwork of divergent national financial sector taxes does not create new obstacles to the single market.",
+    "Alternatively, or in addition, the idea is that, given the circumstances, it is in some sense better to stitch together these patchworks than use theories of justice directly.",
+    "Despite this, patchwork motifs of sites with high linkage disequilibrium are observed.",
+    "There was a regular patchwork of committees about this time.",
+    "The book resembles a patchwork quilt of quotations - in places, this makes it look more like a popular anthology than a single author volume.",
+    "I wish we could have the whole thing set out as it stands to-day, and not patchworked into something that is not there."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pat",
+    "patch",
+    "patch up",
+    "patchiness",
+    "patchwork",
+    "patchy",
+    "pâté",
+    "patella",
+    "patent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683624_d823ba6cc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683624_d537fdbc7c_o.png",
+      "id_image": "patchwork_2133960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373227_4cdceaef91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373227_d8ed82b4d2_o.png",
+      "id_image": "patchwork_6306788"
+    }
+  ]
+}

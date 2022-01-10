@@ -1,0 +1,83 @@
+{
+  "english": "program",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lập trình",
+          "definition": "to give information, instructions etc to (a machine, especially a computer, so that it can do a particular job)",
+          "world_new": [
+            "information",
+            "machine",
+            "computer",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The machine is programmed to switch itself off if it is left unused for a certain amount of time.",
+              "world_new": [
+                "machine",
+                "switch",
+                "left",
+                "certain",
+                "amount",
+                "time"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Disjunctive logic programs are characterised by permitting disjunctions in rule heads.",
+    "Ordinary programs are programs whose goals are ordinary goals.",
+    "This suggests that programs should be targeted to areas with this type of potential.",
+    "Do school-based social skills training programs prevent alcohol use among young people?",
+    "For example, if the thread construct is not used, then the program is purely sequential.",
+    "The system's popularity among voters is so great, that many perceive program reform as tantamount to touching the ' ' third rail ' ' of politics.",
+    "Structuring large developments has been studied in programming languages for a long time.",
+    "The generating extension takes the values classified as static as parameters and returns the source program specialized with respect to these values."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "profuse",
+    "profusely",
+    "profusion",
+    "progeny",
+    "program",
+    "programme",
+    "programmer",
+    "progress",
+    "progressive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676249_cde9f530c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676249_a446db8db8_o.png",
+      "id_image": "program_1415763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366087_c52f530894_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366087_dcefd683db_o.png",
+      "id_image": "program_2111123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057915_590a2fa561_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057915_0cc1311266_o.png",
+      "id_image": "program_2201256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057905_391ec2e948_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057905_3ddd8209f5_o.png",
+      "id_image": "program_2419323"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321101_7a04220780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321101_beb758746a_o.png",
+      "id_image": "program_2621538"
+    }
+  ]
+}

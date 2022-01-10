@@ -1,0 +1,72 @@
+{
+  "english": "mist",
+  "phat_am": "mist",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sương mù",
+          "definition": "a cloud of moisture in the air but very close to the ground, which makes it difficult to see any distance",
+          "world_new": [
+            "cloud",
+            "moisture",
+            "air",
+            "close",
+            "ground",
+            "difficult",
+            "see",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hills are covered in thick mist.",
+              "world_new": [
+                "thick"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With that, any exact meaning in diplomatic recognition fades into the mists.",
+    "Powerful forces rise with the mists from our wooded hills and lakes.",
+    "The answer is shrouded in the mists of secrecy.",
+    "We have had, perhaps for the moment, enough of the stormy seas and the mists on the mountains.",
+    "I hope it is a happy augury that the sun has come through the mists.",
+    "I find it very difficult to look through the mists of all that and understand what will happen in the event.",
+    "In nor thern mists. 2 vols.",
+    "What about the obliteration of so many villages, some with history stretching back into the mists of the past?"
+  ],
+  "list_see_also": [
+    "mistily",
+    "misty",
+    "mistiness",
+    "mist over"
+  ],
+  "list_browse": [
+    "missing",
+    "mission",
+    "missionary",
+    "misspell",
+    "mist",
+    "mist over",
+    "mistake",
+    "mistaken",
+    "mistakenly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696029_5207cca01c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696029_19e6e73efb_o.png",
+      "id_image": "mist_2910067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340726_8a7ea306a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340726_a5cc26028e_o.png",
+      "id_image": "mist_5756826"
+    }
+  ]
+}

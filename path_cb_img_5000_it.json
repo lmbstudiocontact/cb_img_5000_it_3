@@ -1,0 +1,91 @@
+{
+  "english": "path",
+  "phat_am": "paːθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường mòn",
+          "definition": "a way made across the ground by the passing of people or animals",
+          "world_new": [
+            "across",
+            "ground",
+            "passing",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a path through the fields"
+            },
+            {
+              "ex_of_definition": "a mountain path.",
+              "world_new": [
+                "mountain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường đi",
+          "definition": "(any place on) the line along which someone or something is moving",
+          "world_new": [
+            "place",
+            "line",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She stood right in the path of the bus.",
+              "world_new": [
+                "right",
+                "bus"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Wide paths are needed for a wheelchair, and the paths need to be smooth and free of weeds.",
+    "We set the cutoff such that the top fifteen paths for each network were included.",
+    "Correspondingly, adult subjects do not favor the correct parabolic trajectory over other paths.",
+    "Also, forgotten paths and roads may have left strips of compacted soil, which can last a long time.",
+    "The study focuses on the asymptotic properties of equilibrium paths.",
+    "The diagram shows several possible paths through the material.",
+    "The terms in the temperature-reaction-zone structure equation (3.5) are plotted along four of the particle paths in figure 14.",
+    "However, here, each of the children took slightly different paths."
+  ],
+  "list_see_also": [
+    "pathway"
+  ],
+  "list_browse": [
+    "patent",
+    "patent leather shoes",
+    "paternal",
+    "paternity",
+    "path",
+    "pathetic",
+    "pathetically",
+    "pathological",
+    "pathologically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328196_3a2af57f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328196_c7e93d7763_o.png",
+      "id_image": "path_2491545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443233_180b00a9f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443233_8126ae2e09_o.png",
+      "id_image": "path_5228669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065045_99e544e00d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065045_31ec3c401f_o.png",
+      "id_image": "path_781603"
+    }
+  ]
+}

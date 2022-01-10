@@ -1,0 +1,109 @@
+{
+  "english": "motor",
+  "phat_am": "ˈməutə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "động cơ ô tô",
+          "definition": "a machine, usually a petrol engine or an electrical device, that gives motion or power",
+          "world_new": [
+            "machine",
+            "petrol",
+            "engine",
+            "electrical",
+            "device",
+            "motion",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a washing-machine has an electric motor",
+              "world_new": [
+                "washing-machine",
+                "electric"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a motor boat/vehicle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi ô tô",
+          "definition": "to travel by car",
+          "world_new": [
+            "travel",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We motored down to my mother’s house at the weekend.",
+              "world_new": [
+                "my",
+                "house",
+                "weekend"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, the operating board started to promote the use of small electric motors, even though this contradicted the original intentions of the city's electrification commission.",
+    "Because joints 4-6 use direct-drive motors, the only significant source of friction is from their motors.",
+    "The press provided the transmission mechanism by which impulses from these two motors were turned into working alliances.",
+    "As a closed-loop control system, each encoder's signals are sent to the motion controller as motors run.",
+    "Variable voltage from six rheostats controlled the six direct-current motors that made up the oscillators and could be precisely controlled individually (figure 4).",
+    "The microcontroller generates pulses to activate the wheel stepper motors and arm servos.",
+    "Although much work has been done on molecular motors using these techniques, there are still a number of questions that can be answered with them.",
+    "The prototype, we are told, has electric motors on each wingtip to drive folding propellers."
+  ],
+  "list_see_also": [
+    "motoring",
+    "motorist",
+    "motorize",
+    "motorboat",
+    "motorcade",
+    "motor vehicle",
+    "motorway",
+    "motorbike",
+    "motor car",
+    "motorcyclist"
+  ],
+  "list_browse": [
+    "motionless",
+    "motivate",
+    "motivation",
+    "motive",
+    "motor",
+    "motor car",
+    "motor vehicle",
+    "motorbike",
+    "motorboat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071860_92791bcea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071860_3dda931f97_o.png",
+      "id_image": "motor_3211853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071835_4697016a7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071835_bee7380de2_o.png",
+      "id_image": "motor_3211870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379907_0165dcb87e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379907_5b9471bf00_o.png",
+      "id_image": "motor_465048"
+    }
+  ]
+}

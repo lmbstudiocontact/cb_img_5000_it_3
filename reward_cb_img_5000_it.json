@@ -1,0 +1,117 @@
+{
+  "english": "reward",
+  "phat_am": "rəˈwoːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phần thưởng",
+          "definition": "something given in return for or got from work done, good behaviour/behavior etc",
+          "world_new": [
+            "return",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was given a gold watch as a reward for his services to the firm",
+              "world_new": [
+                "gold",
+                "watch",
+                "firm"
+              ]
+            },
+            {
+              "ex_of_definition": "Apart from the salary, teaching children has its own particular rewards.",
+              "world_new": [
+                "salary",
+                "teaching",
+                "its",
+                "particular"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền thưởng",
+          "definition": "a sum of money offered for finding a criminal, lost or stolen property etc",
+          "world_new": [
+            "sum",
+            "money",
+            "criminal",
+            "lost",
+            "property"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A reward of $100 has been offered to the person who finds the diamond brooch.",
+              "world_new": [
+                "person",
+                "diamond",
+                "brooch"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thưởng",
+          "definition": "to give a reward to someone for something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was rewarded for his services"
+            },
+            {
+              "ex_of_definition": "His services were rewarded."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A system of rewards for civilian assistance to the police was one such initiative.",
+    "Both players credibly threatened negative rewards, which explains why the interaction sometimes risked developing into conflict.",
+    "The outcome was a vicious circle whereby women's work, perceived as low status, was poorly rewarded and therefore regarded as unimportant.",
+    "The export promotion policy rewards those farmers who strive and discourages farmers from relying on subsidies permanently.",
+    "The control algorithms are acquired automatically through learning guided by rewards.",
+    "However, the effort in reading produces its rewards.",
+    "Both performed services essential to the monarchy, for which they were rewarded politically and economically.",
+    "If they believed rewarding finegrained desert was not required by distributive justice, they would have said so."
+  ],
+  "list_see_also": [
+    "rewarding"
+  ],
+  "list_browse": [
+    "revolver",
+    "revolving",
+    "revs",
+    "revue",
+    "reward",
+    "rewarding",
+    "reword",
+    "rewrite",
+    "rhapsody"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392792_a3b88b727b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392792_4264612e67_o.png",
+      "id_image": "reward_1888027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347871_1af8419b60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347871_c523568d20_o.png",
+      "id_image": "reward_4350573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702554_317257754b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702554_13a6e52f76_o.png",
+      "id_image": "reward_6299622"
+    }
+  ]
+}

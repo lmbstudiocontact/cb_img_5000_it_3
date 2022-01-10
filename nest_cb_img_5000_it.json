@@ -1,0 +1,108 @@
+{
+  "english": "nest",
+  "phat_am": "nest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tổ chim",
+          "definition": "a structure or place in which birds (and some animals and insects) hatch or give birth to and look after their young",
+          "world_new": [
+            "structure",
+            "place",
+            "hatch",
+            "birth",
+            "look",
+            "their",
+            "young"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The swallows are building a nest under the roof of our house",
+              "world_new": [
+                "building",
+                "roof",
+                "our",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "a wasp’s nest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm tổ",
+          "definition": "to build a nest and live in it",
+          "world_new": [
+            "build",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A pair of robins are nesting in that bush.",
+              "world_new": [
+                "pair",
+                "bush"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Because the term is a synonymous variant, it is nested in tags.",
+    "The latter can entrap adult birds and if it is incorporated into nests it can cause chick mortality.",
+    "Hierarchical methods form clusters in successive steps such that steps are nested.",
+    "However, (5) is nested with respect to (4), since it refers to \"orders\" in (4), not to \"schedules\" in (2).",
+    "Replicates were nested within periwinkles, and periwinkles nested within experimental condition.",
+    "We suspect that deeply nested not -guarded unions are difficult to work with in practice, hence are avoided by schema designers.",
+    "The models are not mutually exclusive nor are they nested, suggesting that some or all may be true to varying degrees.",
+    "To allow a more concise way of expressing many linear constraints together, we allow nesting of the patterns."
+  ],
+  "list_see_also": [
+    "nestling",
+    "nest-egg",
+    "feather one’s (own) nest"
+  ],
+  "list_browse": [
+    "nervously",
+    "nervousness",
+    "nervy",
+    "-ness",
+    "nest",
+    "nest-egg",
+    "nestle",
+    "nestling",
+    "net"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439393_0483b6d649_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439393_a6c53152d0_o.png",
+      "id_image": "nest_1809034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369292_85b592823c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369292_1be490eb59_o.png",
+      "id_image": "nest_183958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439358_80f1664592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439358_193d5b0cd3_o.png",
+      "id_image": "nest_2851878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324381_a87759d5b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324381_1b57405267_o.png",
+      "id_image": "nest_427432"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "peeler",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dụng cụ bóc vỏ",
+          "definition": "a tool etc that peels (something)",
+          "world_new": [
+            "tool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a potato peeler.",
+              "world_new": [
+                "potato"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It was found, for example, that one room was very close to the kitchens, and the noise from domestic appliances such as potato peelers and washing machines caused disturbance.",
+    "Another of his inventions at the time was an infrared apple peeler.",
+    "Peeler immediately rushed the position and accounted for nine of the enemy, and cleared the way for the advance.",
+    "The peelers rotate, scraping the skin off the carrots.",
+    "This centrifuge is suitable for treating suspension including very high content of solids(40-60%) which makes this process much more applicable in many applications than peeler centrifuge.",
+    "Oversize, often called peelers, are any fish over the maximum size requirement.",
+    "In addition to the obvious analogies, the abstracted functional model for the pickup winder identifies the similarity to the vegetable peeler.",
+    "Bait fishing will be much the same as from the beach but the most common bait would now be peeler crab and hard back crab."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pedlar",
+    "pee",
+    "peek",
+    "peel",
+    "peeler",
+    "peelings",
+    "peep",
+    "peephole",
+    "peer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678684_6cf0c85e6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678684_a3d670002f_o.png",
+      "id_image": "peeler_259152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060260_4608911ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060260_5a3e7ab6cf_o.png",
+      "id_image": "peeler_904636"
+    }
+  ]
+}

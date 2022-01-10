@@ -1,0 +1,76 @@
+{
+  "english": "pen",
+  "phat_am": "pen",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ quây kín",
+          "definition": "a small enclosure, usually for animals",
+          "world_new": [
+            "small",
+            "enclosure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sheep pen.",
+              "world_new": [
+                "sheep"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bút",
+          "definition": "an instrument for writing in ink",
+          "world_new": [
+            "instrument",
+            "ink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My pen needs a new nib.",
+              "world_new": [
+                "nib"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "pen-friend",
+    "pen-knife",
+    "pen-name"
+  ],
+  "list_browse": [
+    "pelmet",
+    "pelt",
+    "pelvic",
+    "pelvis",
+    "pen",
+    "pen-friend",
+    "pen-knife",
+    "pen-name",
+    "penal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367932_ba4c854011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367932_0d3fe28bb1_o.png",
+      "id_image": "pen_164336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678134_4a890af186_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678134_ac42b655b9_o.png",
+      "id_image": "pen_4172613"
+    }
+  ]
+}

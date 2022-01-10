@@ -1,0 +1,112 @@
+{
+  "english": "revolution",
+  "phat_am": "revəˈluːʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc cách mạng",
+          "definition": "(the act of making) a successful, violent attempt to change or remove a government etc",
+          "world_new": [
+            "act",
+            "successful",
+            "violent",
+            "attempt",
+            "change",
+            "remove",
+            "government"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the American Revolution.",
+              "world_new": [
+                "American"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc cách mạng hoàn toàn",
+          "definition": "a complete change in ideas, methods etc",
+          "world_new": [
+            "complete",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s been a complete revolution in the way things are done in this office.",
+              "world_new": [
+                "complete",
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự xoay vòng",
+          "definition": "a complete circle or turn round a central point, axis etc (eg as made by a record turning on a record-player, or the Earth moving on its axis or round the Sun).",
+          "world_new": [
+            "complete",
+            "circle",
+            "turn",
+            "central",
+            "point",
+            "axis",
+            "record",
+            "moving",
+            "its",
+            "axis"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The selection process has been mainly concerned with the size and pulses / revolution of the shaft encoder.",
+    "My only purpose here is to point out that such changes are basically what we would normally call a social revolution.",
+    "This view places her squarely in the camp of scholars who emphasize the external factors of revolution.",
+    "It dodges the ' military revolution ' question in favour of exploring the size, behaviour and experiences of armies and fighting.",
+    "Whether this calls for a new and \"universally acceptable definition\" of revolution that encompasses all that the author suggests is neither obvious nor realistic.",
+    "From the beginning of the industrial revolution, the crafts or skilled trades were the cornerstones of the production process.",
+    "If many of the findings of the archival revolution confirm what had already been argued in the academic literature, what have we learned?",
+    "Rather, he stressed that the more people, the greater the energy for socialist revolution and construction."
+  ],
+  "list_see_also": [
+    "revolutionary",
+    "revolutionize"
+  ],
+  "list_browse": [
+    "revoke",
+    "revolt",
+    "revolted",
+    "revolting",
+    "revolution",
+    "revolutionary",
+    "revolutionize",
+    "revolve",
+    "revolver"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085370_b0c83050a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085370_068ce47432_o.png",
+      "id_image": "revolution_1610502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702774_652e860bce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702774_99f34e702f_o.png",
+      "id_image": "revolution_2229972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702749_175735f957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702749_e6681978a0_o.png",
+      "id_image": "revolution_2529759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085290_aa73a614c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085290_9deffc055f_o.png",
+      "id_image": "revolution_3919324"
+    }
+  ]
+}

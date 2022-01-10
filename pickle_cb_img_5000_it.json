@@ -1,0 +1,111 @@
+{
+  "english": "pickle",
+  "phat_am": "ˈpikl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dưa chua",
+          "definition": "a vegetable or vegetables preserved in vinegar, salt water etc",
+          "world_new": [
+            "vegetable",
+            "vinegar",
+            "salt",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you want some pickle(s) on your hamburger?",
+              "world_new": [
+                "want",
+                "your",
+                "hamburger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng khó chịu",
+          "definition": "trouble; an unpleasant situation",
+          "world_new": [
+            "unpleasant",
+            "situation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She got herself into a real pickle.",
+              "world_new": [
+                "real"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngâm dấm",
+          "definition": "to preserve in vinegar, salt water etc",
+          "world_new": [
+            "preserve",
+            "vinegar",
+            "salt",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think I will pickle these cucumbers.",
+              "world_new": [
+                "I",
+                "think",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Pickles could be on a panel game.",
+    "They can do without tins of mustard or pickles, but not without paying the rent.",
+    "She has pickled herself for her own trouncing.",
+    "Rust- and acid-resistant chromium-nickel steels are pickled in a bath of hydrochloric and nitric acid.",
+    "Even when they are not pickled?",
+    "Gari (sweet, pickled ginger) is eaten in between sushi courses to both cleanse the palate and aid in digestion.",
+    "The side dishes often consist of fish, pickled vegetables, and vegetables cooked in broth.",
+    "Other toppings include guacamole or plain avocado, sauteed mushrooms, grilled onions, pickles, and grilled pineapple."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pick someone’s pocket",
+    "pick up speed",
+    "pick-up",
+    "picket",
+    "pickle",
+    "pickpocket",
+    "picnic",
+    "pictorial",
+    "pictorially"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085580_471c92750a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085580_fb70d05625_o.png",
+      "id_image": "pickle_1411022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393142_6b47960960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393142_02b5ea869f_o.png",
+      "id_image": "pickle_5588946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085610_4b0cdc0891_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085610_78314dae1b_o.png",
+      "id_image": "pickle_933232"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "printer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy in",
+          "definition": "a machine that prints texts from a computer",
+          "world_new": [
+            "machine",
+            "computer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a laser printer.",
+              "world_new": [
+                "laser"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà xuất bản",
+          "definition": "a person who prints books, newspapers etc.",
+          "world_new": [
+            "person"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My experience of printers and publishers is that they go to a solicitor whom they regard as skilled in dealing with these matters.",
+    "I am told that it would take at least 48 hours for the printers to make the block necessary for a graph.",
+    "Examples of such libraries include those for building parsers, pretty printers and graphical user interfaces.",
+    "How interesting it would have been to learn something of the sign painters and printers who pro®ted as texts proliferated.",
+    "Printers tried to dump inferior bills of exchange on millers, just as millers withheld their best rags from the stuff destined for printers.",
+    "In the end, such denunciations may go some way towards explaining the lengths to which booksellers and printers went to propagandize their own social worth in the age of print.",
+    "None of these tools, however, provides language levels, full-fledged algebraic printers, steppers, -renaming or static debuggers, which we have found to be extremely useful for teaching and development.",
+    "Lettering on plates will be inserted b y the printers and should be indicated on a tracing-paper overlay."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "principally",
+    "principle",
+    "principles",
+    "print",
+    "printer",
+    "printing",
+    "printing press",
+    "printout",
+    "prior"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324836_11428d6211_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324836_ea0343ed01_o.png",
+      "id_image": "printer_168655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324801_9f5156129c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324801_9c81bc08d9_o.png",
+      "id_image": "printer_269098"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "english": "night",
+  "phat_am": "nait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đêm",
+          "definition": "the period from sunset to sunrise",
+          "world_new": [
+            "period",
+            "sunset",
+            "sunrise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We slept well that night"
+            },
+            {
+              "ex_of_definition": "They talked all night (long)"
+            },
+            {
+              "ex_of_definition": "He travelled by night and rested during the day",
+              "world_new": [
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "The days were warm and the nights were cool",
+              "world_new": [
+                "warm",
+                "cool"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) He is doing night work.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buổi đêm",
+          "definition": "the time of darkness",
+          "world_new": [
+            "time",
+            "darkness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the Arctic in winter, night lasts for twenty-four hours out of twenty-four.",
+              "world_new": [
+                "Arctic",
+                "winter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "nightie",
+    "nightly",
+    "nightclub",
+    "nightdress",
+    "nightfall",
+    "nightlife",
+    "nightmare",
+    "nightmarish",
+    "night school",
+    "night shift",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "nicotine",
+    "niggardly",
+    "nigger",
+    "nigh",
+    "night",
+    "night school",
+    "night shift",
+    "night-time",
+    "nightclub"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059420_f941407059_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059420_dc6d93ed26_o.png",
+      "id_image": "night_203768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437888_ca2404361e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437888_8db8407a99_o.png",
+      "id_image": "night_203808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322571_a1b1f5c96f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322571_3ba651eb51_o.png",
+      "id_image": "night_5079909"
+    }
+  ]
+}

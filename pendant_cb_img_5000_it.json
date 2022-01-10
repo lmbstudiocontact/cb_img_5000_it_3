@@ -1,0 +1,85 @@
+{
+  "english": "pendant",
+  "phat_am": "ˈpendənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mặt dây chuyền",
+          "definition": "an ornament hung from a necklace",
+          "world_new": [
+            "ornament",
+            "necklace"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pendant hanging from a silver chain.",
+              "world_new": [
+                "hanging",
+                "silver",
+                "chain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng trang sức",
+          "definition": "the ornament and the necklace together",
+          "world_new": [
+            "ornament",
+            "necklace"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She fastened a gold pendant round her neck.",
+              "world_new": [
+                "gold",
+                "neck"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Similarly, melon beads and bronze pendants found inside military forts are usually considered to be associated with cavalry horses.",
+    "Notable among these are 33 ear flares, 4 anthropomorphic pendants, and 5 zoomorphic pendants.",
+    "In all tooth categories except the medial incisors, the mean dimensions for the pendant teeth are significantly above those for the identified females.",
+    "Most flowers are inclined or pendant, thus giving a globose appearance to the whole inflorescence.",
+    "However, the bony par ts of most of the pendants were either intact or had been carefully restored.",
+    "After they were fashioned, pigment was applied to at least some of the pendants.",
+    "We use this to successively find and remove pendant or twin vertices.",
+    "A particularly fine specimen is a small anthropomorphic figurine pendant, sculpted in a soft greenish sandstone."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "penance",
+    "pencil",
+    "pencil case",
+    "pencil sharpener",
+    "pendant",
+    "pendulum",
+    "penetrate",
+    "penetrating",
+    "penetratingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367607_f7d3e6a6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367607_eaa3543fa0_o.png",
+      "id_image": "pendant_4580912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367587_23f4efb1f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367587_b5ecb87b07_o.png",
+      "id_image": "pendant_4581024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367552_f8182b9774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367552_b84f790b18_o.png",
+      "id_image": "pendant_4637471"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "notify",
+  "phat_am": "ˈnəutifai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "báo cho biết",
+          "definition": "to inform or warn about something",
+          "world_new": [
+            "inform",
+            "warn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He notified the headmaster of his intentions",
+              "world_new": [
+                "headmaster"
+              ]
+            },
+            {
+              "ex_of_definition": "If there has been an accident, you must notify the police.",
+              "world_new": [
+                "accident",
+                "police"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Weekly notification letters are manually created and used to notify physicians of the transcribed notes requiring their signature.",
+    "Serology in the diagnosis of meningococcal disease 71 (17 %) had been notified, namely 68 as meningococcal disease and three as meningitis of unknown aetiology.",
+    "A number of patients may have been notified or admitted solely on clinical grounds, without laboratory verification.",
+    "This program is capable of notifying the states of the joint motors along the prescribed trajectory and the position errors.",
+    "Participants were notified of treatment assignment in a subsequent phone call.",
+    "Values are sent to receiver processes without prior requests until a receiver notifies that it does not need input values any more.",
+    "Although initially considering hidden microphones, the invasion of people's privacy could be problematic even if one notifies the visitor.",
+    "The capture-recapture calculation indicated that only 49 % of cases were notified."
+  ],
+  "list_see_also": [
+    "notification"
+  ],
+  "list_browse": [
+    "noticeably",
+    "noticeboard",
+    "noticed",
+    "notification",
+    "notify",
+    "notion",
+    "notoriety",
+    "notorious",
+    "notoriously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365232_1cc7fd33b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365232_4bcda07843_o.png",
+      "id_image": "notify_6192141"
+    }
+  ]
+}

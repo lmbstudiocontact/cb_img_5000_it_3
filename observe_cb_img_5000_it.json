@@ -1,0 +1,115 @@
+{
+  "english": "observe",
+  "phat_am": "əbˈzəːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "theo dõi",
+          "definition": "to notice",
+          "world_new": [
+            "notice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I observed her late arrival.",
+              "world_new": [
+                "I",
+                "arrival"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sát sao",
+          "definition": "to watch carefully",
+          "world_new": [
+            "watch",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She observed his actions with interest.",
+              "world_new": [
+                "interest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuân theo",
+          "definition": "to obey",
+          "world_new": [
+            "obey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must observe the rules."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận xét",
+          "definition": "to make a remark",
+          "world_new": [
+            "remark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘It’s a lovely day’, he observed.",
+              "world_new": [
+                "lovely"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nevertheless, in recent years several reconfigurations towards the regional and international level can be observed.",
+    "We found no evidence in support of this, rather the reverse was observed.",
+    "No strong trends in leafhopper numbers were observed from samples collected by sweep net.",
+    "Addition of urban plant debris did not affect the plant stand at either farm site, and no interaction with production practices was observed.",
+    "Similar changes were observed in infected rats treated with doses up to 6n25 mg\\kg.",
+    "In addition to the influence of race, education was also observed to be associated with current contraceptive use.",
+    "We observed an increase in parasites in the haemocoel from days 1 to 3 in 13 % of the cases.",
+    "After observing this semantic update to coincide with syntactic update in the absence of aliasing, they establish soundness and relative completeness of their proof rules."
+  ],
+  "list_see_also": [
+    "observance",
+    "observant",
+    "observation",
+    "observatory",
+    "observer"
+  ],
+  "list_browse": [
+    "observance",
+    "observant",
+    "observation",
+    "observatory",
+    "observe",
+    "observer",
+    "obsess",
+    "obsession",
+    "obsessional"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464088_226614edbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464088_0e9aa69351_o.png",
+      "id_image": "observe_2598750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704164_a7b49b8f50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704164_c63ea58ab1_o.png",
+      "id_image": "observe_470979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349421_7e046df65f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349421_c4f0cbf334_o.png",
+      "id_image": "observe_6041392"
+    }
+  ]
+}

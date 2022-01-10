@@ -1,0 +1,68 @@
+{
+  "english": "motorcyclist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người lái xe mô tô",
+          "definition": "a person who rides a motorbike",
+          "world_new": [
+            "person",
+            "motorbike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The motorcyclist was injured in the road accident.",
+              "world_new": [
+                "injured",
+                "road",
+                "accident"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Last week, he quashed a three-month driving ban on a speeding motorcyclist because he was finding it difficult to get to work.",
+    "We have introduced more questions in the driving theory test to increase awareness of vulnerable road users, including motorcyclists.",
+    "Invariably, most motorcyclists make use of car parking facilities or sheds where bicycles are secured.",
+    "The main difficulty is that the motorcyclists and the motor scooterists are a powerful lobby.",
+    "However, we understand that there are also something like 340,000 to 390,000 motorcyclists who are holding provisional licences.",
+    "Compare the motorcyclist to the patient in the next bed to him - the depressive motorcyclist.",
+    "I think the most plausible suggestion is that the motorcyclist does feel something when he thinks of his recovery.",
+    "Proper training for learner motorcyclists is most important, and we would like to see more of it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "motor vehicle",
+    "motorbike",
+    "motorboat",
+    "motorcade",
+    "motorcyclist",
+    "motoring",
+    "motorist",
+    "motorize",
+    "motorway"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379682_a6fd279540_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379682_8efba66c8f_o.png",
+      "id_image": "motorcyclist_1193009"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689779_79a4cbe396_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689779_b76bcb910d_o.png",
+      "id_image": "motorcyclist_4344487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334646_84341d3074_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334646_1cdd3526f0_o.png",
+      "id_image": "motorcyclist_4532474"
+    }
+  ]
+}

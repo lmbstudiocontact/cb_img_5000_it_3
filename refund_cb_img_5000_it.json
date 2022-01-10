@@ -1,0 +1,80 @@
+{
+  "english": "refund",
+  "phat_am": "riˈfand",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trả lại",
+          "definition": "to pay back",
+          "world_new": [
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When the concert was cancelled, the people who had bought tickets had their money refunded.",
+              "world_new": [
+                "concert",
+                "people",
+                "their",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "số tiền trả lại",
+          "definition": "the paying back of money",
+          "world_new": [
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They demanded a refund."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The amount to be refunded is reduced by one-third for each complete year of service.",
+    "I am trying to ensure that the system of refunds will not overburden the scheme.",
+    "In the days and weeks ahead we shall be pursuing with determination the recovery of our refunds.",
+    "We have also pressed for export refunds to be maintained at appropriate levels.",
+    "I see no reason why this tax, which will be refunded quarterly, should affect farming in the way suggested.",
+    "To avoid injustice to the appellant whose appeal succeeds on legal grounds, we have provided for the fee to be refunded in those cases.",
+    "I list these projects because they are in progress and this is the first of the refunds.",
+    "Information on destination is not necessary for the payment of export refunds for all products."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "refrigerator",
+    "refuel",
+    "refuge",
+    "refugee",
+    "refund",
+    "refusal",
+    "refuse",
+    "refuse collector",
+    "refutable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067045_4bc9ebb76e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067045_b21b71d9b0_o.png",
+      "id_image": "refund_290945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067000_e7d2326b0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067000_eaba76a93b_o.png",
+      "id_image": "refund_2947577"
+    }
+  ]
+}

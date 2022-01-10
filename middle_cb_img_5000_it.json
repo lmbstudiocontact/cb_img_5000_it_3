@@ -1,0 +1,101 @@
+{
+  "english": "middle",
+  "phat_am": "ˈmidl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giữa",
+          "definition": "the central point or part",
+          "world_new": [
+            "central",
+            "point",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the middle of a circle.",
+              "world_new": [
+                "circle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thắt lưng",
+          "definition": "the central area of the body; the waist",
+          "world_new": [
+            "central",
+            "area",
+            "waist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re getting rather fat round your middle.",
+              "world_new": [
+                "rather",
+                "fat",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ở giữa",
+          "definition": "equally distant from both ends",
+          "world_new": [
+            "equally",
+            "distant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the middle seat in a row.",
+              "world_new": [
+                "seat",
+                "row"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "middling",
+    "middle age",
+    "middle-aged",
+    "the Middle Ages",
+    "the Middle East",
+    "middleman",
+    "be in the middle of (doing) something"
+  ],
+  "list_browse": [
+    "microwave",
+    "mid",
+    "mid-fielder",
+    "midday",
+    "middle",
+    "middle age",
+    "middle-aged",
+    "middleman",
+    "middling"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699279_b79fd4cc35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699279_9073dd32b2_o.png",
+      "id_image": "middle_3528030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344116_177dda3b94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344116_9836f9d198_o.png",
+      "id_image": "middle_3603595"
+    }
+  ]
+}

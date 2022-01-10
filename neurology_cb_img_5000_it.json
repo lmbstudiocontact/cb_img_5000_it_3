@@ -1,0 +1,83 @@
+{
+  "english": "neurology",
+  "phat_am": "(British) niuˈrolədʒi; (American) nuˈrolədʒiː, niuˈrolədʒiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thần kinh học",
+          "definition": "the scientific study of the nervous system and the diseases that affect it",
+          "world_new": [
+            "scientific",
+            "study",
+            "nervous",
+            "system",
+            "affect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spent three and a half years studying neurology.",
+              "world_new": [
+                "spent",
+                "half"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Ironically, success in clinical neurosciences may bolster cosmetic neurology practices, analogous to the way that decreased demand for reconstructive surgery strengthened cosmetic surgery.",
+    "For physicians, this question of professional identity (and integrity) remains a fundamental challenge, a challenge that will be magnified by the practice of cosmetic neurology.",
+    "The next chapter yields a well-written summary of the biological bases of human language, including considerations of neurology, neurological development, and prenatal sensory development.",
+    "Can we expect the same of cosmetic neurology?",
+    "This syndromal approach was once also common in neurology.",
+    "A neurology consult was obtained, and, on the basis of the clustering of symptoms, he was subsequently diagnosed with basilar arterial migraine.",
+    "First, developmental psychopathologists emphasize the need to integrate diverse scientific perspectives including those of biology, neurology, physiology, psychology, and sociology.",
+    "The advent of cosmetic neurology presents challenges to physicians and bioethicists."
+  ],
+  "list_see_also": [
+    "neurological",
+    "neurologist"
+  ],
+  "list_browse": [
+    "network",
+    "neural",
+    "neurological",
+    "neurologist",
+    "neurology",
+    "neuter",
+    "neutral",
+    "neutrality",
+    "neutralize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678899_ebf89f9118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678899_568910c974_o.png",
+      "id_image": "neurology_2712083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678859_55c9e86499_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678859_8bb46f2e26_o.png",
+      "id_image": "neurology_3974920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323711_668609400a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323711_bd709a7b21_o.png",
+      "id_image": "neurology_421272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323681_f523916297_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323681_6a365e38d8_o.png",
+      "id_image": "neurology_552415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060395_d71b5d3f08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060395_a75185e8ee_o.png",
+      "id_image": "neurology_6258407"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "pill",
+  "phat_am": "pil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "viên thuốc",
+          "definition": "a small ball or tablet of medicine, to be swallowed",
+          "world_new": [
+            "small",
+            "ball",
+            "tablet",
+            "medicine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She took a pill"
+            },
+            {
+              "ex_of_definition": "sleeping pills."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pilferage",
+    "pilferer",
+    "pilgrim",
+    "pilgrimage",
+    "pill",
+    "pillar",
+    "pillar box",
+    "pillion",
+    "pillow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461793_a8c5e4d4ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461793_cffa2e92e6_o.png",
+      "id_image": "pill_197881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701809_934f453249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701809_8590aaf542_o.png",
+      "id_image": "pill_2688338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346911_8f307c123d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346911_77f48e84a9_o.png",
+      "id_image": "pill_2950116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346866_28cac88466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346866_477c297378_o.png",
+      "id_image": "pill_2992063"
+    }
+  ]
+}

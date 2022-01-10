@@ -1,0 +1,118 @@
+{
+  "english": "radio",
+  "phat_am": "ˈreidiəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy thu thanh",
+          "definition": "(an apparatus for) the sending and receiving of human speech, music etc",
+          "world_new": [
+            "apparatus",
+            "human",
+            "speech",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pocket radio",
+              "world_new": [
+                "pocket"
+              ]
+            },
+            {
+              "ex_of_definition": "The concert is being broadcast on the radio",
+              "world_new": [
+                "concert",
+                "broadcast"
+              ]
+            },
+            {
+              "ex_of_definition": "I heard about it on the radio",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a radio programme, radio waves.",
+              "world_new": [
+                "programme"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gửi tin bằng ra-đi-ô",
+          "definition": "to send (a message) by radio",
+          "world_new": [
+            "send"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When someone on the island is ill, we have to radio (to) the mainland for a doctor",
+              "world_new": [
+                "island",
+                "ill",
+                "mainland",
+                "doctor"
+              ]
+            },
+            {
+              "ex_of_definition": "An urgent message was radioed to us this evening.",
+              "world_new": [
+                "urgent",
+                "message",
+                "evening"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, more motorists are listening to radios, which makes it much more difficult to hear warning signals.",
+    "They spoke of the absence of radios, film shows and concerts.",
+    "Few things are a greater nuisance than transistor portable radios.",
+    "He just finds himself impelled to turn on radios.",
+    "We cannot convert a disused coal mine to the manufacture of nylon stockings or for the production of transistor radios or computers.",
+    "In (17), a similar two-sequence conversational exchange is occasioned by the mobile radio's channel connection signal.",
+    "I have no evidence that car radios interfere with efficient driving or contribute to road accidents.",
+    "Military officials also gradually recognized the need to develop or greatly expand the production of aircraft, chemicals, radios, optical devices, and other war-related products requiring advanced knowledge and expertise."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "radiator",
+    "radical",
+    "radically",
+    "radicle",
+    "radio",
+    "radioactive",
+    "radioactivity",
+    "radiograph",
+    "radiographer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696464_70f19452a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696464_0289e56c7c_o.png",
+      "id_image": "radio_125135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078570_1f2845d505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078570_ca603781d4_o.png",
+      "id_image": "radio_387384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341176_d6f4c0b7f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341176_43b71bebf2_o.png",
+      "id_image": "radio_387416"
+    }
+  ]
+}

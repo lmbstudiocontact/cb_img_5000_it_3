@@ -1,0 +1,65 @@
+{
+  "english": "overload",
+  "phat_am": "əuvəˈloud",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quá tải",
+          "definition": "to fill with too much of something",
+          "world_new": [
+            "fill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lorry overturned because it had been overloaded.",
+              "world_new": [
+                "lorry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In basic terms, non-integrated or homolateral function can be seen when somebody is panicking; emotional functioning is overloading, rational response mechanisms are 'switched off'.",
+    "Examples of such techniques and principles are abstraction, inheritance, modularity, overloading, information hiding, error handling, generic programming, compositionality, and separation of concerns.",
+    "A second, smaller collection of sound files documented gestures which caused problems such as inaccurate analyses, overloaded synthesis filters, or even crashes.",
+    "Likewise, if the definition used =, then it would clearly be overloaded in both cases.",
+    "I already seem to be overloading a non-existent syllabus.",
+    "Type classes and run-time overloading techniques seem more realistic in these respects.",
+    "We follow previous formalizations of type classes in providing a translation into a language without overloading.",
+    "We introduce a categorical constructor corresponding to overloading, and formalize the equations as a single equation in the functor category."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "overheads",
+    "overhear",
+    "overjoyed",
+    "overlap",
+    "overload",
+    "overlook",
+    "overly",
+    "overnight",
+    "overpass"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340206_38db362516_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340206_e963d6bdc2_o.png",
+      "id_image": "overload_4813733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077420_958497498b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077420_52a5254271_o.png",
+      "id_image": "overload_4827281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077390_5e161aecd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077390_bf2f190f56_o.png",
+      "id_image": "overload_4994789"
+    }
+  ]
+}

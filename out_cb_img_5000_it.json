@@ -1,0 +1,315 @@
+{
+  "english": "out",
+  "phat_am": "aut",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "bên ngoài",
+          "definition": "adverb, adjective not in a building etc; from inside a building etc; in(to) the open air",
+          "world_new": [
+            "building",
+            "building",
+            "open",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children are out in the garden",
+              "world_new": [
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "They went out for a walk.",
+              "world_new": [
+                "walk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lấy ra",
+          "definition": "adverb from inside (something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He opened the desk and took out a pencil.",
+              "world_new": [
+                "desk",
+                "pencil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rời khỏi",
+          "definition": "adverb, adjective away from home, an office etc",
+          "world_new": [
+            "home",
+            "office"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had an evening out",
+              "world_new": [
+                "evening"
+              ]
+            },
+            {
+              "ex_of_definition": "The manager is out.",
+              "world_new": [
+                "manager"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ra đi",
+          "definition": "adverb, adjective far away",
+          "world_new": [
+            "far"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship was out at sea",
+              "world_new": [
+                "ship",
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "He went out to India."
+            }
+          ]
+        },
+        {
+          "mean_english": "to",
+          "definition": "adverb loudly and clearly",
+          "world_new": [
+            "loudly",
+            "clearly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shouted out the answer.",
+              "world_new": [
+                "answer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "adverb completely",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was tired out.",
+              "world_new": [
+                "tired"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sai",
+          "definition": "adverb, adjective not correct",
+          "world_new": [
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My calculations seem to be out.",
+              "world_new": [
+                "seem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ra ngoài",
+          "definition": "adverb, adjective free, known, available etc",
+          "world_new": [
+            "free",
+            "available"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He let the cat out",
+              "world_new": [
+                "let",
+                "cat"
+              ]
+            },
+            {
+              "ex_of_definition": "The secret is out.",
+              "world_new": [
+                "secret"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thua",
+          "definition": "adverb, adjective (in games) having been defeated",
+          "world_new": [
+            "defeated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The batsman was (caught) out.",
+              "world_new": [
+                "batsman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tham gia đình công",
+          "definition": "adverb, adjective on strike",
+          "world_new": [
+            "strike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The men came out in protest.",
+              "world_new": [
+                "protest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lỗi mốt",
+          "definition": "adverb, adjective no longer in fashion",
+          "world_new": [
+            "fashion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Long hair is definitely out.",
+              "world_new": [
+                "hair",
+                "definitely"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rút",
+          "definition": "adverb, adjective (of the tide) with the water at or going to its lowest level",
+          "world_new": [
+            "water",
+            "its",
+            "level"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tide is (going) out.",
+              "world_new": [
+                "tide"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không được chấp nhận",
+          "definition": "adjective unacceptable",
+          "world_new": [
+            "unacceptable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That suggestion is definitely out.",
+              "world_new": [
+                "suggestion",
+                "definitely"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "bên ngoài",
+          "definition": "not inside or near, as in out-lying."
+        },
+        {
+          "mean_english": "phía ngoài",
+          "definition": "indicating outward movement, as in outburst.",
+          "world_new": [
+            "outward",
+            "movement"
+          ]
+        },
+        {
+          "mean_english": "biến mất",
+          "definition": "indicating that the action goes further or beyond a normal action, as in outshine.",
+          "world_new": [
+            "action",
+            "further",
+            "normal",
+            "action"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "outer",
+    "outermost",
+    "outing",
+    "outward",
+    "outwardly",
+    "outwards",
+    "out-and-out",
+    "out-of-pocket",
+    "be out of pocket",
+    "out of sight",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "our",
+    "ours",
+    "ourselves",
+    "oust",
+    "out",
+    "out for the count",
+    "out of",
+    "out of action",
+    "out of bounds"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387117_3a85251494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387117_0f0e63cbf5_o.png",
+      "id_image": "out_1250267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342131_a3152d29f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342131_3dea7e8c99_o.png",
+      "id_image": "out_1666286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079470_a426f7059f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079470_774476e89e_o.png",
+      "id_image": "out_3557810"
+    }
+  ]
+}

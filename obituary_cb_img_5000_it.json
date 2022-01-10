@@ -1,0 +1,64 @@
+{
+  "english": "obituary",
+  "phat_am": "əˈbitjuəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cáo phó",
+          "definition": "a notice (eg in a newspaper) of a person’s death, often with an account of his life and work",
+          "world_new": [
+            "notice",
+            "death",
+            "account",
+            "life",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you read his obituary in The Times?",
+              "world_new": [
+                "read"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The participants were identified through obituaries in the local press.",
+    "An obituary will appear in a future issue of this journal.",
+    "There was no eulogy or obituary in a national newspaper.",
+    "In fact, to change tropes in midstream, it is alive and well in obituaries.",
+    "This ranges impressively from 200,000-year-old fossils to 17th century obituaries and early 20th century correspondence.",
+    "Adopting this model of life lends to the obituary the taken-for-granted veracity of conventional narrative.",
+    "Names of deceased entomologists, or scientists from other fields who have contributed to entomology are included, with the citation for their biography or obituary.",
+    "The book is divided into sections devoted to interview features, articles on aesthetics, music and politics, and concert reviews, and obituaries of leading figures."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "obelisk",
+    "obese",
+    "obesity",
+    "obey",
+    "obituary",
+    "object",
+    "objection",
+    "objectionable",
+    "objectionably"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434213_f14e5c5d8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434213_eb2ca4c6ca_o.png",
+      "id_image": "obituary_1450718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318976_f853d35696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318976_0c4c9c7d9e_o.png",
+      "id_image": "obituary_6001064"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "ornament",
+  "phat_am": "ˈoːnəmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ trang trí",
+          "definition": "something decorative, intended to make a room etc more beautiful",
+          "world_new": [
+            "decorative",
+            "room",
+            "beautiful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "china ornaments.",
+              "world_new": [
+                "china"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "trang trí",
+          "definition": "to decorate",
+          "world_new": [
+            "decorate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The church was richly ornamented.",
+              "world_new": [
+                "church",
+                "richly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We took only quilts and mattresses, money and gold ornaments.",
+    "Immediately posterior of the suture, the anteromedial surface of the paroccipital process is coarsely ornamented.",
+    "The solemnity was in part owing to the many suspensions, which allowed fewer ornaments, and in part to the strict adherence to the main theme.",
+    "In particular, the ornaments and other offerings of this deposit confirm the special status of the individuals.",
+    "108 individuals, two with exceptionally rich jadeite ornaments, and an impressive array of associated grave goods evoking their high status.",
+    "The feature contained 24 intact bifaces, two whole bone beads, eight unbroken bone needles, and two whole shell ornaments.",
+    "Musical ornaments were, furthermore, closely tied to questions of modality.",
+    "Earplugs and a beaded necklace make up its personal ornaments."
+  ],
+  "list_see_also": [
+    "ornamentation",
+    "ornamental"
+  ],
+  "list_browse": [
+    "originality",
+    "originally",
+    "originate",
+    "origins",
+    "ornament",
+    "ornamental",
+    "ornamentation",
+    "ornate",
+    "ornately"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080310_0fecd2755c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080310_c60f995170_o.png",
+      "id_image": "ornament_1172850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080270_e098a3ca31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080270_73d31f6fac_o.png",
+      "id_image": "ornament_5493046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342791_3019842c87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342791_5e8a9bac22_o.png",
+      "id_image": "ornament_5830253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342746_77be6e64ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342746_3b5275013f_o.png",
+      "id_image": "ornament_6240758"
+    }
+  ]
+}

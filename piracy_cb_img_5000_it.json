@@ -1,0 +1,64 @@
+{
+  "english": "piracy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cướp biển; việc sao chụp bất hợp pháp",
+          "definition": "the act(s) of a pirate",
+          "world_new": [
+            "pirate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was accused of piracy on the high seas"
+            },
+            {
+              "ex_of_definition": "Publishing that book under his own name was piracy.",
+              "world_new": [
+                "book",
+                "name"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are confident that they will keep under review the priority accorded to operations against video piracy.",
+    "One of their boats was the subject of one of the last acts of piracy in those isles.",
+    "Piracy—or, rather, potential piracy—is, however, primarily a problem for the commercial shipping community as a whole.",
+    "Until a recent crackdown, the piracy of tapes was an endemic problem.",
+    "What are they to gain from this political piracy which we are now discussing?",
+    "I and my colleagues would like to see greater coordination of national and transnational bodies involved in the fight against piracy.",
+    "The size of the area in which pirates operate makes it hard to deal with the problem of piracy with military resources alone.",
+    "In an open and competitive internal market, better targeted and more stringent tools are needed to improve the fight against counterfeiting and piracy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "piquancy",
+    "piquant",
+    "piquantly",
+    "pique",
+    "piracy",
+    "piranha",
+    "pirate",
+    "pirouette",
+    "Pisces"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700224_aace4479c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700224_89f3192da1_o.png",
+      "id_image": "piracy_2727677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700199_e17afed1c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700199_44fe18b71e_o.png",
+      "id_image": "piracy_6150464"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "pyjamas",
+  "phat_am": "pəˈdʒaːməz",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "bộ đồ ngủ",
+          "definition": "a suit for sleeping, consisting of trousers and a jacket",
+          "world_new": [
+            "suit",
+            "trousers",
+            "jacket"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "two pairs of pyjamas."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "puzzle out",
+    "puzzling",
+    "PVC",
+    "pygmy",
+    "pyjamas",
+    "pylon",
+    "pyramid",
+    "pyramid discussion",
+    "pyre"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083675_f2d7e3ed58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083675_903fe8d6c4_o.png",
+      "id_image": "pyjamas_2008029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083645_edaa2a0023_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083645_22bdf44bfc_o.png",
+      "id_image": "pyjamas_2553589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460918_4c48a2ac15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460918_0dec64fa33_o.png",
+      "id_image": "pyjamas_2554103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460998_01d23cab3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460998_68e8148dd8_o.png",
+      "id_image": "pyjamas_407328"
+    }
+  ]
+}

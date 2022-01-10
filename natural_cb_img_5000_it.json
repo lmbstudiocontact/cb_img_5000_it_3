@@ -1,0 +1,191 @@
+{
+  "english": "natural",
+  "phat_am": "ˈnӕtʃərəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tự nhiên",
+          "definition": "of or produced by nature, not made by men",
+          "world_new": [
+            "nature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "coal, oil etc and other natural resources.",
+              "world_new": [
+                "coal",
+                "oil"
+              ]
+            },
+            {
+              "ex_of_definition": "Wild animals are happier in their natural state than in a zoo.",
+              "world_new": [
+                "their",
+                "state",
+                "zoo"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "năng khiếu",
+          "definition": "born in a person",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "natural beauty",
+              "world_new": [
+                "beauty"
+              ]
+            },
+            {
+              "ex_of_definition": "He had a natural ability for music.",
+              "world_new": [
+                "ability",
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tự nhiên",
+          "definition": "(of manner) simple, without pretence",
+          "world_new": [
+            "simple",
+            "pretence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nice, natural smile.",
+              "world_new": [
+                "nice",
+                "smile"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tự nhiên",
+          "definition": "normal; as one would expect",
+          "world_new": [
+            "expect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s quite natural for a boy of his age to be interested in girls.",
+              "world_new": [
+                "quite",
+                "boy",
+                "age",
+                "interested"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nốt nhạc thường",
+          "definition": "(of a musical note) not sharp or flat",
+          "world_new": [
+            "musical",
+            "sharp",
+            "flat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "G natural is lower in pitch than G sharp.",
+              "world_new": [
+                "G",
+                "lower",
+                "pitch",
+                "G",
+                "sharp"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người có khiếu tự nhiên",
+          "definition": "a person who is naturally good at something",
+          "world_new": [
+            "person",
+            "naturally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a natural at tennis.",
+              "world_new": [
+                "tennis"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nốt thường",
+          "definition": "in music (a sign ( ) indicating) a note which is not to be played sharp or flat.",
+          "world_new": [
+            "music",
+            "sign",
+            "note",
+            "sharp",
+            "flat"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In natural populations, lifespan and reproductive period are thought to co-evolve.",
+    "The model also analyzes an interaction between natural resources, latitude, and variables included in the path model.",
+    "As a boy he showed marked taste for natural history and ability as a draughtsman.",
+    "What is the function of this \"natural,\" ethical order?",
+    "The distinctions which associate the masculine with the intellectual and the feminine with the non-intellectual are acknowledged to be social rather than natural.",
+    "Under natural conditions, most cocoons were found in the upper 1 cm of sand within a radius of 500 cm from the nest.",
+    "Many of our interactions with robots will be codified; it is a natural way to use language.",
+    "Money and bureaucracy had replaced the workings of nature and natural feelings."
+  ],
+  "list_see_also": [
+    "naturalist",
+    "naturally",
+    "natural disaster",
+    "natural gas",
+    "natural history",
+    "natural resources"
+  ],
+  "list_browse": [
+    "native speaker",
+    "native to",
+    "NATO",
+    "natter",
+    "natural",
+    "natural disaster",
+    "natural gas",
+    "natural history",
+    "natural resources"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327771_3fd08a285d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327771_d8d6d997e5_o.png",
+      "id_image": "natural_2321460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682789_aa5315e40c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682789_3b1e517f0a_o.png",
+      "id_image": "natural_3967285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064375_1b89293a59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064375_b21430568c_o.png",
+      "id_image": "natural_3967290"
+    }
+  ]
+}

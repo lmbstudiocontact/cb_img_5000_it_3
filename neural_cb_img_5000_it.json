@@ -1,0 +1,62 @@
+{
+  "english": "neural",
+  "phat_am": "ˈnjuərəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc thần kinh",
+          "definition": "relating to a nerve or the nervous system",
+          "world_new": [
+            "nerve",
+            "nervous",
+            "system"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "neural activity.",
+              "world_new": [
+                "activity"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The stories revealed laws of mental functioning that, he assumed, would ultimately be traced to neural mechanisms.",
+    "In the language of neural networks, the ' network ' here is trained to have one dominant memory.",
+    "When the tracker is not sure that a sequence is being repeated, or when the tracked sequence finishes, it returns control to the neural network.",
+    "Then there is no need to use a different neural network for the different lookup tables.",
+    "The results suggest that both neural sensitivity and neural efficiency appear to be good predictors of phonetic learning.",
+    "They can be trained much faster than other neural networks.",
+    "Modelling perceptual experience is not an alternative to understanding the neural process.",
+    "This study reveals perceptual misbinding of color, thereby revealing separate neural representations of color and form followed by a subsequent binding process."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "netiquette",
+    "netting",
+    "nettle",
+    "network",
+    "neural",
+    "neurological",
+    "neurologist",
+    "neurology",
+    "neuter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438903_65417f5d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438903_1fb87e733a_o.png",
+      "id_image": "neural_1671635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368667_d4f8d83f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368667_f32cacdb6a_o.png",
+      "id_image": "neural_2103658"
+    }
+  ]
+}

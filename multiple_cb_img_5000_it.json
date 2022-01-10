@@ -1,0 +1,101 @@
+{
+  "english": "multiple",
+  "phat_am": "ˈmaltipl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "gồm nhiều phần",
+          "definition": "having, or affecting, many parts",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffered multiple injuries when she fell out of the window.",
+              "world_new": [
+                "fell",
+                "window"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều",
+          "definition": "involving many things of the same sort",
+          "world_new": [
+            "sort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fifteen vehicles were involved in the multiple crash on the motorway.",
+              "world_new": [
+                "involved",
+                "crash",
+                "motorway"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bội số",
+          "definition": "a number that contains another number an exact number of times",
+          "world_new": [
+            "number",
+            "number",
+            "exact",
+            "number",
+            "times"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "65 is a multiple of 5."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the optimistic case, the laser beam front may reach a region with some multiples of solid-state density in a few tens of picoseconds.",
+    "Echocardiographic diagnosis was established using the short-axis view of the abdomen and multiples cuts from subcostal and apical views.",
+    "The flow is topologically weak mixing if the lengths are not all integer multiples of a constant.",
+    "All fragments were either 81 bp or multiples thereof.",
+    "The cost of housing has usually been several multiples of renters' incomes, as we will see.",
+    "The pulse sequence makes use of phase cycling to select the appropriate coherence transfer pathway, so the signal is summed over multiples of 96 transients.",
+    "With the breakdown in 1998 and 1999 the share begins to trade at very low multiples in comparison to that of the pre 1997 era.",
+    "Then the distance is a sum of positive multiples of m1 and m2 as the two integers are coprime."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "multicultural",
+    "multilingual",
+    "multimedia",
+    "multimillionaire",
+    "multiple",
+    "multiple sclerosis",
+    "multiple-choice",
+    "multiplication",
+    "multiply"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332216_2546d97730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332216_a728cfc323_o.png",
+      "id_image": "multiple_2303907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332186_d7a5fd40ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332186_892987db96_o.png",
+      "id_image": "multiple_2799870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447168_9075922c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447168_e812f2aab9_o.png",
+      "id_image": "multiple_3527609"
+    }
+  ]
+}
